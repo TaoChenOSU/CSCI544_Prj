@@ -1,0 +1,39 @@
+{
+  "description": [
+    "knock knock jokes with binary classification by jon of whether the joke was 'funny' to a six year old or 'lame'"
+  ],
+  "corpus": [
+    {
+      "label": "funny",
+      "data": "Knock knock. Who’s there? Cow says. Cow says who? No, a cow says mooooo!"
+    },
+    {
+      "label": "funny",
+      "data": "Knock knock. Who’s there? Cash. Cash who? No thanks, I’ll have some peanuts."
+    },
+    {
+      "label": "lame",
+      "data": "Knock knock. Who’s there? I smell mop. I smell mop who? Ew."
+    },
+    {
+      "label": "funny",
+      "data": "Knock knock. Who’s there? Spell. Spell who? Okay, okay: W. H. O."
+    },
+    {
+      "label": "lame",
+      "data": "Knock knock. Who’s there? Mikey. Mikey who? Mikey doesn’t work so help me out, would you?"
+    },
+    {
+      "label": "lame",
+      "data": "Knock knock. Who’s there? Some. Some who? Some day you’ll recognize me, hopefully."
+    }
+  ],
+  "authors": {
+    "author1": "jon may",
+    "author2": "sarik ghazarian"
+  },
+  "emails": {
+    "email2": "sarik@usc.edu",
+    "email1": "jonmay@usc.edu"
+  }
+}

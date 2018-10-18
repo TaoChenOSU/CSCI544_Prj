@@ -1,0 +1,223 @@
+{
+  "description": [
+    "Music lives forever. Along with audio, lyrics convey the spirits of artists, in a way that they can better reflect the unique style and characteristics of the author. Imagine this, after being exposed to a large set of lyrics examples, a machine can learn to write lyrics just like John Lennon. It allows us to reproduce or even revive the spirits of the artists we love. Also, if trained appropriately, it is possible for the machine to automatically generate lyrics for different sections of a song, e.g. verse, chorus, hook, or even an entire song of a specific genre. This can provide inspiration for human song writers."
+  ],
+  "corpus": [
+    {
+      "label": "Hip-Hop",
+      "feature": {
+        "song": "In My Feelings", 
+        "artist": "Drake", 
+        "album": "Scorpion", 
+        "released_year": "2018-06-29",
+        "gender": "M", 
+        "structure": {
+          "Intro":[[0, 2]], 
+          "Verse":[[11, 22]], 
+          "Chorus":[[3, 10], [23, 30], [47, 53]], 
+          "Segue": [[31, 46]],
+          "Breakdown": [[54, 66]],
+          "Outro": [[67, 70]],
+          "Skit": [[71, 73]]
+        }
+      },
+      "data": "Trap, TrapMoneyBenny\nThis shit got me in my feelings\nGotta be real with it, yuh\nKiki, do you love me? Are you riding?\nSay you'll never ever leave from beside me\n'Cause I want ya, and I need ya\n\nAnd I'm down for you always\nKB, do you love me? Are you riding?\nSay you'll never ever leave from beside me\n'Cause I want ya, and I need ya\nAnd I'm down for you always\nLook, the new me is really still the real me\nI swear you gotta feel me before they try and kill me\nThey gotta make some choices, they runnin' out of options\n'Cause I've been goin' off and they don't know when it's stoppin'\nAnd when you get to toppin', I see that you've been learnin'\nAnd when I take you shoppin', you spend it like you earned it\nAnd when you popped off on your ex he deserved it\nI thought you were the one from the jump that confirmed it\nTrapMoneyBenny\nI buy you Champagne but you love some Henny\nFrom the block like you Jenny\nI know you special, girl, 'cause I know too many\n'Resha, do you love me? Are you riding?\nSay you'll never ever leave from beside me\n'Cause I want ya, and I need ya\nAnd I'm down for you always\nJ.T., do you love me? Are you riding?\nSay you'll never ever leave from beside me\n'Cause I want ya, and I need ya\nAnd I'm down for you always\nTwo bad bitches and we kissin' in the Wraith\nKissin'-kissin' in the Wraith, kiss-kissin' in the Wraith\nI need that black card and the code to the safe\nCode to the safe, code-code to the safe-safe\nI show him how that neck work\nFuck that Netflix and chill—what's your net-net-net worth?\n'Cause I want ya, and I need ya\nAnd I'm down for you always\nYea, yea, yea, yea he bad\nAnd I'm down for you always\nYea, yea, yea, guess who's back\nAnd I'm down for you always\nD-down for you al–\nBlack biggy biggy black biggy black blake\nD-d-down for you always\nI got a new boy, and that nigga trade!\nKiki, do you love me? Are you riding?\nSay you'll never ever leave from beside me\n'Cause I want you, and I need you\nAnd I'm down for you always\nKB, do you love me? Are you riding?\nSay you'll never ever leave from beside me\n'Cause I want ya, and I–\nSkate and Smoke and Rap\nNow let me see you\nBring that ass, bring that ass, bring that ass back!\nB-bring that ass, bring that ass, bring that ass back!\nShawty say the nigga that she with can't hit\nBut shawty, I'ma hit it, hit it like I can't miss\nNow let me see you\nClap that ass, you're the only one I love\nClap that ass, clap-clap that ass!\nBring that ass back!\nClap-clap-clap that ass, you're the only one I love\nLet's go, let's go, let's go!\nBring that ass back!\nTrap, TrapMoneyBenny\nThis shit got me in my feelings\nI just gotta be real with it, yup\nBlaqNmilD, you a genius, you diggin' me?\nI don't even care, I need a photo with Drake\nBecause my Instagram is weak as fuck\nI'm just being real, my shit look–"
+    },
+    {
+      "label": "Hip-Hop",
+      "feature": {
+        "song": "Psycho(Ft. Ty Dolla $ign)", 
+        "artist": "Post Malone", 
+        "album": "beerbongs & bentleys", 
+        "released_year": "2018-04-27",
+        "gender": "M", 
+        "structure": {
+          "Intro":[], 
+          "Verse":[[8, 21], [31, 46]], 
+          "Chorus":[[0, 7], [22, 30], [47, 54]], 
+          "Segue": [],
+          "Breakdown": [],
+          "Outro": [],
+          "Skit": []
+        }
+      },
+      "data": "Damn, my AP goin' psycho, lil' mama bad like Michael\nCan't really trust nobody with all this jewelry on you\nMy roof look like a no-show, got diamonds by the boatload\nCome with the Tony Romo for clowns and all the bozos\nMy AP goin' psycho, lil' mama bad like Michael\nCan't really trust nobody with all this jewelry on you\nMy roof look like a no-show, got diamonds by the boatload\nDon't act like you my friend when I'm rollin' through my ends, though\nYou stuck in the friend zone, I tell that four-five the fifth, ayy\nHunnid bands inside my shorts, DeChino the shit, ayy\nTry to stuff it all in, but it don't even fit, ayy\nKnow that I been with the shits ever since a jit, ayy\nI made my first million, I'm like, 'Shit, this is it,' ayy\n30 for a walkthrough, man, we had that bitch lit, ayy\nHad so many bottles, gave ugly girl a sip\nOut the window of the Benzo, we get seen in the rent'\nAnd I'm like 'Whoa, man, my neck so goddamn cold'\nDiamonds wet, my t-shirt soaked\nI got homies, let it go, oh\nMy money thick, won't ever fold\nShe said, 'Can I have some to hold?'\nAnd I can't ever tell you no\nDamn, my AP goin' psycho, lil' mama bad like Michael\nCan't really trust nobody with all this jewelry on you\nMy roof look like a no-show, got diamonds by the boatload\nCome with the Tony Romo for clowns and all the bozos\nMy AP goin' psycho, lil' mama bad like Michael\nCan't really trust nobody with all this jewelry on you\nMy roof look like a no-show, got diamonds by the boatload\nDon't act like you my friend when I'm rollin' through my ends, though\nThe AP goin' psycho, my Rollie goin' brazy\nI'm hittin' lil' mama, she wanna have my babies\nIt's fifty on the pinky, chain so stanky\nYou should see the whip, promise I can take yo' bitch\nDolla ridin' in an old school Chevy, it's a drop top\nBoolin' with a thot-thot, she gon' give me top-top\nJust one switch, I can make the ass drop (hey)\nUh, take you to the smoke shop\nWe gon' get high, ayy, we gon' hit Rodeo\nDial up Valentino, we gon' hit Pico\nTake you where I'm from, take you to the slums\nThis ain't happen overnight, no, these diamonds real bright\nSaint Laurent jeans, still in my Vans though\nAll VVS', put you in a necklace\nGirl, you look beautiful tonight\nStars on the roof, they matching with the jewelry\nDamn, my AP goin' psycho, lil' mama bad like Michael\nCan't really trust nobody with all this jewelry on you\nMy roof look like a no-show, got diamonds by the boatload\nCome with the Tony Romo for clowns and all the bozos\nMy AP goin' psycho, lil' mama bad like Michael\nCan't really trust nobody with all this jewelry on you\nMy roof look like a no-show, got diamonds by the boatload\nDon't act like you my friend when I'm rollin' through my ends, though"
+    },
+    {
+      "label": "Pop", 
+      "feature": {
+        "song": "Half The World Away", 
+        "artist": "Aurora", 
+        "album": "All My Demons Greeting Me As A Friend", 
+        "released_year": "2015-11-6",
+        "gender": "F", 
+        "structure": {
+          "Intro":[], 
+          "Verse":[[0, 5], [13, 18]], 
+          "Chorus":[[6, 12], [19, 25]], 
+          "Segue": [],
+          "Breakdown": [],
+          "Outro": [[26, 32]],
+          "Skit": []
+        }
+      },
+      "data": "I would like to leave this city\nThis old town don't smell too pretty and\nI can feel the warning signs running around my mind\nAnd when I leave this island\nI book myself into a soul asylum\nI can feel the warning signs running around my mind\nSo here I go\nI'm still scratching around in the same old hole\nMy body feels young but my mind is very old\nSo what do you say?\nYou can't give me the dreams that are mine anyway\nYou're half the world away\nYou're half the world away\nAnd when I leave this planet\nYou know I'd stay but I just can't stand it and\nI can feel the warning signs running around my mind\nAnd if I can leave this spirit\nI'll find me a home and I'll live in it and\nI can feel the warning signs running around my mind\nSo here I go\nI'm still scratching around in the same old hole\nMy body feels young but my mind is very old\nSo what do you say?\nYou can't give me the dreams that are mine anyway\nYou're half the world away\nYou're half the world away\nYou're half the world away\nI've been lost, I've been found\nBut I don't feel down\nYou're half the world away\nI've been lost, I've been found\nBut I don't feel down\nI don't feel down"
+    },
+    {
+      "label": "Acoustic",
+      "feature": {
+        "song": "Mystery of Love", 
+        "artist": "Sufjan Stevens", 
+        "album": "Call Me By Your Name (Original Motion Picture Soundtrack)", 
+        "released_year": "2017-11-03",
+        "gender": "M", 
+        "structure": {
+          "Intro":[], 
+          "Verse":[[0, 7], [12, 19], [24, 31]], 
+          "Chorus":[[8, 11], [20, 23], [32, 35]], 
+          "Segue": [],
+          "Breakdown": [],
+          "Outro": [],
+          "Skit": []
+        }
+      },
+      "data": "Oh, to see without my eyes\nThe first time that you kissed me\nBoundless by the time I cried\nI built your walls around me\nWhite noise, what an awful sound\nFumbling by Rogue River\nFeel my feet above the ground\nHand of God, deliver me\nOh, oh woe-oh-woah is me\nThe first time that you touched me\nOh, will wonders ever cease?\nBlessed be the mystery of love\nLord, I no longer believe\nDrowned in living waters\nCursed by the love that I received\nFrom my brother's daughter\nLike Hephaestion, who died\nAlexander's lover\nNow my riverbed has dried\nShall I find no other?\nOh, oh woe-oh-woah is me\nI'm running like a plover\nNow I'm prone to misery\nThe birthmark on your shoulder reminds me\nHow much sorrow can I take?\nBlackbird on my shoulder\nAnd what difference does it make\nWhen this love is over?\nShall I sleep within your bed\nRiver of unhappiness\nHold your hands upon my head\nTill I breathe my last breath\nOh, oh woe-oh-woah is me\nThe last time that you touched me\nOh, will wonders ever cease?\nBlessed be the mystery of love"
+    },
+    {
+      "label": "Rock", 
+      "feature": {
+        "song": "Old TIme Rock and Roll", 
+        "artist": "Bob Seter", 
+        "album": "Strangeri in Town", 
+        "released_year": "1979-03-01",
+        "gender": "M", 
+        "structure": {
+          "Intro":[], 
+          "Verse":[[0, 11], [22, 34]], 
+          "Chorus":[[12, 21], [35, 44]], 
+          "Segue": [],
+          "Breakdown": [],
+          "Outro": [],
+          "Skit": []
+        }
+      },
+      "data": "Just take those old records off the shelf\nI'll sit and listen to 'em by myself\nToday's music ain't got the same soul\nI like that old time rock 'n' roll\nDon't try to take me to a disco\nYou'll never even get me out on the floor\nIn ten minutes I'll be late for the door\nI like that old time rock 'n' roll\nStill like that old time rock 'n' roll\nThat kind of music just soothes my soul\nI reminisce about the days of old\nWith that old time rock 'n' roll\nWon't go to hear 'em play a tango\nI'd rather hear some blues or funky old soul\nThere's only one sure way to get me to go\nStart playing old time rock 'n' roll\nCall me a relic, call me what you will\nSay I'm old-fashioned, say I'm over the hill\nToday's music ain't got the same soul\nI like that old time rock 'n' roll\nStill like that old time rock 'n' roll!"
+    },
+    {
+      "label": "Rock", 
+      "feature": {
+        "song": "Zero", 
+        "artist": "Imagine Dragons", 
+        "album": "Ralph Breaks the Internet (Original Motion Picture Soundtrack)", 
+        "released_year": "2018",
+        "gender": "M", 
+        "structure": {
+          "Intro":[], 
+          "Verse":[[0, 10], [21, 33]], 
+          "Chorus":[[11, 20], [34, 43], [47, 56]], 
+          "Segue": [],
+          "Breakdown": [],
+          "Outro": [],
+          "Skit": [], 
+          "Bridge": [[44, 46]]
+        }
+      },
+      "data": "I find it hard to say the things I want to say the most\nFind a little bit of steady as I get close\nFind a balance in the middle of the chaos\nSend me low, send me high, send me never demigod\nI remember walking in the cold of November\nHoping that I make it to the end of December\n27 years and the end of my mind\nBut holding to the thought of another time\nBut looking to the ways of the ones before me\nLooking for the path of the young and lonely\nI don't want to hear about what to do\nI don’t want to do it just to do it for you\nHello, hello\nLet me tell you what it's like to be a zero, zero\nLet me show you what it's like to always feel, feel\nLike I’m empty and there's nothing really real, real\nI'm looking for a way out\nHello, hello\nLet me tell you what it's like to be a zero, zero\nLet me show you what it's like to never feel, feel\nLike I'm good enough for anything that's real, real\nI'm looking for a way out\nI find it hard to tell you how I want to run away\nI understand it always makes you feel a certain way\nI find a balance in the middle of the chaos\nSend me up, send me down, send me never demigod\nI remember walkin’ in the heat of the summer\nWide-eyed one with a mind full of wonder\n27 years and I’ve nothing to show\nFalling from the dove to the dark of the crow\nLooking to the ways of the ones before me\nLooking for the path of the young and lonely\nI don't want to hear about what to do, no\nI don’t want to do it just to do it for you\nHello, hello\nLet me tell you what it's like to be a zero, zero\nLet me show you what it's like to always feel, feel\nLike I'm empty and there’s nothing really real, real\nI'm looking for a way out\nHello, hello\nLet me tell you what it's like to be a zero, zero\nLet me show you what it's like to never feel, feel\nLike I'm good enough for anything that's real, real\nI'm looking for a way out\nLet me tell you 'bout it, well let me tell you 'bout it\nMaybe you're the same as me\nLet me tell you 'bout it, well let me tell you 'bout it\nThey say the truth will set you free\nHello, hello\nLet me tell you what it's like to be a zero, zero\nLet me show you what it's like to always feel, feel\nLike I'm empty and there's nothing really real, real\nI'm looking for a way out\nHello, hello\nLet me tell you what it's like to be a zero, zero\nLet me show you what it's like to never feel, feel\nLike I'm good enough for anything that's real, real\nI'm looking for a way out"
+    },
+    {
+      "label": "Country", 
+      "feature": {
+        "song": "Take Me Home, Country Roads", 
+        "artist": "John Denver", 
+        "album": "Poems, Prayers & Promises", 
+        "released_year": "1971",
+        "gender": "M", 
+        "structure": {
+          "Intro":[[0, 4], [8, 11], [15, 18]], 
+          "Verse":[], 
+          "Chorus":[[5, 7], [12, 14], [19, 24]], 
+          "Segue": [],
+          "Breakdown": [],
+          "Outro": [[25, 26]],
+          "Skit": []
+        }
+      },
+      "data": "Almost heaven, West Virginia\nBlue Ridge Mountains, Shenandoah River\nLife is old there, older than the trees\nYounger than the mountains, blowing like a breeze\nCountry roads, take me home\nTo the place I belong\nWest Virginia, mountain mamma\nTake me home, country roads\nAll my memories, gather round her\nMiner's lady, stranger to blue water\nDark and dusty, painted on the sky\nMisty taste of moonshine, teardrop in my eye\nCountry roads, take me home\nTo the place I belong\nWest Virginia, mountain mamma\nTake me home, country roads\nI hear her voice in the morning hour she calls me\nThe radio reminds me of my home far away\nDriving down the road I get a feeling\nThat I should have been home yesterday, yesterday\nCountry roads, take me home\nTo the place I belong\nWest Virginia, mountain mamma\nTake me home, country roads\nCountry roads, take me home\nTo the place I belong\nWest Virginia, mountain mamma\nTake me home, country roads\nTake me home, down country roads\nTake me home, down country roads"
+    },
+    {
+      "label": "Pop", 
+      "feature": {
+        "song": "How Deep is Your Love", 
+        "artist": "Bee Gees", 
+        "album": "Saturday Night Fever", 
+        "released_year": "1977",
+        "gender": "M", 
+        "structure": {
+          "Intro":[], 
+          "Verse":[[0, 3], [15, 18]],
+          "Pre-Chorus":[[4, 6]], 
+          "Chorus":[[7, 14]], 
+          "Segue": [],
+          "Breakdown": [],
+          "Outro": [],
+          "Skit": []
+        }
+      },
+      "data": "I know your eyes in the morning sun\nI feel you touch me in the pouring rain\nAnd the moment that you wander far from me\nI wanna feel you in my arms again\nAnd you come to me on a summer breeze\nKeep me warm in your love\nThen you softly leave\nAnd it's me you need to show\nHow deep is your love?\nHow deep is your love\nHow deep is your love\nI really need to learn\nCause we're living in a world of fools\nBreakin’ us down\nWhen they all should let us be\nWe belong to you and me\nI believe in you\nYou know the door to my very soul\nYou're the light in my deepest, darkest hour\nYou're my savior when I fall\nAnd you may not think I care for you\nWhen you know down inside\nThat I really do\nAnd it's me you need to show\nHow deep is your love?\nHow deep is your love\nHow deep is your love\nI really need to learn\nCause we're living in a world of fools\nBreakin’ us down\nWhen they all should let us be\nWe belong to you and me\nAnd you come to me on a summer breeze\nKeep me warm in your love\nThen you softly leave\nAnd it's me you need to show\nHow deep is your love?\nHow deep is your love\nHow deep is your love\nI really need to learn\nCause we're living in a world of fools\nBreakin’ us down\nWhen they all should let us be\nWe belong to you and me"
+    },
+    {
+      "label": "Country", 
+      "feature": {
+        "song": "The Climb", 
+        "artist": "Miley Cyrus", 
+        "album": "Hannah Montana: The Movie", 
+        "released_year": "2009",
+        "gender": "F", 
+        "structure": {
+          "Intro":[], 
+          "Verse":[[0, 7], [17, 24]],
+          "Pre-Chorus":[[8, 9], [25, 26]], 
+          "Chorus":[[10, 16], [27, 33], [34, 40]], 
+          "Segue": [],
+          "Breakdown": [],
+          "Outro": [[41, 45]],
+          "Skit": []
+        }
+      },
+      "data": "I can almost see it\nThat dream I'm dreaming, but\nThere's a voice inside my head saying\nYou'll never reach it\nEvery step I'm taking\nEvery move I make feels lost, with no direction\nMy faith is shaken\nBut I, I gotta keep trying\nGotta keep my head held high\nThere's always gonna be another mountain\nI'm always gonna wanna make it move\nAlways gonna be an uphill battle\nSometimes I'm gonna have to lose\nAin’t about how fast I get there\nAin’t about what's waiting on the other side\nIt's the climb\nThe struggles I'm facing\nThe chances I'm taking\nSometimes might knock me down, but\nNo, I'm not breaking\nI may not know it\nBut these are the moments that I'm gonna remember most, yeah\nJust gotta keep going\nAnd I, I gotta be strong\nJust keep pushing on, 'cause...\nThere's always gonna be another mountain\nI'm always gonna wanna make it move\nAlways gonna be an uphill battle\nSometimes I'm gonna have to lose\nAin’t about how fast I get there\nAin’t about what's waiting on the other side\nIt's the climb\nThere's always gonna be another mountain\nI'm always gonna wanna make it move\nAlways gonna be an uphill battle\nSometimes I'm gonna have to lose\nAin’t about how fast I get there\nAin’t about what's waiting on the other side\nIt's the climb\nKeep on moving\nKeep climbing\nKeep the faith, baby\nIt's all about, it's all about the climb\nKeep the faith, keep your faith"
+    },
+    {
+      "label": "Acoustic", 
+      "feature": {
+        "song": "Love of My Life", 
+        "artist": "Freddie Mercury", 
+        "album": "A Night at the Opera", 
+        "released_year": "1975",
+        "gender": "M", 
+        "structure": {
+          "Intro":[], 
+          "Verse":[[0, 1], [5, 6]],
+          "Pre-Chorus":[[2, 2], [7, 7]], 
+          "Chorus":[[3, 4], [8, 9], [14, 15]], 
+          "Segue": [],
+          "Breakdown": [],
+          "Outro": [[16, 17]],
+          "Skit": []
+        }
+      },
+      "data": "Love of my life, you've hurt me\nYou've broken my heart, and now you leave me\nLove of my life, can't you see?\nBring it back, bring it back, don't take it away from me\nBecause you don't know what it means to me\nLove of my life, don't leave me\nYou've taken my love, you now desert me\nLove of my life can't you see?\nBring it back, bring it back, don't take it away from me\nBecause you don't know what it means to me\nYou will remember, when this is blown over\nAnd everything's all by the way\nWhen I grow older, I will be there at your side, to remind you\nHow I still love you - I still love you\nBack, hurry back, please bring it back home to me\nBecause you don't know what it means to me\nLove of my life\nLove of my life"
+    }
+  ],
+  "authors": {
+    "author1": "Tao Chen",
+    "author2": "Mu Yang",
+    "author3": "Zhe Yang",
+    "author4": "Chang Su"
+  },
+  "emails": {
+    "email1": "taochen@usc.edu",
+    "email2": "yangmu@usc.edu",
+    "email3": "zheyang@usc.edu",
+    "email4": "csu272@usc.edu"
+  }
+}
