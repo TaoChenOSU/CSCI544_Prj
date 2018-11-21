@@ -4,13 +4,13 @@ from urllib.request import urlretrieve
 
 def fetch_songs_from_api(artist):
     """
-	Fetch a list of song records of an artist from web. 
+    Fetch a list of song records of an artist from web. 
 
-	Arg:
-		artist, the name of the artist, e.g. "Ariana Grande"
-	Return:
-		a list of records: [{"artist":, "song_name":, "genre":, "alternate_artist"}]
-	"""
+    Arg:
+        artist, the name of the artist, e.g. "Ariana Grande"
+    Return:
+        a list of records: [{"artist":, "song_name":, "genre":, "alternate_artist"}]
+    """
 
     api_url = "https://itunes.apple.com/search?term={}+{}&media=music&entity=song&limit=200".format(
         *artist.split(" "))
