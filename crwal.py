@@ -15,7 +15,7 @@ def fetch_songs_from_api(artist):
     api_url = "https://itunes.apple.com/search?term={}+{}&media=music&entity=song&limit=200".format(
         *artist.split(" "))
     # print(api_url)
-    saved_file = "./{}.txt".format(artist)
+    saved_file = "./data/{}.txt".format(artist)
     urlretrieve(api_url, saved_file)
 
     records = []
