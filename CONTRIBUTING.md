@@ -2,8 +2,11 @@
 
 ## Python style
 
+### Python3
+Please use python3 for our project.
+
 ### Indents
-Please using 4-space instead of tabs for indents. 
+Please use 4-space instead of tabs for indents. 
 
 ## Git
 ### Development
