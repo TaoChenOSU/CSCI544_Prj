@@ -1,0 +1,11 @@
+
+
+
+{
+ "resultCount":1,
+ "results": [
+{"wrapperType":"track", "kind":"song", "artistId":1239969082, "collectionId":1239969080, "trackId":1239969085, "artistName":"Hearty2raw", "collectionName":"Whole Lotta - Single", "trackName":"Whole Lotta", "collectionCensoredName":"Whole Lotta - Single", "trackCensoredName":"Whole Lotta", "artistViewUrl":"https://itunes.apple.com/us/artist/hearty2raw/1239969082?uo=4", "collectionViewUrl":"https://itunes.apple.com/us/album/whole-lotta/1239969080?i=1239969085&uo=4", "trackViewUrl":"https://itunes.apple.com/us/album/whole-lotta/1239969080?i=1239969085&uo=4", 
+"previewUrl":"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview127/v4/b6/3c/cd/b63ccd38-3cea-1456-6569-bca70ce12e2e/mzaf_4954595230954109643.plus.aac.p.m4a", "artworkUrl30":"https://is2-ssl.mzstatic.com/image/thumb/Music127/v4/cf/9e/47/cf9e474e-0035-e007-e2fc-2bcb73c3887d/source/30x30bb.jpg", "artworkUrl60":"https://is2-ssl.mzstatic.com/image/thumb/Music127/v4/cf/9e/47/cf9e474e-0035-e007-e2fc-2bcb73c3887d/source/60x60bb.jpg", "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Music127/v4/cf/9e/47/cf9e474e-0035-e007-e2fc-2bcb73c3887d/source/100x100bb.jpg", "collectionPrice":0.99, "trackPrice":0.99, "releaseDate":"2017-05-23T07:00:00Z", "collectionExplicitness":"explicit", "trackExplicitness":"explicit", "discCount":1, "discNumber":1, "trackCount":1, "trackNumber":1, "trackTimeMillis":154645, "country":"USA", "currency":"USD", "primaryGenreName":"Alternative", "contentAdvisoryRating":"Explicit", "isStreamable":true}]
+}
+
+
