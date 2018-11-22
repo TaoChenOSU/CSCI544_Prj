@@ -26,13 +26,16 @@ def get_lyrics_of_songs(genre_records_map):
     headers = {'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36'}
     artists_songs = dict()
 
-    json_dict = dict()
-    json_dict["description"] = description_text
-    json_dict["corpus"] = []
     for key, records in genre_records_map.items():
+        json_dict = dict()
+        json_dict["description"] = description_text
+        json_dict["corpus"] = []
         with open(path + "test_{}.json".format(key), "w") as output:
             for record in records[:600]:    # for each label, only fetches the first 600 songs, to save time
                 artist = record["artist"]
+                if artist == "Kris Wu":
+                    continue
+
                 song_name = record["song"]
 
                 # replace spaces with hyphens
@@ -54,6 +57,8 @@ def get_lyrics_of_songs(genre_records_map):
                     if lyrics_div is not None:
                         # print(lyrics_div.text)
                         json_dict["corpus"].append({
+                            "artist": artist,
+                            "song": song_name,
                             "label": record["genre"],
                             "data": lyrics_div.text,
                         })
