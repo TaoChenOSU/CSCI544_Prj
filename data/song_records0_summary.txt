@@ -1,5 +1,0 @@
-total: 0 song records
-total: 0 song records after deduplication
-total: 0 song records after remove deletable brackets
-total: 0 artists
-
