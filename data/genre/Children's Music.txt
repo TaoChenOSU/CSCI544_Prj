@@ -1,0 +1,655 @@
+{'artist': "Hilary Field, Patrice O'Neill & Nancy Rumbel", 'song': 'Oh Hush Thee, My Dove', 'genre': "Children's Music", 'alternative_artist': 'dove night', 'add_to_final_records': True}
+{'artist': 'Twinkle Twinkle Little Rock Star', 'song': 'South Side (Made Famous By Moby)', 'genre': "Children's Music", 'alternative_artist': 'Gwen Stefani', 'add_to_final_records': True}
+{'artist': 'Farmer Jason, Hank Williams III & Tommy Ramone', 'song': 'Manatee', 'genre': "Children's Music", 'alternative_artist': 'Hank Williams III', 'add_to_final_records': True}
+{'artist': 'Marty Stuart', 'song': 'Naturally', 'genre': "Children's Music", 'alternative_artist': 'Marty Stuart', 'add_to_final_records': True}
+{'artist': 'The Raging Idiots', 'song': 'Be Nice (feat. Lindsay Ell)', 'genre': "Children's Music", 'alternative_artist': 'Lindsay Ell', 'add_to_final_records': True}
+{'artist': 'Selena Gomez & Demi Lovato', 'song': 'One and the Same', 'genre': "Children's Music", 'alternative_artist': 'Selena Gomez', 'add_to_final_records': True}
+{'artist': 'Selena Gomez', 'song': 'Fly to Your Heart', 'genre': "Children's Music", 'alternative_artist': 'Selena Gomez', 'add_to_final_records': True}
+{'artist': 'Selena Gomez', 'song': 'Cruella de Vil', 'genre': "Children's Music", 'alternative_artist': 'Selena Gomez', 'add_to_final_records': True}
+{'artist': 'Selena Gomez', 'song': 'Everything Is Not What It Seems', 'genre': "Children's Music", 'alternative_artist': 'Selena Gomez', 'add_to_final_records': True}
+{'artist': 'Selena Gomez', 'song': 'Trust In Me', 'genre': "Children's Music", 'alternative_artist': 'Selena Gomez', 'add_to_final_records': True}
+{'artist': 'Hunter Hayes', 'song': 'Colors of Freedom', 'genre': "Children's Music", 'alternative_artist': 'Hunter Hayes', 'add_to_final_records': True}
+{'artist': 'Yoni Gershan', 'song': 'Chanuka Rap', 'genre': "Children's Music", 'alternative_artist': 'Miracle (Rap)', 'add_to_final_records': True}
+{'artist': 'Christy Landers, Donald Sage MacKay, Doug Stone, Joseph Medrano, Michelle Nicastro, Owen Miller & Steve Vinovich', 'song': "It Doesn't Get Any Better Than This", 'genre': "Children's Music", 'alternative_artist': 'Doug Stone', 'add_to_final_records': True}
+{'artist': 'Donald Sage MacKay, Doug Stone, Paul Masonson & Steve Vinovich', 'song': 'The Right Side', 'genre': "Children's Music", 'alternative_artist': 'Doug Stone', 'add_to_final_records': True}
+{'artist': 'The Big Kidz Band', 'song': 'No More Monkeys', 'genre': "Children's Music", 'alternative_artist': 'Skip Ewing', 'add_to_final_records': True}
+{'artist': 'The Big Kidz Band', 'song': 'Fare Thee Well Fondly', 'genre': "Children's Music", 'alternative_artist': 'Skip Ewing', 'add_to_final_records': True}
+{'artist': 'The Big Kidz Band', 'song': "If You're Happy and You Know It", 'genre': "Children's Music", 'alternative_artist': 'Skip Ewing', 'add_to_final_records': True}
+{'artist': 'The Big Kidz Band', 'song': 'Old McDonald Had a Sampler', 'genre': "Children's Music", 'alternative_artist': 'Skip Ewing', 'add_to_final_records': True}
+{'artist': 'The Big Kidz Band', 'song': 'Dueling Banjos', 'genre': "Children's Music", 'alternative_artist': 'Skip Ewing', 'add_to_final_records': True}
+{'artist': 'The Big Kidz Band', 'song': 'Bingo', 'genre': "Children's Music", 'alternative_artist': 'Skip Ewing', 'add_to_final_records': True}
+{'artist': 'The Big Kidz Band', 'song': 'Indian Elephant Tea', 'genre': "Children's Music", 'alternative_artist': 'Skip Ewing', 'add_to_final_records': True}
+{'artist': 'The Big Kidz Band', 'song': "Mah Na Mah Na & a Side of Aunt B's Grits", 'genre': "Children's Music", 'alternative_artist': 'Skip Ewing', 'add_to_final_records': True}
+{'artist': 'The Big Kidz Band', 'song': 'Mah Na Mah Na (Reprise)', 'genre': "Children's Music", 'alternative_artist': 'Skip Ewing', 'add_to_final_records': True}
+{'artist': 'The Big Kidz Band', 'song': 'Twinkle Sprinkle & a Whole Sea Full of Stuff', 'genre': "Children's Music", 'alternative_artist': 'Skip Ewing', 'add_to_final_records': True}
+{'artist': 'The Big Kidz Band', 'song': 'Scene 6: Oh Susannah & Old Joe Clark', 'genre': "Children's Music", 'alternative_artist': 'Skip Ewing', 'add_to_final_records': True}
+{'artist': 'The Big Kidz Band', 'song': 'The Itsy Bitsy Spider Took the "A" Train', 'genre': "Children's Music", 'alternative_artist': 'Skip Ewing', 'add_to_final_records': True}
+{'artist': 'The Big Kidz Band', 'song': 'This Old Man and His Dog', 'genre': "Children's Music", 'alternative_artist': 'Skip Ewing', 'add_to_final_records': True}
+{'artist': 'The Big Kidz Band', 'song': 'The Continuing Adventures of the Inimitable Farmer "M"', 'genre': "Children's Music", 'alternative_artist': 'Skip Ewing', 'add_to_final_records': True}
+{'artist': 'Marc Wymore', 'song': 'Diamonds/Everlasting God (feat. Maddie Wolf)', 'genre': "Children's Music", 'alternative_artist': 'Maddie & Tae', 'add_to_final_records': True}
+{'artist': "Elmo, Big Bird, Sesame Street's Penelope Pinfeathers & Sesame Street's Signora Barbara F. Seville", 'song': 'Morning Mood (From Peer Gynt Suite No. 1)', 'genre': "Children's Music", 'alternative_artist': 'The Big F', 'add_to_final_records': True}
+{'artist': "Elmo, Big Bird, Sesame Street's Penelope Pinfeathers & Sesame Street's Signora Barbara F. Seville", 'song': 'Sabre Dance (From the Gayneh Ballet)', 'genre': "Children's Music", 'alternative_artist': 'The Big F', 'add_to_final_records': True}
+{'artist': "Elmo, Big Bird, Sesame Street's Penelope Pinfeathers & Sesame Street's Signora Barbara F. Seville", 'song': 'Eine kleine Nachtmusik', 'genre': "Children's Music", 'alternative_artist': 'The Big F', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': "Kendall's Personalized Happy Birthday Song (Kendal, Kendel, Kendle, Kendyle, Kindal, Kindle)", 'genre': "Children's Music", 'alternative_artist': 'The Kendalls', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': "Kendall's Silly Farm (Kendal, Kendel, Kendle, Kendyle, Kindal, Kindle)", 'genre': "Children's Music", 'alternative_artist': 'The Kendalls', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': "Kendall's has Joy, Joy, Joy (Kendal, Kendel, Kendle, Kendyle, Kindal, Kindle)", 'genre': "Children's Music", 'alternative_artist': 'The Kendalls', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': "This Little Light of Kendall's (Kendal, Kendel, Kendle, Kendyle, Kindal, Kindle)", 'genre': "Children's Music", 'alternative_artist': 'The Kendalls', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': "Kendall's Thank You Prayer (Kendal, Kendel, Kendle, Kendyle, Kindal, Kindle)", 'genre': "Children's Music", 'alternative_artist': 'The Kendalls', 'add_to_final_records': True}
+{'artist': 'The Countdown Kids', 'song': "There's a Hole in the Bottom of the Sea", 'genre': "Children's Music", 'alternative_artist': 'Hole', 'add_to_final_records': True}
+{'artist': 'The Countdown Kids', 'song': 'There’s a Hole In My Bucket', 'genre': "Children's Music", 'alternative_artist': 'Hole', 'add_to_final_records': True}
+{'artist': 'The Countdown Kids', 'song': "The Little Skunk's Hole", 'genre': "Children's Music", 'alternative_artist': 'Hole', 'add_to_final_records': True}
+{'artist': 'Cedarmont Kids', 'song': "There's a Hole In the Bottom of the Sea", 'genre': "Children's Music", 'alternative_artist': 'Hole', 'add_to_final_records': True}
+{'artist': 'Cedarmont Kids', 'song': "There's a Hole In the Bucket", 'genre': "Children's Music", 'alternative_artist': 'Hole', 'add_to_final_records': True}
+{'artist': 'Tom T. Hall', 'song': 'Sneaky Snake', 'genre': "Children's Music", 'alternative_artist': 'Tom T', 'add_to_final_records': True}
+{'artist': 'Tom T. Hall', 'song': 'The Barn Dance', 'genre': "Children's Music", 'alternative_artist': 'Tom T', 'add_to_final_records': True}
+{'artist': 'Tom T. Hall', 'song': 'How To Talk To A Little Baby Goat', 'genre': "Children's Music", 'alternative_artist': 'Tom T', 'add_to_final_records': True}
+{'artist': 'Tom T. Hall', 'song': 'I Like To Feel Pretty Inside', 'genre': "Children's Music", 'alternative_artist': 'Tom T', 'add_to_final_records': True}
+{'artist': 'Tom T. Hall', 'song': "Fox Hollow's Animal Train", 'genre': "Children's Music", 'alternative_artist': 'Tom T', 'add_to_final_records': True}
+{'artist': 'Tom T. Hall', 'song': 'The Mysterious Fox Of Fox Hollow', 'genre': "Children's Music", 'alternative_artist': 'Tom T', 'add_to_final_records': True}
+{'artist': 'Tom T. Hall', 'song': 'Ole Lonesome George The Bassett', 'genre': "Children's Music", 'alternative_artist': 'Tom T', 'add_to_final_records': True}
+{'artist': 'Tom T. Hall', 'song': 'Randy Raccoon', 'genre': "Children's Music", 'alternative_artist': 'Tom T', 'add_to_final_records': True}
+{'artist': 'Tom T. Hall', 'song': 'The Duck And The Rooster', 'genre': "Children's Music", 'alternative_artist': 'Tom T', 'add_to_final_records': True}
+{'artist': 'Tom T. Hall', 'song': 'The Dancing Tree', 'genre': "Children's Music", 'alternative_artist': 'Tom T', 'add_to_final_records': True}
+{'artist': 'Tom T. Hall', 'song': 'I Wish I Had A Million Friends', 'genre': "Children's Music", 'alternative_artist': 'Tom T', 'add_to_final_records': True}
+{'artist': 'Tom T. Hall', 'song': 'Everybody Loves To Hear A Bird Sing', 'genre': "Children's Music", 'alternative_artist': 'Tom T', 'add_to_final_records': True}
+{'artist': 'Tom T. Hall', 'song': "You Are A Star (Brittni's Song)", 'genre': "Children's Music", 'alternative_artist': 'Tom T', 'add_to_final_records': True}
+{'artist': 'Tom T. Hall', 'song': 'The Song Of The One Legged Chicken', 'genre': "Children's Music", 'alternative_artist': 'Tom T', 'add_to_final_records': True}
+{'artist': 'Tom T. Hall', 'song': "Let's Play Remember", 'genre': "Children's Music", 'alternative_artist': 'Tom T', 'add_to_final_records': True}
+{'artist': 'Tom T. Hall', 'song': "Let's Go Shopping Today", 'genre': "Children's Music", 'alternative_artist': 'Tom T', 'add_to_final_records': True}
+{'artist': 'The Wonder Kids', 'song': 'Jonah and the Whale', 'genre': "Children's Music", 'alternative_artist': 'Noah and the Whale', 'add_to_final_records': True}
+{'artist': 'Dove Cameron', 'song': 'Genie in a Bottle', 'genre': "Children's Music", 'alternative_artist': 'Dove Cameron', 'add_to_final_records': True}
+{'artist': 'Dove Cameron & Sofia Carson', 'song': "I'm Your Girl", 'genre': "Children's Music", 'alternative_artist': 'Dove Cameron', 'add_to_final_records': True}
+{'artist': 'Ashley Gearing', 'song': 'If You Can Dream', 'genre': "Children's Music", 'alternative_artist': 'Ashley Gearing', 'add_to_final_records': True}
+{'artist': 'Hannah Montana', 'song': "Let's Get Crazy", 'genre': "Children's Music", 'alternative_artist': 'Hannah Montana', 'add_to_final_records': True}
+{'artist': 'Miley Cyrus', 'song': 'Part of Your World', 'genre': "Children's Music", 'alternative_artist': 'Hannah Montana', 'add_to_final_records': True}
+{'artist': 'Lullapalooza', 'song': 'Foster the People - Pumped Up Kicks (Lullaby Version)', 'genre': "Children's Music", 'alternative_artist': 'Foster the People', 'add_to_final_records': True}
+{'artist': 'Terry Pedestrian & The Crossing', 'song': 'Music Written for Toby Foster to Enjoy in the Car', 'genre': "Children's Music", 'alternative_artist': 'Foster the People', 'add_to_final_records': True}
+{'artist': 'Cedarmont Kids', 'song': 'S-M-I-L-E', 'genre': "Children's Music", 'alternative_artist': 'E', 'add_to_final_records': True}
+{'artist': 'Kacey Musgraves', 'song': 'Heartache Song', 'genre': "Children's Music", 'alternative_artist': 'Kacey Musgraves', 'add_to_final_records': True}
+{'artist': 'Keith Urban', 'song': 'Apples and Bananas', 'genre': "Children's Music", 'alternative_artist': 'Keith Urban', 'add_to_final_records': True}
+{'artist': 'Frank McConnell', 'song': 'Wide Wide As the Ocean', 'genre': "Children's Music", 'alternative_artist': 'Frank Ocean', 'add_to_final_records': True}
+{'artist': 'Lee Roy Parnell', 'song': 'Rise and Shine', 'genre': "Children's Music", 'alternative_artist': 'Lee Roy Parnell', 'add_to_final_records': True}
+{'artist': 'Multiplication Hip Hop with Mr.G. & The Kiddie Crunk Crew', 'song': 'Four Tables (Hurricane Chris Style)', 'genre': "Children's Music", 'alternative_artist': 'Hurricane Chris', 'add_to_final_records': True}
+{'artist': 'LaQuela Scaife Barnett & Joe Romeo', 'song': 'Little Bunny Foo Foo', 'genre': "Children's Music", 'alternative_artist': 'Lil Romeo', 'add_to_final_records': True}
+{'artist': 'Bill Harley & Keith Munslow', 'song': 'Hideous Sweater', 'genre': "Children's Music", 'alternative_artist': 'Bill Keith', 'add_to_final_records': True}
+{'artist': 'Bill Harley & Keith Munslow', 'song': "It's Not Fair to Me", 'genre': "Children's Music", 'alternative_artist': 'Bill Keith', 'add_to_final_records': True}
+{'artist': 'Bill Harley & Keith Munslow', 'song': 'Stinkeye', 'genre': "Children's Music", 'alternative_artist': 'Bill Keith', 'add_to_final_records': True}
+{'artist': 'Bill Harley & Keith Munslow', 'song': 'Swimming', 'genre': "Children's Music", 'alternative_artist': 'Bill Keith', 'add_to_final_records': True}
+{'artist': 'Bill Harley & Keith Munslow', 'song': "Everybody's a Baby 'bout Something", 'genre': "Children's Music", 'alternative_artist': 'Bill Keith', 'add_to_final_records': True}
+{'artist': 'Bill Harley & Keith Munslow', 'song': 'My Eraser', 'genre': "Children's Music", 'alternative_artist': 'Bill Keith', 'add_to_final_records': True}
+{'artist': 'Bill Harley & Keith Munslow', 'song': 'Dog Named Bo', 'genre': "Children's Music", 'alternative_artist': 'Bill Keith', 'add_to_final_records': True}
+{'artist': 'Bill Harley & Keith Munslow', 'song': 'Give Me Back My Hat', 'genre': "Children's Music", 'alternative_artist': 'Bill Keith', 'add_to_final_records': True}
+{'artist': 'Bill Harley & Keith Munslow', 'song': 'Copycat', 'genre': "Children's Music", 'alternative_artist': 'Bill Keith', 'add_to_final_records': True}
+{'artist': 'Bill Harley & Keith Munslow', 'song': 'He Got Up Again', 'genre': "Children's Music", 'alternative_artist': 'Bill Keith', 'add_to_final_records': True}
+{'artist': 'Pat Dailey & Shel Silverstein', 'song': 'Underwater Land', 'genre': "Children's Music", 'alternative_artist': 'Dailey & Vincent', 'add_to_final_records': True}
+{'artist': 'Pat Dailey & Shel Silverstein', 'song': 'Captain Octopus', 'genre': "Children's Music", 'alternative_artist': 'Dailey & Vincent', 'add_to_final_records': True}
+{'artist': 'Pat Dailey & Shel Silverstein', 'song': 'Fish Guts', 'genre': "Children's Music", 'alternative_artist': 'Dailey & Vincent', 'add_to_final_records': True}
+{'artist': 'Pat Dailey & Shel Silverstein', 'song': 'Fish Breath', 'genre': "Children's Music", 'alternative_artist': 'Dailey & Vincent', 'add_to_final_records': True}
+{'artist': 'Pat Dailey & Shel Silverstein', 'song': 'Fred the Trout', 'genre': "Children's Music", 'alternative_artist': 'Dailey & Vincent', 'add_to_final_records': True}
+{'artist': 'Pat Dailey & Shel Silverstein', 'song': 'Land Shark', 'genre': "Children's Music", 'alternative_artist': 'Dailey & Vincent', 'add_to_final_records': True}
+{'artist': 'Pat Dailey & Shel Silverstein', 'song': 'Cuttlefish', 'genre': "Children's Music", 'alternative_artist': 'Dailey & Vincent', 'add_to_final_records': True}
+{'artist': 'Pat Dailey & Shel Silverstein', 'song': 'The Minnows', 'genre': "Children's Music", 'alternative_artist': 'Dailey & Vincent', 'add_to_final_records': True}
+{'artist': 'Pat Dailey & Shel Silverstein', 'song': 'Found Flounder', 'genre': "Children's Music", 'alternative_artist': 'Dailey & Vincent', 'add_to_final_records': True}
+{'artist': 'Pat Dailey & Shel Silverstein', 'song': 'Sea Shell', 'genre': "Children's Music", 'alternative_artist': 'Dailey & Vincent', 'add_to_final_records': True}
+{'artist': 'Pat Dailey & Shel Silverstein', 'song': 'The Clam', 'genre': "Children's Music", 'alternative_artist': 'Dailey & Vincent', 'add_to_final_records': True}
+{'artist': 'Pat Dailey & Shel Silverstein', 'song': "Dale and Shale's Big Fish Tail Sale", 'genre': "Children's Music", 'alternative_artist': 'Dailey & Vincent', 'add_to_final_records': True}
+{'artist': 'Pat Dailey & Shel Silverstein', 'song': 'Speedy the Snail', 'genre': "Children's Music", 'alternative_artist': 'Dailey & Vincent', 'add_to_final_records': True}
+{'artist': 'Pat Dailey & Shel Silverstein', 'song': 'Bubba Barracuda', 'genre': "Children's Music", 'alternative_artist': 'Dailey & Vincent', 'add_to_final_records': True}
+{'artist': 'Pat Dailey & Shel Silverstein', 'song': 'Ickity-Ackity', 'genre': "Children's Music", 'alternative_artist': 'Dailey & Vincent', 'add_to_final_records': True}
+{'artist': 'Pat Dailey & Shel Silverstein', 'song': 'Poor Anna', 'genre': "Children's Music", 'alternative_artist': 'Dailey & Vincent', 'add_to_final_records': True}
+{'artist': 'Pat Dailey & Shel Silverstein', 'song': 'Empty Dolphin Tank', 'genre': "Children's Music", 'alternative_artist': 'Dailey & Vincent', 'add_to_final_records': True}
+{'artist': 'Josh Turner', 'song': 'Alligator Stroll', 'genre': "Children's Music", 'alternative_artist': 'Josh Turner', 'add_to_final_records': True}
+{'artist': 'Josh Turner & Wendy Turner', 'song': "Eli's Lullaby", 'genre': "Children's Music", 'alternative_artist': 'Josh Turner', 'add_to_final_records': True}
+{'artist': 'Darren Stone & Adam Hedley-Smith', 'song': 'Get Up and Dance', 'genre': "Children's Music", 'alternative_artist': 'Hedley', 'add_to_final_records': True}
+{'artist': 'Larry Maluma & Kalima', 'song': 'Kalindawalo', 'genre': "Children's Music", 'alternative_artist': 'Maluma', 'add_to_final_records': True}
+{'artist': 'Cinderella', 'song': "I'm Happy", 'genre': "Children's Music", 'alternative_artist': 'Cinderella', 'add_to_final_records': True}
+{'artist': "Ilene Woods & Cinderella's Mice Chorus", 'song': 'A Dream Is a Wish Your Heart Makes', 'genre': "Children's Music", 'alternative_artist': 'Cinderella', 'add_to_final_records': True}
+{'artist': 'Dan Zanes', 'song': 'Hill And Gully Rider', 'genre': "Children's Music", 'alternative_artist': 'Dan Hill', 'add_to_final_records': True}
+{'artist': 'Billy Ray Cyrus', 'song': 'Real Gone', 'genre': "Children's Music", 'alternative_artist': 'Billy Ray Cyrus', 'add_to_final_records': True}
+{'artist': 'Adventures in Odyssey', 'song': '702: Childish Things', 'genre': "Children's Music", 'alternative_artist': '702', 'add_to_final_records': True}
+{'artist': 'Anne Murray', 'song': 'You Are My Sunshine / Open Up Your Heart', 'genre': "Children's Music", 'alternative_artist': 'Anne Murray', 'add_to_final_records': True}
+{'artist': 'Anne Murray', 'song': "Teddy Bears' Picnic", 'genre': "Children's Music", 'alternative_artist': 'Anne Murray', 'add_to_final_records': True}
+{'artist': 'Anne Murray', 'song': 'Hey Daddy', 'genre': "Children's Music", 'alternative_artist': 'Anne Murray', 'add_to_final_records': True}
+{'artist': 'Anne Murray', 'song': 'Animal Crackers', 'genre': "Children's Music", 'alternative_artist': 'Anne Murray', 'add_to_final_records': True}
+{'artist': 'Anne Murray', 'song': 'I Can See Clearly Now', 'genre': "Children's Music", 'alternative_artist': 'Anne Murray', 'add_to_final_records': True}
+{'artist': 'Anne Murray', 'song': 'Hi-Lili Hi-Lo', 'genre': "Children's Music", 'alternative_artist': 'Anne Murray', 'add_to_final_records': True}
+{'artist': 'Anne Murray', 'song': 'Inch Worm', 'genre': "Children's Music", 'alternative_artist': 'Anne Murray', 'add_to_final_records': True}
+{'artist': 'Anne Murray', 'song': 'Stars Are the Windows of Heaven', 'genre': "Children's Music", 'alternative_artist': 'Anne Murray', 'add_to_final_records': True}
+{'artist': 'Anne Murray', 'song': 'Lullaby Medley', 'genre': "Children's Music", 'alternative_artist': 'Anne Murray', 'add_to_final_records': True}
+{'artist': 'Anne Murray', 'song': 'What a Wonderful World', 'genre': "Children's Music", 'alternative_artist': 'Anne Murray', 'add_to_final_records': True}
+{'artist': 'Anne Murray', 'song': 'Sleepytime', 'genre': "Children's Music", 'alternative_artist': 'Anne Murray', 'add_to_final_records': True}
+{'artist': 'Anne Murray', 'song': 'Sing High, Sing Low', 'genre': "Children's Music", 'alternative_artist': 'Anne Murray', 'add_to_final_records': True}
+{'artist': 'Anne Murray', 'song': 'Why Oh Why (Why, Why, Why)', 'genre': "Children's Music", 'alternative_artist': 'Anne Murray', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'The Tooth Fairy Loves Ballet', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Must Be Santa', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'The Reindeer Jive', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Pajama Party', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'There Was a Great Big Moose', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'I Saw Mommy Kissing Santa Claus', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'S.A.N.T.A. (BINGO)', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Splish, Splash', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Our Fire Fighters', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': "Daddy's Little Girl", 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Adoption Means', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Dem Bones', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Mommy, Thank You', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Stop, Drop & Roll', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'The Little Green Frog', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Monkey Sing, Monkey Do!', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Press 9-1-1 (Police, Ambulance, Fire)', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'When the Smoke Alarm Goes Off', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Walk It (Exercise)', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Brush Your Teeth', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Big Red Ride', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'I Love to Sing This Song', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': "Teddy Bear's Picnic", 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Do You Hear What I Hear', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'The Green Grass Grows All Around', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Jingle Bells', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Rudolph the Red Nosed Reindeer', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': "Shortnin' Bread", 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'My Little Teddy Bear', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'There Were Five In the Bed', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': "Sparky's Funky Dance", 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': "Old Macdonald's Funky Farm", 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'My Beach Ball Is Bobbing On Water', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Hey, Hannah Banana', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Jingle Bell Rock(ier)', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Head & Shoulders, Knees & Toes', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Buzzy the Busy Bully Bee (Bullying)', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Swinging On a Star', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Tools Not Toys', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': "That's an Irish Lullabye", 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': "Grandma's Feather Bed", 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Dance to Your Daddy', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Five Little Monkeys', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Superdad', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'We Wish You a Mary Christmas', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Five Little Fishies In the Bathtub', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Silent Night', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Train Tracks Are for Trains (Train Track Safety)', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': "This Old Man Came Jivin' Home!", 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Hibernation Is Awesome!', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'The Fire Bug', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Wheels On the Bus', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'The Great Escape', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'The Unicorn Song', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': "Elmer's Funky Dance (School Bus Safety)", 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Safe Communities (Stranger Danger, Abuse)', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Angel Boy', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Children, Teach Your Parents', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Those Magnificent Men In Their Flying Machines', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Away In a Manger', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': "Because It's Halloween (Halloween Safety)", 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Turkey In the Straw', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Tabitha Marion Evelyn', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Take Your Umbrella to the Beach', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Sticky Fingers', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'No Up and Down In the Boat (Boating Safety)', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Swimming, Swimming', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Itsy Bitsy Spider', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'The Fire Bug II (Fire and Burn Safety)', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Together We Learn (Friendship, Tolerance and Differences)', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Put Out the Campfire', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': "Santa's Summer Home", 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'The Blankie', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'She', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Remember the Pass Word', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'The Ugly Duckling', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Do Your Ears Hang Low?', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'A Mary Christmas', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Hey Diddle Diddle', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'The Alphabet a Musical Joke', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Row, Row, Row Your Boat (Boating and Buckle Up Safety)', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Cycle Safe and Sound (Bicycle Safety)', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': "Camp Fire's Burning", 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'The Belly Button Peek-a-Boo', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Rock-a-bye Baby', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'My Little King', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'The Thing', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Snowflake and Evergreen', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': "Gumpo's False Teeth", 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'The Shake & Wiggle', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Black Fly Boogie', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': "It Ain't Gonna Rain No More", 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': "Grandpa's Farm (Farm Safety)", 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'The Name Game (Uniqueness of Each Child)', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': "We're Going to the Fair", 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Mister Sun', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Families Are Forever', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Apples and Bananas', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'There Was Little Rooster', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'My Moon', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Twinkle, Twinkle, Little Star', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Bamboo', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'The Black Fly Boogie', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Muskoka Madness', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'The Hokey Pokey', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Scare-A-Crow', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Peanut Butter/Hunny', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'My Beautiful World', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'I Love My Canada', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Left & Right', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Starkle, Starkle, Little Twink', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Eh Canada', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'I Know an Old Lady Who Swallowed a Fly', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Kids At Heart', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': "A Singin' Song", 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': "Rockin' Robin", 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'I Love Honey', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'The Worm Wiggle', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': "She'll Be Comin' 'round the Mountain", 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Lola the Little Litter Bug', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'What to Do', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': "Where's My Flicker", 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Worms & Dirt', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'The Purple People Eater', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'My Little Hands (feat. Logan Olsen)', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Jelly, Jelly', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Down At the Worm Farm', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Dig Me', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Scary Scarecrow', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Down By the Bay', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'I Want to Be an RCMP', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Twinkle, Twinkle Little Star (Moon)', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Le Mot de Passe', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Enfants, Enseignez a Vos Parents', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Wearing a Hat Is "Wear" It\'s At!', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': 'Sam Spitz', 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Mary Lambert', 'song': "Grammy's House", 'genre': "Children's Music", 'alternative_artist': 'Mary Lambert', 'add_to_final_records': True}
+{'artist': 'Felicity Urquhart, Roger Corbett, John Kane & Mark Walmsley', 'song': 'The Wonderful Crocodile', 'genre': "Children's Music", 'alternative_artist': 'John Corbett', 'add_to_final_records': True}
+{'artist': 'Felicity Urquhart, Roger Corbett, John Kane & Mark Walmsley', 'song': 'Bushland Boogie', 'genre': "Children's Music", 'alternative_artist': 'John Corbett', 'add_to_final_records': True}
+{'artist': 'Felicity Urquhart, Roger Corbett, John Kane & Mark Walmsley', 'song': 'The Drovers Dream', 'genre': "Children's Music", 'alternative_artist': 'John Corbett', 'add_to_final_records': True}
+{'artist': 'Felicity Urquhart, Roger Corbett, John Kane & Mark Walmsley', 'song': 'Flash Jack From Gundagai', 'genre': "Children's Music", 'alternative_artist': 'John Corbett', 'add_to_final_records': True}
+{'artist': 'Felicity Urquhart, Roger Corbett, John Kane & Mark Walmsley', 'song': 'My Island Home', 'genre': "Children's Music", 'alternative_artist': 'John Corbett', 'add_to_final_records': True}
+{'artist': 'Felicity Urquhart, Roger Corbett, John Kane & Mark Walmsley', 'song': 'Raining On the Rock', 'genre': "Children's Music", 'alternative_artist': 'John Corbett', 'add_to_final_records': True}
+{'artist': 'Felicity Urquhart, Roger Corbett, John Kane & Mark Walmsley', 'song': 'Ryebuck Shearer', 'genre': "Children's Music", 'alternative_artist': 'John Corbett', 'add_to_final_records': True}
+{'artist': 'Felicity Urquhart, Roger Corbett, John Kane & Mark Walmsley', 'song': 'When the Rain Tumbles Down In July', 'genre': "Children's Music", 'alternative_artist': 'John Corbett', 'add_to_final_records': True}
+{'artist': 'Felicity Urquhart, Roger Corbett, John Kane & Mark Walmsley', 'song': 'Sun-A-Rise', 'genre': "Children's Music", 'alternative_artist': 'John Corbett', 'add_to_final_records': True}
+{'artist': 'Felicity Urquhart, Roger Corbett, John Kane & Mark Walmsley', 'song': 'Limejuice Tub', 'genre': "Children's Music", 'alternative_artist': 'John Corbett', 'add_to_final_records': True}
+{'artist': 'Felicity Urquhart, Roger Corbett, John Kane & Mark Walmsley', 'song': 'Old Man Emu', 'genre': "Children's Music", 'alternative_artist': 'John Corbett', 'add_to_final_records': True}
+{'artist': 'Felicity Urquhart, Roger Corbett, John Kane & Mark Walmsley', 'song': 'Jake the Peg', 'genre': "Children's Music", 'alternative_artist': 'John Corbett', 'add_to_final_records': True}
+{'artist': 'Felicity Urquhart, Roger Corbett, John Kane & Mark Walmsley', 'song': 'The Old Bark Hut', 'genre': "Children's Music", 'alternative_artist': 'John Corbett', 'add_to_final_records': True}
+{'artist': 'Felicity Urquhart, Roger Corbett, John Kane & Mark Walmsley', 'song': 'Lachlan Tigers', 'genre': "Children's Music", 'alternative_artist': 'John Corbett', 'add_to_final_records': True}
+{'artist': 'Colt McCoy, Pat Green, Kevin Fowler, Roger Creager, Mike Eli, Wade Bowen, Kyle Park & Ray Benson', 'song': 'Deep in the Heart of Texas', 'genre': "Children's Music", 'alternative_artist': 'Little Texas', 'add_to_final_records': True}
+{'artist': 'Twinkle Twinkle Little Rock Star', 'song': 'Forty Six & 2', 'genre': "Children's Music", 'alternative_artist': 'Tool', 'add_to_final_records': True}
+{'artist': 'Twinkle Twinkle Little Rock Star', 'song': 'Sober', 'genre': "Children's Music", 'alternative_artist': 'Tool', 'add_to_final_records': True}
+{'artist': 'Twinkle Twinkle Little Rock Star', 'song': 'Schism', 'genre': "Children's Music", 'alternative_artist': 'Tool', 'add_to_final_records': True}
+{'artist': 'Twinkle Twinkle Little Rock Star', 'song': 'Stinkfist', 'genre': "Children's Music", 'alternative_artist': 'Tool', 'add_to_final_records': True}
+{'artist': 'Twinkle Twinkle Little Rock Star', 'song': 'Parabola', 'genre': "Children's Music", 'alternative_artist': 'Tool', 'add_to_final_records': True}
+{'artist': 'Twinkle Twinkle Little Rock Star', 'song': '10,000 Days', 'genre': "Children's Music", 'alternative_artist': 'Tool', 'add_to_final_records': True}
+{'artist': 'Twinkle Twinkle Little Rock Star', 'song': 'Vicarious', 'genre': "Children's Music", 'alternative_artist': 'Tool', 'add_to_final_records': True}
+{'artist': 'Twinkle Twinkle Little Rock Star', 'song': 'The Grudge', 'genre': "Children's Music", 'alternative_artist': 'Tool', 'add_to_final_records': True}
+{'artist': 'Twinkle Twinkle Little Rock Star', 'song': 'Lateralus', 'genre': "Children's Music", 'alternative_artist': 'Tool', 'add_to_final_records': True}
+{'artist': 'Twinkle Twinkle Little Rock Star', 'song': 'Right in Two', 'genre': "Children's Music", 'alternative_artist': 'Tool', 'add_to_final_records': True}
+{'artist': 'Twinkle Twinkle Little Rock Star', 'song': 'Aenima', 'genre': "Children's Music", 'alternative_artist': 'Tool', 'add_to_final_records': True}
+{'artist': 'Kevin and the Infinite Possibilities', 'song': 'A Great Big World', 'genre': "Children's Music", 'alternative_artist': 'A Great Big World', 'add_to_final_records': True}
+{'artist': 'The Verve Pipe', 'song': "It's a Great Big World", 'genre': "Children's Music", 'alternative_artist': 'A Great Big World', 'add_to_final_records': True}
+{'artist': 'Joe McDermott', 'song': 'Come to Hawaii', 'genre': "Children's Music", 'alternative_artist': 'A Great Big World', 'add_to_final_records': True}
+{'artist': 'Stephen Michael Schwartz', 'song': "It's a Small World / There's a Great Big Beautiful Tomorrow", 'genre': "Children's Music", 'alternative_artist': 'A Great Big World', 'add_to_final_records': True}
+{'artist': 'Joe McDermott', 'song': "Let's Go To The Beach", 'genre': "Children's Music", 'alternative_artist': 'A Great Big World', 'add_to_final_records': True}
+{'artist': 'Joe McDermott', 'song': 'I Got Stuck In An Elevator', 'genre': "Children's Music", 'alternative_artist': 'A Great Big World', 'add_to_final_records': True}
+{'artist': 'Joe McDermott', 'song': 'Clap Your Hands', 'genre': "Children's Music", 'alternative_artist': 'A Great Big World', 'add_to_final_records': True}
+{'artist': 'Joe McDermott', 'song': 'My Cat Can Fly', 'genre': "Children's Music", 'alternative_artist': 'A Great Big World', 'add_to_final_records': True}
+{'artist': 'Global Wonders & Jim Latham', 'song': 'Global Wonders Theme (Great Big World)', 'genre': "Children's Music", 'alternative_artist': 'A Great Big World', 'add_to_final_records': True}
+{'artist': 'Joe McDermott', 'song': "Don't Get Close To The Alligator", 'genre': "Children's Music", 'alternative_artist': 'A Great Big World', 'add_to_final_records': True}
+{'artist': 'Joe McDermott', 'song': 'Let The Dog Go Out', 'genre': "Children's Music", 'alternative_artist': 'A Great Big World', 'add_to_final_records': True}
+{'artist': 'Joe McDermott', 'song': 'Way Out West', 'genre': "Children's Music", 'alternative_artist': 'A Great Big World', 'add_to_final_records': True}
+{'artist': 'Joe McDermott', 'song': 'Everything Grows', 'genre': "Children's Music", 'alternative_artist': 'A Great Big World', 'add_to_final_records': True}
+{'artist': 'Mary Rice Hopkins', 'song': 'God Made a Great Big World', 'genre': "Children's Music", 'alternative_artist': 'A Great Big World', 'add_to_final_records': True}
+{'artist': 'James Ward', 'song': 'Great Grand Dad', 'genre': "Children's Music", 'alternative_artist': 'A Great Big World', 'add_to_final_records': True}
+{'artist': 'Assist and The Sunrunners', 'song': 'The Itsy Bitsy, Teeny Weeny, & Great Big Spiders', 'genre': "Children's Music", 'alternative_artist': 'A Great Big World', 'add_to_final_records': True}
+{'artist': 'Eric Heatherly', 'song': 'Down By the Bay', 'genre': "Children's Music", 'alternative_artist': 'Eric Heatherly', 'add_to_final_records': True}
+{'artist': 'Colt McCoy, Pat Green, Kevin Fowler, Roger Creager, Mike Eli, Wade Bowen, Kyle Park & Ray Benson', 'song': 'Deep in the Heart of Texas', 'genre': "Children's Music", 'alternative_artist': 'Pat Green', 'add_to_final_records': True}
+{'artist': 'Pat Green', 'song': 'Big Rock Candy Mountain', 'genre': "Children's Music", 'alternative_artist': 'Pat Green', 'add_to_final_records': True}
+{'artist': 'Barry Louis Polisar', 'song': 'With a Giggle & a Hug & a Tickle & a Kiss', 'genre': "Children's Music", 'alternative_artist': 'Naughty Boy', 'add_to_final_records': True}
+{'artist': 'Barry Louis Polisar', 'song': "You're As Sweet As Sugar On a Stick", 'genre': "Children's Music", 'alternative_artist': 'Naughty Boy', 'add_to_final_records': True}
+{'artist': 'Barry Louis Polisar', 'song': "Don't Put Your Finger Up Your Nose", 'genre': "Children's Music", 'alternative_artist': 'Naughty Boy', 'add_to_final_records': True}
+{'artist': 'Hushabye Baby', 'song': "Grandpa (Tell Me 'Bout the Good Old Days) (Lullaby Rendition of the Judds)", 'genre': "Children's Music", 'alternative_artist': 'The Judds', 'add_to_final_records': True}
+{'artist': 'Jon Secada & Shanice', 'song': 'If I Never Knew You - End Title', 'genre': "Children's Music", 'alternative_artist': 'Charice', 'add_to_final_records': True}
+{'artist': 'The Wonder Kids', 'song': "Elijah's Chariot of Fire (Story)", 'genre': "Children's Music", 'alternative_artist': 'Charice', 'add_to_final_records': True}
+{'artist': 'Jimmy Wayne', 'song': 'Puppy Love', 'genre': "Children's Music", 'alternative_artist': 'Jimmy Wayne', 'add_to_final_records': True}
+{'artist': 'Jimmy Wayne', 'song': 'Pray', 'genre': "Children's Music", 'alternative_artist': 'Jimmy Wayne', 'add_to_final_records': True}
+{'artist': 'Jimmy Wayne', 'song': "Don't Give Up", 'genre': "Children's Music", 'alternative_artist': 'Jimmy Wayne', 'add_to_final_records': True}
+{'artist': 'Jimmy Wayne', 'song': 'Shine', 'genre': "Children's Music", 'alternative_artist': 'Jimmy Wayne', 'add_to_final_records': True}
+{'artist': 'Jimmy Wayne', 'song': 'Proud of You', 'genre': "Children's Music", 'alternative_artist': 'Jimmy Wayne', 'add_to_final_records': True}
+{'artist': 'Jimmy Wayne', 'song': 'Standing out in a Crowd', 'genre': "Children's Music", 'alternative_artist': 'Jimmy Wayne', 'add_to_final_records': True}
+{'artist': 'Jimmy Wayne', 'song': 'I Love U2', 'genre': "Children's Music", 'alternative_artist': 'Jimmy Wayne', 'add_to_final_records': True}
+{'artist': 'Jimmy Wayne', 'song': 'Things', 'genre': "Children's Music", 'alternative_artist': 'Jimmy Wayne', 'add_to_final_records': True}
+{'artist': 'Jimmy Wayne', 'song': 'Some Small Good Deed', 'genre': "Children's Music", 'alternative_artist': 'Jimmy Wayne', 'add_to_final_records': True}
+{'artist': 'Jimmy Wayne', 'song': 'Flip Flops', 'genre': "Children's Music", 'alternative_artist': 'Jimmy Wayne', 'add_to_final_records': True}
+{'artist': 'Jimmy Wayne', 'song': 'New Level New Devil', 'genre': "Children's Music", 'alternative_artist': 'Jimmy Wayne', 'add_to_final_records': True}
+{'artist': 'Jimmy Wayne', 'song': 'Family Time', 'genre': "Children's Music", 'alternative_artist': 'Jimmy Wayne', 'add_to_final_records': True}
+{'artist': 'Jimmy Wayne Foster', 'song': 'Rocking The Alphabet (feat. Colleen S. Foster)', 'genre': "Children's Music", 'alternative_artist': 'Jimmy Wayne', 'add_to_final_records': True}
+{'artist': 'Selena Gomez & Demi Lovato', 'song': 'One and the Same', 'genre': "Children's Music", 'alternative_artist': 'Demi Lovato', 'add_to_final_records': True}
+{'artist': 'Demi Lovato', 'song': "That's How You Know", 'genre': "Children's Music", 'alternative_artist': 'Demi Lovato', 'add_to_final_records': True}
+{'artist': 'Demi Lovato & Joe Jonas', 'song': 'This Is Me', 'genre': "Children's Music", 'alternative_artist': 'Demi Lovato', 'add_to_final_records': True}
+{'artist': 'Demi Lovato', 'song': 'The Gift of a Friend', 'genre': "Children's Music", 'alternative_artist': 'Demi Lovato', 'add_to_final_records': True}
+{'artist': 'The Fort Bend Boys Choir of Texas', 'song': 'Ode to Joy (From Symphony 9 in D Minor, 4th Movement)', 'genre': "Children's Music", 'alternative_artist': 'Fort Minor', 'add_to_final_records': True}
+{'artist': 'Einstein Baby Lullaby Academy', 'song': 'London Bridge Is Falling Down', 'genre': "Children's Music", 'alternative_artist': 'The Academy Is', 'add_to_final_records': True}
+{'artist': 'Einstein Baby Lullaby Academy', 'song': 'London Bridge Is Falling Down with Ocean Waves', 'genre': "Children's Music", 'alternative_artist': 'The Academy Is', 'add_to_final_records': True}
+{'artist': 'Ella Jenkins', 'song': 'Where Is Mary?', 'genre': "Children's Music", 'alternative_artist': 'The Academy Is', 'add_to_final_records': True}
+{'artist': 'Ella Jenkins', 'song': 'My Name Is Ella', 'genre': "Children's Music", 'alternative_artist': 'The Academy Is', 'add_to_final_records': True}
+{'artist': 'Rockabye Baby!', 'song': "Ana's Song (Open Fire)", 'genre': "Children's Music", 'alternative_artist': 'Silverchair', 'add_to_final_records': True}
+{'artist': 'Rockabye Baby!', 'song': 'Miss You Love', 'genre': "Children's Music", 'alternative_artist': 'Silverchair', 'add_to_final_records': True}
+{'artist': 'Rockabye Baby!', 'song': 'Straight Lines', 'genre': "Children's Music", 'alternative_artist': 'Silverchair', 'add_to_final_records': True}
+{'artist': 'Rockabye Baby!', 'song': 'Anthem for the Year 2000', 'genre': "Children's Music", 'alternative_artist': 'Silverchair', 'add_to_final_records': True}
+{'artist': 'Rockabye Baby!', 'song': 'Emotion Sickness', 'genre': "Children's Music", 'alternative_artist': 'Silverchair', 'add_to_final_records': True}
+{'artist': 'Katharine McPhee', 'song': 'Let Your Heart Sing', 'genre': "Children's Music", 'alternative_artist': 'Katharine McPhee', 'add_to_final_records': True}
+{'artist': 'Darius Rucker', 'song': "It's All Right to Cry", 'genre': "Children's Music", 'alternative_artist': 'Darius Rucker', 'add_to_final_records': True}
+{'artist': 'Darius Rucker', 'song': 'Beautiful Baby', 'genre': "Children's Music", 'alternative_artist': 'Darius Rucker', 'add_to_final_records': True}
+{'artist': 'Aly & AJ', 'song': 'Zip a Dee Doo Dah', 'genre': "Children's Music", 'alternative_artist': 'Aly & AJ', 'add_to_final_records': True}
+{'artist': 'Trisha Yearwood & Herry Monster', 'song': "I'm Talkin' Love", 'genre': "Children's Music", 'alternative_artist': 'Trisha Yearwood', 'add_to_final_records': True}
+{'artist': 'Big Bird & Tanya Tucker', 'song': "You'll Never Take the Texas Out of Me", 'genre': "Children's Music", 'alternative_artist': 'Tanya Tucker', 'add_to_final_records': True}
+{'artist': 'Ash Guff, Brats On The Beat Singers', 'song': 'Spiderman', 'genre': "Children's Music", 'alternative_artist': 'The Ramones', 'add_to_final_records': True}
+{'artist': 'Judy Armstrong & Tink Robinson', 'song': 'Bruce the Moose', 'genre': "Children's Music", 'alternative_artist': 'Bruce Robison', 'add_to_final_records': True}
+{'artist': 'Linda Ronstadt, Stephen Bishop & Andrew Gold', 'song': 'The Monster Mash', 'genre': "Children's Music", 'alternative_artist': 'Linda Ronstadt', 'add_to_final_records': True}
+{'artist': 'Frédéric Chopin', 'song': 'Prelude In D Flat Major, Op. 28, No. 15, Raindrop', 'genre': "Children's Music", 'alternative_artist': 'Frédéric François', 'add_to_final_records': True}
+{'artist': 'Jean-François Alexandre & Mathieu Lenestour', 'song': 'Frédéric', 'genre': "Children's Music", 'alternative_artist': 'Frédéric François', 'add_to_final_records': True}
+{'artist': 'Mouseketeers', 'song': 'Mickey Mouse Club March', 'genre': "Children's Music", 'alternative_artist': 'Archive', 'add_to_final_records': True}
+{'artist': "Plain White T's", 'song': 'When I See an Elephant Fly', 'genre': "Children's Music", 'alternative_artist': "Plain White T's", 'add_to_final_records': True}
+{'artist': 'Brent Holmes and Emily West', 'song': 'Ocean Lullaby', 'genre': "Children's Music", 'alternative_artist': 'Emily West', 'add_to_final_records': True}
+{'artist': 'Mitchel Musso & Tiffany Thornton', 'song': 'Let It Go', 'genre': "Children's Music", 'alternative_artist': 'Tiffany', 'add_to_final_records': True}
+{'artist': 'The Countdown Kids', 'song': 'Daddy Wouldn’t Buy Me A Bow -Wow', 'genre': "Children's Music", 'alternative_artist': 'Bow Wow', 'add_to_final_records': True}
+{'artist': 'Colbie Caillat', 'song': 'Kiss the Girl', 'genre': "Children's Music", 'alternative_artist': 'Colbie Caillat', 'add_to_final_records': True}
+{'artist': 'P.T. Publications', 'song': 'The Old Dominion', 'genre': "Children's Music", 'alternative_artist': 'Old Dominion', 'add_to_final_records': True}
+{'artist': 'Melvil Dewey', 'song': 'Book Marky Mark', 'genre': "Children's Music", 'alternative_artist': 'Marky Mark', 'add_to_final_records': True}
+{'artist': 'Colt McCoy, Pat Green, Kevin Fowler, Roger Creager, Mike Eli, Wade Bowen, Kyle Park & Ray Benson', 'song': 'Deep in the Heart of Texas', 'genre': "Children's Music", 'alternative_artist': 'Kevin Fowler', 'add_to_final_records': True}
+{'artist': 'Owl City', 'song': 'Light of Christmas (feat. tobyMac)', 'genre': "Children's Music", 'alternative_artist': 'Owl City', 'add_to_final_records': True}
+{'artist': 'TobyMac', 'song': 'Light of Christmas (feat. Owl City)', 'genre': "Children's Music", 'alternative_artist': 'Owl City', 'add_to_final_records': True}
+{'artist': 'Rivermaya', 'song': "It's Book Time (feat. Jolina Magdangal)", 'genre': "Children's Music", 'alternative_artist': 'Rivermaya', 'add_to_final_records': True}
+{'artist': 'Rivermaya', 'song': 'Oras Na Para Magbasa (feat. Jolina Magdangal)', 'genre': "Children's Music", 'alternative_artist': 'Rivermaya', 'add_to_final_records': True}
+{'artist': 'Thaddeus Rex', 'song': 'Country Roads', 'genre': "Children's Music", 'alternative_artist': 'Heartland (Country)', 'add_to_final_records': True}
+{'artist': 'Janice Kapp Perry, Steven Kapp Perry & Marvin Payne', 'song': 'Jesus and His Friends B', 'genre': "Children's Music", 'alternative_artist': 'The Band Perry', 'add_to_final_records': True}
+{'artist': 'Janice Kapp Perry, Steven Kapp Perry & Marvin Payne', 'song': 'Jesus and John the Baptist B', 'genre': "Children's Music", 'alternative_artist': 'The Band Perry', 'add_to_final_records': True}
+{'artist': 'Janice Kapp Perry, Steven Kapp Perry & Marvin Payne', 'song': 'Birth of Jesus B', 'genre': "Children's Music", 'alternative_artist': 'The Band Perry', 'add_to_final_records': True}
+{'artist': 'Janice Kapp Perry, Steven Kapp Perry & Marvin Payne', 'song': 'The Magnificent Sacrifice of Jesus B', 'genre': "Children's Music", 'alternative_artist': 'The Band Perry', 'add_to_final_records': True}
+{'artist': 'Janice Kapp Perry, Steven Kapp Perry & Marvin Payne', 'song': 'Jesus Teaches With Parables B', 'genre': "Children's Music", 'alternative_artist': 'The Band Perry', 'add_to_final_records': True}
+{'artist': 'Janice Kapp Perry, Steven Kapp Perry & Marvin Payne', 'song': "Jesus' Mighty Miracles B", 'genre': "Children's Music", 'alternative_artist': 'The Band Perry', 'add_to_final_records': True}
+{'artist': 'Katzenjammer', 'song': 'Den Uheldige Mannen', 'genre': "Children's Music", 'alternative_artist': 'Katzenjammer', 'add_to_final_records': True}
+{'artist': 'Steven Courtney Band', 'song': 'Airbourne 81', 'genre': "Children's Music", 'alternative_artist': 'Airbourne', 'add_to_final_records': True}
+{'artist': 'David Landau', 'song': 'Firefighter Song', 'genre': "Children's Music", 'alternative_artist': 'A Rocket to the Moon', 'add_to_final_records': True}
+{'artist': 'Juice Music', 'song': "We're Flying to the Moon", 'genre': "Children's Music", 'alternative_artist': 'A Rocket to the Moon', 'add_to_final_records': True}
+{'artist': 'Juice Music', 'song': 'Blast Off!', 'genre': "Children's Music", 'alternative_artist': 'A Rocket to the Moon', 'add_to_final_records': True}
+{'artist': 'Juice Music', 'song': 'When You Wish Upon a Star', 'genre': "Children's Music", 'alternative_artist': 'A Rocket to the Moon', 'add_to_final_records': True}
+{'artist': 'David Landau', 'song': 'A Peanut Sat On a Railroad Track', 'genre': "Children's Music", 'alternative_artist': 'A Rocket to the Moon', 'add_to_final_records': True}
+{'artist': 'Juice Music', 'song': 'Mikey the Marsian', 'genre': "Children's Music", 'alternative_artist': 'A Rocket to the Moon', 'add_to_final_records': True}
+{'artist': 'Juice Music', 'song': 'Six Little Men in a Flying Saucer', 'genre': "Children's Music", 'alternative_artist': 'A Rocket to the Moon', 'add_to_final_records': True}
+{'artist': 'Juice Music', 'song': 'Milky Way', 'genre': "Children's Music", 'alternative_artist': 'A Rocket to the Moon', 'add_to_final_records': True}
+{'artist': 'Juice Music', 'song': 'Solar Neighbourhoor', 'genre': "Children's Music", 'alternative_artist': 'A Rocket to the Moon', 'add_to_final_records': True}
+{'artist': 'Juice Music', 'song': 'Sally Go Round the Sun', 'genre': "Children's Music", 'alternative_artist': 'A Rocket to the Moon', 'add_to_final_records': True}
+{'artist': 'Juice Music', 'song': 'Man on the Moon', 'genre': "Children's Music", 'alternative_artist': 'A Rocket to the Moon', 'add_to_final_records': True}
+{'artist': 'Juice Music', 'song': "There's a Lot of Space in Space", 'genre': "Children's Music", 'alternative_artist': 'A Rocket to the Moon', 'add_to_final_records': True}
+{'artist': 'Juice Music', 'song': 'I Want to Be an Astronanut', 'genre': "Children's Music", 'alternative_artist': 'A Rocket to the Moon', 'add_to_final_records': True}
+{'artist': 'Juice Music', 'song': 'Hey Diddle Diddle', 'genre': "Children's Music", 'alternative_artist': 'A Rocket to the Moon', 'add_to_final_records': True}
+{'artist': 'Juice Music', 'song': 'Our Solar System', 'genre': "Children's Music", 'alternative_artist': 'A Rocket to the Moon', 'add_to_final_records': True}
+{'artist': 'Raymond Scott and His Quintet & The Gene Lowell Chorus', 'song': 'By Rocket to the Moon', 'genre': "Children's Music", 'alternative_artist': 'A Rocket to the Moon', 'add_to_final_records': True}
+{'artist': 'Juice Music', 'song': 'Purple People Eater', 'genre': "Children's Music", 'alternative_artist': 'A Rocket to the Moon', 'add_to_final_records': True}
+{'artist': 'Juice Music', 'song': 'Twinkle Twinkle Little Star', 'genre': "Children's Music", 'alternative_artist': 'A Rocket to the Moon', 'add_to_final_records': True}
+{'artist': 'Steven Courtney', 'song': 'Walk In Love', 'genre': "Children's Music", 'alternative_artist': 'Courtney Love', 'add_to_final_records': True}
+{'artist': 'Amber Sky Records', 'song': 'Your Love Never Fails (feat. Adam Courtney)', 'genre': "Children's Music", 'alternative_artist': 'Courtney Love', 'add_to_final_records': True}
+{'artist': 'Jack Ingram', 'song': 'You Are My Sunshine', 'genre': "Children's Music", 'alternative_artist': 'Jack Ingram', 'add_to_final_records': True}
+{'artist': 'Steff and the Grogan Girls', 'song': 'Mako and Me', 'genre': "Children's Music", 'alternative_artist': 'mako girls', 'add_to_final_records': True}
+{'artist': 'The Birthday Bunch', 'song': "She'll Be Coming Round the Mountain", 'genre': "Children's Music", 'alternative_artist': 'SHeDAISY', 'add_to_final_records': True}
+{'artist': 'The Little Rockers Band', 'song': 'Old Mick Jagger', 'genre': "Children's Music", 'alternative_artist': 'Mick Jagger', 'add_to_final_records': True}
+{'artist': 'Dale Freeman', 'song': 'Snuggle Buggle Snuggly Do', 'genre': "Children's Music", 'alternative_artist': 'Buggles', 'add_to_final_records': True}
+{'artist': 'Barry Louis Polisar', 'song': 'Dad Says That I Look Like Him', 'genre': "Children's Music", 'alternative_artist': 'Boys Like Girls', 'add_to_final_records': True}
+{'artist': 'KIDZ BOP Kids', 'song': 'Take You There (feat. Sean Kingston)', 'genre': "Children's Music", 'alternative_artist': 'Sean Kingston', 'add_to_final_records': True}
+{'artist': 'Christina Aguilera', 'song': 'Reflection', 'genre': "Children's Music", 'alternative_artist': 'Christina Aguilera', 'add_to_final_records': True}
+{'artist': "Daniel Tiger's Neighborhood", 'song': 'Clothes on, Eat Breakfast, Brush Teeth, Put on Shoes, and off to School!', 'genre': "Children's Music", 'alternative_artist': 'Breakfast Club', 'add_to_final_records': True}
+{'artist': 'Bridgit Mendler', 'song': 'When She Loved Me', 'genre': "Children's Music", 'alternative_artist': 'Bridgit Mendler', 'add_to_final_records': True}
+{'artist': 'Mandy Moore', 'song': 'When Will My Life Begin? (From "Tangled")', 'genre': "Children's Music", 'alternative_artist': 'Mandy Moore', 'add_to_final_records': True}
+{'artist': 'Mandy Moore & Zachary Levi', 'song': 'I See the Light', 'genre': "Children's Music", 'alternative_artist': 'Mandy Moore', 'add_to_final_records': True}
+{'artist': 'Mandy Moore', 'song': 'When Will My Life Begin', 'genre': "Children's Music", 'alternative_artist': 'Mandy Moore', 'add_to_final_records': True}
+{'artist': 'Miley Cyrus', 'song': 'Part of Your World', 'genre': "Children's Music", 'alternative_artist': 'Miley Cyrus', 'add_to_final_records': True}
+{'artist': 'Miley Cyrus', 'song': 'Start All Over', 'genre': "Children's Music", 'alternative_artist': 'Miley Cyrus', 'add_to_final_records': True}
+{'artist': 'Miley Cyrus', 'song': 'Zip-A-Dee-Doo-Dah', 'genre': "Children's Music", 'alternative_artist': 'Miley Cyrus', 'add_to_final_records': True}
+{'artist': 'The Tiny Boppers', 'song': 'Ring a Ring of Roses', 'genre': "Children's Music", 'alternative_artist': 'Maggie Rose', 'add_to_final_records': True}
+{'artist': 'Johnny Cash', 'song': 'I Got a Boy (And His Name Is John) [with June Carter Cash]', 'genre': "Children's Music", 'alternative_artist': 'June Carter Cash', 'add_to_final_records': True}
+{'artist': "Ilene Woods & Cinderella's Mice Chorus", 'song': 'A Dream Is a Wish Your Heart Makes', 'genre': "Children's Music", 'alternative_artist': 'Of Mice & Men', 'add_to_final_records': True}
+{'artist': 'Songs For Children', 'song': 'Three Blind Mice', 'genre': "Children's Music", 'alternative_artist': 'Of Mice & Men', 'add_to_final_records': True}
+{'artist': 'Archie Campbell', 'song': 'Christmas Eve In Heaven', 'genre': "Children's Music", 'alternative_artist': 'Archie Campbell', 'add_to_final_records': True}
+{'artist': 'Archie Campbell', 'song': "Mommy's Little Girl (Daddy's Pride and Joy)", 'genre': "Children's Music", 'alternative_artist': 'Archie Campbell', 'add_to_final_records': True}
+{'artist': 'Archie Campbell', 'song': 'Just Like His Dad', 'genre': "Children's Music", 'alternative_artist': 'Archie Campbell', 'add_to_final_records': True}
+{'artist': 'Archie Campbell', 'song': 'That Little Boy of Mine', 'genre': "Children's Music", 'alternative_artist': 'Archie Campbell', 'add_to_final_records': True}
+{'artist': 'Archie Campbell', 'song': 'We Never Get Hungry On Sunday', 'genre': "Children's Music", 'alternative_artist': 'Archie Campbell', 'add_to_final_records': True}
+{'artist': 'Archie Campbell', 'song': 'Children', 'genre': "Children's Music", 'alternative_artist': 'Archie Campbell', 'add_to_final_records': True}
+{'artist': 'Archie Campbell', 'song': "The Men in My Little Girl's Life", 'genre': "Children's Music", 'alternative_artist': 'Archie Campbell', 'add_to_final_records': True}
+{'artist': 'Archie Campbell', 'song': 'The Bubblegum Bandit', 'genre': "Children's Music", 'alternative_artist': 'Archie Campbell', 'add_to_final_records': True}
+{'artist': 'Archie Campbell', 'song': 'Little Boy Blue', 'genre': "Children's Music", 'alternative_artist': 'Archie Campbell', 'add_to_final_records': True}
+{'artist': 'Archie Campbell', 'song': 'My Little Buckaroo', 'genre': "Children's Music", 'alternative_artist': 'Archie Campbell', 'add_to_final_records': True}
+{'artist': 'Archie Campbell', 'song': 'Old Shep', 'genre': "Children's Music", 'alternative_artist': 'Archie Campbell', 'add_to_final_records': True}
+{'artist': 'Campbell', 'song': 'Archie Loves Tyranitar, Shaymin, And Popsicles', 'genre': "Children's Music", 'alternative_artist': 'Archie Campbell', 'add_to_final_records': True}
+{'artist': 'Jeff Bates', 'song': "Hay (feat. John Ritter's Children's Choir)", 'genre': "Children's Music", 'alternative_artist': 'Jeff Bates', 'add_to_final_records': True}
+{'artist': 'Jeff Bates', 'song': "Who Needs Kings (feat. John Ritter's Children's Choir)", 'genre': "Children's Music", 'alternative_artist': 'Jeff Bates', 'add_to_final_records': True}
+{'artist': 'Jeff Bates', 'song': "The Road the Bethlehem (feat. John Ritter's Children's Choir)", 'genre': "Children's Music", 'alternative_artist': 'Jeff Bates', 'add_to_final_records': True}
+{'artist': 'Jeff Bates', 'song': "First (feat. John Ritter's Children's Choir)", 'genre': "Children's Music", 'alternative_artist': 'Jeff Bates', 'add_to_final_records': True}
+{'artist': 'Jeff Bates', 'song': "Shepherd's Lullabye (feat. John Ritter's Children's Choir)", 'genre': "Children's Music", 'alternative_artist': 'Jeff Bates', 'add_to_final_records': True}
+{'artist': 'The Countdown Kids', 'song': "Here We Go 'Round The Mulberry Bush", 'genre': "Children's Music", 'alternative_artist': 'Bush', 'add_to_final_records': True}
+{'artist': 'The Countdown Kids', 'song': "Here We Go 'Round the Mulberry Bush", 'genre': "Children's Music", 'alternative_artist': 'Bush', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': "Cassidy's Personalized Happy Birthday Song (Casity, Cassity, Kasidy, Kasity, Kassidee, Kassidy, Kassity)", 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': 'Cassidy, I Love You So (Casity, Cassity, Kasidy, Kasity, Kassidee, Kassidy, Kassity)', 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': 'Imagine Cassidy As a Teacher (Casity, Cassity, Kasidy, Kasity, Kassidee, Kassidy, Kassity)', 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': "Santa's Christmas Message to Cassidy (Casity, Cassity, Kasidy, Kasity, Kassidee, Kassidy, Kassity)", 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': 'Cassidy, Close Your Eyes (Casity, Cassity, Kasidy, Kasity, Kassidee, Kassidy, Kassity)', 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': 'Happy Birthday to Cassidy (Casidy, Casity, Cassity, Kasity, Kassidy, Kassity)', 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': 'Cassidy, a Love That Leads to You (Casity, Cassity, Kasidy, Kasity, Kassidee, Kassidy, Kassity)', 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': 'Follow along with Simon Says Cassidy (Casidy, Casity, Cassity, Kasity, Kassidy, Kassity)', 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': 'Sing You a Lullaby Cassidy (Casity, Cassity, Kasidy, Kasity, Kassidee, Kassidy, Kassity)', 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': "There's No One Like You, a Lullaby for Cassidy (Casity, Cassity, Kasidy, Kasity, Kassidee, Kassidy, Kassity)", 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': 'Dream Again Cassidy (Casity, Cassity, Kasidy, Kasity, Kassidee, Kassidy, Kassity)', 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': 'Listen Cassidy (Casity, Cassity, Kasidy, Kasity, Kassidee, Kassidy, Kassity)', 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': "Cassidy, Your Heavenly Father's Heart (Casity, Cassity, Kasidy, Kasity, Kassidee, Kassidy, Kassity)", 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': "Let's Dance Cassidy (Casidy, Casity, Cassity, Kasity, Kassidy, Kassity)", 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': 'Sailing With Cassidy (Casity, Cassity, Kasidy, Kasity, Kassidee, Kassidy, Kassity)', 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': 'Cassidy has the Purple Sock Blues (Casidy, Casity, Cassity, Kasity, Kassidy, Kassity)', 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': 'Cassidy, Can you Spell P-A-R-T-Y (Casidy, Casity, Cassity, Kasity, Kassidy, Kassity)', 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': 'Wake Up Cassidy (Casidy, Casity, Cassity, Kasity, Kassidy, Kassity)', 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': "Cassidy, Let's Sing the Ha Ha Hee Hee Song (Casidy, Casity, Cassity, Kasity, Kassidy, Kassity)", 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': 'I Love Pizza. Do you Cassidy? (Casidy, Casity, Cassity, Kasity, Kassidy, Kassity)', 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': 'Are you ready to do the Hokey Pokey Cassidy (Casidy, Casity, Cassity, Kasity, Kassidy, Kassity)', 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': 'Cassidy, there is No One Else Like You (Casidy, Casity, Cassity, Kasity, Kassidy, Kassity)', 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': "This Little Light of Cassidy's (Casidy, Casity, Cassity, Kasity, Kassidy, Kassity)", 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': "Let's do the Dinosaur Shuffle Cassidy (Casidy, Casity, Cassity, Kasity, Kassidy, Kassity)", 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': 'The Bumble Bee Song for Cassidy (Casidy, Casity, Cassity, Kasity, Kassidy, Kassity)', 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': "Cassidy's Silly Farm (Casidy, Casity, Cassity, Kasity, Kassidy, Kassity)", 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': 'Dooby Dooby Swing Song for Cassidy (Casidy, Casity, Cassity, Kasity, Kassidy, Kassity)', 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': 'Cassidy, Jesus Loves the Little Children (Casidy, Casity, Cassity, Kasity, Kassidy, Kassity)', 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': 'Imagine Cassidy As a Dentist (Casity, Cassity, Kasidy, Kasity, Kassidee, Kassidy, Kassity)', 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': 'Yellow Rubber Ducky Song for Cassidy (Casidy, Casity, Cassity, Kasity, Kassidy, Kassity)', 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': 'Say Goodnight Cassidy (Casidy, Casity, Cassity, Kasity, Kassidy, Kassity)', 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': "Cassidy's has Joy, Joy, Joy (Casidy, Casity, Cassity, Kasity, Kassidy, Kassity)", 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': 'Imagine Cassidy As a Circus Clown (Casity, Cassity, Kasidy, Kasity, Kassidee, Kassidy, Kassity)', 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': 'Cassidy is Dreaming of Twinkle Stars (Casidy, Casity, Cassity, Kasity, Kassidy, Kassity)', 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': 'Imagine Cassidy As a Farmer (Casity, Cassity, Kasidy, Kasity, Kassidee, Kassidy, Kassity)', 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': 'Cassidy, sing along to Shake-A-Doo Rock (Casidy, Casity, Cassity, Kasity, Kassidy, Kassity)', 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': 'Blessing for Cassidy (Casidy, Casity, Cassity, Kasity, Kassidy, Kassity)', 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': 'Cassidy is a C-H-R-I-S-T-I-A-N (Casidy, Casity, Cassity, Kasity, Kassidy, Kassity)', 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': 'Man In The Moon Lullaby for Cassidy (Casidy, Casity, Cassity, Kasity, Kassidy, Kassity)', 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': "Cassidy, It's Time to Ride the Party Train (Casidy, Casity, Cassity, Kasity, Kassidy, Kassity)", 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Gold', 'song': 'Kassidy Loves Miltank, Emotion, And Rock', 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': "Cassidy, Let's Play Hide n' Seek (Casidy, Casity, Cassity, Kasity, Kassidy, Kassity)", 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': 'Alphabet Song for Cassidy (Casidy, Casity, Cassity, Kasity, Kassidy, Kassity)', 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': 'Jesus Loves Cassidy (Casidy, Casity, Cassity, Kasity, Kassidy, Kassity)', 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': 'Imagine Cassidy As an Airplane Pilot (Casity, Cassity, Kasidy, Kasity, Kassidee, Kassidy, Kassity)', 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': 'A Pirate Adventure for Cassidy (Casidy, Casity, Cassity, Kasity, Kassidy, Kassity)', 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': 'Welcome Cassidy (Casidy, Casity, Cassity, Kasity, Kassidy, Kassity)', 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': 'This Old Man Song for Cassidy (Casidy, Casity, Cassity, Kasity, Kassidy, Kassity)', 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': 'Imagine Cassidy As a Fire Fighter (Casity, Cassity, Kasidy, Kasity, Kassidee, Kassidy, Kassity)', 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': "Cassidy, He's Got the Whole World in His Hands (Casidy, Casity, Cassity, Kasity, Kassidy, Kassity)", 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': 'Imagine Cassidy As a Train Engineer (Casity, Cassity, Kasidy, Kasity, Kassidee, Kassidy, Kassity)', 'genre': "Children's Music", 'alternative_artist': 'Kassidy', 'add_to_final_records': True}
+{'artist': 'Brenda Lee', 'song': "Grandma's Feather Bed", 'genre': "Children's Music", 'alternative_artist': 'Brenda Lee', 'add_to_final_records': True}
+{'artist': 'Victor Spiegel', 'song': 'The Magic Horse (feat. Shannon Brown, Hannah Gwatkin, Javier Vilariño & Aidan Priest)', 'genre': "Children's Music", 'alternative_artist': 'Shannon Brown', 'add_to_final_records': True}
+{'artist': 'Chris Stapleton', 'song': 'Cheese Please', 'genre': "Children's Music", 'alternative_artist': 'Chris Stapleton', 'add_to_final_records': True}
+{'artist': 'Chris Stapleton', 'song': 'Save the Bones for Henry Jones', 'genre': "Children's Music", 'alternative_artist': 'Chris Stapleton', 'add_to_final_records': True}
+{'artist': 'Twinkle Twinkle Little Rock Star', 'song': 'Nobody to Blame', 'genre': "Children's Music", 'alternative_artist': 'Chris Stapleton', 'add_to_final_records': True}
+{'artist': 'Lullaby Baby Trio', 'song': 'Tennesse Whiskey', 'genre': "Children's Music", 'alternative_artist': 'Chris Stapleton', 'add_to_final_records': True}
+{'artist': 'Lullaby Baby Trio', 'song': 'Might as Well Get Stoned', 'genre': "Children's Music", 'alternative_artist': 'Chris Stapleton', 'add_to_final_records': True}
+{'artist': 'Lullaby Baby Trio', 'song': 'What Are You Listening To', 'genre': "Children's Music", 'alternative_artist': 'Chris Stapleton', 'add_to_final_records': True}
+{'artist': 'Lullaby Baby Trio', 'song': 'Say Something', 'genre': "Children's Music", 'alternative_artist': 'Chris Stapleton', 'add_to_final_records': True}
+{'artist': 'Sheila Wilson', 'song': 'Ding, Dong! Merrily On High', 'genre': "Children's Music", 'alternative_artist': 'Sheila on 7', 'add_to_final_records': True}
+{'artist': 'Billy Gilman', 'song': 'Baby Beluga', 'genre': "Children's Music", 'alternative_artist': 'Billy Gilman', 'add_to_final_records': True}
+{'artist': 'Dan Zanes & Sheryl Crow', 'song': 'Polly Wolly Doodle', 'genre': "Children's Music", 'alternative_artist': 'Sheryl Crow', 'add_to_final_records': True}
+{'artist': 'Lullaby Teddy', 'song': 'Na Na Na Na Naa', 'genre': "Children's Music", 'alternative_artist': 'Kaiser Chiefs', 'add_to_final_records': True}
+{'artist': 'Stoney LaRue', 'song': 'Oh! Susanna', 'genre': "Children's Music", 'alternative_artist': 'Stoney LaRue', 'add_to_final_records': True}
+{'artist': 'Gloriana', 'song': 'El Baile de la Gallina', 'genre': "Children's Music", 'alternative_artist': 'Gloriana', 'add_to_final_records': True}
+{'artist': 'Gloriana', 'song': 'La Mane', 'genre': "Children's Music", 'alternative_artist': 'Gloriana', 'add_to_final_records': True}
+{'artist': 'Gloriana', 'song': 'Lolita', 'genre': "Children's Music", 'alternative_artist': 'Gloriana', 'add_to_final_records': True}
+{'artist': 'Gloriana', 'song': 'El Baile del Sapito', 'genre': "Children's Music", 'alternative_artist': 'Gloriana', 'add_to_final_records': True}
+{'artist': 'Gloriana', 'song': 'Haz Ruido', 'genre': "Children's Music", 'alternative_artist': 'Gloriana', 'add_to_final_records': True}
+{'artist': 'Gloriana', 'song': 'Mi Amigo Jesús', 'genre': "Children's Music", 'alternative_artist': 'Gloriana', 'add_to_final_records': True}
+{'artist': 'Gloriana', 'song': 'El Baile del Canguro', 'genre': "Children's Music", 'alternative_artist': 'Gloriana', 'add_to_final_records': True}
+{'artist': 'Gloriana', 'song': 'Princesa Real', 'genre': "Children's Music", 'alternative_artist': 'Gloriana', 'add_to_final_records': True}
+{'artist': 'Gloriana', 'song': 'Hola Yo Soy Gloriana', 'genre': "Children's Music", 'alternative_artist': 'Gloriana', 'add_to_final_records': True}
+{'artist': 'Gloriana', 'song': 'Happy Birthday', 'genre': "Children's Music", 'alternative_artist': 'Gloriana', 'add_to_final_records': True}
+{'artist': 'Los Lobos', 'song': 'Handy Manny Main Title Theme', 'genre': "Children's Music", 'alternative_artist': 'Los Lobos', 'add_to_final_records': True}
+{'artist': 'Los Lobos', 'song': 'Oo-De-Lally', 'genre': "Children's Music", 'alternative_artist': 'Los Lobos', 'add_to_final_records': True}
+{'artist': 'Los Lobos', 'song': 'The Tiki Tiki Tiki Room', 'genre': "Children's Music", 'alternative_artist': 'Los Lobos', 'add_to_final_records': True}
+{'artist': 'Los Lobos', 'song': 'Not In Nottingham', 'genre': "Children's Music", 'alternative_artist': 'Los Lobos', 'add_to_final_records': True}
+{'artist': 'Los Lobos', 'song': 'Bare Necessities', 'genre': "Children's Music", 'alternative_artist': 'Los Lobos', 'add_to_final_records': True}
+{'artist': 'Los Lobos', 'song': 'Grim Grinning Ghosts', 'genre': "Children's Music", 'alternative_artist': 'Los Lobos', 'add_to_final_records': True}
+{'artist': 'Los Lobos', 'song': 'I Will Go Sailing No More', 'genre': "Children's Music", 'alternative_artist': 'Los Lobos', 'add_to_final_records': True}
+{'artist': 'Los Lobos', 'song': "When You Wish Upon a Star / It's a Small World", 'genre': "Children's Music", 'alternative_artist': 'Los Lobos', 'add_to_final_records': True}
+{'artist': 'Los Lobos', 'song': 'Bella Notte', 'genre': "Children's Music", 'alternative_artist': 'Los Lobos', 'add_to_final_records': True}
+{'artist': 'Los Lobos', 'song': "I Wan'na Be Like You", 'genre': "Children's Music", 'alternative_artist': 'Los Lobos', 'add_to_final_records': True}
+{'artist': 'Los Lobos', 'song': 'The Ugly Bug Ball', 'genre': "Children's Music", 'alternative_artist': 'Los Lobos', 'add_to_final_records': True}
+{'artist': 'Los Lobos', 'song': 'Cruella de Vil', 'genre': "Children's Music", 'alternative_artist': 'Los Lobos', 'add_to_final_records': True}
+{'artist': 'Los Lobos', 'song': 'Heigh-Ho', 'genre': "Children's Music", 'alternative_artist': 'Los Lobos', 'add_to_final_records': True}
+{'artist': 'Los Lobos', 'song': 'Zip-A-Dee-Doo-Dah', 'genre': "Children's Music", 'alternative_artist': 'Los Lobos', 'add_to_final_records': True}
+{'artist': 'Reckless Kelly', 'song': "I've Been Working On the Railroad", 'genre': "Children's Music", 'alternative_artist': 'Reckless Kelly', 'add_to_final_records': True}
+{'artist': 'Dixie Chicks', 'song': 'Sing', 'genre': "Children's Music", 'alternative_artist': 'Dixie Chicks', 'add_to_final_records': True}
+{'artist': 'Rhonda Vincent', 'song': 'Bananaphone', 'genre': "Children's Music", 'alternative_artist': 'Rhonda Vincent', 'add_to_final_records': True}
+{'artist': 'The Hip Hop Professor', 'song': 'Numbers 7-9 (feat. The Dream Team)', 'genre': "Children's Music", 'alternative_artist': 'Nine (Rap)', 'add_to_final_records': True}
+{'artist': 'Twin Sisters', 'song': 'Facts of 9 (Multiplication - With Answers)', 'genre': "Children's Music", 'alternative_artist': 'Nine (Rap)', 'add_to_final_records': True}
+{'artist': 'Twin Sisters', 'song': 'Facts of 9 (Multiplication - Without Answers)', 'genre': "Children's Music", 'alternative_artist': 'Nine (Rap)', 'add_to_final_records': True}
+{'artist': 'The Kiboomers', 'song': 'Skip Counting Factor Rap 9', 'genre': "Children's Music", 'alternative_artist': 'Nine (Rap)', 'add_to_final_records': True}
+{'artist': 'De-U Records', 'song': 'Nine Tables', 'genre': "Children's Music", 'alternative_artist': 'Nine (Rap)', 'add_to_final_records': True}
+{'artist': 'Stevie Stone', 'song': 'Times 9', 'genre': "Children's Music", 'alternative_artist': 'Nine (Rap)', 'add_to_final_records': True}
+{'artist': 'Melinda Caroll', 'song': 'Girl Scout Rap', 'genre': "Children's Music", 'alternative_artist': 'Nine (Rap)', 'add_to_final_records': True}
+{'artist': 'Hilary Duff & Haylie Duff', 'song': 'The Siamese Cat Song', 'genre': "Children's Music", 'alternative_artist': 'Hilary Duff', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': 'Kane, I Love You So (Caine, Cane, Kain, Kaine, Kanye)', 'genre': "Children's Music", 'alternative_artist': 'Christian Kane', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': 'Kane is a C-H-R-I-S-T-I-A-N (Caine, Cane, Kain, Kaine, Kanye)', 'genre': "Children's Music", 'alternative_artist': 'Christian Kane', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': 'Kane, Close Your Eyes (Caine, Cane, Kain, Kaine, Kanye)', 'genre': "Children's Music", 'alternative_artist': 'Christian Kane', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': 'Listen Kane (Caine, Cane, Kain, Kaine, Kanye)', 'genre': "Children's Music", 'alternative_artist': 'Christian Kane', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': "Kane, Your Heavenly Father's Heart (Caine, Cane, Kain, Kaine, Kanye)", 'genre': "Children's Music", 'alternative_artist': 'Christian Kane', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': 'Dream Again Kane (Caine, Cane, Kain, Kaine, Kanye)', 'genre': "Children's Music", 'alternative_artist': 'Christian Kane', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': 'Sing You a Lullaby Kane (Caine, Cane, Kain, Kaine, Kanye)', 'genre': "Children's Music", 'alternative_artist': 'Christian Kane', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': "There's No One Like You, a Lullaby for Kane (Caine, Cane, Kain, Kaine, Kanye)", 'genre': "Children's Music", 'alternative_artist': 'Christian Kane', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': 'Kane, a Love that Leads to You (Caine, Cane, Kain, Kaine, Kanye)', 'genre': "Children's Music", 'alternative_artist': 'Christian Kane', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': 'Sailing with Kane (Caine, Cane, Kain, Kaine, Kanye)', 'genre': "Children's Music", 'alternative_artist': 'Christian Kane', 'add_to_final_records': True}
+{'artist': 'Ogie Alcasid & Gary Valenciano', 'song': 'Sipa', 'genre': "Children's Music", 'alternative_artist': 'Gary Valenciano', 'add_to_final_records': True}
+{'artist': 'Gary Valenciano', 'song': 'Bawat Isa Sa Atin (Minsan Ay Tulad Nila)', 'genre': "Children's Music", 'alternative_artist': 'Gary Valenciano', 'add_to_final_records': True}
+{'artist': 'Jim Harmon', 'song': 'Lucky Day', 'genre': "Children's Music", 'alternative_artist': 'Lucky Harmon', 'add_to_final_records': True}
+{'artist': 'Laura Doherty', 'song': 'If All Of The Raindrops', 'genre': "Children's Music", 'alternative_artist': 'O-Town', 'add_to_final_records': True}
+{'artist': 'Lisa Derosia', 'song': 'You Are My Sunshine', 'genre': "Children's Music", 'alternative_artist': 'O-Town', 'add_to_final_records': True}
+{'artist': 'Ralph Covert', 'song': 'The Ants Go Marching', 'genre': "Children's Music", 'alternative_artist': 'O-Town', 'add_to_final_records': True}
+{'artist': 'Julie Frost', 'song': 'Five Little Monkeys', 'genre': "Children's Music", 'alternative_artist': 'O-Town', 'add_to_final_records': True}
+{'artist': 'Anne-Marie Akin', 'song': 'Walking, Walking', 'genre': "Children's Music", 'alternative_artist': 'O-Town', 'add_to_final_records': True}
+{'artist': 'Karen Banks-Lubicz', 'song': 'Twinkle Twinkle Little Star', 'genre': "Children's Music", 'alternative_artist': 'O-Town', 'add_to_final_records': True}
+{'artist': 'Rob Newhouse', 'song': 'Row, Row, Row Your Boat', 'genre': "Children's Music", 'alternative_artist': 'O-Town', 'add_to_final_records': True}
+{'artist': 'Rob Newhouse', 'song': 'Peanut Butter And Jelly', 'genre': "Children's Music", 'alternative_artist': 'O-Town', 'add_to_final_records': True}
+{'artist': 'Anne-Marie Akin', 'song': 'Milkshake Song', 'genre': "Children's Music", 'alternative_artist': 'O-Town', 'add_to_final_records': True}
+{'artist': 'Rob Newhouse', 'song': "If You're Happy And You Know It", 'genre': "Children's Music", 'alternative_artist': 'O-Town', 'add_to_final_records': True}
+{'artist': 'Lisa Derosia', 'song': 'Open, Shut Them', 'genre': "Children's Music", 'alternative_artist': 'O-Town', 'add_to_final_records': True}
+{'artist': 'Matthew Lewis/Julie Frost', 'song': 'Wheels On The Bus', 'genre': "Children's Music", 'alternative_artist': 'O-Town', 'add_to_final_records': True}
+{'artist': 'Rob Newhouse', 'song': 'Drive The Fire Truck', 'genre': "Children's Music", 'alternative_artist': 'O-Town', 'add_to_final_records': True}
+{'artist': 'Rob Newhouse', 'song': 'This Old Man', 'genre': "Children's Music", 'alternative_artist': 'O-Town', 'add_to_final_records': True}
+{'artist': 'Stacy Buehler And Wiggleworms', 'song': 'Good Morning', 'genre': "Children's Music", 'alternative_artist': 'O-Town', 'add_to_final_records': True}
+{'artist': 'Tricia Sebastian', 'song': 'Chocolate', 'genre': "Children's Music", 'alternative_artist': 'O-Town', 'add_to_final_records': True}
+{'artist': 'Martin Enciso/Juan Dies', 'song': 'De Colores', 'genre': "Children's Music", 'alternative_artist': 'O-Town', 'add_to_final_records': True}
+{'artist': 'Stacy Buehler', 'song': 'Goodbye', 'genre': "Children's Music", 'alternative_artist': 'O-Town', 'add_to_final_records': True}
+{'artist': 'Lisa Derosia', 'song': "I've Been Working On The Railroad", 'genre': "Children's Music", 'alternative_artist': 'O-Town', 'add_to_final_records': True}
+{'artist': 'Julie Helenius/Ben Porter/Laura Doherty/Rose Nadolsky', 'song': 'Itsy Bitsy Spider', 'genre': "Children's Music", 'alternative_artist': 'O-Town', 'add_to_final_records': True}
+{'artist': 'Anne-Marie Akin', 'song': "Shortnin' Bread", 'genre': "Children's Music", 'alternative_artist': 'O-Town', 'add_to_final_records': True}
+{'artist': 'Stacy Buehler', 'song': 'Hokey', 'genre': "Children's Music", 'alternative_artist': 'O-Town', 'add_to_final_records': True}
+{'artist': 'Personalized Kid Music', 'song': 'Imagine Christina As a Train Engineer (Cristina, Khristina, Kristeana, Kristina)', 'genre': "Children's Music", 'alternative_artist': 'Kristina Train', 'add_to_final_records': True}
+{'artist': 'Buck Howdy', 'song': 'Lester Lost His Job', 'genre': "Children's Music", 'alternative_artist': 'Job for a Cowboy', 'add_to_final_records': True}
+{'artist': 'Steven Tyler', 'song': 'I Love Trash', 'genre': "Children's Music", 'alternative_artist': 'Steven Tyler', 'add_to_final_records': True}
+{'artist': 'The Backyardigans & The Backyardigans', 'song': 'Racing Day', 'genre': "Children's Music", 'alternative_artist': 'RACING SONGS', 'add_to_final_records': True}
+{'artist': 'Clay Aiken', 'song': 'Proud of Your Boy', 'genre': "Children's Music", 'alternative_artist': 'Clay Aiken', 'add_to_final_records': True}
+{'artist': 'Fugees & The Sesame Street Cast', 'song': 'Just Happy to Be Me', 'genre': "Children's Music", 'alternative_artist': 'Fugees', 'add_to_final_records': True}
+{'artist': 'The Dirty Sock Funtime Band', 'song': 'Rage Against the Time Machine', 'genre': "Children's Music", 'alternative_artist': 'Rage Against the Machine', 'add_to_final_records': True}
+{'artist': 'Darren Espanto, Anne Curtis & Gloc-9', 'song': 'Nanay Tatay', 'genre': "Children's Music", 'alternative_artist': 'Darren Espanto', 'add_to_final_records': True}
+{'artist': 'The Background Musicians', 'song': 'Swirls', 'genre': "Children's Music", 'alternative_artist': 'Lil Swirl', 'add_to_final_records': True}
+{'artist': 'P!nk', 'song': "We've Got Scurvy", 'genre': "Children's Music", 'alternative_artist': 'P!nk', 'add_to_final_records': True}
+{'artist': 'Music Box Mania', 'song': 'Candle in the Wind', 'genre': "Children's Music", 'alternative_artist': 'Candlebox', 'add_to_final_records': True}
+{'artist': 'Rosanne Cash', 'song': 'Carrie', 'genre': "Children's Music", 'alternative_artist': 'Rosanne Cash', 'add_to_final_records': True}
+{'artist': 'Jason Boland', 'song': 'This Land Is Your Land', 'genre': "Children's Music", 'alternative_artist': 'Jason Boland & The Stragglers', 'add_to_final_records': True}
+{'artist': 'Wonder Kids', 'song': 'I Will Make You Fishers of Men (Come Follow)', 'genre': "Children's Music", 'alternative_artist': 'Will Smith', 'add_to_final_records': True}
+{'artist': 'Jessica Simpson & Nick Lachey', 'song': 'A Whole New World', 'genre': "Children's Music", 'alternative_artist': 'Jessica Simpson', 'add_to_final_records': True}
+{'artist': 'Jon Secada, Amy Grant, B.J. Thomas, CeCe Winans, John Pizzarelli, Maureen McGovern, Bobby Caldwell, Crystal Gayle, Toni Rose, Ricky Skaggs, Donna Summer & Roberta Flack', 'song': 'Thank You For Being You', 'genre': "Children's Music", 'alternative_artist': 'Crystal Gayle', 'add_to_final_records': True}
+{'artist': 'Crystal Gayle', 'song': 'Did You Know?', 'genre': "Children's Music", 'alternative_artist': 'Crystal Gayle', 'add_to_final_records': True}
+{'artist': 'Big Bird & Crystal Gayle', 'song': 'Songs', 'genre': "Children's Music", 'alternative_artist': 'Crystal Gayle', 'add_to_final_records': True}
+{'artist': 'Crystal Gayle', 'song': 'Crystal Moon', 'genre': "Children's Music", 'alternative_artist': 'Crystal Gayle', 'add_to_final_records': True}
+{'artist': 'Crystal Gayle', 'song': 'In My Arms', 'genre': "Children's Music", 'alternative_artist': 'Crystal Gayle', 'add_to_final_records': True}
+{'artist': 'Crystal Gayle', 'song': 'Little Puppy', 'genre': "Children's Music", 'alternative_artist': 'Crystal Gayle', 'add_to_final_records': True}
+{'artist': 'Crystal Gayle', 'song': 'The Light In Your Heart', 'genre': "Children's Music", 'alternative_artist': 'Crystal Gayle', 'add_to_final_records': True}
+{'artist': 'Crystal Gayle', 'song': 'Panda Prayer', 'genre': "Children's Music", 'alternative_artist': 'Crystal Gayle', 'add_to_final_records': True}
+{'artist': 'Crystal Gayle', 'song': 'Light Inside', 'genre': "Children's Music", 'alternative_artist': 'Crystal Gayle', 'add_to_final_records': True}
+{'artist': 'Crystal Gayle', 'song': 'Tomorrow', 'genre': "Children's Music", 'alternative_artist': 'Crystal Gayle', 'add_to_final_records': True}
+{'artist': 'Crystal Gayle', 'song': 'Carousel', 'genre': "Children's Music", 'alternative_artist': 'Crystal Gayle', 'add_to_final_records': True}
+{'artist': 'Crystal Gayle', 'song': 'Fly to the Highest Mountain', 'genre': "Children's Music", 'alternative_artist': 'Crystal Gayle', 'add_to_final_records': True}
+{'artist': 'Crystal Gayle', 'song': 'Last Ray of Sunshine', 'genre': "Children's Music", 'alternative_artist': 'Crystal Gayle', 'add_to_final_records': True}
+{'artist': 'Crystal Gayle', 'song': 'Round and Round', 'genre': "Children's Music", 'alternative_artist': 'Crystal Gayle', 'add_to_final_records': True}
+{'artist': 'Crystal Gayle', 'song': 'What Will I Be Tomorrow', 'genre': "Children's Music", 'alternative_artist': 'Crystal Gayle', 'add_to_final_records': True}
+{'artist': 'Crystal Gayle', 'song': 'Princess', 'genre': "Children's Music", 'alternative_artist': 'Crystal Gayle', 'add_to_final_records': True}
+{'artist': 'Crystal Gayle', 'song': 'Star Dance', 'genre': "Children's Music", 'alternative_artist': 'Crystal Gayle', 'add_to_final_records': True}
+{'artist': 'Crystal Gayle', 'song': 'Peaceful Night', 'genre': "Children's Music", 'alternative_artist': 'Crystal Gayle', 'add_to_final_records': True}
+{'artist': 'Crystal Gayle', 'song': 'By the Light', 'genre': "Children's Music", 'alternative_artist': 'Crystal Gayle', 'add_to_final_records': True}
+{'artist': 'Crystal Gayle', 'song': 'Counting Sheep Around the World', 'genre': "Children's Music", 'alternative_artist': 'Crystal Gayle', 'add_to_final_records': True}
+{'artist': 'Crystal Gayle', 'song': 'Angel Kisses', 'genre': "Children's Music", 'alternative_artist': 'Crystal Gayle', 'add_to_final_records': True}
+{'artist': 'Hushabye Baby', 'song': "I'll Stand By You", 'genre': "Children's Music", 'alternative_artist': 'Carrie Underwood', 'add_to_final_records': True}
+{'artist': 'Hushabye Baby', 'song': 'All American Girl', 'genre': "Children's Music", 'alternative_artist': 'Carrie Underwood', 'add_to_final_records': True}
+{'artist': 'Farmer Jason & Suzy Bogguss', 'song': 'Meadowlark In Central Park', 'genre': "Children's Music", 'alternative_artist': 'Suzy Bogguss', 'add_to_final_records': True}
+{'artist': 'Kathy Mattea', 'song': 'One Light One Sun', 'genre': "Children's Music", 'alternative_artist': 'Kathy Mattea', 'add_to_final_records': True}
+{'artist': 'Twinkle Twinkle Little Rock Star', 'song': 'My Hero', 'genre': "Children's Music", 'alternative_artist': 'Foo Fighters', 'add_to_final_records': True}
+{'artist': 'ema', 'song': 'Në Lunapark', 'genre': "Children's Music", 'alternative_artist': 'EMA', 'add_to_final_records': True}
+{'artist': 'ema', 'song': 'Karate', 'genre': "Children's Music", 'alternative_artist': 'EMA', 'add_to_final_records': True}
+{'artist': 'ema', 'song': 'Qiftelia', 'genre': "Children's Music", 'alternative_artist': 'EMA', 'add_to_final_records': True}
+{'artist': 'ema', 'song': 'Dua', 'genre': "Children's Music", 'alternative_artist': 'EMA', 'add_to_final_records': True}
+{'artist': 'ema', 'song': 'I Love You', 'genre': "Children's Music", 'alternative_artist': 'EMA', 'add_to_final_records': True}
+{'artist': 'ema', 'song': 'Disko Cha-Cha-Cha', 'genre': "Children's Music", 'alternative_artist': 'EMA', 'add_to_final_records': True}
+{'artist': 'ema', 'song': 'Kam Një Motër Dhe Një Vëlla', 'genre': "Children's Music", 'alternative_artist': 'EMA', 'add_to_final_records': True}
+{'artist': 'ema', 'song': 'Tjuthuqja', 'genre': "Children's Music", 'alternative_artist': 'EMA', 'add_to_final_records': True}
+{'artist': 'Collin Raye', 'song': 'Blackbird', 'genre': "Children's Music", 'alternative_artist': 'Collin Raye', 'add_to_final_records': True}
+{'artist': 'Lea Salonga & Brad Kane', 'song': 'A Whole New World', 'genre': "Children's Music", 'alternative_artist': 'Maria Mena', 'add_to_final_records': True}
+{'artist': 'Lea Salonga', 'song': 'Reflection', 'genre': "Children's Music", 'alternative_artist': 'Maria Mena', 'add_to_final_records': True}
+{'artist': "Jodi Benson, Susie Stevens Logan, Christie Houser, Judy Kuhn, Lea Salonga & Paige O'Hara", 'song': 'If You Can Dream', 'genre': "Children's Music", 'alternative_artist': 'Maria Mena', 'add_to_final_records': True}
+{'artist': 'Nick Cannon', 'song': 'Incredible Crew', 'genre': "Children's Music", 'alternative_artist': 'Nick Cannon', 'add_to_final_records': True}
+{'artist': 'Faith Hill', 'song': 'Before You Grow', 'genre': "Children's Music", 'alternative_artist': 'Faith Hill', 'add_to_final_records': True}
+{'artist': 'Alvin & The Chipmunks', 'song': 'Chipmunk Fun', 'genre': "Children's Music", 'alternative_artist': 'Chipmunk', 'add_to_final_records': True}
+{'artist': 'Alvin & The Chipmunks', 'song': 'Witch Doctor', 'genre': "Children's Music", 'alternative_artist': 'Chipmunk', 'add_to_final_records': True}
+{'artist': 'Parry Gripp', 'song': 'Dramatic Chipmunk Hey!', 'genre': "Children's Music", 'alternative_artist': 'Chipmunk', 'add_to_final_records': True}
+{'artist': 'Alvin & The Chipmunks & David Seville', 'song': 'Ragtime Cowboy Joe', 'genre': "Children's Music", 'alternative_artist': 'Chipmunk', 'add_to_final_records': True}
+{'artist': 'Alvin & The Chipmunks', 'song': 'Japanese Banana', 'genre': "Children's Music", 'alternative_artist': 'Chipmunk', 'add_to_final_records': True}
+{'artist': 'Alvin & The Chipmunks', 'song': 'Supercalifragilisticexpialidocious', 'genre': "Children's Music", 'alternative_artist': 'Chipmunk', 'add_to_final_records': True}
+{'artist': 'Alvin & The Chipmunks', 'song': "Alvin's Harmonica", 'genre': "Children's Music", 'alternative_artist': 'Chipmunk', 'add_to_final_records': True}
+{'artist': 'The Chipmunks', 'song': 'Polly Wolly Doodle', 'genre': "Children's Music", 'alternative_artist': 'Chipmunk', 'add_to_final_records': True}
+{'artist': 'Alvin & The Chipmunks', 'song': 'Whistle While You Work', 'genre': "Children's Music", 'alternative_artist': 'Chipmunk', 'add_to_final_records': True}
+{'artist': 'Alvin & The Chipmunks', 'song': 'She Loves You', 'genre': "Children's Music", 'alternative_artist': 'Chipmunk', 'add_to_final_records': True}
+{'artist': 'The Chipmunks', 'song': 'The Alvin Twist', 'genre': "Children's Music", 'alternative_artist': 'Chipmunk', 'add_to_final_records': True}
+{'artist': 'The Chipmunks', 'song': 'Twinkle Twinkle, Little Star', 'genre': "Children's Music", 'alternative_artist': 'Chipmunk', 'add_to_final_records': True}
+{'artist': 'Alvin & The Chipmunks', 'song': 'Do Re Mi', 'genre': "Children's Music", 'alternative_artist': 'Chipmunk', 'add_to_final_records': True}
+{'artist': 'The Chipmunks', 'song': 'Bicycle Built for Two', 'genre': "Children's Music", 'alternative_artist': 'Chipmunk', 'add_to_final_records': True}
+{'artist': 'Alvin & The Chipmunks', 'song': 'America the Beautiful', 'genre': "Children's Music", 'alternative_artist': 'Chipmunk', 'add_to_final_records': True}
+{'artist': 'The Chipmunks', 'song': 'On Top of Old Smokey', 'genre': "Children's Music", 'alternative_artist': 'Chipmunk', 'add_to_final_records': True}
+{'artist': 'Alvin & The Chipmunks', 'song': "Can't Buy Me Love", 'genre': "Children's Music", 'alternative_artist': 'Chipmunk', 'add_to_final_records': True}
+{'artist': 'The Chipmunks', 'song': 'The Band Played On', 'genre': "Children's Music", 'alternative_artist': 'Chipmunk', 'add_to_final_records': True}
+{'artist': 'Alvin & The Chipmunks', 'song': 'Talk to the Animals', 'genre': "Children's Music", 'alternative_artist': 'Chipmunk', 'add_to_final_records': True}
+{'artist': 'Alvin & The Chipmunks', 'song': 'The Alvin Show Theme (Opening)', 'genre': "Children's Music", 'alternative_artist': 'Chipmunk', 'add_to_final_records': True}
+{'artist': 'Alvin & The Chipmunks', 'song': 'Sing a Goofy Song', 'genre': "Children's Music", 'alternative_artist': 'Chipmunk', 'add_to_final_records': True}
+{'artist': 'Alvin & The Chipmunks', 'song': 'I Wish I Had a Horse', 'genre': "Children's Music", 'alternative_artist': 'Chipmunk', 'add_to_final_records': True}
+{'artist': 'Alvin & The Chipmunks', 'song': "Alvin's Orchestra", 'genre': "Children's Music", 'alternative_artist': 'Chipmunk', 'add_to_final_records': True}
+{'artist': 'Alvin & The Chipmunks', 'song': "I'm Henry VIII, I Am", 'genre': "Children's Music", 'alternative_artist': 'Chipmunk', 'add_to_final_records': True}
+{'artist': 'Alvin & The Chipmunks', 'song': 'Pop Goes the Weasel', 'genre': "Children's Music", 'alternative_artist': 'Chipmunk', 'add_to_final_records': True}
+{'artist': 'Alvin & The Chipmunks', 'song': 'If You Love Me (Alouette)', 'genre': "Children's Music", 'alternative_artist': 'Chipmunk', 'add_to_final_records': True}
+{'artist': 'Alvin & The Chipmunks', 'song': 'I Wish I Could Speak French', 'genre': "Children's Music", 'alternative_artist': 'Chipmunk', 'add_to_final_records': True}
+{'artist': 'Alvin & The Chipmunks', 'song': 'Please, Please Me', 'genre': "Children's Music", 'alternative_artist': 'Chipmunk', 'add_to_final_records': True}
+{'artist': 'Alvin & The Chipmunks', 'song': "Coming 'Round the Mountain", 'genre': "Children's Music", 'alternative_artist': 'Chipmunk', 'add_to_final_records': True}
+{'artist': 'Alvin & The Chipmunks', 'song': 'The Alvin Show Theme (Tag)', 'genre': "Children's Music", 'alternative_artist': 'Chipmunk', 'add_to_final_records': True}
+{'artist': 'Chipmunk da Hipmunk', 'song': 'Happy Happy Happy Happy Birthday (For Everyone)', 'genre': "Children's Music", 'alternative_artist': 'Chipmunk', 'add_to_final_records': True}
+{'artist': 'The Chipmunks', 'song': 'Get Along, Little Dogies', 'genre': "Children's Music", 'alternative_artist': 'Chipmunk', 'add_to_final_records': True}
+{'artist': 'Alvin & The Chipmunks', 'song': 'Sing Again With the Chipmunks', 'genre': "Children's Music", 'alternative_artist': 'Chipmunk', 'add_to_final_records': True}
+{'artist': 'Ashley Tisdale', 'song': 'Kiss the Girl', 'genre': "Children's Music", 'alternative_artist': 'Ashley Tisdale', 'add_to_final_records': True}
+{'artist': 'Ashley Tisdale', 'song': 'Some Day My Prince Will Come', 'genre': "Children's Music", 'alternative_artist': 'Ashley Tisdale', 'add_to_final_records': True}
+{'artist': 'Aaron Watson', 'song': 'Blue Skies (feat. Elizabeth McQueen)', 'genre': "Children's Music", 'alternative_artist': 'Aaron Watson', 'add_to_final_records': True}

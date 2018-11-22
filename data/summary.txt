@@ -1,0 +1,13 @@
+total: 193536 song records
+total: 79891 song records after deduplication
+total: 74889 song records after remove deletable brackets
+total: 1218 artists
+
+genre: Country has 27825 songs
+genre: Rock has 20817 songs
+genre: Pop has 18494 songs
+genre: Metal has 2235 songs
+genre: Holiday has 2209 songs
+genre: Hip-Hop has 1585 songs
+genre: Blues has 1069 songs
+genre: Children's Music has 655 songs

@@ -1,0 +1,1069 @@
+{'artist': 'John Raven', 'song': 'Raven and the Dove', 'genre': 'Blues', 'alternative_artist': 'dove night', 'add_to_final_records': True}
+{'artist': 'S.E.Willis', 'song': 'Last Night', 'genre': 'Blues', 'alternative_artist': 'dove night', 'add_to_final_records': True}
+{'artist': 'Carey Bell', 'song': 'Black-Eyed Peas', 'genre': 'Blues', 'alternative_artist': 'Black Eyed Peas', 'add_to_final_records': True}
+{'artist': 'The Joe Lee Combo', 'song': 'Blackeyed Peas', 'genre': 'Blues', 'alternative_artist': 'Black Eyed Peas', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Party Time', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Every Day Is a Holiday', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'The More I Drink', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'These Arms of Mine', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': "Keep on Smilin'", 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Groove Me', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Juke Box Songs', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': "Lovin' Cajun Style", 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Another Sleepless Night', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'La La', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Shed so Many Tears', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Our Love', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Honky Tonk', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Little Cajun Girl', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Beaux Beaux in My Head', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Where You Been Baby', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': "Let's Try at Love Again", 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'I Love You', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': "Lover's Question", 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'I Buy Her Roses', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Slip Away', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': "She's My Lady", 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'C.C. Rider', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Long as I Can See the Light', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Have I Got Some News for You', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Write Me a Letter', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': "Who's Loving You Now", 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Nobody but You', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'I Saw Her Standing There', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': "I'm Really Missing You", 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': '634-5789', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Lonely Teardrops', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Tennessee Blues', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': "I Don't Want to Be Lonely Anymore", 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Before I Grow Too Old', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Daddy "I Still Love You"', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Into the Mystic', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': "I'd Rather Go Blind", 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'I Thank the Lord', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': "Day Dreamin'", 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': "I Can't Picture Me", 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Give Me Just One More Chance', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Please Come Back', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Call Me the Breeze', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Come Back to Me', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'One More Broken Heart', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'I Just Want to Be Your Friend', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'It Hurt so Bad', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': "I'll Drift Away", 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'You Need Love', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Lucille', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Turn on Your Love Light', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': "Let's Do the Cajun Twist", 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': "Keep a Knockin'", 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Yes, I Will', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'All the Praises', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Green-Eyed Lady', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': "I'm Asking Forgiveness", 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Tous les jours', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'A Lady Now', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': "Don't Let the Green Grass Fool You", 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Pain in My Heart', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Thank You Darling', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Kinda Sorta', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Gonna Work', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Gator Queen (feat. Liz Choate)', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': '(I Need) Somebody', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': "It's My Life", 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Back in His Arms', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Out of Left Field', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Caring for Your Broken Heart', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': "You're Mistaken", 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': "Didn't Want to Love You", 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': "You're Bringing Me Down", 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Mine, All Mine', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Soul Man', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'After Loving You', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': "You'll Be Too Late", 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Party Time 2006', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': "It's Gonna Take a Long Time", 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Mexican Bird', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'My Girl', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'In Love Again', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Good Hearted Man', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': "I Can't Stay Home", 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': "S'il vous plait", 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'A Lonely Christmas', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Honky Tonk Blues', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Zydeco Fever', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Bye Bye Baby', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'I Want You to Know', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Got to Keep Going On', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': "Ain't Got No Home", 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Stay with Me', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': "I'm Lonely", 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Change Is Gonna Come', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Mr. Rainmaker', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': "Groovin' Soul", 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Come on Back Home', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Too Weak to Fight', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': "Hold on, I'm Comin'", 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Last Thing on My Mind', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Baby, Help Me', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': "Wastin' Time", 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'If You Still', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Pride and Joy', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'This Christmas Day', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'I Think I Love You', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Hey Maria', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Child I Love You So', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'Somewhere', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': 'If You Would Only Come Back Home', 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Don Rich', 'song': "The Heartache's Just Begun", 'genre': 'Blues', 'alternative_artist': 'Don Rich', 'add_to_final_records': True}
+{'artist': 'Son House & Stefan Grossman', 'song': 'Yonder Comes the Blues', 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Rory Block & Stefan Grossman', 'song': 'Mississippi Blues', 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Son House & Stefan Grossman', 'song': 'New Pony Blues', 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Rory Block & Stefan Grossman', 'song': 'Walking Blues', 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Rory Block & Stefan Grossman', 'song': 'God Moves On the Water', 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Rory Block & Stefan Grossman', 'song': 'Canned Heat', 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Rory Block & Stefan Grossman', 'song': 'Guitar Blues', 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Rory Block & Stefan Grossman', 'song': 'Belzona Blues', 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Rory Block & Stefan Grossman', 'song': 'Vestapol', 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Rory Block & Stefan Grossman', 'song': 'Turn Your Money Green', 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Rory Block & Stefan Grossman', 'song': 'Stagolee', 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Rory Block & Stefan Grossman', 'song': 'Police Dog Blues', 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Rory Block & Stefan Grossman', 'song': 'Old Country Rock', 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Rory Block & Stefan Grossman', 'song': 'Devil Got My Woman', 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Rory Block & Stefan Grossman', 'song': 'Special Rider', 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Rory Block & Stefan Grossman', 'song': 'You Got the Pocket Book, I Got the Key', 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Rory Block & Stefan Grossman', 'song': 'Crow Jane', 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Rory Block & Stefan Grossman', 'song': "I'm So Glad", 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Rory Block & Stefan Grossman', 'song': 'M & O Blues', 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Rory Block & Stefan Grossman', 'song': 'Save Up Your Money, John D. Rockerfeller Put the Panic On', 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Rory Block & Stefan Grossman', 'song': 'Shuffle for the Perls', 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Rory Block & Stefan Grossman', 'song': "Whistlin' Blues", 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Rory Block & Stefan Grossman', 'song': 'Banty Rooster', 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Rory Block & Stefan Grossman', 'song': 'Candyman', 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Rory Block & Stefan Grossman', 'song': 'Ragged and Dirty', 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Rory Block & Stefan Grossman', 'song': 'Patton Blues In G', 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Rory Block & Stefan Grossman', 'song': 'Pony Blues', 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Rory Block & Stefan Grossman', 'song': 'Kokomo Blues', 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Rory Block & Stefan Grossman', 'song': 'Future Blues', 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Rory Block & Stefan Grossman', 'song': 'Brownsville Blues', 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Rory Block & Stefan Grossman', 'song': 'Monday Morning Blues', 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Stefan Grossman & Rory Block', 'song': 'Shuffle for the Pearls', 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Stefan Grossman & Rory Block', 'song': 'Ragged And Dirty', 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Stefan Grossman', 'song': 'Ragtime Mama Blues', 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Stefan Grossman & Rory Block', 'song': 'Save Up Your Money, John D. Rockefeller', 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Stefan Grossman & Rory Block', 'song': 'God Moves On The Water', 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Stefan Grossman', 'song': 'Mississippi Blues #3', 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Stefan Grossman', 'song': 'Corrina, Corrina', 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Stefan Grossman & Rory Block', 'song': 'Patton Blues in G', 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Stefan Grossman & Rory Block', 'song': 'Yonder Comes The Blues', 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Stefan Grossman', 'song': 'Wake Up Mama', 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Stefan Grossman', 'song': 'Pallet On Your Floor', 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Stefan Grossman', 'song': 'Special Rider Blues', 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Stefan Grossman', 'song': 'Weeping Willow', 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Stefan Grossman', 'song': "Moon Goin' Down", 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Stefan Grossman', 'song': 'Easy Street', 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Stefan Grossman', 'song': "Oh, Babe Ain't No Lie", 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Stefan Grossman', 'song': 'Someday Baby', 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Stefan Grossman', 'song': "Hard Time Killin' Floor", 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Stefan Grossman', 'song': "If You Haven't Any Hay, Don't Get On Down the Road", 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Stefan Grossman', 'song': 'Man of My Own', 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Stefan Grossman', 'song': 'Juicy Lucy', 'genre': 'Blues', 'alternative_artist': 'Stefan Grossman', 'add_to_final_records': True}
+{'artist': 'Cyndi Lauper', 'song': 'Girls Just Wanna Have Fun', 'genre': 'Blues', 'alternative_artist': 'Cyndi Lauper', 'add_to_final_records': True}
+{'artist': 'Cyndi Lauper', 'song': 'Mother Earth', 'genre': 'Blues', 'alternative_artist': 'Cyndi Lauper', 'add_to_final_records': True}
+{'artist': 'Cyndi Lauper', 'song': "Down Don't Bother Me", 'genre': 'Blues', 'alternative_artist': 'Cyndi Lauper', 'add_to_final_records': True}
+{'artist': 'Cyndi Lauper', 'song': 'I Will Follow', 'genre': 'Blues', 'alternative_artist': 'Cyndi Lauper', 'add_to_final_records': True}
+{'artist': 'Cyndi Lauper', 'song': "I'm Just Your Fool", 'genre': 'Blues', 'alternative_artist': 'Cyndi Lauper', 'add_to_final_records': True}
+{'artist': 'Cyndi Lauper', 'song': 'Crossroads', 'genre': 'Blues', 'alternative_artist': 'Cyndi Lauper', 'add_to_final_records': True}
+{'artist': "Keb' Mo'", 'song': 'City Boy', 'genre': 'Blues', 'alternative_artist': 'Hot Boys', 'add_to_final_records': True}
+{'artist': 'Lillie Mae Kirkman, Hot Box Johnson & Curtis Jones', 'song': "He's Just My Size", 'genre': 'Blues', 'alternative_artist': 'Hot Boys', 'add_to_final_records': True}
+{'artist': 'Jamey Johnson', 'song': 'It Hurts Me Too', 'genre': 'Blues', 'alternative_artist': 'Jamey Johnson', 'add_to_final_records': True}
+{'artist': 'Karli Fairbanks', 'song': "Last Night's Songs", 'genre': 'Blues', 'alternative_artist': 'Our Last Night', 'add_to_final_records': True}
+{'artist': 'Sammy Kershaw', 'song': 'Twinkle, Twinkle Lucky Star', 'genre': 'Blues', 'alternative_artist': 'Sammy Kershaw', 'add_to_final_records': True}
+{'artist': 'Sammy Kershaw', 'song': 'The Blues Got Me', 'genre': 'Blues', 'alternative_artist': 'Sammy Kershaw', 'add_to_final_records': True}
+{'artist': 'Sammy Kershaw', 'song': "It's Not My Cross to Bear", 'genre': 'Blues', 'alternative_artist': 'Sammy Kershaw', 'add_to_final_records': True}
+{'artist': 'Sammy Kershaw', 'song': 'All These Things', 'genre': 'Blues', 'alternative_artist': 'Sammy Kershaw', 'add_to_final_records': True}
+{'artist': 'Chris Thomas King', 'song': 'Gonna Take a Miracle', 'genre': 'Blues', 'alternative_artist': 'Miracle (Rap)', 'add_to_final_records': True}
+{'artist': 'Julie Lyonn Lieberman', 'song': 'Country Blues Accomp. in B (feat. Matt Munisteri, Steve Alcott & Owen Howard)', 'genre': 'Blues', 'alternative_artist': 'B', 'add_to_final_records': True}
+{'artist': 'Paul Thorn', 'song': 'Love Train', 'genre': 'Blues', 'alternative_artist': 'Paul Thorn', 'add_to_final_records': True}
+{'artist': 'Paul Thorn', 'song': 'What Should I Do', 'genre': 'Blues', 'alternative_artist': 'Paul Thorn', 'add_to_final_records': True}
+{'artist': 'Paul Thorn', 'song': 'One More River', 'genre': 'Blues', 'alternative_artist': 'Paul Thorn', 'add_to_final_records': True}
+{'artist': 'Paul Thorn', 'song': 'You Got to Move', 'genre': 'Blues', 'alternative_artist': 'Paul Thorn', 'add_to_final_records': True}
+{'artist': 'Paul Thorn', 'song': 'The Half Has Never Been Told', 'genre': 'Blues', 'alternative_artist': 'Paul Thorn', 'add_to_final_records': True}
+{'artist': 'Paul Thorn', 'song': "Keep Holdin' On", 'genre': 'Blues', 'alternative_artist': 'Paul Thorn', 'add_to_final_records': True}
+{'artist': 'Paul Thorn', 'song': 'Soon I Will Be Done', 'genre': 'Blues', 'alternative_artist': 'Paul Thorn', 'add_to_final_records': True}
+{'artist': 'Paul Thorn', 'song': "Don't Let the Devil Ride", 'genre': 'Blues', 'alternative_artist': 'Paul Thorn', 'add_to_final_records': True}
+{'artist': 'Paul Thorn', 'song': "He's a Battle Axe", 'genre': 'Blues', 'alternative_artist': 'Paul Thorn', 'add_to_final_records': True}
+{'artist': 'Paul Thorn', 'song': "He'll Make a Way", 'genre': 'Blues', 'alternative_artist': 'Paul Thorn', 'add_to_final_records': True}
+{'artist': 'Paul Thorn', 'song': 'Something on My Mind', 'genre': 'Blues', 'alternative_artist': 'Paul Thorn', 'add_to_final_records': True}
+{'artist': 'Paul Thorn', 'song': "Come on Let's Go", 'genre': 'Blues', 'alternative_artist': 'Paul Thorn', 'add_to_final_records': True}
+{'artist': 'Paul Thorn', 'song': "Jesus Gonna Make up My Dyin' Bed", 'genre': 'Blues', 'alternative_artist': 'Paul Thorn', 'add_to_final_records': True}
+{'artist': 'Paul Thorn', 'song': 'The Get Back', 'genre': 'Blues', 'alternative_artist': 'Paul Thorn', 'add_to_final_records': True}
+{'artist': 'William Clarke', 'song': 'Stretch My Money', 'genre': 'Blues', 'alternative_artist': 'Money Mark', 'add_to_final_records': True}
+{'artist': 'Milky Whites & the Bluesmen', 'song': "Don't Call Yourself a Friend", 'genre': 'Blues', 'alternative_artist': 'One Direction', 'add_to_final_records': True}
+{'artist': 'Milky Whites & the Bluesmen', 'song': 'The High-Na-Kin Maneuver', 'genre': 'Blues', 'alternative_artist': 'One Direction', 'add_to_final_records': True}
+{'artist': 'Milky Whites & the Bluesmen', 'song': "Feelin' Like a 'Shroom", 'genre': 'Blues', 'alternative_artist': 'One Direction', 'add_to_final_records': True}
+{'artist': 'Milky Whites & the Bluesmen', 'song': "Don't Take My Baby", 'genre': 'Blues', 'alternative_artist': 'One Direction', 'add_to_final_records': True}
+{'artist': 'Milky Whites & the Bluesmen', 'song': 'Get Yer Paw Outa My Jar', 'genre': 'Blues', 'alternative_artist': 'One Direction', 'add_to_final_records': True}
+{'artist': 'Milky Whites & the Bluesmen', 'song': 'Milky Whites', 'genre': 'Blues', 'alternative_artist': 'One Direction', 'add_to_final_records': True}
+{'artist': 'Milky Whites & the Bluesmen', 'song': "Can't Get By", 'genre': 'Blues', 'alternative_artist': 'One Direction', 'add_to_final_records': True}
+{'artist': 'Milky Whites & the Bluesmen', 'song': "It's Too Soon for Ya Momma", 'genre': 'Blues', 'alternative_artist': 'One Direction', 'add_to_final_records': True}
+{'artist': 'The Amazing Rhythm Aces', 'song': "Waitin' On Sundown", 'genre': 'Blues', 'alternative_artist': 'The Amazing Rhythm Aces', 'add_to_final_records': True}
+{'artist': 'The Amazing Rhythm Aces', 'song': 'I Feel Forever', 'genre': 'Blues', 'alternative_artist': 'The Amazing Rhythm Aces', 'add_to_final_records': True}
+{'artist': 'The Amazing Rhythm Aces', 'song': 'One Love', 'genre': 'Blues', 'alternative_artist': 'The Amazing Rhythm Aces', 'add_to_final_records': True}
+{'artist': 'The Amazing Rhythm Aces', 'song': "This Time Ain't Gonna Be No Next Time", 'genre': 'Blues', 'alternative_artist': 'The Amazing Rhythm Aces', 'add_to_final_records': True}
+{'artist': 'The Amazing Rhythm Aces', 'song': 'The Blue Room', 'genre': 'Blues', 'alternative_artist': 'The Amazing Rhythm Aces', 'add_to_final_records': True}
+{'artist': 'The Amazing Rhythm Aces', 'song': 'Get Down', 'genre': 'Blues', 'alternative_artist': 'The Amazing Rhythm Aces', 'add_to_final_records': True}
+{'artist': 'The Amazing Rhythm Aces', 'song': 'Oh, Lucky Me', 'genre': 'Blues', 'alternative_artist': 'The Amazing Rhythm Aces', 'add_to_final_records': True}
+{'artist': 'The Amazing Rhythm Aces', 'song': 'Out of the Storm', 'genre': 'Blues', 'alternative_artist': 'The Amazing Rhythm Aces', 'add_to_final_records': True}
+{'artist': 'The Amazing Rhythm Aces', 'song': "Love's On the Way", 'genre': 'Blues', 'alternative_artist': 'The Amazing Rhythm Aces', 'add_to_final_records': True}
+{'artist': 'The Amazing Rhythm Aces', 'song': 'Cold, Cold Rain', 'genre': 'Blues', 'alternative_artist': 'The Amazing Rhythm Aces', 'add_to_final_records': True}
+{'artist': 'The Amazing Rhythm Aces', 'song': 'Out of the Blue', 'genre': 'Blues', 'alternative_artist': 'The Amazing Rhythm Aces', 'add_to_final_records': True}
+{'artist': 'The Amazing Rhythm Aces', 'song': 'Your Love Is Working In My Life', 'genre': 'Blues', 'alternative_artist': 'The Amazing Rhythm Aces', 'add_to_final_records': True}
+{'artist': 'Moreland & Arbuckle', 'song': 'Coal Black Maddie', 'genre': 'Blues', 'alternative_artist': 'Maddie & Tae', 'add_to_final_records': True}
+{'artist': 'Eli Cook', 'song': 'Poor Black Maddie', 'genre': 'Blues', 'alternative_artist': 'Maddie & Tae', 'add_to_final_records': True}
+{'artist': 'Tommy Castro', 'song': 'Ninety-Nine and One Half', 'genre': 'Blues', 'alternative_artist': 'Tommy B', 'add_to_final_records': True}
+{'artist': 'Tommy Lee', 'song': 'Highway 80 Blues', 'genre': 'Blues', 'alternative_artist': 'Tommy Lee', 'add_to_final_records': True}
+{'artist': 'Tommy Lee', 'song': 'Packin up My Blues', 'genre': 'Blues', 'alternative_artist': 'Tommy Lee', 'add_to_final_records': True}
+{'artist': "Sinéad O'Connor", 'song': 'Trouble Will Soon Be Over', 'genre': 'Blues', 'alternative_artist': "Sinéad O'Connor", 'add_to_final_records': True}
+{'artist': 'Joe Bonamassa', 'song': 'Further On Up the Road', 'genre': 'Blues', 'alternative_artist': 'Hall & Oates', 'add_to_final_records': True}
+{'artist': 'Mel Waiters', 'song': 'Hole In the Wall', 'genre': 'Blues', 'alternative_artist': 'Hole', 'add_to_final_records': True}
+{'artist': 'The Lazy Jumpers', 'song': "This Time I'm Gone", 'genre': 'Blues', 'alternative_artist': 'Time Jumpers', 'add_to_final_records': True}
+{'artist': 'The Lazy Jumpers', 'song': 'Too Many Times', 'genre': 'Blues', 'alternative_artist': 'Time Jumpers', 'add_to_final_records': True}
+{'artist': 'Big Moe & Jolly Jumper', 'song': 'How Can a Poor Man Stand Such Times and Live', 'genre': 'Blues', 'alternative_artist': 'Time Jumpers', 'add_to_final_records': True}
+{'artist': 'Tom Jones', 'song': 'Done Somebody Wrong', 'genre': 'Blues', 'alternative_artist': 'Tom Jones', 'add_to_final_records': True}
+{'artist': 'Ruthie Foster', 'song': "People Grinnin' in Your Face", 'genre': 'Blues', 'alternative_artist': 'Foster the People', 'add_to_final_records': True}
+{'artist': 'Steve Perry', 'song': 'Booty Roll', 'genre': 'Blues', 'alternative_artist': 'Steve Perry', 'add_to_final_records': True}
+{'artist': 'Steve Perry', 'song': "U Can't Raise Her", 'genre': 'Blues', 'alternative_artist': 'Steve Perry', 'add_to_final_records': True}
+{'artist': 'Steve Perry', 'song': 'Let Me Go', 'genre': 'Blues', 'alternative_artist': 'Steve Perry', 'add_to_final_records': True}
+{'artist': 'Steve Perry', 'song': 'Come Back Love', 'genre': 'Blues', 'alternative_artist': 'Steve Perry', 'add_to_final_records': True}
+{'artist': 'Steve Perry', 'song': "It's Okay", 'genre': 'Blues', 'alternative_artist': 'Steve Perry', 'add_to_final_records': True}
+{'artist': 'Steve Perry', 'song': "You're a Freak", 'genre': 'Blues', 'alternative_artist': 'Steve Perry', 'add_to_final_records': True}
+{'artist': 'Steve Perry', 'song': 'Thank You Mama', 'genre': 'Blues', 'alternative_artist': 'Steve Perry', 'add_to_final_records': True}
+{'artist': 'Steve Perry', 'song': 'Still My Boo', 'genre': 'Blues', 'alternative_artist': 'Steve Perry', 'add_to_final_records': True}
+{'artist': 'Steve Perry', 'song': 'Shake', 'genre': 'Blues', 'alternative_artist': 'Steve Perry', 'add_to_final_records': True}
+{'artist': 'Steve Perry', 'song': 'Booty Poppin', 'genre': 'Blues', 'alternative_artist': 'Steve Perry', 'add_to_final_records': True}
+{'artist': 'Steve Perry', 'song': 'Share This Night', 'genre': 'Blues', 'alternative_artist': 'Steve Perry', 'add_to_final_records': True}
+{'artist': 'Steve Perry', 'song': "Shake Dem Duke's", 'genre': 'Blues', 'alternative_artist': 'Steve Perry', 'add_to_final_records': True}
+{'artist': 'Steve Riley & The Mamou Playboys', 'song': 'Deux Valses À Wayne Perry', 'genre': 'Blues', 'alternative_artist': 'Steve Perry', 'add_to_final_records': True}
+{'artist': 'Popa Chubby', 'song': "Sam Lay's Pistol", 'genre': 'Blues', 'alternative_artist': '2 Pistols', 'add_to_final_records': True}
+{'artist': 'Sugar Ray', 'song': 'My Home Is a Prison', 'genre': 'Blues', 'alternative_artist': 'Sugar Ray', 'add_to_final_records': True}
+{'artist': 'Sugar Ray', 'song': 'Need My Baby', 'genre': 'Blues', 'alternative_artist': 'Sugar Ray', 'add_to_final_records': True}
+{'artist': 'Sugar Ray', 'song': 'No Good Woman', 'genre': 'Blues', 'alternative_artist': 'Sugar Ray', 'add_to_final_records': True}
+{'artist': 'Sugar Ray', 'song': "Jack She's On the Ball", 'genre': 'Blues', 'alternative_artist': 'Sugar Ray', 'add_to_final_records': True}
+{'artist': 'Sugar Ray', 'song': 'You Better Move On', 'genre': 'Blues', 'alternative_artist': 'Sugar Ray', 'add_to_final_records': True}
+{'artist': 'Sugar Ray', 'song': "It's a Low Down Dirty Shame", 'genre': 'Blues', 'alternative_artist': 'Sugar Ray', 'add_to_final_records': True}
+{'artist': 'Sugar Ray', 'song': 'Love, Life and Money', 'genre': 'Blues', 'alternative_artist': 'Sugar Ray', 'add_to_final_records': True}
+{'artist': 'Sugar Ray', 'song': 'Tomorrow', 'genre': 'Blues', 'alternative_artist': 'Sugar Ray', 'add_to_final_records': True}
+{'artist': 'Sugar Ray', 'song': "My Sweet Love Ain't Around", 'genre': 'Blues', 'alternative_artist': 'Sugar Ray', 'add_to_final_records': True}
+{'artist': 'Sugar Ray', 'song': 'Lost Mind', 'genre': 'Blues', 'alternative_artist': 'Sugar Ray', 'add_to_final_records': True}
+{'artist': 'Sugar Ray', 'song': 'You Better Change Your Way of Loving', 'genre': 'Blues', 'alternative_artist': 'Sugar Ray', 'add_to_final_records': True}
+{'artist': 'Kai Strauss & Sugar Ray', 'song': 'Waiting on You', 'genre': 'Blues', 'alternative_artist': 'Sugar Ray', 'add_to_final_records': True}
+{'artist': 'Sugar Ray', 'song': 'Money, Marbles and Chalk', 'genre': 'Blues', 'alternative_artist': 'Sugar Ray', 'add_to_final_records': True}
+{'artist': 'Kai Strauss & Sugar Ray', 'song': 'I Used to Have a Woman', 'genre': 'Blues', 'alternative_artist': 'Sugar Ray', 'add_to_final_records': True}
+{'artist': 'Kai Strauss & Sugar Ray', 'song': 'Hard Life', 'genre': 'Blues', 'alternative_artist': 'Sugar Ray', 'add_to_final_records': True}
+{'artist': 'Billy Branch, Charlie Musselwhite, James Cotton & Sugar Ray Norcia', 'song': 'Route 66', 'genre': 'Blues', 'alternative_artist': 'Sugar Ray', 'add_to_final_records': True}
+{'artist': 'Billy Branch, Charlie Musselwhite, James Cotton & Sugar Ray Norcia', 'song': "T.D.'s Boogie Woogie", 'genre': 'Blues', 'alternative_artist': 'Sugar Ray', 'add_to_final_records': True}
+{'artist': 'Carolina Chocolate Drops & Luminescent Orchestrii', 'song': "Knockin'", 'genre': 'Blues', 'alternative_artist': 'Carolina Chocolate Drops', 'add_to_final_records': True}
+{'artist': 'Carolina Chocolate Drops & Luminescent Orchestrii', 'song': 'Escoutas (Diga Diga Diga)', 'genre': 'Blues', 'alternative_artist': 'Carolina Chocolate Drops', 'add_to_final_records': True}
+{'artist': 'Carolina Chocolate Drops & Luminescent Orchestrii', 'song': 'Short Dress Gal', 'genre': 'Blues', 'alternative_artist': 'Carolina Chocolate Drops', 'add_to_final_records': True}
+{'artist': 'The Carolina Chocolate Drops', 'song': 'Sitting On Top of the World', 'genre': 'Blues', 'alternative_artist': 'Carolina Chocolate Drops', 'add_to_final_records': True}
+{'artist': 'Rob Roy Parnell', 'song': 'Sorry As They Come', 'genre': 'Blues', 'alternative_artist': 'Lee Roy Parnell', 'add_to_final_records': True}
+{'artist': 'Rob Roy Parnell', 'song': 'Lolli Pop Mama', 'genre': 'Blues', 'alternative_artist': 'Lee Roy Parnell', 'add_to_final_records': True}
+{'artist': 'Arlen Roth', 'song': 'Dust My Broom (Feat. Lee Roy Parnell)', 'genre': 'Blues', 'alternative_artist': 'Lee Roy Parnell', 'add_to_final_records': True}
+{'artist': 'Ronnie Baker Brooks', 'song': 'Come On Up (feat. Felix Cavaliere & Lee Roy Parnell)', 'genre': 'Blues', 'alternative_artist': 'Lee Roy Parnell', 'add_to_final_records': True}
+{'artist': 'Arlen Roth', 'song': 'Dixie Chicken (Feat. Lee Roy Parnell)', 'genre': 'Blues', 'alternative_artist': 'Lee Roy Parnell', 'add_to_final_records': True}
+{'artist': 'Rob Roy Parnell', 'song': 'If I Were You', 'genre': 'Blues', 'alternative_artist': 'Lee Roy Parnell', 'add_to_final_records': True}
+{'artist': 'Rob Roy Parnell', 'song': "If Mama Ain't Happy", 'genre': 'Blues', 'alternative_artist': 'Lee Roy Parnell', 'add_to_final_records': True}
+{'artist': 'Rob Roy Parnell', 'song': 'Texas Love Machine', 'genre': 'Blues', 'alternative_artist': 'Lee Roy Parnell', 'add_to_final_records': True}
+{'artist': 'Rob Roy Parnell', 'song': 'I Know Better', 'genre': 'Blues', 'alternative_artist': 'Lee Roy Parnell', 'add_to_final_records': True}
+{'artist': 'Rob Roy Parnell', 'song': 'Rose Petals', 'genre': 'Blues', 'alternative_artist': 'Lee Roy Parnell', 'add_to_final_records': True}
+{'artist': 'Rob Roy Parnell', 'song': "Come On Lil' Baby", 'genre': 'Blues', 'alternative_artist': 'Lee Roy Parnell', 'add_to_final_records': True}
+{'artist': 'Rob Roy Parnell', 'song': "That's All She Wrote", 'genre': 'Blues', 'alternative_artist': 'Lee Roy Parnell', 'add_to_final_records': True}
+{'artist': 'Rob Roy Parnell', 'song': 'Long Distance Love', 'genre': 'Blues', 'alternative_artist': 'Lee Roy Parnell', 'add_to_final_records': True}
+{'artist': 'Rob Roy Parnell', 'song': 'Loose Lips', 'genre': 'Blues', 'alternative_artist': 'Lee Roy Parnell', 'add_to_final_records': True}
+{'artist': 'Rob Roy Parnell', 'song': "That's What the Blues Is All About", 'genre': 'Blues', 'alternative_artist': 'Lee Roy Parnell', 'add_to_final_records': True}
+{'artist': 'Little Boys Blue', 'song': 'Big Pimpin Sugar Daddy Romeo', 'genre': 'Blues', 'alternative_artist': 'Lil Romeo', 'add_to_final_records': True}
+{'artist': 'Farlow-Kirch Band', 'song': 'Alligator Crawl', 'genre': 'Blues', 'alternative_artist': 'Bill Keith', 'add_to_final_records': True}
+{'artist': 'Farlow-Kirch Band', 'song': 'Lions In the Jungle', 'genre': 'Blues', 'alternative_artist': 'Bill Keith', 'add_to_final_records': True}
+{'artist': 'Farlow-Kirch Band', 'song': 'Southern Moon', 'genre': 'Blues', 'alternative_artist': 'Bill Keith', 'add_to_final_records': True}
+{'artist': 'Farlow-Kirch Band', 'song': '32-20 Blues', 'genre': 'Blues', 'alternative_artist': 'Bill Keith', 'add_to_final_records': True}
+{'artist': 'Farlow-Kirch Band', 'song': 'All You Need Is a Good Man', 'genre': 'Blues', 'alternative_artist': 'Bill Keith', 'add_to_final_records': True}
+{'artist': 'Farlow-Kirch Band', 'song': 'Alabama', 'genre': 'Blues', 'alternative_artist': 'Bill Keith', 'add_to_final_records': True}
+{'artist': 'Farlow-Kirch Band', 'song': 'Love Me to Death', 'genre': 'Blues', 'alternative_artist': 'Bill Keith', 'add_to_final_records': True}
+{'artist': 'Farlow-Kirch Band', 'song': 'Juke Joint', 'genre': 'Blues', 'alternative_artist': 'Bill Keith', 'add_to_final_records': True}
+{'artist': 'Farlow-Kirch Band', 'song': 'Crack In the Wall', 'genre': 'Blues', 'alternative_artist': 'Bill Keith', 'add_to_final_records': True}
+{'artist': 'Farlow-Kirch Band', 'song': "I'm In the Mood", 'genre': 'Blues', 'alternative_artist': 'Bill Keith', 'add_to_final_records': True}
+{'artist': 'Farlow-Kirch Band', 'song': 'Go Get Your Monkey', 'genre': 'Blues', 'alternative_artist': 'Bill Keith', 'add_to_final_records': True}
+{'artist': 'Buddy Guy', 'song': "Blues Don't Care (feat. Gary Clark Jr.)", 'genre': 'Blues', 'alternative_artist': 'Roy Clark', 'add_to_final_records': True}
+{'artist': 'John Lee Hooker', 'song': 'Boom Boom', 'genre': 'Blues', 'alternative_artist': 'Johnny Lee', 'add_to_final_records': True}
+{'artist': 'John Lee Hooker', 'song': 'One Bourbon, One Scotch, One Beer', 'genre': 'Blues', 'alternative_artist': 'Johnny Lee', 'add_to_final_records': True}
+{'artist': 'John Lee Hooker', 'song': 'Bang, Bang, Bang, Bang', 'genre': 'Blues', 'alternative_artist': 'Johnny Lee', 'add_to_final_records': True}
+{'artist': 'John Lee Hooker', 'song': "I'm In the Mood", 'genre': 'Blues', 'alternative_artist': 'Johnny Lee', 'add_to_final_records': True}
+{'artist': 'John Lee Hooker', 'song': 'The Motor City Is Burning', 'genre': 'Blues', 'alternative_artist': 'Johnny Lee', 'add_to_final_records': True}
+{'artist': 'John Lee Hooker', 'song': "I'm Bad Like Jesse James", 'genre': 'Blues', 'alternative_artist': 'Johnny Lee', 'add_to_final_records': True}
+{'artist': 'John Lee Hooker', 'song': 'Shake It Baby', 'genre': 'Blues', 'alternative_artist': 'Johnny Lee', 'add_to_final_records': True}
+{'artist': 'John Lee Hooker', 'song': 'It Serves You Right to Suffer', 'genre': 'Blues', 'alternative_artist': 'Johnny Lee', 'add_to_final_records': True}
+{'artist': 'John Lee Hooker', 'song': 'Mr. Lucky', 'genre': 'Blues', 'alternative_artist': 'Johnny Lee', 'add_to_final_records': True}
+{'artist': 'John Lee Hooker', 'song': 'Bluebird', 'genre': 'Blues', 'alternative_artist': 'Johnny Lee', 'add_to_final_records': True}
+{'artist': 'John Lee Hooker', 'song': 'House Rent Boogie', 'genre': 'Blues', 'alternative_artist': 'Johnny Lee', 'add_to_final_records': True}
+{'artist': 'John Lee Hooker', 'song': 'The Waterfront', 'genre': 'Blues', 'alternative_artist': 'Johnny Lee', 'add_to_final_records': True}
+{'artist': 'John Lee Hooker', 'song': 'Decoration Day', 'genre': 'Blues', 'alternative_artist': 'Johnny Lee', 'add_to_final_records': True}
+{'artist': 'John Lee Hooker', 'song': "Doin' the Shout", 'genre': 'Blues', 'alternative_artist': 'Johnny Lee', 'add_to_final_records': True}
+{'artist': 'John Lee Hooker', 'song': 'Never Get Out of These Blues Alive', 'genre': 'Blues', 'alternative_artist': 'Johnny Lee', 'add_to_final_records': True}
+{'artist': 'John Lee Hooker', 'song': 'Back Biters and Syndicaters', 'genre': 'Blues', 'alternative_artist': 'Johnny Lee', 'add_to_final_records': True}
+{'artist': 'John Lee Hooker', 'song': 'Think Twice Before You Go', 'genre': 'Blues', 'alternative_artist': 'Johnny Lee', 'add_to_final_records': True}
+{'artist': 'Dan McKinnon', 'song': 'King of the Hill', 'genre': 'Blues', 'alternative_artist': 'Dan Hill', 'add_to_final_records': True}
+{'artist': 'Dougie Burns', 'song': 'Home (feat. Ross McDonald, Andrew Robert Murray, Joshua MacKenzie, Sarah Burns & Les MacPherson)', 'genre': 'Blues', 'alternative_artist': 'Sarah Ross', 'add_to_final_records': True}
+{'artist': 'Gregg Allman', 'song': 'Little By Little', 'genre': 'Blues', 'alternative_artist': 'Gregg Allman', 'add_to_final_records': True}
+{'artist': 'Gregg Allman', 'song': 'Floating Bridge', 'genre': 'Blues', 'alternative_artist': 'Gregg Allman', 'add_to_final_records': True}
+{'artist': 'Gregg Allman', 'song': 'Just Another Rider', 'genre': 'Blues', 'alternative_artist': 'Gregg Allman', 'add_to_final_records': True}
+{'artist': 'Gregg Allman', 'song': 'Out of Bad Luck', 'genre': 'Blues', 'alternative_artist': 'Gregg Allman', 'add_to_final_records': True}
+{'artist': 'Gregg Allman', 'song': 'Devil Got My Woman', 'genre': 'Blues', 'alternative_artist': 'Gregg Allman', 'add_to_final_records': True}
+{'artist': 'Gregg Allman', 'song': "I Can't Be Satisfied", 'genre': 'Blues', 'alternative_artist': 'Gregg Allman', 'add_to_final_records': True}
+{'artist': 'Gregg Allman', 'song': 'Tears, Tears, Tears', 'genre': 'Blues', 'alternative_artist': 'Gregg Allman', 'add_to_final_records': True}
+{'artist': 'Gregg Allman', 'song': "I Believe I'll Go Back Home", 'genre': 'Blues', 'alternative_artist': 'Gregg Allman', 'add_to_final_records': True}
+{'artist': 'Gregg Allman', 'song': 'Rolling Stone', 'genre': 'Blues', 'alternative_artist': 'Gregg Allman', 'add_to_final_records': True}
+{'artist': 'Gregg Allman', 'song': 'Reconsider Baby', 'genre': 'Blues', 'alternative_artist': 'Gregg Allman', 'add_to_final_records': True}
+{'artist': 'Gregg Allman', 'song': 'Checking On My Baby', 'genre': 'Blues', 'alternative_artist': 'Gregg Allman', 'add_to_final_records': True}
+{'artist': 'Gregg Allman', 'song': 'Blind Man', 'genre': 'Blues', 'alternative_artist': 'Gregg Allman', 'add_to_final_records': True}
+{'artist': 'Gregg Allman', 'song': 'Please Accept My Love', 'genre': 'Blues', 'alternative_artist': 'Gregg Allman', 'add_to_final_records': True}
+{'artist': 'Gregg Allman', 'song': 'My Love Is Your Love', 'genre': 'Blues', 'alternative_artist': 'Gregg Allman', 'add_to_final_records': True}
+{'artist': 'Floyd Miles & Gregg Allman', 'song': 'Spending Christmas With the Blues', 'genre': 'Blues', 'alternative_artist': 'Gregg Allman', 'add_to_final_records': True}
+{'artist': 'Floyd Miles & Gregg Allman', 'song': 'Silent Night', 'genre': 'Blues', 'alternative_artist': 'Gregg Allman', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Sad Hours', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Hate To See You Go', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'I Got to Go', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Tell Me Mama', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'My Babe', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Juke', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Blue And Lonesome', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Boom, Boom Out Goes The Light', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Hate to See You Go', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Off The Wall', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': "It's Too Late Brother", 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Mean Old World', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Quarter To Twelve', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Roller Coaster', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Blues With A Feeling', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': "You're So Fine", 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Blue Midnight', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Oh Baby', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Just Your Fool', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Key To The Highway', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Boogie', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': "Can't Hold Out Much Longer", 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Fast Boogie', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Lights Out', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Crazy Mixed Up World', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'I Got To Find My Baby', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': "Walkin' On", 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Back Track', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': "I Don't Play", 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Last Night', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Mellow Down Easy', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Too Late', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Up The Line', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Little Girl', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': "I've Had My Fun", 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': "Ah'w Baby", 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Just A Feeling', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Fast Large One', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': "Don't Need No Horse", 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'You Better Watch Yourself', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Southern Feeling', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'As Long As I Have You', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': "Everything's Gonna Be Alright", 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'You Gonna Be Sorry (Someday Baby)', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Worried Life', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': "It Ain't Right", 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': "Confessin' The Blues", 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Memphis Minnie & Little Walter', 'song': 'Me and My Chauffeur', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Rock Bottom', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'I Had My Fun', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': "My Baby's Sweeter", 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Nobody But You', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Take Me Back', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Temperature', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Rocker', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Mean Old Frisco', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'I Got to Find My Baby', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Crazy Legs', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': "Confessin' the Blues", 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Everybody Needs Somebody', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'One More Chance With You', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Quarter to Twelve', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Bo Diddley, Little Walter & Billy Branch', 'song': 'Medley: Mellow Down Easy / Bo Diddley', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Up the Line', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'The Toddle', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Evans Shuffle', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Shake Dancer', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Dead Presidents', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Boom, Boom Out Goes the Light', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Who', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Chicken Shack', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Blue and Lonesome', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Key to the Highway', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': "Driftin'", 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Going Down Slow', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Crazy for My Baby', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': "I'm a Business Man", 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'One of These Mornings', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Blues With a Feeling', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Big Leg Mama', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Just a Feeling', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Mercy Babe (My Babe)', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Feel So Bad', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': "That's It", 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'My Baby Is Sweeter', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Off the Wall', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Instrumental', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Back In the Alley', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'I Feel So Bad', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Last Boogie', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Baby', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Come Back Baby', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': "Can't Stop Lovin' You", 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'I Love You So (Oh Baby)', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'My Kind of Baby', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'Make It Alright', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': "You're Sweet", 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': "You Don't Know", 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'You Gonna Be Sorry (Someday Baby) [Alternate]', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Little Walter', 'song': 'You Gonna Be Sorry (Someday Baby) [Take 5]', 'genre': 'Blues', 'alternative_artist': 'Little Walter', 'add_to_final_records': True}
+{'artist': 'Mystikal', 'song': 'That Woman (feat. Sir Charles Jones)', 'genre': 'Blues', 'alternative_artist': 'Mystikal', 'add_to_final_records': True}
+{'artist': "The Smokin' Joe Kubek Band", 'song': 'Little Red Rooster (feat. Bnois King)', 'genre': 'Blues', 'alternative_artist': 'Little Texas', 'add_to_final_records': True}
+{'artist': 'Marcia Ball', 'song': 'The Right Tool for the Job', 'genre': 'Blues', 'alternative_artist': 'Tool', 'add_to_final_records': True}
+{'artist': 'Guitar Shorty', 'song': 'Right Tool for the Job', 'genre': 'Blues', 'alternative_artist': 'Tool', 'add_to_final_records': True}
+{'artist': 'The Holmes Brothers', 'song': 'Those Memories of You (feat. Joan Osborne)', 'genre': 'Blues', 'alternative_artist': 'Brothers Osborne', 'add_to_final_records': True}
+{'artist': 'Eric Clapton & Jimmy Page', 'song': 'Tribute to Elmore', 'genre': 'Blues', 'alternative_artist': 'Jimmy Page', 'add_to_final_records': True}
+{'artist': 'Eric Clapton & Jimmy Page', 'song': 'Choker', 'genre': 'Blues', 'alternative_artist': 'Jimmy Page', 'add_to_final_records': True}
+{'artist': 'Jimmy Page', 'song': 'Cause I Love You', 'genre': 'Blues', 'alternative_artist': 'Jimmy Page', 'add_to_final_records': True}
+{'artist': 'Eric Clapton & Jimmy Page', 'song': 'Freight Loader', 'genre': 'Blues', 'alternative_artist': 'Jimmy Page', 'add_to_final_records': True}
+{'artist': 'Jimmy Page', 'song': "I'm Not Sayin'", 'genre': 'Blues', 'alternative_artist': 'Jimmy Page', 'add_to_final_records': True}
+{'artist': 'Jimmy Page', 'song': 'Just Like Anyone Would Do', 'genre': 'Blues', 'alternative_artist': 'Jimmy Page', 'add_to_final_records': True}
+{'artist': 'Jimmy Page', 'song': 'The Last Mile', 'genre': 'Blues', 'alternative_artist': 'Jimmy Page', 'add_to_final_records': True}
+{'artist': 'Jimmy Page', 'song': "Moanin'", 'genre': 'Blues', 'alternative_artist': 'Jimmy Page', 'add_to_final_records': True}
+{'artist': 'Jimmy Page', 'song': 'Wait for Me', 'genre': 'Blues', 'alternative_artist': 'Jimmy Page', 'add_to_final_records': True}
+{'artist': 'Jimmy Page', 'song': 'Down In the Boots', 'genre': 'Blues', 'alternative_artist': 'Jimmy Page', 'add_to_final_records': True}
+{'artist': 'Jimmy Page', 'song': 'Circles', 'genre': 'Blues', 'alternative_artist': 'Jimmy Page', 'add_to_final_records': True}
+{'artist': 'Jimmy Page', 'song': 'Moondreams', 'genre': 'Blues', 'alternative_artist': 'Jimmy Page', 'add_to_final_records': True}
+{'artist': 'Jimmy Page', 'song': "I'm Your Witchdoctor", 'genre': 'Blues', 'alternative_artist': 'Jimmy Page', 'add_to_final_records': True}
+{'artist': 'Jimmy Page', 'song': 'On Top of the World', 'genre': 'Blues', 'alternative_artist': 'Jimmy Page', 'add_to_final_records': True}
+{'artist': 'Jimmy Page', 'song': "Sittin' On a Fence", 'genre': 'Blues', 'alternative_artist': 'Jimmy Page', 'add_to_final_records': True}
+{'artist': 'Jimmy Page', 'song': "Can't Go Home Anymore My Love", 'genre': 'Blues', 'alternative_artist': 'Jimmy Page', 'add_to_final_records': True}
+{'artist': 'Jimmy Page', 'song': 'So Come On', 'genre': 'Blues', 'alternative_artist': 'Jimmy Page', 'add_to_final_records': True}
+{'artist': 'Jimmy Page', 'song': 'L.A. Breakdown', 'genre': 'Blues', 'alternative_artist': 'Jimmy Page', 'add_to_final_records': True}
+{'artist': 'Jimmy Page', 'song': 'The Bells of Rhymney', 'genre': 'Blues', 'alternative_artist': 'Jimmy Page', 'add_to_final_records': True}
+{'artist': 'Jimmy Page', 'song': 'Step Out of Line', 'genre': 'Blues', 'alternative_artist': 'Jimmy Page', 'add_to_final_records': True}
+{'artist': 'Jimmy Page', 'song': 'Telephone Blues', 'genre': 'Blues', 'alternative_artist': 'Jimmy Page', 'add_to_final_records': True}
+{'artist': 'Jimmy Page', 'song': 'L. A. Breakdown', 'genre': 'Blues', 'alternative_artist': 'Jimmy Page', 'add_to_final_records': True}
+{'artist': 'Jack White', 'song': 'Fly Farm Blues', 'genre': 'Blues', 'alternative_artist': 'Jack White', 'add_to_final_records': True}
+{'artist': 'Eric Ter', 'song': "Tim Judd's Hat", 'genre': 'Blues', 'alternative_artist': 'The Judds', 'add_to_final_records': True}
+{'artist': 'Kenny "Blues Boss" Wayne', 'song': 'Jimmy and Johnny', 'genre': 'Blues', 'alternative_artist': 'Jimmy Wayne', 'add_to_final_records': True}
+{'artist': 'Jimmy Wayne Garrett & Liberty Bell', 'song': 'Not Too Far from Mississippi', 'genre': 'Blues', 'alternative_artist': 'Jimmy Wayne', 'add_to_final_records': True}
+{'artist': 'Jimmy Wayne Garrett & Liberty Bell', 'song': "Don't Help Me Dig", 'genre': 'Blues', 'alternative_artist': 'Jimmy Wayne', 'add_to_final_records': True}
+{'artist': 'Jimmy Wayne Garrett & Liberty Bell', 'song': "It's a Long Way Down the Mississippi", 'genre': 'Blues', 'alternative_artist': 'Jimmy Wayne', 'add_to_final_records': True}
+{'artist': 'Jimmy Wayne Garrett & Liberty Bell', 'song': 'Hotsauce', 'genre': 'Blues', 'alternative_artist': 'Jimmy Wayne', 'add_to_final_records': True}
+{'artist': 'Jimmy Wayne Garrett & Liberty Bell', 'song': 'Unfortunate Ones', 'genre': 'Blues', 'alternative_artist': 'Jimmy Wayne', 'add_to_final_records': True}
+{'artist': 'Jimmy Wayne Garrett & Liberty Bell', 'song': 'Confession Blues', 'genre': 'Blues', 'alternative_artist': 'Jimmy Wayne', 'add_to_final_records': True}
+{'artist': 'Jimmy Wayne Garrett & Liberty Bell', 'song': 'Say One Thang', 'genre': 'Blues', 'alternative_artist': 'Jimmy Wayne', 'add_to_final_records': True}
+{'artist': 'Jimmy Wayne Garrett & Liberty Bell', 'song': 'Beg for Mercy', 'genre': 'Blues', 'alternative_artist': 'Jimmy Wayne', 'add_to_final_records': True}
+{'artist': 'Jimmy Wayne Garrett & Liberty Bell', 'song': "What I've Seen", 'genre': 'Blues', 'alternative_artist': 'Jimmy Wayne', 'add_to_final_records': True}
+{'artist': 'Jimmy Wayne Garrett', 'song': 'Backroads', 'genre': 'Blues', 'alternative_artist': 'Jimmy Wayne', 'add_to_final_records': True}
+{'artist': 'Jimmy Wayne Garrett', 'song': 'Squirrel Dog Blues', 'genre': 'Blues', 'alternative_artist': 'Jimmy Wayne', 'add_to_final_records': True}
+{'artist': 'Jimmy Wayne Garrett', 'song': 'Big Money', 'genre': 'Blues', 'alternative_artist': 'Jimmy Wayne', 'add_to_final_records': True}
+{'artist': 'Jimmy Wayne Garrett', 'song': 'Alabama Blues', 'genre': 'Blues', 'alternative_artist': 'Jimmy Wayne', 'add_to_final_records': True}
+{'artist': 'The Rolling Stones', 'song': 'Just Your Fool', 'genre': 'Blues', 'alternative_artist': 'The Rolling Stones', 'add_to_final_records': True}
+{'artist': 'The Rolling Stones', 'song': 'Hate to See You Go', 'genre': 'Blues', 'alternative_artist': 'The Rolling Stones', 'add_to_final_records': True}
+{'artist': 'The Rolling Stones', 'song': "Ride 'Em On Down", 'genre': 'Blues', 'alternative_artist': 'The Rolling Stones', 'add_to_final_records': True}
+{'artist': 'The Rolling Stones', 'song': 'Blue and Lonesome', 'genre': 'Blues', 'alternative_artist': 'The Rolling Stones', 'add_to_final_records': True}
+{'artist': 'The Rolling Stones', 'song': 'Little Rain', 'genre': 'Blues', 'alternative_artist': 'The Rolling Stones', 'add_to_final_records': True}
+{'artist': 'The Rolling Stones', 'song': "I Can't Quit You Baby", 'genre': 'Blues', 'alternative_artist': 'The Rolling Stones', 'add_to_final_records': True}
+{'artist': 'The Rolling Stones', 'song': 'Hoo Doo Blues', 'genre': 'Blues', 'alternative_artist': 'The Rolling Stones', 'add_to_final_records': True}
+{'artist': 'The Rolling Stones', 'song': 'All of Your Love', 'genre': 'Blues', 'alternative_artist': 'The Rolling Stones', 'add_to_final_records': True}
+{'artist': 'The Rolling Stones', 'song': 'Just Like I Treat You', 'genre': 'Blues', 'alternative_artist': 'The Rolling Stones', 'add_to_final_records': True}
+{'artist': 'The Rolling Stones', 'song': 'Commit a Crime', 'genre': 'Blues', 'alternative_artist': 'The Rolling Stones', 'add_to_final_records': True}
+{'artist': 'The Rolling Stones', 'song': 'Everybody Knows About My Good Thing', 'genre': 'Blues', 'alternative_artist': 'The Rolling Stones', 'add_to_final_records': True}
+{'artist': 'The Rolling Stones', 'song': 'I Gotta Go', 'genre': 'Blues', 'alternative_artist': 'The Rolling Stones', 'add_to_final_records': True}
+{'artist': 'Ana Popovic', 'song': 'Hot Southern Night (feat. Lucky Peterson)', 'genre': 'Blues', 'alternative_artist': 'Hot Hot Heat', 'add_to_final_records': True}
+{'artist': 'Canned Heat', 'song': 'Hot Money', 'genre': 'Blues', 'alternative_artist': 'Hot Hot Heat', 'add_to_final_records': True}
+{'artist': 'Los Lonely Boys', 'song': 'Castanets', 'genre': 'Blues', 'alternative_artist': 'Los Lonely Boys', 'add_to_final_records': True}
+{'artist': 'Kenny Wayne Shepherd & Kid Rock', 'song': 'Spank', 'genre': 'Blues', 'alternative_artist': 'Kid Rock', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Too Much', 'genre': 'Blues', 'alternative_artist': 'Bank Notes', 'add_to_final_records': True}
+{'artist': 'Fleetwood Mac', 'song': 'Need Your Love so Bad', 'genre': 'Blues', 'alternative_artist': 'Fleetwood Mac', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Standing On Shaky Ground', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': "Givin' It Up for Your Love", 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Going Back to Louisiana', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Before You Accuse Me', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Two More Bottles of Wine', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': "Victim of Life's Circumstances", 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Sending Me Angels', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'B Movie Boxcar Blues', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Too Much Stuff', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Old Weakness (Coming on Strong)', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'You Are My Sunshine', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Pledging My Love', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'B-Movie Boxcar Blues', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Maybe Someday Baby', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Lipstick, Powder & Paint', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Solid Gold Plated Fool', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': "It's Love Baby 24 Hours a Day", 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Love Rustler', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': "Honky Tonkin' (I Guess I Done Me Some)", 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Under Suspicion', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Monkey Around', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Special Love Song', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Lone Star Blues', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'You Were Never Mine', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Down into Mexico', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'One of the Fortunate Few', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Better off With the Blues', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Same Kind of Crazy', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Leap Of Faith', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Lie No Better', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Somebody to Love You', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Two Step Too', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Best of Me', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'I Had a Real Good Time', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': "I've Got Dreams to Remember", 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Sandy Beaches', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Right to Be Wrong', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Midnight Communion', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'The Part I Like Best', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Kiss Her Once for Me', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': "I'll Change My Style", 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Thank You Baby', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Your Memory, Me, And the Blues', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Dead Wrong', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'When Rita Leaves', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Blues About You Baby', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Hammerhead Stew', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Alright by Me', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': "Livin' It Down", 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Squeeze Me In', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'New York City', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Everything I Know About the Blues', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': "Ain't Lost Nothing", 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Lipstick Traces (On a Cigarette)', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'The Rub', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'All Night Long', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Kelley Hunt & Delbert McClinton', 'song': 'Deal With It', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': "Won't Be Me", 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Let Me Be Your Lover', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': "Don't Want to Love You", 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Smooth Talk', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Jungle Room', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Baggage Claim', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Gotta Get It Worked On', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Money Honey', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': "Givin' It Up For Your Love", 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Roy Buchanan & Delbert McClinton', 'song': 'Baby, Baby, Baby', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Birmingham Tonight', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Read Me My Rights', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': "Watchin' the Rain", 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': "Nothin' Lasts Forever", 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Blue Monday', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'All There Is of Me', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Desperation', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': "Don't Leave Home Without It", 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': "(When She Wants Good Lovin') My Baby Comes to Me", 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Have Mercy', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Lovey Dovey', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Turn On Your Love Light', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Just a Little Bit', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Please, Please, Please', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'In the Jailhouse Now', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Let Love Come Between Us', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': "I'm Talking About You", 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Corinna', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': "It's Love Baby (24 Hours a Day)", 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Lesson in the Pain of Love', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Delbert McClinton', 'song': 'Spoonful', 'genre': 'Blues', 'alternative_artist': 'Delbert McClinton', 'add_to_final_records': True}
+{'artist': 'Jay McShann', 'song': 'Kansas City', 'genre': 'Blues', 'alternative_artist': 'Hootie & the Blowfish', 'add_to_final_records': True}
+{'artist': 'Jay McShann', 'song': "'Tain't Nobody's Biz'ness If I Do", 'genre': 'Blues', 'alternative_artist': 'Hootie & the Blowfish', 'add_to_final_records': True}
+{'artist': 'Jay McShann', 'song': 'Hootie Blues', 'genre': 'Blues', 'alternative_artist': 'Hootie & the Blowfish', 'add_to_final_records': True}
+{'artist': 'Jay McShann', 'song': 'Blue Devil Jump', 'genre': 'Blues', 'alternative_artist': 'Hootie & the Blowfish', 'add_to_final_records': True}
+{'artist': 'Jay McShann', 'song': "Jumpin' At the Woodside", 'genre': 'Blues', 'alternative_artist': 'Hootie & the Blowfish', 'add_to_final_records': True}
+{'artist': 'Jay McShann', 'song': 'Going to Kansas City', 'genre': 'Blues', 'alternative_artist': 'Hootie & the Blowfish', 'add_to_final_records': True}
+{'artist': 'Jay McShann', 'song': 'Just for You', 'genre': 'Blues', 'alternative_artist': 'Hootie & the Blowfish', 'add_to_final_records': True}
+{'artist': 'Jay McShann', 'song': "Confessin' the Blues", 'genre': 'Blues', 'alternative_artist': 'Hootie & the Blowfish', 'add_to_final_records': True}
+{'artist': 'Jay McShann', 'song': 'Hot Biscuits', 'genre': 'Blues', 'alternative_artist': 'Hootie & the Blowfish', 'add_to_final_records': True}
+{'artist': 'Jay McShann', 'song': 'My Chile', 'genre': 'Blues', 'alternative_artist': 'Hootie & the Blowfish', 'add_to_final_records': True}
+{'artist': 'Jay McShann', 'song': "'Fore Day Rider", 'genre': 'Blues', 'alternative_artist': 'Hootie & the Blowfish', 'add_to_final_records': True}
+{'artist': 'Jay McShann', 'song': "Hootie's K.C. Christmas Prayer", 'genre': 'Blues', 'alternative_artist': 'Hootie & the Blowfish', 'add_to_final_records': True}
+{'artist': 'Jay McShann', 'song': 'Come On Over to My House', 'genre': 'Blues', 'alternative_artist': 'Hootie & the Blowfish', 'add_to_final_records': True}
+{'artist': 'Jay McShann', 'song': 'After Hours', 'genre': 'Blues', 'alternative_artist': 'Hootie & the Blowfish', 'add_to_final_records': True}
+{'artist': 'Jay McShann', 'song': 'Moten Swing', 'genre': 'Blues', 'alternative_artist': 'Hootie & the Blowfish', 'add_to_final_records': True}
+{'artist': 'Jay McShann', 'song': 'Confession The Blues', 'genre': 'Blues', 'alternative_artist': 'Hootie & the Blowfish', 'add_to_final_records': True}
+{'artist': 'Jay McShann', 'song': 'Backwater Blues', 'genre': 'Blues', 'alternative_artist': 'Hootie & the Blowfish', 'add_to_final_records': True}
+{'artist': 'Jay McShann', 'song': 'Sunny Side of the Street', 'genre': 'Blues', 'alternative_artist': 'Hootie & the Blowfish', 'add_to_final_records': True}
+{'artist': 'Jay McShann', 'song': 'Smooth Sailing', 'genre': 'Blues', 'alternative_artist': 'Hootie & the Blowfish', 'add_to_final_records': True}
+{'artist': 'Jay McShann', 'song': "Junmpin' the Blues", 'genre': 'Blues', 'alternative_artist': 'Hootie & the Blowfish', 'add_to_final_records': True}
+{'artist': 'Jay McShann', 'song': 'Hard Oil Blues', 'genre': 'Blues', 'alternative_artist': 'Hootie & the Blowfish', 'add_to_final_records': True}
+{'artist': 'Jay McShann', 'song': "Ain't Nobody's Business", 'genre': 'Blues', 'alternative_artist': 'Hootie & the Blowfish', 'add_to_final_records': True}
+{'artist': 'Jay McShann', 'song': "She's Got It", 'genre': 'Blues', 'alternative_artist': 'Hootie & the Blowfish', 'add_to_final_records': True}
+{'artist': 'Meghan Linsey', 'song': 'Steamroller Blues', 'genre': 'Blues', 'alternative_artist': 'Meghan Linsey', 'add_to_final_records': True}
+{'artist': 'John Ginty', 'song': 'Elvis Presley (feat. Albert Castiglia)', 'genre': 'Blues', 'alternative_artist': 'Elvis Presley', 'add_to_final_records': True}
+{'artist': 'U2 & B.B. King', 'song': 'When Love Comes to Town', 'genre': 'Blues', 'alternative_artist': 'U2', 'add_to_final_records': True}
+{'artist': 'The Jake Leg Jug Band', 'song': "Ma Miller's Black Bottom", 'genre': 'Blues', 'alternative_artist': 'Jake Miller', 'add_to_final_records': True}
+{'artist': 'Big Al Downing', 'song': 'Medley of Soul', 'genre': 'Blues', 'alternative_artist': 'Big Al Downing', 'add_to_final_records': True}
+{'artist': 'Big Al Downing', 'song': 'Saints The', 'genre': 'Blues', 'alternative_artist': 'Big Al Downing', 'add_to_final_records': True}
+{'artist': 'Kim soo ro, Jun Hyun moo, Choi Daniel, Kim Jeong Hoon, Ahn Nae sang, Yu In Yeong, Kim Jae Won, Ok Joo Hyun, 박건형, Kim Seong gyun, Yeo Jin goo, Kim Yu jeong, Kim Hyung Jun, Baek Sung hyun, E hyuny, Shin Ji Hoon, Sam Hammington, Choi Yeo jin, Kim Jong Kook, Dynamic Duo, Park Hyun-Bin, BMK, Younha, Seo Moontak, E ru, Bobby Kim, Seo In Young, KARA, Rainbow, U-KISS, Eddy Kim, Ulala Session, 2BiC, Ji-Su, J2M, Boys Republic, Flash, K-Much, Jang hui ung, Sonnet Son, Shin Su Ji & TIFFANY', 'song': 'Talk About Love', 'genre': 'Blues', 'alternative_artist': 'Tiffany', 'add_to_final_records': True}
+{'artist': 'Roddie Romero & the Hub City All-Stars', 'song': 'One Trick Pony', 'genre': 'Blues', 'alternative_artist': 'Trick Pony', 'add_to_final_records': True}
+{'artist': 'Slowburner', 'song': 'Take Me Down', 'genre': 'Blues', 'alternative_artist': 'Trick Pony', 'add_to_final_records': True}
+{'artist': 'Slowburner', 'song': 'Messing With the Kid', 'genre': 'Blues', 'alternative_artist': 'Trick Pony', 'add_to_final_records': True}
+{'artist': 'Slowburner', 'song': 'Walk In My Shadow', 'genre': 'Blues', 'alternative_artist': 'Trick Pony', 'add_to_final_records': True}
+{'artist': 'Slowburner', 'song': 'Tomorrow', 'genre': 'Blues', 'alternative_artist': 'Trick Pony', 'add_to_final_records': True}
+{'artist': 'Fleetwood Mac', 'song': 'World in Harmony', 'genre': 'Blues', 'alternative_artist': 'Fifth Harmony', 'add_to_final_records': True}
+{'artist': 'Hamilton Loomis', 'song': 'Bow Wow', 'genre': 'Blues', 'alternative_artist': 'Bow Wow', 'add_to_final_records': True}
+{'artist': 'The Kentucky Headhunters & Johnnie Johnson', 'song': "Stumblin'", 'genre': 'Blues', 'alternative_artist': 'The Kentucky Headhunters', 'add_to_final_records': True}
+{'artist': 'Gene Autry', 'song': 'Bye Bye Cherry', 'genre': 'Blues', 'alternative_artist': 'Gene Autry', 'add_to_final_records': True}
+{'artist': 'Tri-Sikle', 'song': "Promises of Flight (Lynn's Song)", 'genre': 'Blues', 'alternative_artist': 'The Lynns', 'add_to_final_records': True}
+{'artist': 'Barbara Lynn', 'song': "Lynn's Blues", 'genre': 'Blues', 'alternative_artist': 'The Lynns', 'add_to_final_records': True}
+{'artist': 'The Fabulous Thunderbirds', 'song': 'Look at That, Look at That', 'genre': 'Blues', 'alternative_artist': 'The Fabulous Thunderbirds', 'add_to_final_records': True}
+{'artist': 'The Fabulous Thunderbirds', 'song': 'Knock Yourself Out', 'genre': 'Blues', 'alternative_artist': 'The Fabulous Thunderbirds', 'add_to_final_records': True}
+{'artist': 'The Fabulous Thunderbirds', 'song': "Don't Burn Me (feat. Anson Funderburgh)", 'genre': 'Blues', 'alternative_artist': 'The Fabulous Thunderbirds', 'add_to_final_records': True}
+{'artist': 'The Fabulous Thunderbirds', 'song': "Now Loosin' up Baby", 'genre': 'Blues', 'alternative_artist': 'The Fabulous Thunderbirds', 'add_to_final_records': True}
+{'artist': 'The Fabulous Thunderbirds', 'song': 'Sweet Thang', 'genre': 'Blues', 'alternative_artist': 'The Fabulous Thunderbirds', 'add_to_final_records': True}
+{'artist': 'The Fabulous Thunderbirds', 'song': 'Need Somebody to Love', 'genre': 'Blues', 'alternative_artist': 'The Fabulous Thunderbirds', 'add_to_final_records': True}
+{'artist': 'Lou Ann Barton & The Fabulous Thunderbirds', 'song': "Good Rockin' Daddy", 'genre': 'Blues', 'alternative_artist': 'The Fabulous Thunderbirds', 'add_to_final_records': True}
+{'artist': 'The Fabulous Thunderbirds', 'song': 'It Comes to Me Naturally', 'genre': 'Blues', 'alternative_artist': 'The Fabulous Thunderbirds', 'add_to_final_records': True}
+{'artist': 'The Fabulous Thunderbirds', 'song': "Don't Bother Tryin' to Steal Her Love", 'genre': 'Blues', 'alternative_artist': 'The Fabulous Thunderbirds', 'add_to_final_records': True}
+{'artist': 'The Fabulous Thunderbirds', 'song': 'Stagger Lee', 'genre': 'Blues', 'alternative_artist': 'The Fabulous Thunderbirds', 'add_to_final_records': True}
+{'artist': 'Lou Ann Barton & The Fabulous Thunderbirds', 'song': 'Every Night of the Week', 'genre': 'Blues', 'alternative_artist': 'The Fabulous Thunderbirds', 'add_to_final_records': True}
+{'artist': 'The Fabulous Thunderbirds', 'song': "Rainin' in My Heart", 'genre': 'Blues', 'alternative_artist': 'The Fabulous Thunderbirds', 'add_to_final_records': True}
+{'artist': 'The Fabulous Thunderbirds', 'song': "You Can't Judge a Book by Its Cover", 'genre': 'Blues', 'alternative_artist': 'The Fabulous Thunderbirds', 'add_to_final_records': True}
+{'artist': 'The Fabulous Thunderbirds', 'song': 'Work Together', 'genre': 'Blues', 'alternative_artist': 'The Fabulous Thunderbirds', 'add_to_final_records': True}
+{'artist': 'The Fabulous Thunderbirds', 'song': 'It Takes a Big Man to Cry', 'genre': 'Blues', 'alternative_artist': 'The Fabulous Thunderbirds', 'add_to_final_records': True}
+{'artist': 'The Fabulous Thunderbirds', 'song': 'Meet Me on the Corner', 'genre': 'Blues', 'alternative_artist': 'The Fabulous Thunderbirds', 'add_to_final_records': True}
+{'artist': 'The Fabulous Thunderbirds', 'song': 'Mistake Number 1', 'genre': 'Blues', 'alternative_artist': 'The Fabulous Thunderbirds', 'add_to_final_records': True}
+{'artist': 'The Fabulous Thunderbirds', 'song': 'Drowning on Dry Land', 'genre': 'Blues', 'alternative_artist': 'The Fabulous Thunderbirds', 'add_to_final_records': True}
+{'artist': 'The Fabulous Thunderbirds', 'song': 'Twist It Off', 'genre': 'Blues', 'alternative_artist': 'The Fabulous Thunderbirds', 'add_to_final_records': True}
+{'artist': 'The Fabulous Thunderbirds', 'song': "Where's Your Love Been", 'genre': 'Blues', 'alternative_artist': 'The Fabulous Thunderbirds', 'add_to_final_records': True}
+{'artist': 'The Fabulous Thunderbirds', 'song': "Feelin' Good", 'genre': 'Blues', 'alternative_artist': 'The Fabulous Thunderbirds', 'add_to_final_records': True}
+{'artist': 'Lou Ann Barton & The Fabulous Thunderbirds', 'song': 'Maybe', 'genre': 'Blues', 'alternative_artist': 'The Fabulous Thunderbirds', 'add_to_final_records': True}
+{'artist': 'The Fabulous Thunderbirds', 'song': "I've Never Found a Girl (To Love Me Like You Do)", 'genre': 'Blues', 'alternative_artist': 'The Fabulous Thunderbirds', 'add_to_final_records': True}
+{'artist': 'The Fabulous Thunderbirds', 'song': 'Born to Love You', 'genre': 'Blues', 'alternative_artist': 'The Fabulous Thunderbirds', 'add_to_final_records': True}
+{'artist': 'The Fabulous Thunderbirds', 'song': 'Love in Common', 'genre': 'Blues', 'alternative_artist': 'The Fabulous Thunderbirds', 'add_to_final_records': True}
+{'artist': 'The Fabulous Thunderbirds', 'song': "Ain't That a Lot of Love", 'genre': 'Blues', 'alternative_artist': 'The Fabulous Thunderbirds', 'add_to_final_records': True}
+{'artist': 'Lou Ann Barton & The Fabulous Thunderbirds', 'song': 'Rock In My Pocket', 'genre': 'Blues', 'alternative_artist': 'The Fabulous Thunderbirds', 'add_to_final_records': True}
+{'artist': 'The Fabulous Thunderbirds', 'song': "You're Gonna Miss Me", 'genre': 'Blues', 'alternative_artist': 'The Fabulous Thunderbirds', 'add_to_final_records': True}
+{'artist': 'The Fabulous Thunderbirds', 'song': 'Strong Like That', 'genre': 'Blues', 'alternative_artist': 'The Fabulous Thunderbirds', 'add_to_final_records': True}
+{'artist': 'The Fabulous Thunderbirds', 'song': "(I Know) I'm Losing You (feat. Roosevelt Collier and Wes Watkins)", 'genre': 'Blues', 'alternative_artist': 'The Fabulous Thunderbirds', 'add_to_final_records': True}
+{'artist': 'The Fabulous Thunderbirds', 'song': "Somebody's Getting It", 'genre': 'Blues', 'alternative_artist': 'The Fabulous Thunderbirds', 'add_to_final_records': True}
+{'artist': 'The Fabulous Thunderbirds', 'song': 'Smooth', 'genre': 'Blues', 'alternative_artist': 'The Fabulous Thunderbirds', 'add_to_final_records': True}
+{'artist': 'The Fabulous Thunderbirds', 'song': 'I Hear You Knockin', 'genre': 'Blues', 'alternative_artist': 'The Fabulous Thunderbirds', 'add_to_final_records': True}
+{'artist': 'The Fabulous Thunderbirds', 'song': 'Full Time Lover', 'genre': 'Blues', 'alternative_artist': 'The Fabulous Thunderbirds', 'add_to_final_records': True}
+{'artist': 'The Fabulous Thunderbirds', 'song': "I Believe I'm in Love", 'genre': 'Blues', 'alternative_artist': 'The Fabulous Thunderbirds', 'add_to_final_records': True}
+{'artist': 'The Zak Perry Band', 'song': 'Keep Things Simple', 'genre': 'Blues', 'alternative_artist': 'The Band Perry', 'add_to_final_records': True}
+{'artist': 'Roy Acuff', 'song': "Devil's Train", 'genre': 'Blues', 'alternative_artist': 'Roy Acuff', 'add_to_final_records': True}
+{'artist': 'Troy Miller', 'song': 'My Soul Has Been Redeemed (Live)', 'genre': 'Blues', 'alternative_artist': 'Cowboy Troy', 'add_to_final_records': True}
+{'artist': 'Troy Miller', 'song': 'Warrick County Cowboy (Live)', 'genre': 'Blues', 'alternative_artist': 'Cowboy Troy', 'add_to_final_records': True}
+{'artist': 'Troy Miller', 'song': 'Troy Miller Speaking 12 (Live)', 'genre': 'Blues', 'alternative_artist': 'Cowboy Troy', 'add_to_final_records': True}
+{'artist': 'Troy Miller', 'song': 'Troy Miller Speaking 4 (Live)', 'genre': 'Blues', 'alternative_artist': 'Cowboy Troy', 'add_to_final_records': True}
+{'artist': 'Troy Miller', 'song': "Troy's Lament (Live)", 'genre': 'Blues', 'alternative_artist': 'Cowboy Troy', 'add_to_final_records': True}
+{'artist': 'Troy Miller', 'song': 'Troy Miller Speaking 1 (Live)', 'genre': 'Blues', 'alternative_artist': 'Cowboy Troy', 'add_to_final_records': True}
+{'artist': 'Troy Miller', 'song': 'Troy Miller Speaking 8 (Live)', 'genre': 'Blues', 'alternative_artist': 'Cowboy Troy', 'add_to_final_records': True}
+{'artist': 'Troy Miller', 'song': 'Troy Miller Speaking 2 (Live)', 'genre': 'Blues', 'alternative_artist': 'Cowboy Troy', 'add_to_final_records': True}
+{'artist': 'Troy Miller', 'song': 'Troy Miller Speaking 10 (Live)', 'genre': 'Blues', 'alternative_artist': 'Cowboy Troy', 'add_to_final_records': True}
+{'artist': 'Troy Miller', 'song': 'Troy Miller Speaking 9 (Live)', 'genre': 'Blues', 'alternative_artist': 'Cowboy Troy', 'add_to_final_records': True}
+{'artist': 'Troy Miller', 'song': 'Troy Miller Speaking 6 (Live)', 'genre': 'Blues', 'alternative_artist': 'Cowboy Troy', 'add_to_final_records': True}
+{'artist': 'Troy Miller', 'song': 'Troy Miller Speaking 7 (Live)', 'genre': 'Blues', 'alternative_artist': 'Cowboy Troy', 'add_to_final_records': True}
+{'artist': 'Troy Miller', 'song': 'Troy Miller Speaking 3 (Live)', 'genre': 'Blues', 'alternative_artist': 'Cowboy Troy', 'add_to_final_records': True}
+{'artist': 'Troy Miller', 'song': 'Troy Miller Speaking 11 (Live)', 'genre': 'Blues', 'alternative_artist': 'Cowboy Troy', 'add_to_final_records': True}
+{'artist': 'Troy Miller', 'song': 'Troy Miller Speaking 13 (Live)', 'genre': 'Blues', 'alternative_artist': 'Cowboy Troy', 'add_to_final_records': True}
+{'artist': 'Troy Miller', 'song': 'Troy Miller Speaking 5 (Live)', 'genre': 'Blues', 'alternative_artist': 'Cowboy Troy', 'add_to_final_records': True}
+{'artist': 'Troy Miller', 'song': 'She Looks Like a Chevy (Live)', 'genre': 'Blues', 'alternative_artist': 'Cowboy Troy', 'add_to_final_records': True}
+{'artist': 'Troy Miller', 'song': 'Cains Reins (Live)', 'genre': 'Blues', 'alternative_artist': 'Cowboy Troy', 'add_to_final_records': True}
+{'artist': 'Troy Miller', 'song': 'Disturbed Disciple (Live)', 'genre': 'Blues', 'alternative_artist': 'Cowboy Troy', 'add_to_final_records': True}
+{'artist': 'Troy Miller', 'song': 'Cold Clay Getaway (Live)', 'genre': 'Blues', 'alternative_artist': 'Cowboy Troy', 'add_to_final_records': True}
+{'artist': 'Troy Miller', 'song': 'Scurvy Kills No More (Live)', 'genre': 'Blues', 'alternative_artist': 'Cowboy Troy', 'add_to_final_records': True}
+{'artist': 'Troy Miller', 'song': "Momma's Precious Baby Girl (Live)", 'genre': 'Blues', 'alternative_artist': 'Cowboy Troy', 'add_to_final_records': True}
+{'artist': 'Troy Miller', 'song': "Even Though I Don't Have You (Live)", 'genre': 'Blues', 'alternative_artist': 'Cowboy Troy', 'add_to_final_records': True}
+{'artist': 'Troy Miller', 'song': 'What a Way to Live (Live)', 'genre': 'Blues', 'alternative_artist': 'Cowboy Troy', 'add_to_final_records': True}
+{'artist': 'Troy Miller', 'song': 'Cold Winds Blow (Live)', 'genre': 'Blues', 'alternative_artist': 'Cowboy Troy', 'add_to_final_records': True}
+{'artist': 'Troy Miller', 'song': 'Winter Covers Lonesome (Live)', 'genre': 'Blues', 'alternative_artist': 'Cowboy Troy', 'add_to_final_records': True}
+{'artist': 'Troy Miller', 'song': 'Sterling Girl (Live)', 'genre': 'Blues', 'alternative_artist': 'Cowboy Troy', 'add_to_final_records': True}
+{'artist': 'Troy Miller', 'song': 'Bulldog Blues (Live)', 'genre': 'Blues', 'alternative_artist': 'Cowboy Troy', 'add_to_final_records': True}
+{'artist': 'Troy Miller', 'song': 'Worked at the Coal Mine (Live)', 'genre': 'Blues', 'alternative_artist': 'Cowboy Troy', 'add_to_final_records': True}
+{'artist': 'Colin James', 'song': 'Rocket To the Moon', 'genre': 'Blues', 'alternative_artist': 'A Rocket to the Moon', 'add_to_final_records': True}
+{'artist': 'Danny Brown', 'song': 'Special Eyes', 'genre': 'Blues', 'alternative_artist': 'Danny Brown', 'add_to_final_records': True}
+{'artist': 'Charles Brown, Danny Caron, Earl May & Keith Copeland', 'song': 'Black Night', 'genre': 'Blues', 'alternative_artist': 'Danny Brown', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Baby What You Want Me to Do', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Big Boss Man', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Bright Lights, Big City', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Honest I Do', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': "Ain't That Loving You Baby", 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Take Out Some Insurance', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'You Got Me Dizzy', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Shame, Shame, Shame', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Hush, Hush', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': "You Don't Have to Go", 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': "Goin' to New York", 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': "I Ain't Got You", 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'The Sun Is Shining', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Found Love', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Aw Shucks, Hush Your Mouth', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Little Rain', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': "Ain't That Lovin' You Baby", 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Boogie In the Dark', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'You Got Me Crying', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': "You Don't Have To Go", 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': "You're Something Else", 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': "Can't Stand To See You Go", 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Go On To School', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Roll & Rhumba', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'My First Plea', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': "Baby What's Wrong", 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Baby, What You Want Me To Do', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': "If You Don't Want Me Baby", 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'I Got to Keep Rolling', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Life Is Funny', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'When I Woke Up This Morning', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'My Baby Told Me', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'When Two People In Love', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Texas Is So Doggone Big', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': "I'm Leavin'", 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': "Why Can't I Come In", 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': "Just Can't Sleep At Night", 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Poor Country Boy', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Crazy About That Miniskirt', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': "If the Four Winds Don't Change", 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': "Don't Cry", 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Run Here to Me Baby', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': "Honey It's Time for Love", 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': "I'll Be Home Some Day", 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Going to New York', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Somebody Help Me', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Tribute to a Friend', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': "Five Years of Good Lovin'", 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Good Lover', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Shame Shame Shame', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Let’s Get Together', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Caress Me Baby', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Close Together', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': "I Know It's a Sin", 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Down in Virginia', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Ends and Odds', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Down In Virginia', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Oh John', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': "Goin' To New York", 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': "Rockin' With Reed", 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'I Wanna Be Loved', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'The Moon Is Rising', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed & Johnny Winter', 'song': 'Bright Light Big City', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': "Baby, What's On Your Mind?", 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Too Much', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'When Two People Are In Love', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': "I'll Change That Too", 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'A String To Your Heart', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'My Bitter Seed', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Kansas City Baby', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed & Johnny Winter', 'song': 'Stop Light', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Take It Slow', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': "You Can't Hide It", 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'In the Morning', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Back Home At Noon', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'You Got My Crying', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Meet Me', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Come Love', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Where Can You Be', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed & Johnny Winter', 'song': 'Down the Road I Go', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Hush Hush', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Going By the River (Part 2)', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Going By the River (Part 1)', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'I Was So Wrong', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': "I'm Nervous", 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Boogie In The Dark', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': "Let's Get Together", 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': "I'm Going Upside Your Head", 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': "I'll Change My Style", 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Baby, What You Want Me to Do?', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Take out Some Insurance', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Going Fishing', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Down the Road', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': 'Tell Me You Love Me', 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'Jimmy Reed', 'song': "I Don't Go for That", 'genre': 'Blues', 'alternative_artist': 'Jimmy Reed', 'add_to_final_records': True}
+{'artist': 'B.B. King & Glenn Frey', 'song': "Drivin' Wheel", 'genre': 'Blues', 'alternative_artist': 'Glenn Frey', 'add_to_final_records': True}
+{'artist': 'Buddy Guy & Mick Jagger', 'song': 'Doo Doo Doo Doo Doo (Heartbreaker)', 'genre': 'Blues', 'alternative_artist': 'Mick Jagger', 'add_to_final_records': True}
+{'artist': 'Mick Jagger', 'song': 'Dust My Broom', 'genre': 'Blues', 'alternative_artist': 'Mick Jagger', 'add_to_final_records': True}
+{'artist': 'Charlie Hart, Chris Jagger, Ed Beane, Malcolm Mortimore & Mick Jagger', 'song': 'Racketeer Blues', 'genre': 'Blues', 'alternative_artist': 'Mick Jagger', 'add_to_final_records': True}
+{'artist': 'Mick Jagger', 'song': 'Going Down', 'genre': 'Blues', 'alternative_artist': 'Mick Jagger', 'add_to_final_records': True}
+{'artist': 'Buddy Guy', 'song': 'You Did the Crime (feat. Mick Jagger)', 'genre': 'Blues', 'alternative_artist': 'Mick Jagger', 'add_to_final_records': True}
+{'artist': 'Chris Jagger', 'song': "Racketeer's Blues (feat. Mick Jagger)", 'genre': 'Blues', 'alternative_artist': 'Mick Jagger', 'add_to_final_records': True}
+{'artist': 'Hot Lips', 'song': 'Boogie Woogie Buggle Boy (feat. Artists of StoMo)', 'genre': 'Blues', 'alternative_artist': 'Buggles', 'add_to_final_records': True}
+{'artist': 'Saffire - The Uppity Blues Women', 'song': 'Middle Aged Blues Boogie', 'genre': 'Blues', 'alternative_artist': 'AGER', 'add_to_final_records': True}
+{'artist': 'Elvin Bishop', 'song': 'Middle Aged Man', 'genre': 'Blues', 'alternative_artist': 'AGER', 'add_to_final_records': True}
+{'artist': 'Judi Brown Eyes', 'song': 'Why Do Good Girls Like Bad Boys', 'genre': 'Blues', 'alternative_artist': 'Boys Like Girls', 'add_to_final_records': True}
+{'artist': "Aunt Kizzy'z Boyz", 'song': 'Bad Girl', 'genre': 'Blues', 'alternative_artist': 'Boys Like Girls', 'add_to_final_records': True}
+{'artist': 'Gary Hoey', 'song': 'Coming Home (feat. Lita Ford)', 'genre': 'Blues', 'alternative_artist': 'Lita Ford', 'add_to_final_records': True}
+{'artist': 'Grayson & Whitter', 'song': 'Little Maggie With a Dram Glass In Her Hand', 'genre': 'Blues', 'alternative_artist': 'Maggie Rose', 'add_to_final_records': True}
+{'artist': 'Ron Allen', 'song': 'I Am Not Alone (feat. Johnny the Claw Piantadosi & Charlie McCall)', 'genre': 'Blues', 'alternative_artist': 'Charlie Allen', 'add_to_final_records': True}
+{'artist': 'Ron Allen', 'song': 'Needed Time (feat. Johnny the Claw Piantadosi & Charlie McCall)', 'genre': 'Blues', 'alternative_artist': 'Charlie Allen', 'add_to_final_records': True}
+{'artist': 'Ron Allen', 'song': "Ain't Nobody's Fault but Mine (feat. Johnny the Claw Piantadosi & Charlie McCall)", 'genre': 'Blues', 'alternative_artist': 'Charlie Allen', 'add_to_final_records': True}
+{'artist': 'Ron Allen', 'song': 'Glory Be (feat. Johnny the Claw Piantadosi & Charlie McCall)', 'genre': 'Blues', 'alternative_artist': 'Charlie Allen', 'add_to_final_records': True}
+{'artist': 'Ron Allen', 'song': 'What a Friend We Have in Jesus (feat. Charlie McCall & Johnny the Claw Piantadosi)', 'genre': 'Blues', 'alternative_artist': 'Charlie Allen', 'add_to_final_records': True}
+{'artist': 'Ron Allen', 'song': 'How Firm a Foundation (feat. Johnny the Claw Piantadosi & Charlie McCall)', 'genre': 'Blues', 'alternative_artist': 'Charlie Allen', 'add_to_final_records': True}
+{'artist': 'Ron Allen', 'song': 'I Can Do All Things (feat. Johnny the Claw Piantadosi & Charlie McCall)', 'genre': 'Blues', 'alternative_artist': 'Charlie Allen', 'add_to_final_records': True}
+{'artist': 'Ron Allen', 'song': "(Don't Ever Let Nobody) Drag Your Spirit Down [feat. Johnny the Claw Piantadosi & Charlie McCall]", 'genre': 'Blues', 'alternative_artist': 'Charlie Allen', 'add_to_final_records': True}
+{'artist': 'Ron Allen', 'song': 'John the Revelator (feat. Johnny the Claw Piantadosi & Charlie McCall)', 'genre': 'Blues', 'alternative_artist': 'Charlie Allen', 'add_to_final_records': True}
+{'artist': 'Ron Allen', 'song': "In My Father's House (feat. Johnny the Claw Piantadosi & Charlie McCall)", 'genre': 'Blues', 'alternative_artist': 'Charlie Allen', 'add_to_final_records': True}
+{'artist': 'Ron Allen', 'song': 'Blessed Assurance (feat. Johnny the Claw Piantadosi & Charlie McCall)', 'genre': 'Blues', 'alternative_artist': 'Charlie Allen', 'add_to_final_records': True}
+{'artist': 'Ron Allen', 'song': 'I Want Jesus to Walk With Me (feat. Johnny the Claw Piantadosi & Charlie McCall)', 'genre': 'Blues', 'alternative_artist': 'Charlie Allen', 'add_to_final_records': True}
+{'artist': 'Dr. Hector & The Groove Injectors', 'song': 'King Snake Shake', 'genre': 'Blues', 'alternative_artist': 'Common Kings', 'add_to_final_records': True}
+{'artist': 'The Shuffle Kings', 'song': 'Common Sense', 'genre': 'Blues', 'alternative_artist': 'Common Kings', 'add_to_final_records': True}
+{'artist': 'R.L. Burnside', 'song': 'Bad Luck City', 'genre': 'Blues', 'alternative_artist': 'R', 'add_to_final_records': True}
+{'artist': 'Hound Dog Taylor & The HouseRockers', 'song': "Phillip's Theme", 'genre': 'Blues', 'alternative_artist': 'Phillip Phillips', 'add_to_final_records': True}
+{'artist': 'Liam Bailey', 'song': 'Please Love Me', 'genre': 'Blues', 'alternative_artist': 'Liam Bailey', 'add_to_final_records': True}
+{'artist': 'Iko-Iko', 'song': 'Pet De Kat (feat. Graham Wood Drout)', 'genre': 'Blues', 'alternative_artist': 'Kat Graham', 'add_to_final_records': True}
+{'artist': 'Otis Taylor & Cassie Taylor', 'song': 'Buy Myself Some Freedom', 'genre': 'Blues', 'alternative_artist': 'Cassie', 'add_to_final_records': True}
+{'artist': 'Cassie Taylor, Dani Wilde & Samantha Fish', 'song': 'Bitch', 'genre': 'Blues', 'alternative_artist': 'Cassie', 'add_to_final_records': True}
+{'artist': 'Cassie Taylor, Dani Wilde & Samantha Fish', 'song': 'Jet Airliner', 'genre': 'Blues', 'alternative_artist': 'Cassie', 'add_to_final_records': True}
+{'artist': 'Cassie Taylor, Dani Wilde & Samantha Fish', 'song': 'Leaving Chicago', 'genre': 'Blues', 'alternative_artist': 'Cassie', 'add_to_final_records': True}
+{'artist': 'Cassie Taylor, Dani Wilde & Samantha Fish', 'song': 'Wait a Minute', 'genre': 'Blues', 'alternative_artist': 'Cassie', 'add_to_final_records': True}
+{'artist': 'Cassie Taylor, Dani Wilde & Samantha Fish', 'song': 'Move On', 'genre': 'Blues', 'alternative_artist': 'Cassie', 'add_to_final_records': True}
+{'artist': 'Cassie Taylor, Dani Wilde & Samantha Fish', 'song': 'Mr. Loving Man', 'genre': 'Blues', 'alternative_artist': 'Cassie', 'add_to_final_records': True}
+{'artist': 'Cassie Taylor, Dani Wilde & Samantha Fish', 'song': 'Come On Home', 'genre': 'Blues', 'alternative_artist': 'Cassie', 'add_to_final_records': True}
+{'artist': 'Cassie Taylor, Dani Wilde & Samantha Fish', 'song': 'Get Back', 'genre': 'Blues', 'alternative_artist': 'Cassie', 'add_to_final_records': True}
+{'artist': 'Cassie Taylor, Dani Wilde & Samantha Fish', 'song': 'Are You Ready', 'genre': 'Blues', 'alternative_artist': 'Cassie', 'add_to_final_records': True}
+{'artist': 'Cassie Taylor, Dani Wilde & Samantha Fish', 'song': 'Reason to Stay', 'genre': 'Blues', 'alternative_artist': 'Cassie', 'add_to_final_records': True}
+{'artist': 'Cassie Taylor, Dani Wilde & Samantha Fish', 'song': 'Satisfy My Soul', 'genre': 'Blues', 'alternative_artist': 'Cassie', 'add_to_final_records': True}
+{'artist': 'Cassie Taylor, Dani Wilde & Samantha Fish', 'song': "We Ain't Gonna Get Out Alive", 'genre': 'Blues', 'alternative_artist': 'Cassie', 'add_to_final_records': True}
+{'artist': 'Otis Taylor & Cassie Taylor', 'song': 'Please Come Home Before It Rains', 'genre': 'Blues', 'alternative_artist': 'Cassie', 'add_to_final_records': True}
+{'artist': 'Otis Taylor & Cassie Taylor', 'song': 'Mandan Woman', 'genre': 'Blues', 'alternative_artist': 'Cassie', 'add_to_final_records': True}
+{'artist': 'B.B. King & Sheryl Crow', 'song': 'Need Your Love So Bad', 'genre': 'Blues', 'alternative_artist': 'Sheryl Crow', 'add_to_final_records': True}
+{'artist': 'Charlie McClain', 'song': 'Beautiful & Loaded', 'genre': 'Blues', 'alternative_artist': 'Charly McClain', 'add_to_final_records': True}
+{'artist': 'Charlie McClain', 'song': 'Chicken', 'genre': 'Blues', 'alternative_artist': 'Charly McClain', 'add_to_final_records': True}
+{'artist': 'Ray Wylie Hubbard', 'song': 'Black Dog', 'genre': 'Blues', 'alternative_artist': 'Ray Wylie Hubbard', 'add_to_final_records': True}
+{'artist': 'Mandy Mercier & Ray Wylie Hubbard', 'song': 'Run Out of Darkness', 'genre': 'Blues', 'alternative_artist': 'Ray Wylie Hubbard', 'add_to_final_records': True}
+{'artist': 'Memphis Slim & Matt Murphy', 'song': 'Juggle Boogie', 'genre': 'Blues', 'alternative_artist': 'Eddie Murphy', 'add_to_final_records': True}
+{'artist': 'Memphis Slim & Matt Murphy', 'song': 'My Babe', 'genre': 'Blues', 'alternative_artist': 'Eddie Murphy', 'add_to_final_records': True}
+{'artist': 'Memphis Slim & Matt Murphy', 'song': "Havin' Fun", 'genre': 'Blues', 'alternative_artist': 'Eddie Murphy', 'add_to_final_records': True}
+{'artist': 'Memphis Slim & Matt Murphy', 'song': 'Black Cat Blues', 'genre': 'Blues', 'alternative_artist': 'Eddie Murphy', 'add_to_final_records': True}
+{'artist': 'Memphis Slim & Matt Murphy', 'song': "Steppin' Out", 'genre': 'Blues', 'alternative_artist': 'Eddie Murphy', 'add_to_final_records': True}
+{'artist': 'Memphis Slim & Matt Murphy', 'song': 'Wish Me Well', 'genre': 'Blues', 'alternative_artist': 'Eddie Murphy', 'add_to_final_records': True}
+{'artist': 'Memphis Slim & Matt Murphy', 'song': "Movin' On", 'genre': 'Blues', 'alternative_artist': 'Eddie Murphy', 'add_to_final_records': True}
+{'artist': 'Chris Thomas King', 'song': '9/11 Interlude', 'genre': 'Blues', 'alternative_artist': 'Nine (Rap)', 'add_to_final_records': True}
+{'artist': 'Buddy Guy', 'song': "Ain't No Sunshine", 'genre': 'Blues', 'alternative_artist': 'Tracy Chapman', 'add_to_final_records': True}
+{'artist': 'B.B. King', 'song': 'The Thrill Is Gone (feat. Tracy Chapman)', 'genre': 'Blues', 'alternative_artist': 'Tracy Chapman', 'add_to_final_records': True}
+{'artist': 'Kasey Chambers', 'song': 'Cold and Bitter Tears', 'genre': 'Blues', 'alternative_artist': 'Kasey Chambers', 'add_to_final_records': True}
+{'artist': 'De-La Wonk', 'song': 'Bars Bars (Milli Vanilli)', 'genre': 'Blues', 'alternative_artist': 'Milli Vanilli', 'add_to_final_records': True}
+{'artist': 'U2 & B.B. King', 'song': 'When Love Comes to Town', 'genre': 'Blues', 'alternative_artist': 'O-Town', 'add_to_final_records': True}
+{'artist': 'Hubert Sumlin & Keith Richards', 'song': 'I Love the Life I Live, I Live the Life I Love', 'genre': 'Blues', 'alternative_artist': 'Keith Richards', 'add_to_final_records': True}
+{'artist': 'Hubert Sumlin & Keith Richards', 'song': 'Still a Fool (feat. Keith Richards)', 'genre': 'Blues', 'alternative_artist': 'Keith Richards', 'add_to_final_records': True}
+{'artist': 'Hubert Sumlin & Keith Richards', 'song': 'This Is the End, Little Girl (feat. Keith Richards)', 'genre': 'Blues', 'alternative_artist': 'Keith Richards', 'add_to_final_records': True}
+{'artist': 'Jimmy Burns & Keith Richards', 'song': 'Beast of Burden', 'genre': 'Blues', 'alternative_artist': 'Keith Richards', 'add_to_final_records': True}
+{'artist': 'Buddy Guy', 'song': 'The Price You Gotta Pay', 'genre': 'Blues', 'alternative_artist': 'Keith Richards', 'add_to_final_records': True}
+{'artist': 'Buddy Guy', 'song': 'Cognac (feat. Jeff Beck & Keith Richards)', 'genre': 'Blues', 'alternative_artist': 'Keith Richards', 'add_to_final_records': True}
+{'artist': 'Kristina Olsen', 'song': 'This Old Train', 'genre': 'Blues', 'alternative_artist': 'Kristina Train', 'add_to_final_records': True}
+{'artist': 'Bobby Manriquez', 'song': 'B2K', 'genre': 'Blues', 'alternative_artist': 'B2K', 'add_to_final_records': True}
+{'artist': 'ZZ Top', 'song': 'A Fool for Your Stockings', 'genre': 'Blues', 'alternative_artist': 'ZZ Top', 'add_to_final_records': True}
+{'artist': 'ZZ Top', 'song': 'Brown Sugar', 'genre': 'Blues', 'alternative_artist': 'ZZ Top', 'add_to_final_records': True}
+{'artist': 'ZZ Top', 'song': 'She Loves My Automobile', 'genre': 'Blues', 'alternative_artist': 'ZZ Top', 'add_to_final_records': True}
+{'artist': 'ZZ Top', 'song': "Just Got Back from Baby's", 'genre': 'Blues', 'alternative_artist': 'ZZ Top', 'add_to_final_records': True}
+{'artist': 'ZZ Top', 'song': 'Lowdown In the Street', 'genre': 'Blues', 'alternative_artist': 'ZZ Top', 'add_to_final_records': True}
+{'artist': 'ZZ Top', 'song': 'Bar-B-Q', 'genre': 'Blues', 'alternative_artist': 'ZZ Top', 'add_to_final_records': True}
+{'artist': 'ZZ Top', 'song': 'Apologies to Pearly', 'genre': 'Blues', 'alternative_artist': 'ZZ Top', 'add_to_final_records': True}
+{'artist': 'ZZ Top', 'song': 'Heaven, Hell or Houston', 'genre': 'Blues', 'alternative_artist': 'ZZ Top', 'add_to_final_records': True}
+{'artist': 'ZZ Top', 'song': 'Old Man', 'genre': 'Blues', 'alternative_artist': 'ZZ Top', 'add_to_final_records': True}
+{'artist': 'ZZ Top', 'song': 'Certified Blues', 'genre': 'Blues', 'alternative_artist': 'ZZ Top', 'add_to_final_records': True}
+{'artist': 'ZZ Top', 'song': '2000 Blues', 'genre': 'Blues', 'alternative_artist': 'ZZ Top', 'add_to_final_records': True}
+{'artist': 'ZZ Top', 'song': 'Sure Got Cold After the Rain Fell', 'genre': 'Blues', 'alternative_artist': 'ZZ Top', 'add_to_final_records': True}
+{'artist': 'Chuck Berry', 'song': 'Route 66', 'genre': 'Blues', 'alternative_artist': 'Chuck Berry', 'add_to_final_records': True}
+{'artist': 'Chuck Berry', 'song': 'The Things I Used to Do (Single Version)', 'genre': 'Blues', 'alternative_artist': 'Chuck Berry', 'add_to_final_records': True}
+{'artist': 'Chuck Berry', 'song': 'St. Louis Blues', 'genre': 'Blues', 'alternative_artist': 'Chuck Berry', 'add_to_final_records': True}
+{'artist': 'Chuck Berry', 'song': 'Wee Wee Hours (1955 Single Version)', 'genre': 'Blues', 'alternative_artist': 'Chuck Berry', 'add_to_final_records': True}
+{'artist': 'Chuck Berry', 'song': 'All Aboard', 'genre': 'Blues', 'alternative_artist': 'Chuck Berry', 'add_to_final_records': True}
+{'artist': 'Chuck Berry', 'song': 'House of Blue Lights', 'genre': 'Blues', 'alternative_artist': 'Chuck Berry', 'add_to_final_records': True}
+{'artist': 'Chuck Berry', 'song': 'Sweet Sixteen', 'genre': 'Blues', 'alternative_artist': 'Chuck Berry', 'add_to_final_records': True}
+{'artist': 'Chuck Berry', 'song': "Confessin' the Blues", 'genre': 'Blues', 'alternative_artist': 'Chuck Berry', 'add_to_final_records': True}
+{'artist': 'Chuck Berry', 'song': 'I Just Want to Make Love to You', 'genre': 'Blues', 'alternative_artist': 'Chuck Berry', 'add_to_final_records': True}
+{'artist': 'Chuck Berry', 'song': 'Down the Road a Piece', 'genre': 'Blues', 'alternative_artist': 'Chuck Berry', 'add_to_final_records': True}
+{'artist': 'Chuck Berry', 'song': "How You've Changed", 'genre': 'Blues', 'alternative_artist': 'Chuck Berry', 'add_to_final_records': True}
+{'artist': 'Chuck Berry', 'song': "Driftin' Blues", 'genre': 'Blues', 'alternative_artist': 'Chuck Berry', 'add_to_final_records': True}
+{'artist': 'Chuck Berry', 'song': 'Run Around', 'genre': 'Blues', 'alternative_artist': 'Chuck Berry', 'add_to_final_records': True}
+{'artist': 'Chuck Berry', 'song': 'Still Got the Blues', 'genre': 'Blues', 'alternative_artist': 'Chuck Berry', 'add_to_final_records': True}
+{'artist': 'Chuck Berry', 'song': 'Worried Life Blues', 'genre': 'Blues', 'alternative_artist': 'Chuck Berry', 'add_to_final_records': True}
+{'artist': 'Chuck Berry', 'song': 'No Particular Place To Go', 'genre': 'Blues', 'alternative_artist': 'Chuck Berry', 'add_to_final_records': True}
+{'artist': 'Chuck Berry', 'song': 'I Want To Be Your Driver', 'genre': 'Blues', 'alternative_artist': 'Chuck Berry', 'add_to_final_records': True}
+{'artist': 'Chuck Berry', 'song': 'Come On', 'genre': 'Blues', 'alternative_artist': 'Chuck Berry', 'add_to_final_records': True}
+{'artist': 'Chuck Berry', 'song': "I'm Talking About You", 'genre': 'Blues', 'alternative_artist': 'Chuck Berry', 'add_to_final_records': True}
+{'artist': 'Chuck Berry', 'song': 'Bye Bye Johnny', 'genre': 'Blues', 'alternative_artist': 'Chuck Berry', 'add_to_final_records': True}
+{'artist': 'The Pretenders', 'song': 'Part Time Sweetheart', 'genre': 'Blues', 'alternative_artist': 'The Pretenders', 'add_to_final_records': True}
+{'artist': 'Buddy Guy', 'song': 'Evil Twin (feat. Steven Tyler, Joe Perry & Brad Whitford)', 'genre': 'Blues', 'alternative_artist': 'Steven Tyler', 'add_to_final_records': True}
+{'artist': 'Mike Farris', 'song': 'Keep Your Hand On the Plow', 'genre': 'Blues', 'alternative_artist': 'Mike Farris', 'add_to_final_records': True}
+{'artist': 'Peter Green', 'song': 'Man of the World', 'genre': 'Blues', 'alternative_artist': 'Blue Man Group', 'add_to_final_records': True}
+{'artist': 'Peter Green', 'song': "I'm a Steady Rollin Man", 'genre': 'Blues', 'alternative_artist': 'Blue Man Group', 'add_to_final_records': True}
+{'artist': 'Peter Green', 'song': "Steady Rollin' Man", 'genre': 'Blues', 'alternative_artist': 'Blue Man Group', 'add_to_final_records': True}
+{'artist': 'Danny Cowan Group', 'song': "He's the Man", 'genre': 'Blues', 'alternative_artist': 'Blue Man Group', 'add_to_final_records': True}
+{'artist': 'Peter Green Splinter Group', 'song': 'Dangerous Man', 'genre': 'Blues', 'alternative_artist': 'Blue Man Group', 'add_to_final_records': True}
+{'artist': 'Peter Green / Nigel Watson', 'song': "I'm a Steady Rollin' Man", 'genre': 'Blues', 'alternative_artist': 'Blue Man Group', 'add_to_final_records': True}
+{'artist': '22 with Group', 'song': 'Makes a Long Time Man Feel Bad', 'genre': 'Blues', 'alternative_artist': 'Blue Man Group', 'add_to_final_records': True}
+{'artist': 'Peter Green / Nigel Watson', 'song': 'Drunken Hearted Man', 'genre': 'Blues', 'alternative_artist': 'Blue Man Group', 'add_to_final_records': True}
+{'artist': 'The Lee Sankey Group', 'song': 'The Man', 'genre': 'Blues', 'alternative_artist': 'Blue Man Group', 'add_to_final_records': True}
+{'artist': 'Various Artists - Document Records', 'song': "Ol' Man Mose", 'genre': 'Blues', 'alternative_artist': 'Blue Man Group', 'add_to_final_records': True}
+{'artist': 'Various Artists', 'song': 'My Man Rocks Me', 'genre': 'Blues', 'alternative_artist': 'Blue Man Group', 'add_to_final_records': True}
+{'artist': 'Peter Green Splinter Group', 'song': 'Steady Rollin` Man', 'genre': 'Blues', 'alternative_artist': 'Blue Man Group', 'add_to_final_records': True}
+{'artist': 'Tommie Bradley - James Cole Groups', 'song': 'Seven Men Blues', 'genre': 'Blues', 'alternative_artist': 'Blue Man Group', 'add_to_final_records': True}
+{'artist': 'Petri Matero Group', 'song': 'On My Knees', 'genre': 'Blues', 'alternative_artist': 'Blue Man Group', 'add_to_final_records': True}
+{'artist': 'Petri Matero Group', 'song': 'Remember the Times', 'genre': 'Blues', 'alternative_artist': 'Blue Man Group', 'add_to_final_records': True}
+{'artist': 'Petri Matero Group', 'song': 'Man of the Hour', 'genre': 'Blues', 'alternative_artist': 'Blue Man Group', 'add_to_final_records': True}
+{'artist': 'Petri Matero Group', 'song': 'Take a Look', 'genre': 'Blues', 'alternative_artist': 'Blue Man Group', 'add_to_final_records': True}
+{'artist': 'Petri Matero Group', 'song': 'Worth of a Man', 'genre': 'Blues', 'alternative_artist': 'Blue Man Group', 'add_to_final_records': True}
+{'artist': 'Petri Matero Group', 'song': 'Water Under the Bridge', 'genre': 'Blues', 'alternative_artist': 'Blue Man Group', 'add_to_final_records': True}
+{'artist': 'Petri Matero Group', 'song': 'Make It Right', 'genre': 'Blues', 'alternative_artist': 'Blue Man Group', 'add_to_final_records': True}
+{'artist': 'Petri Matero Group', 'song': 'One Time Woman', 'genre': 'Blues', 'alternative_artist': 'Blue Man Group', 'add_to_final_records': True}
+{'artist': 'Petri Matero Group', 'song': 'Out of Style', 'genre': 'Blues', 'alternative_artist': 'Blue Man Group', 'add_to_final_records': True}
+{'artist': 'B.B. King & John Mayer', 'song': 'Hummingbird', 'genre': 'Blues', 'alternative_artist': 'John Mayer', 'add_to_final_records': True}
+{'artist': 'Ike & Tina Turner & Tina Turner', 'song': 'I Smell Trouble', 'genre': 'Blues', 'alternative_artist': 'Tina Turner', 'add_to_final_records': True}
+{'artist': 'Ike & Tina Turner & Tina Turner', 'song': 'Poor Fool', 'genre': 'Blues', 'alternative_artist': 'Tina Turner', 'add_to_final_records': True}
+{'artist': 'Ike & Tina Turner & Tina Turner', 'song': 'So Blue Over You', 'genre': 'Blues', 'alternative_artist': 'Tina Turner', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Lie to Me', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': "Rack 'Em Up", 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': "Breakin' Me", 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': "Still Rainin'", 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Walking Away', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Red Light', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Leaving to Stay', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Give Me Up Again', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Darker Side', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Hit the Ground Running', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Good Morning Little Schoolgirl', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Matchbox', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Cherry Red Wine', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'A Quitter Never Wins', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'When I Come to You', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Wander This World', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Missing Your Love', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Dying to Live', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Back for a Taste of Your Love', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Second Guessing', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'I Am', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Before You Hit the Ground', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Angel of Mercy', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': "There's Gotta Be a Change", 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Still Wonder', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'The Levee', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Right Back', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Touch', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Hide Your Love', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Long Time Coming', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Make It Move', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Beautiful One', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Goodbye Letter', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Stronger Together', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'If We Try', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'The One I Got', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Get What You Give', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Happiness and Misery', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'To Love Again', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': "Livin' for the City (Live)", 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Save Yourself', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Don’t Stop (For Anything)', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Breakin’ Me', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Bitter End', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Lie To Me', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Last Man Standing', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Bring Me Back Home', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Signs', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Into the Light', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': "What You're Made Of", 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'One Person At a Time', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Snakes', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Singing Songs', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Wisdom', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Nice & Warm', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Sugarman', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Louise', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': '"E" Train', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Too Tired', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Changes', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': "It's Obdacious", 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Malted Milk', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'I Love You the Best', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Smokin', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Jonny Lang', 'song': 'Lovin My Baby', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Buddy Guy', 'song': 'Midnight Train', 'genre': 'Blues', 'alternative_artist': 'Jonny Lang', 'add_to_final_records': True}
+{'artist': 'Mick Fleetwood, B.B. King & Stevie Nicks', 'song': "Can't Get Enough", 'genre': 'Blues', 'alternative_artist': 'Stevie Nicks', 'add_to_final_records': True}
+{'artist': 'Matt Southon', 'song': 'Ballad of Wally Burden (feat. Kim Churchill & Ross Smithard)', 'genre': 'Blues', 'alternative_artist': 'Matt and Kim', 'add_to_final_records': True}
+{'artist': 'Alabama Watson', 'song': 'Cost Time', 'genre': 'Blues', 'alternative_artist': 'Alabama Shakes', 'add_to_final_records': True}
+{'artist': 'Kenny Neal', 'song': 'Big City Ways', 'genre': 'Blues', 'alternative_artist': 'Neal Coty', 'add_to_final_records': True}
+{'artist': 'Neal Pattman', 'song': 'Oklahoma City Blues', 'genre': 'Blues', 'alternative_artist': 'Neal Coty', 'add_to_final_records': True}
+{'artist': 'Michael Coleman & Pr. Eddie Lusk', 'song': 'Kansas City', 'genre': 'Blues', 'alternative_artist': 'Neal Coty', 'add_to_final_records': True}
+{'artist': 'Neal Black', 'song': 'New York City Blues', 'genre': 'Blues', 'alternative_artist': 'Neal Coty', 'add_to_final_records': True}
+{'artist': "Chris Kramer & Beatbox 'n' Blue", 'song': "Came to the City (feat. Kevin O' Neal)", 'genre': 'Blues', 'alternative_artist': 'Neal Coty', 'add_to_final_records': True}
+{'artist': 'B.B. King & Eric Clapton', 'song': 'The Thrill Is Gone', 'genre': 'Blues', 'alternative_artist': 'Eric Clapton', 'add_to_final_records': True}
+{'artist': 'B.B. King & Eric Clapton', 'song': 'Riding With the King', 'genre': 'Blues', 'alternative_artist': 'Eric Clapton', 'add_to_final_records': True}
+{'artist': 'B.B. King & Eric Clapton', 'song': "Hold On! I'm Comin'", 'genre': 'Blues', 'alternative_artist': 'Eric Clapton', 'add_to_final_records': True}
+{'artist': 'B.B. King & Eric Clapton', 'song': "Three O'Clock Blues", 'genre': 'Blues', 'alternative_artist': 'Eric Clapton', 'add_to_final_records': True}
+{'artist': 'B.B. King & Eric Clapton', 'song': 'Come Rain or Come Shine', 'genre': 'Blues', 'alternative_artist': 'Eric Clapton', 'add_to_final_records': True}
+{'artist': 'B.B. King & Eric Clapton', 'song': 'Help the Poor', 'genre': 'Blues', 'alternative_artist': 'Eric Clapton', 'add_to_final_records': True}
+{'artist': 'B.B. King & Eric Clapton', 'song': 'Ten Long Years', 'genre': 'Blues', 'alternative_artist': 'Eric Clapton', 'add_to_final_records': True}
+{'artist': 'B.B. King & Eric Clapton', 'song': 'Marry You', 'genre': 'Blues', 'alternative_artist': 'Eric Clapton', 'add_to_final_records': True}
+{'artist': 'B.B. King & Eric Clapton', 'song': 'Key to the Highway', 'genre': 'Blues', 'alternative_artist': 'Eric Clapton', 'add_to_final_records': True}
+{'artist': 'B.B. King & Eric Clapton', 'song': 'Worried Life Blues', 'genre': 'Blues', 'alternative_artist': 'Eric Clapton', 'add_to_final_records': True}
+{'artist': 'B.B. King & Eric Clapton', 'song': 'I Wanna Be', 'genre': 'Blues', 'alternative_artist': 'Eric Clapton', 'add_to_final_records': True}
+{'artist': 'B.B. King & Eric Clapton', 'song': 'When My Heart Beats Like a Hammer', 'genre': 'Blues', 'alternative_artist': 'Eric Clapton', 'add_to_final_records': True}
+{'artist': 'B.B. King & Eric Clapton', 'song': 'Days of Old', 'genre': 'Blues', 'alternative_artist': 'Eric Clapton', 'add_to_final_records': True}
+{'artist': 'Wynton Marsalis & Eric Clapton', 'song': 'Joliet Bound', 'genre': 'Blues', 'alternative_artist': 'Eric Clapton', 'add_to_final_records': True}
+{'artist': 'Eric Clapton', 'song': 'When You Got a Good Friend', 'genre': 'Blues', 'alternative_artist': 'Eric Clapton', 'add_to_final_records': True}
+{'artist': 'Eric Clapton', 'song': "Driftin' Blues", 'genre': 'Blues', 'alternative_artist': 'Eric Clapton', 'add_to_final_records': True}
+{'artist': 'Eric Clapton', 'song': "I'm Tore Down", 'genre': 'Blues', 'alternative_artist': 'Eric Clapton', 'add_to_final_records': True}
+{'artist': 'Wynton Marsalis & Eric Clapton', 'song': 'Corrine, Corrina', 'genre': 'Blues', 'alternative_artist': 'Eric Clapton', 'add_to_final_records': True}
+{'artist': 'Wynton Marsalis & Eric Clapton', 'song': 'The Last Time', 'genre': 'Blues', 'alternative_artist': 'Eric Clapton', 'add_to_final_records': True}
+{'artist': 'Wynton Marsalis & Eric Clapton', 'song': 'Careless Love', 'genre': 'Blues', 'alternative_artist': 'Eric Clapton', 'add_to_final_records': True}
+{'artist': 'Eric Clapton', 'song': 'Come On In My Kitchen', 'genre': 'Blues', 'alternative_artist': 'Eric Clapton', 'add_to_final_records': True}
+{'artist': 'Wynton Marsalis & Eric Clapton', 'song': 'Forty-Four', 'genre': 'Blues', 'alternative_artist': 'Eric Clapton', 'add_to_final_records': True}
+{'artist': 'Wynton Marsalis & Eric Clapton', 'song': 'Just a Closer Walk With Thee', 'genre': 'Blues', 'alternative_artist': 'Eric Clapton', 'add_to_final_records': True}
+{'artist': 'Wynton Marsalis & Eric Clapton', 'song': "Joe Turner's Blues", 'genre': 'Blues', 'alternative_artist': 'Eric Clapton', 'add_to_final_records': True}
+{'artist': 'Eric Clapton', 'song': "Stop Breakin' Down Blues", 'genre': 'Blues', 'alternative_artist': 'Eric Clapton', 'add_to_final_records': True}
+{'artist': 'Wynton Marsalis & Eric Clapton', 'song': 'Ice Cream', 'genre': 'Blues', 'alternative_artist': 'Eric Clapton', 'add_to_final_records': True}
+{'artist': 'Choochoo Charlie Williams/Baltimore Red Jones', 'song': 'Crossroads', 'genre': 'Blues', 'alternative_artist': 'Charli Baltimore', 'add_to_final_records': True}
+{'artist': 'Charlie McCoy', 'song': 'Baltimore Blues', 'genre': 'Blues', 'alternative_artist': 'Charli Baltimore', 'add_to_final_records': True}
+{'artist': 'Choochoo Charlie Williams/Baltimore Red Jones', 'song': 'Kind Hearted Woman', 'genre': 'Blues', 'alternative_artist': 'Charli Baltimore', 'add_to_final_records': True}
+{'artist': 'Choochoo Charlie Williams/Baltimore Red Jones', 'song': 'Charlie Stone', 'genre': 'Blues', 'alternative_artist': 'Charli Baltimore', 'add_to_final_records': True}
+{'artist': 'Choochoo Charlie Williams/Baltimore Red Jones', 'song': 'Come in My Kitchen', 'genre': 'Blues', 'alternative_artist': 'Charli Baltimore', 'add_to_final_records': True}
+{'artist': 'Choochoo Charlie Williams/Baltimore Red Jones', 'song': 'Police Dog Blues', 'genre': 'Blues', 'alternative_artist': 'Charli Baltimore', 'add_to_final_records': True}
+{'artist': 'Choochoo Charlie Williams/Baltimore Red Jones', 'song': 'Sunday Street', 'genre': 'Blues', 'alternative_artist': 'Charli Baltimore', 'add_to_final_records': True}
+{'artist': 'Choochoo Charlie Williams/Baltimore Red Jones', 'song': 'Cat Man Blues', 'genre': 'Blues', 'alternative_artist': 'Charli Baltimore', 'add_to_final_records': True}
+{'artist': 'Choochoo Charlie Williams/Baltimore Red Jones', 'song': 'Big Road', 'genre': 'Blues', 'alternative_artist': 'Charli Baltimore', 'add_to_final_records': True}
+{'artist': 'Choochoo Charlie Williams/Baltimore Red Jones', 'song': 'Long Tall Mama', 'genre': 'Blues', 'alternative_artist': 'Charli Baltimore', 'add_to_final_records': True}
+{'artist': 'Choochoo Charlie Williams/Baltimore Red Jones', 'song': 'Solid Gone', 'genre': 'Blues', 'alternative_artist': 'Charli Baltimore', 'add_to_final_records': True}
+{'artist': 'Choochoo Charlie Williams/Baltimore Red Jones', 'song': "Divin' Duck", 'genre': 'Blues', 'alternative_artist': 'Charli Baltimore', 'add_to_final_records': True}
+{'artist': 'Choochoo Charlie Williams/Baltimore Red Jones', 'song': "Ramblin' On My Mind", 'genre': 'Blues', 'alternative_artist': 'Charli Baltimore', 'add_to_final_records': True}
+{'artist': 'Choochoo Charlie Williams/Baltimore Red Jones', 'song': "Tell Me Who's Been Here", 'genre': 'Blues', 'alternative_artist': 'Charli Baltimore', 'add_to_final_records': True}
+{'artist': 'Choochoo Charlie Williams/Baltimore Red Jones', 'song': 'M&O Blues', 'genre': 'Blues', 'alternative_artist': 'Charli Baltimore', 'add_to_final_records': True}
+{'artist': 'Casey James', 'song': "Killin' Myself", 'genre': 'Blues', 'alternative_artist': 'Casey James', 'add_to_final_records': True}
+{'artist': 'Casey James', 'song': 'Bulletproof (feat. Delbert McClinton)', 'genre': 'Blues', 'alternative_artist': 'Casey James', 'add_to_final_records': True}
+{'artist': 'Casey James', 'song': 'Need Your Love so Bad', 'genre': 'Blues', 'alternative_artist': 'Casey James', 'add_to_final_records': True}
+{'artist': 'Casey James', 'song': 'Strip It All Down', 'genre': 'Blues', 'alternative_artist': 'Casey James', 'add_to_final_records': True}
+{'artist': 'Casey James', 'song': 'All I Need', 'genre': 'Blues', 'alternative_artist': 'Casey James', 'add_to_final_records': True}
+{'artist': 'Casey James', 'song': 'Supernatural', 'genre': 'Blues', 'alternative_artist': 'Casey James', 'add_to_final_records': True}
+{'artist': 'Casey James', 'song': 'Hurt Me More', 'genre': 'Blues', 'alternative_artist': 'Casey James', 'add_to_final_records': True}
+{'artist': 'Casey James', 'song': "Messin' Around", 'genre': 'Blues', 'alternative_artist': 'Casey James', 'add_to_final_records': True}
+{'artist': 'Casey James', 'song': "Makin' Up", 'genre': 'Blues', 'alternative_artist': 'Casey James', 'add_to_final_records': True}
+{'artist': 'Casey James', 'song': 'Hard Times, Heartaches & Scars', 'genre': 'Blues', 'alternative_artist': 'Casey James', 'add_to_final_records': True}
+{'artist': 'Casey James', 'song': 'Stupid Crazy (feat. Bonnie Bishop)', 'genre': 'Blues', 'alternative_artist': 'Casey James', 'add_to_final_records': True}
+{'artist': 'Casey James', 'song': 'I Got to Go', 'genre': 'Blues', 'alternative_artist': 'Casey James', 'add_to_final_records': True}
+{'artist': 'Casey James', 'song': 'Fight You for the Blues', 'genre': 'Blues', 'alternative_artist': 'Casey James', 'add_to_final_records': True}
+{'artist': 'Casey James', 'song': 'Different Kind of Love', 'genre': 'Blues', 'alternative_artist': 'Casey James', 'add_to_final_records': True}
+{'artist': 'Mississippi John Hurt', 'song': 'Taking Casey Jones', 'genre': 'Blues', 'alternative_artist': 'Casey James', 'add_to_final_records': True}
+{'artist': 'Fats Waller and His Rhythm, Slick Jones, Gene Sedric, Albert Casey, Herman Autrey, Cedric Wallace & Fats Waller', 'song': 'Hold Tight (Want Some Sea Food, Mama)', 'genre': 'Blues', 'alternative_artist': 'Casey James', 'add_to_final_records': True}
+{'artist': 'Furry Lewis', 'song': 'Kassie Jones (Casey Jones)', 'genre': 'Blues', 'alternative_artist': 'Casey James', 'add_to_final_records': True}
+{'artist': 'Casey James and the Flames', 'song': 'Dont Mess With Texas', 'genre': 'Blues', 'alternative_artist': 'Casey James', 'add_to_final_records': True}
+{'artist': 'Casey James and the Flames', 'song': 'Destination Unkown', 'genre': 'Blues', 'alternative_artist': 'Casey James', 'add_to_final_records': True}
+{'artist': 'Casey James and the Flames', 'song': 'House of Bourbon', 'genre': 'Blues', 'alternative_artist': 'Casey James', 'add_to_final_records': True}
+{'artist': 'Casey James and the Flames', 'song': 'Wish It Would Rain', 'genre': 'Blues', 'alternative_artist': 'Casey James', 'add_to_final_records': True}
+{'artist': 'Casey James and the Flames', 'song': 'Wanna Dance', 'genre': 'Blues', 'alternative_artist': 'Casey James', 'add_to_final_records': True}
+{'artist': 'Casey James and the Flames', 'song': 'I Got Used', 'genre': 'Blues', 'alternative_artist': 'Casey James', 'add_to_final_records': True}
+{'artist': 'Casey James and the Flames', 'song': 'Cant Eat At Mac Donalds', 'genre': 'Blues', 'alternative_artist': 'Casey James', 'add_to_final_records': True}
+{'artist': 'Casey James and the Flames', 'song': 'One Page', 'genre': 'Blues', 'alternative_artist': 'Casey James', 'add_to_final_records': True}
+{'artist': 'Casey James and the Flames', 'song': 'For Nothing', 'genre': 'Blues', 'alternative_artist': 'Casey James', 'add_to_final_records': True}
+{'artist': 'Taj Mahal', 'song': 'Big Legged Mamas Are Back In Style', 'genre': 'Blues', 'alternative_artist': 'The Mamas & The Papas', 'add_to_final_records': True}
+{'artist': 'Big Mama Thornton', 'song': 'Hound Dog', 'genre': 'Blues', 'alternative_artist': 'The Mamas & The Papas', 'add_to_final_records': True}
+{'artist': 'Etta James', 'song': "I'd Rather Go Blind", 'genre': 'Blues', 'alternative_artist': 'The Mamas & The Papas', 'add_to_final_records': True}
+{'artist': 'Taylor Hicks', 'song': "What's Right Is Right", 'genre': 'Blues', 'alternative_artist': 'Taylor Hicks', 'add_to_final_records': True}
+{'artist': 'Taylor Hicks', 'song': 'Indiscriminate Act of Kindness', 'genre': 'Blues', 'alternative_artist': 'Taylor Hicks', 'add_to_final_records': True}
+{'artist': 'Taylor Hicks', 'song': 'Hide Nor Hair', 'genre': 'Blues', 'alternative_artist': 'Taylor Hicks', 'add_to_final_records': True}
+{'artist': 'Taylor Hicks', 'song': 'Keeping It Real', 'genre': 'Blues', 'alternative_artist': 'Taylor Hicks', 'add_to_final_records': True}
+{'artist': 'Taylor Hicks', 'song': "Woman's Got To Have It", 'genre': 'Blues', 'alternative_artist': 'Taylor Hicks', 'add_to_final_records': True}
+{'artist': 'Taylor Hicks', 'song': 'I Live On a Battlefield', 'genre': 'Blues', 'alternative_artist': 'Taylor Hicks', 'add_to_final_records': True}
