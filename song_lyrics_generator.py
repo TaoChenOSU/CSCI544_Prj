@@ -36,15 +36,16 @@ def get_lyrics_of_songs(genre_records_map, valid_genres):
 
     artists_songs = dict()
 
-    for key, records in genre_records_map.items():
-        if key not in valid_genres:
+    for genre, records in genre_records_map.items():
+        if genre not in valid_genres:
             continue
 
         json_dict = dict()
         json_dict["description"] = description_text
         json_dict["corpus"] = []
-        with open(path + "test_{}.json".format(key), "w") as output:
-            for record in records[:10]:    # for each label, only fetches the first 600 songs, to save time
+        with open(path + "test_{}.json".format(genre), "w") as output:
+            # for each label, only fetches the first 600 songs, to save time
+            for record in records[:600]:  
                 artist = record["artist"]
                 song_name = record["song"]
 
@@ -76,25 +77,30 @@ def get_lyrics_of_songs(genre_records_map, valid_genres):
                             "data": lyrics_div.text,
                         })
 
-            json_dict["authors"] = dict({
-                "author1": "Tao Chen",
-                "author2": "Yang Mu",
-                "author3": "Su Chang",
-                "author4": "Yang Zhe"
-            })
-            json_dict["emails"] = dict({
-                "email1": "taochen@usc.edu",
-                "email2": "yangmu@usc.edu",
-                "email3": "csu272@usc.edu",
-                "email4": "zheyang@usc.edu"
-            })
+            # add this at other time
+            # json_dict["authors"] = dict({
+            #     "author1": "Tao Chen",
+            #     "author2": "Yang Mu",
+            #     "author3": "Su Chang",
+            #     "author4": "Yang Zhe"
+            # })
+            # json_dict["emails"] = dict({
+            #     "email1": "taochen@usc.edu",
+            #     "email2": "yangmu@usc.edu",
+            #     "email3": "csu272@usc.edu",
+            #     "email4": "zheyang@usc.edu"
+            # })
+            josn_dict["number of corpus"] = len(json_dict["corpus"])
 
             json.dump(json_dict, output, indent=4)
+
+        print("Finished genre {}, craweled {} lyrics".format(
+            genre, len(json_dict["corpus"])))
 
 
 if __name__ == '__main__':
     records_dir = "./data/genre/"
     records = read_records_json(records_dir)
 
-    valid_genres = ["Country", "Hip-Hop", "Pop"]
+    valid_genres = ["Blues", "Children's Music", "Metal"]
     get_lyrics_of_songs(records, valid_genres)
