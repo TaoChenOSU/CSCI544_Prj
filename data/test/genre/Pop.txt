@@ -1,0 +1,1 @@
+{'artist': 'Kris Wu', 'song': 'Tian Di', 'genre': 'Pop', 'alternative_artist': 'Kris Wu', 'add_to_final_records': True}

@@ -1,0 +1,16 @@
+{
+    "corpus": [],
+    "emails": {
+        "email2": "yangmu@usc.edu",
+        "email3": "csu272@usc.edu",
+        "email1": "taochen@usc.edu",
+        "email4": "zheyang@usc.edu"
+    },
+    "authors": {
+        "author1": "Tao Chen",
+        "author3": "Su Chang",
+        "author4": "Yang Zhe",
+        "author2": "Yang Mu"
+    },
+    "description": "description~~~"
+}

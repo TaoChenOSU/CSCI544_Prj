@@ -1,0 +1,6 @@
+total: 43 song records
+total: 1 song records after deduplication
+total: 1 song records after remove deletable brackets
+total: 2 artists
+
+genre: Pop has 1 songs
