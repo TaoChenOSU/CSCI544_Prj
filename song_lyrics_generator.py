@@ -2,6 +2,7 @@ import ast
 from bs4 import BeautifulSoup
 import glob
 import json
+import os
 import requests
 
 description_text = "description~~~"
@@ -35,7 +36,8 @@ def is_english(s):
         return True
 
 
-def get_lyrics_of_songs(genre_records_map,
+def get_lyrics_of_songs(path,
+                        genre_records_map,
                         valid_genres,
                         start_fetch_idx=0,
                         end_fetch_idx=600):
@@ -43,19 +45,20 @@ def get_lyrics_of_songs(genre_records_map,
     Fetch lyrics from genre_records_map.
 
     Filter the genres with valid_genres. i.e. If valid_genres = ["Country"],
-    then only fetch lyrics of songs that belong to label Conuntry.
+    then only fetch lyrics of songs that belong to label Conuntry. 
+    You can fetch a partition of the big song records, which may contain 
+    thousands of songs. If you only wants to fetch 600 songs, set 
+    start_fetch_idx to 0, end_fetch_idx to 600.
+    If you want to fetch another 600, then set start_fetch_idx to 600,
+    end_fetch_idx to 1200.
     Args:
         genre_records_map: the dictionary that contains genre and song 
             records, i.e. {genre1: [record_1, record_2]}
         valid_genres: a list that contains the genres to be crawled.
-        start_fetch_idx: you can fetch a fragment of the big song records,
-            which may contain thousands of songs. If you only wants to 
-            fetch 600 songs, set start_fetch_idx to 0, end_fetch_idx to 600.
-            If you want to fetch another 600, then set start_fetch_idx to 600,
-            end_fetch_idx to 1200.
-        end_fetch_idx: end idx of the fetch fragment.
+        start_fetch_idx: start indx of the fetch partition.
+        end_fetch_idx: end idx of the fetch partition.
     """
-    path = "./data/lyrics/"
+    json_file = path + "test_{}.json"
 
     artists_songs = dict()
 
@@ -66,40 +69,44 @@ def get_lyrics_of_songs(genre_records_map,
         json_dict = dict()
         json_dict["description"] = description_text
         json_dict["corpus"] = []
-        with open(path + "test_{}.json".format(genre), "w") as output:
+        with open(json_file.format(genre), "w") as output:
             # for each label, only fetches the first 600 songs, to save time
             for record in records[start_fetch_idx:end_fetch_idx]:
                 artist = record["artist"]
                 song_name = record["song"]
 
-                # replace spaces with hyphens
-                artist = artist.replace(" ", "-")
-                song_name = song_name.replace(" ", "-")
+                genius_urls = get_possible_urls(record)
+                get_lyrics = False
 
-                # TODO: add more handling for urls here !!!
-                genius_url = "https://genius.com/{}-{}-lyrics".format(
-                    artist, song_name)
-                # print(genius_url)
+                # generate multiple urls to increase success rate
+                for genius_url in genius_urls:
+                    # print(genius_url, get_lyrics)
+                    if get_lyrics:
+                        break
 
-                # using the python requests library because it's easy to use
-                req = requests.get(genius_url, headers=headers)
+                    req = requests.get(genius_url, headers=headers)
 
-                # make sure the page exists
-                if req.status_code == 200:
-                    html = req.text
-                    soup = BeautifulSoup(html, 'lxml')
+                    # make sure the page exists
+                    if req.status_code == 200:
+                        html = req.text
+                        soup = BeautifulSoup(html, 'lxml')
 
-                    lyrics_div = soup.find("div", {"class": "lyrics"})
-                    if lyrics_div is not None:
-                        if not is_english(lyrics_div.text):
-                            continue
+                        lyrics_div = soup.find("div", {"class": "lyrics"})
+                        if lyrics_div is not None:
+                            if not is_english(lyrics_div.text):
+                                continue
 
-                        json_dict["corpus"].append({
-                            "artist": artist,
-                            "song": song_name,
-                            "label": record["genre"],
-                            "data": lyrics_div.text,
-                        })
+                            json_dict["corpus"].append({
+                                "artist":
+                                artist,
+                                "song":
+                                song_name,
+                                "label":
+                                record["genre"],
+                                "data":
+                                lyrics_div.text,
+                            })
+                            get_lyrics = True
 
             # add this at other time
             # json_dict["authors"] = dict({
@@ -118,15 +125,47 @@ def get_lyrics_of_songs(genre_records_map,
 
             json.dump(json_dict, output, indent=4)
 
-        print("Finished genre {}, craweled {} lyrics".format(
+        print("Finished genre {}, crawled {} lyrics".format(
             genre, json_dict["number of corpus"]))
+
+
+def get_possible_urls(record):
+    """Generate all possible urls."""
+    possible_urls = []
+
+    artist = record["artist"]
+    song_name = record["song"]
+    alternative_artist = record["alternative_artist"]
+    genre = record["genre"]
+
+    artist = artist.replace(" ", "-")
+    artist = artist.replace("&", "and")
+    artist = artist.replace(",", "and")
+    song_name = song_name.replace(" ", "-")
+    alternative_artist = alternative_artist.replace(" ", "-")
+    genre = genre.replace(
+        " ", "-") if genre != "Children's Music" else "Children-songs"
+
+    artists_search_terms = [artist, alternative_artist, genre]
+
+    for st in artists_search_terms:
+        possible_urls.append("https://genius.com/{}-{}-lyrics".format(
+            st, song_name))
+
+    return possible_urls
 
 
 if __name__ == '__main__':
     records_dir = "./data/genre/"
     records = read_records_json(records_dir)
+    path = "./data/lyrics_test/"  # change the name of this!!!!!
+    if not os.path.exists(path):
+        os.mkdir(path)
 
-    valid_genres = ["Blues", "Children's Music", "Metal"]
+    valid_genres = [
+        "Holiday",
+        "Pop",
+    ]
     # please set a reasonable start and end idx here
     get_lyrics_of_songs(
-        records, valid_genres, start_fetch_idx=0, end_fetch_idx=10)
+        path, records, valid_genres, start_fetch_idx=1500, end_fetch_idx=None)

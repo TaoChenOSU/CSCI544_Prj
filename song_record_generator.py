@@ -29,7 +29,7 @@ def fetch_songs_from_api(artists, output_dir):
         artists: a list of artist names, e.g. "[Ariana Grande,]"
     """
     na = len(artists)
-    i = 247
+    i = 0
 
     while i < na:
         artist = artists[i]
@@ -46,6 +46,7 @@ def fetch_songs_from_api(artists, output_dir):
         except Exception as e:
             print("Encounter error {} at index {}, artist {}".format(
                 e, i, artist))
+            i += 1
             time.sleep(200)
 
 
