@@ -1583,3 +1583,1329 @@
 {'artist': 'ATM Roey & ATM Smooth', 'song': 'Dej Loaf (feat. Lil Griff)', 'genre': 'Hip-Hop', 'alternative_artist': 'Dej Loaf', 'add_to_final_records': True}
 {'artist': 'Juicy J, Wiz Khalifa & Ty Dolla $ign', 'song': 'Shell Shocked (feat. Kill the Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]', 'genre': 'Hip-Hop', 'alternative_artist': 'Juicy J', 'add_to_final_records': True}
 {'artist': 'Juicy J', 'song': 'A Zip & A Double Cup (Remix) (feat. Tity Boi)', 'genre': 'Hip-Hop', 'alternative_artist': 'Juicy J', 'add_to_final_records': True}
+{'artist': 'Mark B', 'song': 'Que Tengo Que Hacer (feat. Bryant Myers)', 'genre': 'Hip-Hop', 'alternative_artist': 'Bryan Mayer', 'add_to_final_records': True}
+{'artist': 'Ant Banks', 'song': "Roll 'Em Phat", 'genre': 'Hip-Hop', 'alternative_artist': 'Chris Hicks', 'add_to_final_records': True}
+{'artist': 'Trick Daddy', 'song': 'The Shit That I Live', 'genre': 'Hip-Hop', 'alternative_artist': 'Trick Daddy', 'add_to_final_records': True}
+{'artist': 'Trick Daddy', 'song': 'I Can Tell', 'genre': 'Hip-Hop', 'alternative_artist': 'Trick Daddy', 'add_to_final_records': True}
+{'artist': 'Trick Daddy', 'song': 'Gangsta Music', 'genre': 'Hip-Hop', 'alternative_artist': 'Trick Daddy', 'add_to_final_records': True}
+{'artist': 'Trick Daddy', 'song': 'Why They Jock', 'genre': 'Hip-Hop', 'alternative_artist': 'Trick Daddy', 'add_to_final_records': True}
+{'artist': 'Trick Daddy', 'song': 'Da Realest', 'genre': 'Hip-Hop', 'alternative_artist': 'Trick Daddy', 'add_to_final_records': True}
+{'artist': 'Trick Daddy', 'song': 'Strong Woman', 'genre': 'Hip-Hop', 'alternative_artist': 'Trick Daddy', 'add_to_final_records': True}
+{'artist': 'Trick Daddy', 'song': 'Count My Money', 'genre': 'Hip-Hop', 'alternative_artist': 'Trick Daddy', 'add_to_final_records': True}
+{'artist': 'Trick Daddy', 'song': 'What Dey Do', 'genre': 'Hip-Hop', 'alternative_artist': 'Trick Daddy', 'add_to_final_records': True}
+{'artist': 'Trick Daddy', 'song': 'Chevy', 'genre': 'Hip-Hop', 'alternative_artist': 'Trick Daddy', 'add_to_final_records': True}
+{'artist': 'Trick Daddy', 'song': 'Ghetto Supa Star', 'genre': 'Hip-Hop', 'alternative_artist': 'Trick Daddy', 'add_to_final_records': True}
+{'artist': 'Trick Daddy', 'song': 'Intro Skit: Only One Mayor', 'genre': 'Hip-Hop', 'alternative_artist': 'Trick Daddy', 'add_to_final_records': True}
+{'artist': 'Trick Daddy', 'song': "That's How We Do It", 'genre': 'Hip-Hop', 'alternative_artist': 'Trick Daddy', 'add_to_final_records': True}
+{'artist': 'Trick Daddy', 'song': 'Tears of a Grown Man', 'genre': 'Hip-Hop', 'alternative_artist': 'Trick Daddy', 'add_to_final_records': True}
+{'artist': 'Trick Daddy', 'song': 'Bitch Ass Niggaz', 'genre': 'Hip-Hop', 'alternative_artist': 'Trick Daddy', 'add_to_final_records': True}
+{'artist': 'Trick Daddy', 'song': 'Skit: The Pick-Up', 'genre': 'Hip-Hop', 'alternative_artist': 'Trick Daddy', 'add_to_final_records': True}
+{'artist': 'Trick Daddy', 'song': 'Everyday Struggle', 'genre': 'Hip-Hop', 'alternative_artist': 'Trick Daddy', 'add_to_final_records': True}
+{'artist': 'Trick Daddy', 'song': 'Skit: The Collection', 'genre': 'Hip-Hop', 'alternative_artist': 'Trick Daddy', 'add_to_final_records': True}
+{'artist': 'Trick Daddy', 'song': 'Skit: Macking Jean', 'genre': 'Hip-Hop', 'alternative_artist': 'Trick Daddy', 'add_to_final_records': True}
+{'artist': 'Trick Daddy', 'song': 'Homie Song', 'genre': 'Hip-Hop', 'alternative_artist': 'Trick Daddy', 'add_to_final_records': True}
+{'artist': 'Trick Daddy', 'song': "Skit: The Mayor's Office", 'genre': 'Hip-Hop', 'alternative_artist': 'Trick Daddy', 'add_to_final_records': True}
+{'artist': 'Lupe Fiasco', 'song': 'Jump (feat. Gizzle)', 'genre': 'Hip-Hop', 'alternative_artist': 'From Zero', 'add_to_final_records': True}
+{'artist': 'Gang Starr', 'song': 'Dwyck (feat. Nice & Smooth)', 'genre': 'Hip-Hop', 'alternative_artist': 'Bruce Willis', 'add_to_final_records': True}
+{'artist': 'The Underachievers', 'song': 'Crescendo', 'genre': 'Hip-Hop', 'alternative_artist': 'Bruce Willis', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Devils and Angels', 'genre': 'Hip-Hop', 'alternative_artist': 'Bruce Willis', 'add_to_final_records': True}
+{'artist': 'Twisted Insane', 'song': 'Baron Samedi (feat. Redro Killson)', 'genre': 'Hip-Hop', 'alternative_artist': 'Bruce Willis', 'add_to_final_records': True}
+{'artist': 'Young Thug', 'song': 'Swizz Beatz', 'genre': 'Hip-Hop', 'alternative_artist': 'Swizz Beatz', 'add_to_final_records': True}
+{'artist': 'Drag On & Swizz Beatz', 'song': 'Hip Hop', 'genre': 'Hip-Hop', 'alternative_artist': 'Swizz Beatz', 'add_to_final_records': True}
+{'artist': 'Swizz Beatz', 'song': 'Off the Cuff', 'genre': 'Hip-Hop', 'alternative_artist': 'Swizz Beatz', 'add_to_final_records': True}
+{'artist': 'Dorrough Music', 'song': 'Go Season', 'genre': 'Hip-Hop', 'alternative_artist': 'Dorrough Music', 'add_to_final_records': True}
+{'artist': 'Blueprint', 'song': 'Respect the Architect', 'genre': 'Hip-Hop', 'alternative_artist': 'No Speed Limit', 'add_to_final_records': True}
+{'artist': 'Spoon SF', 'song': 'Speed Limit', 'genre': 'Hip-Hop', 'alternative_artist': 'No Speed Limit', 'add_to_final_records': True}
+{'artist': 'Raw Rap Relationship', 'song': 'Mad Alchemy No Speed Limits', 'genre': 'Hip-Hop', 'alternative_artist': 'No Speed Limit', 'add_to_final_records': True}
+{'artist': 'Hasan Salaam', 'song': 'Jericho (feat. Immortal Technique & Hezekiah)', 'genre': 'Hip-Hop', 'alternative_artist': 'Gwyneth Paltrow', 'add_to_final_records': True}
+{'artist': 'Necro', 'song': 'Whore', 'genre': 'Hip-Hop', 'alternative_artist': 'Gwyneth Paltrow', 'add_to_final_records': True}
+{'artist': 'Action Bronson & Statik Selektah', 'song': 'Cliff Notes', 'genre': 'Hip-Hop', 'alternative_artist': 'Action Bronson', 'add_to_final_records': True}
+{'artist': 'Action Bronson & Statik Selektah', 'song': 'Not Enough Words', 'genre': 'Hip-Hop', 'alternative_artist': 'Action Bronson', 'add_to_final_records': True}
+{'artist': 'Action Bronson & Statik Selektah', 'song': 'Cocoa Butter (feat. Nina Sky)', 'genre': 'Hip-Hop', 'alternative_artist': 'Action Bronson', 'add_to_final_records': True}
+{'artist': 'Action Bronson & Statik Selektah', 'song': 'Cirque Du Soleil', 'genre': 'Hip-Hop', 'alternative_artist': 'Action Bronson', 'add_to_final_records': True}
+{'artist': 'Action Bronson & Statik Selektah', 'song': 'Bon Voyage', 'genre': 'Hip-Hop', 'alternative_artist': 'Action Bronson', 'add_to_final_records': True}
+{'artist': 'Action Bronson & Statik Selektah', 'song': 'The Rainmaker', 'genre': 'Hip-Hop', 'alternative_artist': 'Action Bronson', 'add_to_final_records': True}
+{'artist': 'Action Bronson & Statik Selektah', 'song': 'Terror Death Camp (feat. Meyhem Lauren, Maffew Ragazino & AG Da Coroner)', 'genre': 'Hip-Hop', 'alternative_artist': 'Action Bronson', 'add_to_final_records': True}
+{'artist': 'Action Bronson & Statik Selektah', 'song': 'Time for Some (feat. Lil Fame)', 'genre': 'Hip-Hop', 'alternative_artist': 'Action Bronson', 'add_to_final_records': True}
+{'artist': 'Action Bronson & Statik Selektah', 'song': 'The Stick Up', 'genre': 'Hip-Hop', 'alternative_artist': 'Action Bronson', 'add_to_final_records': True}
+{'artist': 'Action Bronson & Statik Selektah', 'song': 'White Silk', 'genre': 'Hip-Hop', 'alternative_artist': 'Action Bronson', 'add_to_final_records': True}
+{'artist': 'Action Bronson & Statik Selektah', 'song': "Miss Fordham Road (86' 87' 88)", 'genre': 'Hip-Hop', 'alternative_artist': 'Action Bronson', 'add_to_final_records': True}
+{'artist': 'Action Bronson & Statik Selektah', 'song': 'Love Letter', 'genre': 'Hip-Hop', 'alternative_artist': 'Action Bronson', 'add_to_final_records': True}
+{'artist': 'Action Bronson & Statik Selektah', 'song': 'Central Bookings (feat. Meyhem Lauren)', 'genre': 'Hip-Hop', 'alternative_artist': 'Action Bronson', 'add_to_final_records': True}
+{'artist': 'Action Bronson & Statik Selektah', 'song': 'Respect the Mustache', 'genre': 'Hip-Hop', 'alternative_artist': 'Action Bronson', 'add_to_final_records': True}
+{'artist': 'Action Bronson & Statik Selektah', 'song': 'Keep off the Grass', 'genre': 'Hip-Hop', 'alternative_artist': 'Action Bronson', 'add_to_final_records': True}
+{'artist': 'Task Rok & Action Bronson', 'song': 'Northern Lights', 'genre': 'Hip-Hop', 'alternative_artist': 'Action Bronson', 'add_to_final_records': True}
+{'artist': 'Action Bronson', 'song': 'Muslim Wedding', 'genre': 'Hip-Hop', 'alternative_artist': 'Action Bronson', 'add_to_final_records': True}
+{'artist': 'Joey Bada$$', 'song': 'Run up on Ya (feat. Action Bronson & Elle Varner)', 'genre': 'Hip-Hop', 'alternative_artist': 'Action Bronson', 'add_to_final_records': True}
+{'artist': 'Mac Miller', 'song': 'Red Dot Music (feat. Action Bronson)', 'genre': 'Hip-Hop', 'alternative_artist': 'Action Bronson', 'add_to_final_records': True}
+{'artist': 'Meyhem Lauren', 'song': '5 Wagon (feat. Action Bronson)', 'genre': 'Hip-Hop', 'alternative_artist': 'Action Bronson', 'add_to_final_records': True}
+{'artist': 'VDon & Dave East', 'song': 'Bipolar', 'genre': 'Hip-Hop', 'alternative_artist': 'Dave East', 'add_to_final_records': True}
+{'artist': 'Lenchmob Threi, Fresh Kid Ice, JT Money, Chilly Chill & Boi Durty', 'song': 'Yeah We Got That', 'genre': 'Hip-Hop', 'alternative_artist': 'JT Money', 'add_to_final_records': True}
+{'artist': 'Fresh Kid Ice, JT Money, Dee Goodson & Brian Billionaire', 'song': "Tonite It's Going Down", 'genre': 'Hip-Hop', 'alternative_artist': 'JT Money', 'add_to_final_records': True}
+{'artist': 'JT Money', 'song': 'What Dey Do', 'genre': 'Hip-Hop', 'alternative_artist': 'JT Money', 'add_to_final_records': True}
+{'artist': 'Shoneyin', 'song': 'Mozzy', 'genre': 'Hip-Hop', 'alternative_artist': 'Mozzy', 'add_to_final_records': True}
+{'artist': 'Macklemore & Ryan Lewis', 'song': 'Thrift Shop (feat. Wanz)', 'genre': 'Hip-Hop', 'alternative_artist': 'John Wayne', 'add_to_final_records': True}
+{'artist': 'Slum Village', 'song': 'Go Ladies', 'genre': 'Hip-Hop', 'alternative_artist': 'Lady V', 'add_to_final_records': True}
+{'artist': 'John Dozier', 'song': 'The Lady Revenge', 'genre': 'Hip-Hop', 'alternative_artist': 'Lady V', 'add_to_final_records': True}
+{'artist': 'DJ Clue', 'song': 'DJ Clue Dissing Funkmaster Flex', 'genre': 'Hip-Hop', 'alternative_artist': 'DJ Clue', 'add_to_final_records': True}
+{'artist': 'Snowgoons', 'song': 'Hey Young World (feat. La Coka Nostra, Ill Bill, Everlast, Slaine, Heltah Skeltah, Sean Price & Rockness Monsta)', 'genre': 'Hip-Hop', 'alternative_artist': 'La Coka Nostra', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Grenade Launcher (feat. Slaine of La Coka Nostra & Prevail of Swollen Members)', 'genre': 'Hip-Hop', 'alternative_artist': 'La Coka Nostra', 'add_to_final_records': True}
+{'artist': 'Snowgoons', 'song': 'Hey Young World (feat. La Coka Nostra & Heltah Skeltah)', 'genre': 'Hip-Hop', 'alternative_artist': 'La Coka Nostra', 'add_to_final_records': True}
+{'artist': 'Chris Orrick', 'song': 'Four Part Cure', 'genre': 'Hip-Hop', 'alternative_artist': 'of god and science', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Mind Playing Tricks on Me', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Damn It Feels Good to Be a Gangsta', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Still', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'My Mind Playin Tricks on Me', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Mind Playin Tricks', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Scarface', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys & Scarface', 'song': 'Damn It Feel Good to Be a Gangsta (Mixed)', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Geto Boys and Girls', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Gangsta of Love', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'G Code', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Mind of a Lunatic', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Talkin Loud Sayin Nothin', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Let a Ho Be a Ho', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'The World Is a Ghetto', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Six Feet Deep', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Chuckie', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'When It Gets Gangsta', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys & Scarface', 'song': 'Sex Faces (Mixed)', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys & Scarface', 'song': '6 Ft. Deep (Mixed)', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys & Scarface', 'song': 'Never Seen a Man Die (Mixed)', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Intro 0: 56', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Time Taker', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'It Aint S**t', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': "We Can't Be Stopped", 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Assassins', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': "Size Ain't S**t", 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Snitches', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys & Scarface', 'song': 'Minute to Pray Second to Die (Mixed)', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Yes Yes Yall', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Gangsta (Put Me Down)', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'F**k Em', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Geto Fantasy', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Crooked Office', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Trigga Happy N***a', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys & Scarface', 'song': 'I Tried (Mixed)', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'F**k a War', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': "Gotta Let 'Em Hang", 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Do It Like a G O', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'City Under Siege', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': "Homie Don't Play That", 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys & Scarface', 'song': 'Now I Feel You (Mixed)', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'First Light of the Day', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys & Scarface', 'song': 'Look Me in the Eyes (Mixed)', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Im Not a Gentleman', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys & Scarface', 'song': 'Gangsta Put Me Down (Mixed)', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys & Scarface', 'song': 'Mary Jane (Mixed)', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Trigga Happy Nigga', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys & Scarface', 'song': 'Smile (Mixed)', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': "Size Ain't Shit", 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Quickie', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Point of No Return', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Blind Leading the Blind', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Read These Nikes', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'The Other Level', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys & Scarface', 'song': 'Money and the Power (Mixed)', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Straight Gangstaism', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys & Scarface', 'song': 'Intro', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys & Scarface', 'song': 'Do It Like a G.O. (Mixed)', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Fuck a War', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys & Scarface', 'song': 'Born Killer (Mixed)', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Fuck Em', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'I Just Wanna Die', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys & Scarface', 'song': 'Hand of Dead Body (Mixed)', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Rebel Rap Family', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Aint with Being Broke', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Open Minded', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Punk-Bitch Game', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Damn It Feels Good 2 Be a Gangsta', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Hold It Down', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Another Nigger in the Morgue', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Life in the Fast Lane', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Niggas and Flies', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': "Mind Playin' Tricks on Me", 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Do It Like G.O', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': "Talkin' Loud Ain't Sayin Nothin'", 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Killer for Scratch', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Gotta Let Your Nuts Hang', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'A Visit with Larry Hoover', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Ghetto Prisoner', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': "Mind Playin' Tricks", 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Action Speaks Louder Than Words', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Trophy', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Size Aint', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Do It Like a Go', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'The Unseen', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Bring It On', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Gotta Let Them Hang', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'And My Word', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'No Nuts No Glory', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Cereal Killer', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Street Life', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Geto Boys & Girls', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Murder After Midnight', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'G.E.T.O.', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Crooked Officer', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Word Is a Geto', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Let a Hoe Be a Hoe', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Stright Gangstaism', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': "It Ain't", 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Raise Up', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'The Answer to Baby (Mary II)', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Murder Avenue', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Balls & My Word', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': "This Dick's for You", 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Outro', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Balls and My Word', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Geto Boys Will Rock You', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'The Problem', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Making Trouble', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'The World Is a Geto', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'G-Code', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'One Time (Freestyle)', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': "You Ain't Nothin'", 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'I Run This', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Why Do We Live This Way', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'No Curfew', 'genre': 'Hip-Hop', 'alternative_artist': 'Geto Boys', 'add_to_final_records': True}
+{'artist': 'Slim Gutta', 'song': 'Freaky Talez (feat. Conspiracy & Yung Puppz)', 'genre': 'Hip-Hop', 'alternative_artist': 'Gutta Slim', 'add_to_final_records': True}
+{'artist': 'Yukmouth', 'song': 'Corner Store', 'genre': 'Hip-Hop', 'alternative_artist': 'Dollar Store', 'add_to_final_records': True}
+{'artist': 'Smoke DZA & Pete Rock', 'song': 'Dusk 2 Dusk (feat. Big K.R.I.T., DOM KENNEDY & theMIND)', 'genre': 'Hip-Hop', 'alternative_artist': 'Dom Kennedy', 'add_to_final_records': True}
+{'artist': 'Smoke DZA', 'song': 'The Hook Up (feat. DOM KENNEDY & Cozz)', 'genre': 'Hip-Hop', 'alternative_artist': 'Dom Kennedy', 'add_to_final_records': True}
+{'artist': 'Smoke DZA & RFC', 'song': 'Malverde (feat. DOM KENNEDY & Al-Doe)', 'genre': 'Hip-Hop', 'alternative_artist': 'Dom Kennedy', 'add_to_final_records': True}
+{'artist': 'Polyester the Saint', 'song': 'Weekend Chicc (feat. DOM KENNEDY)', 'genre': 'Hip-Hop', 'alternative_artist': 'Dom Kennedy', 'add_to_final_records': True}
+{'artist': 'Smoke DZA', 'song': 'Pow Wow', 'genre': 'Hip-Hop', 'alternative_artist': 'Dom Kennedy', 'add_to_final_records': True}
+{'artist': 'DJ Quik & Problem', 'song': 'Bad Azz (feat. Dom Kennedy, Boogie & Bad Lucc)', 'genre': 'Hip-Hop', 'alternative_artist': 'Dom Kennedy', 'add_to_final_records': True}
+{'artist': "Lil' Kim", 'song': 'Download (feat. T-Pain & Charlie Wilson)', 'genre': 'Hip-Hop', 'alternative_artist': 'Charlie Walker', 'add_to_final_records': True}
+{'artist': 'Lords of the Underground', 'song': 'Faith', 'genre': 'Hip-Hop', 'alternative_artist': 'Lords of the Underground', 'add_to_final_records': True}
+{'artist': 'Lords of the Underground', 'song': "What I'm After", 'genre': 'Hip-Hop', 'alternative_artist': 'Lords of the Underground', 'add_to_final_records': True}
+{'artist': 'Lords of the Underground', 'song': 'Tic Toc', 'genre': 'Hip-Hop', 'alternative_artist': 'Lords of the Underground', 'add_to_final_records': True}
+{'artist': 'Lords of the Underground', 'song': 'RadioActivated', 'genre': 'Hip-Hop', 'alternative_artist': 'Lords of the Underground', 'add_to_final_records': True}
+{'artist': 'Lords of the Underground', 'song': 'Magic', 'genre': 'Hip-Hop', 'alternative_artist': 'Lords of the Underground', 'add_to_final_records': True}
+{'artist': 'Lords of the Underground', 'song': 'Steam From Da Knot', 'genre': 'Hip-Hop', 'alternative_artist': 'Lords of the Underground', 'add_to_final_records': True}
+{'artist': 'Lords of the Underground', 'song': 'Like a Drug (feat. RedMan)', 'genre': 'Hip-Hop', 'alternative_artist': 'Lords of the Underground', 'add_to_final_records': True}
+{'artist': 'Lords of the Underground', 'song': 'Bumpin Loud', 'genre': 'Hip-Hop', 'alternative_artist': 'Lords of the Underground', 'add_to_final_records': True}
+{'artist': 'Lords of the Underground', 'song': 'Neva Faded (feat. Supreme C)', 'genre': 'Hip-Hop', 'alternative_artist': 'Lords of the Underground', 'add_to_final_records': True}
+{'artist': 'Lords of the Underground', 'song': 'All I Ever Wanted (feat. Hannah Luce)', 'genre': 'Hip-Hop', 'alternative_artist': 'Lords of the Underground', 'add_to_final_records': True}
+{'artist': 'Lords of the Underground', 'song': "LG'z Up Intro", 'genre': 'Hip-Hop', 'alternative_artist': 'Lords of the Underground', 'add_to_final_records': True}
+{'artist': 'Lords of the Underground', 'song': 'What U See', 'genre': 'Hip-Hop', 'alternative_artist': 'Lords of the Underground', 'add_to_final_records': True}
+{'artist': 'Lords of the Underground', 'song': 'BonFire (feat. Bump Pro)', 'genre': 'Hip-Hop', 'alternative_artist': 'Lords of the Underground', 'add_to_final_records': True}
+{'artist': 'Lords of the Underground', 'song': "Yes Y'All", 'genre': 'Hip-Hop', 'alternative_artist': 'Lords of the Underground', 'add_to_final_records': True}
+{'artist': 'Lords of the Underground', 'song': 'Keepers Of The Funk', 'genre': 'Hip-Hop', 'alternative_artist': 'Lords of the Underground', 'add_to_final_records': True}
+{'artist': 'Lords of the Underground', 'song': 'Ready Or Not', 'genre': 'Hip-Hop', 'alternative_artist': 'Lords of the Underground', 'add_to_final_records': True}
+{'artist': 'Lords of the Underground', 'song': 'No Pain (feat. Sah B)', 'genre': 'Hip-Hop', 'alternative_artist': 'Lords of the Underground', 'add_to_final_records': True}
+{'artist': 'Lords of the Underground', 'song': 'Intro', 'genre': 'Hip-Hop', 'alternative_artist': 'Lords of the Underground', 'add_to_final_records': True}
+{'artist': 'Lords of the Underground', 'song': 'Frustrated', 'genre': 'Hip-Hop', 'alternative_artist': 'Lords of the Underground', 'add_to_final_records': True}
+{'artist': 'Lords of the Underground', 'song': "He's a Machine", 'genre': 'Hip-Hop', 'alternative_artist': 'Lords of the Underground', 'add_to_final_records': True}
+{'artist': 'Lords of the Underground', 'song': 'Outro', 'genre': 'Hip-Hop', 'alternative_artist': 'Lords of the Underground', 'add_to_final_records': True}
+{'artist': 'Grim B', 'song': 'Lords of the Underground (feat. Lord Diamonds)', 'genre': 'Hip-Hop', 'alternative_artist': 'Lords of the Underground', 'add_to_final_records': True}
+{'artist': 'Cee Knowledge & The Cosmic Funk Orchestra', 'song': 'Life Is What You Make It (feat. Duitall from Lords of The Underground)', 'genre': 'Hip-Hop', 'alternative_artist': 'Lords of the Underground', 'add_to_final_records': True}
+{'artist': 'Kidd Wes', 'song': 'Blvd Dreams', 'genre': 'Hip-Hop', 'alternative_artist': 'Junior Senior', 'add_to_final_records': True}
+{'artist': 'Kidd Wes', 'song': '10K', 'genre': 'Hip-Hop', 'alternative_artist': 'Junior Senior', 'add_to_final_records': True}
+{'artist': 'Kidd Wes', 'song': 'Made in America', 'genre': 'Hip-Hop', 'alternative_artist': 'Junior Senior', 'add_to_final_records': True}
+{'artist': 'Metermaids', 'song': 'Clarence Clemons', 'genre': 'Hip-Hop', 'alternative_artist': 'Clarence Clemons', 'add_to_final_records': True}
+{'artist': 'Brand Nubian', 'song': 'Slow Down', 'genre': 'Hip-Hop', 'alternative_artist': 'Brand Nubian', 'add_to_final_records': True}
+{'artist': 'Brand Nubian', 'song': "Soldier's Story", 'genre': 'Hip-Hop', 'alternative_artist': 'Brand Nubian', 'add_to_final_records': True}
+{'artist': 'Brand Nubian', 'song': 'Dopestep (feat. Petey Green)', 'genre': 'Hip-Hop', 'alternative_artist': 'Brand Nubian', 'add_to_final_records': True}
+{'artist': 'Brand Nubian', 'song': 'The Future', 'genre': 'Hip-Hop', 'alternative_artist': 'Brand Nubian', 'add_to_final_records': True}
+{'artist': 'Brand Nubian', 'song': 'Supreme Mathematics', 'genre': 'Hip-Hop', 'alternative_artist': 'Brand Nubian', 'add_to_final_records': True}
+{'artist': 'Brand Nubian', 'song': 'How Long?', 'genre': 'Hip-Hop', 'alternative_artist': 'Brand Nubian', 'add_to_final_records': True}
+{'artist': 'Brand Nubian', 'song': 'Get That Money', 'genre': 'Hip-Hop', 'alternative_artist': 'Brand Nubian', 'add_to_final_records': True}
+{'artist': 'Brand Nubian', 'song': 'Bounce', 'genre': 'Hip-Hop', 'alternative_artist': 'Brand Nubian', 'add_to_final_records': True}
+{'artist': 'Brand Nubian', 'song': "Just Don't Learn", 'genre': 'Hip-Hop', 'alternative_artist': 'Brand Nubian', 'add_to_final_records': True}
+{'artist': 'Brand Nubian', 'song': 'Corners', 'genre': 'Hip-Hop', 'alternative_artist': 'Brand Nubian', 'add_to_final_records': True}
+{'artist': 'Brand Nubian', 'song': 'Revolution', 'genre': 'Hip-Hop', 'alternative_artist': 'Brand Nubian', 'add_to_final_records': True}
+{'artist': 'Brand Nubian', 'song': 'Get It Crackin', 'genre': 'Hip-Hop', 'alternative_artist': 'Brand Nubian', 'add_to_final_records': True}
+{'artist': 'Jak Tripper', 'song': 'Peppermint Rainbow Bowtie Lounge 1968', 'genre': 'Hip-Hop', 'alternative_artist': 'Desolation Wilderness', 'add_to_final_records': True}
+{'artist': 'Travis Barker & Yelawolf', 'song': 'Out of Control', 'genre': 'Hip-Hop', 'alternative_artist': 'YelaWolf', 'add_to_final_records': True}
+{'artist': 'Tech N9ne', 'song': 'Worldwide Choppers (feat. Busta Rhymes, Ceza, D-Loc, JL B.Hood, Twista, Twisted Insane, Uso & Yelawolf)', 'genre': 'Hip-Hop', 'alternative_artist': 'YelaWolf', 'add_to_final_records': True}
+{'artist': 'Travis Barker', 'song': "Cuz I'm Famous (feat. Paul Wall, Hopsin, Yelawolf & Scoop Deville)", 'genre': 'Hip-Hop', 'alternative_artist': 'YelaWolf', 'add_to_final_records': True}
+{'artist': 'Warren G', 'song': "Keep on Hustlin' (feat. Young Jeezy, Bun B, Nate Dogg)", 'genre': 'Hip-Hop', 'alternative_artist': 'Warren G', 'add_to_final_records': True}
+{'artist': 'Warren G', 'song': 'My House (feat. Nate Dogg)', 'genre': 'Hip-Hop', 'alternative_artist': 'Warren G', 'add_to_final_records': True}
+{'artist': 'Warren G', 'song': 'Saturday (feat. E-40, Too $hort, Nate Dogg)', 'genre': 'Hip-Hop', 'alternative_artist': 'Warren G', 'add_to_final_records': True}
+{'artist': 'Warren G', 'song': 'Dead Wrong (feat. Nate Dogg)', 'genre': 'Hip-Hop', 'alternative_artist': 'Warren G', 'add_to_final_records': True}
+{'artist': 'Warren G', 'song': 'Intro (feat. Reverened TaaaDow)', 'genre': 'Hip-Hop', 'alternative_artist': 'Warren G', 'add_to_final_records': True}
+{'artist': 'Kaiser', 'song': 'Für dis Mami (feat. Dynamic Duo)', 'genre': 'Hip-Hop', 'alternative_artist': 'Kaiser', 'add_to_final_records': True}
+{'artist': 'Kaiser', 'song': 'Beetown Dezibel (feat. LDeep & Samurai)', 'genre': 'Hip-Hop', 'alternative_artist': 'Kaiser', 'add_to_final_records': True}
+{'artist': 'Kaiser', 'song': 'Schiins (feat. Lost C)', 'genre': 'Hip-Hop', 'alternative_artist': 'Kaiser', 'add_to_final_records': True}
+{'artist': 'Chinx', 'song': 'Bodies (feat. Bobby Shmurda & Rowdy Rebel)', 'genre': 'Hip-Hop', 'alternative_artist': 'Bobby Shmurda', 'add_to_final_records': True}
+{'artist': 'Shy Glizzy', 'song': 'Celebration (feat. Bobby Shmurda)', 'genre': 'Hip-Hop', 'alternative_artist': 'Bobby Shmurda', 'add_to_final_records': True}
+{'artist': 'Ghostface Killah', 'song': "Watch 'Em Holla (feat. Raekwon, Masta Killa & Cappadonna)", 'genre': 'Hip-Hop', 'alternative_artist': 'Ghostface Killah', 'add_to_final_records': True}
+{'artist': 'Ghostface Killah & Adrian Younge', 'song': 'Return of the Savage', 'genre': 'Hip-Hop', 'alternative_artist': 'Ghostface Killah', 'add_to_final_records': True}
+{'artist': 'Ghostface Killah & Adrian Younge', 'song': 'Get the Money', 'genre': 'Hip-Hop', 'alternative_artist': 'Ghostface Killah', 'add_to_final_records': True}
+{'artist': 'Ghostface Killah & Adrian Younge', 'song': 'King of New York', 'genre': 'Hip-Hop', 'alternative_artist': 'Ghostface Killah', 'add_to_final_records': True}
+{'artist': 'Ghostface Killah & Adrian Younge', 'song': 'Rise Up', 'genre': 'Hip-Hop', 'alternative_artist': 'Ghostface Killah', 'add_to_final_records': True}
+{'artist': 'Ghostface Killah & Adrian Younge', 'song': 'Blackout', 'genre': 'Hip-Hop', 'alternative_artist': 'Ghostface Killah', 'add_to_final_records': True}
+{'artist': 'Ghostface Killah & Adrian Younge', 'song': 'Resurrection Morning', 'genre': 'Hip-Hop', 'alternative_artist': 'Ghostface Killah', 'add_to_final_records': True}
+{'artist': 'Ghostface Killah & Adrian Younge', 'song': 'Powerful One', 'genre': 'Hip-Hop', 'alternative_artist': 'Ghostface Killah', 'add_to_final_records': True}
+{'artist': 'Ghostface Killah & Adrian Younge', 'song': "Life's a Rebirth", 'genre': 'Hip-Hop', 'alternative_artist': 'Ghostface Killah', 'add_to_final_records': True}
+{'artist': 'Ghostface Killah & Adrian Younge', 'song': 'Resurrection Sunday', 'genre': 'Hip-Hop', 'alternative_artist': 'Ghostface Killah', 'add_to_final_records': True}
+{'artist': 'Ghostface Killah & Adrian Younge', 'song': 'Let the Record Spin', 'genre': 'Hip-Hop', 'alternative_artist': 'Ghostface Killah', 'add_to_final_records': True}
+{'artist': 'Ghostface Killah & Adrian Younge', 'song': 'Deaths Invitation', 'genre': 'Hip-Hop', 'alternative_artist': 'Ghostface Killah', 'add_to_final_records': True}
+{'artist': 'Ghostface Killah & Adrian Younge', 'song': "Death's Invitation", 'genre': 'Hip-Hop', 'alternative_artist': 'Ghostface Killah', 'add_to_final_records': True}
+{'artist': 'Ghostface Killah', 'song': 'Majestic Accolades (feat. Planet Asia & Hus KingPin)', 'genre': 'Hip-Hop', 'alternative_artist': 'Ghostface Killah', 'add_to_final_records': True}
+{'artist': 'Ghostface Killah & Adrian Younge', 'song': 'Daily News', 'genre': 'Hip-Hop', 'alternative_artist': 'Ghostface Killah', 'add_to_final_records': True}
+{'artist': 'Swishahouse', 'song': 'Braids & Fades', 'genre': 'Hip-Hop', 'alternative_artist': 'Braids', 'add_to_final_records': True}
+{'artist': 'Afrika Bambaataa, Zulu Nation & Cosmic Force', 'song': 'Zulu Nation Throw Down', 'genre': 'Hip-Hop', 'alternative_artist': 'Afrika Bambaataa', 'add_to_final_records': True}
+{'artist': 'e-dubble & 27 Lights', 'song': 'Party With Wookies', 'genre': 'Hip-Hop', 'alternative_artist': 'Dubble A', 'add_to_final_records': True}
+{'artist': 'e-dubble', 'song': 'What It Do', 'genre': 'Hip-Hop', 'alternative_artist': 'Dubble A', 'add_to_final_records': True}
+{'artist': 'e-dubble', 'song': 'The Grey', 'genre': 'Hip-Hop', 'alternative_artist': 'Dubble A', 'add_to_final_records': True}
+{'artist': 'e-dubble & 27 Lights', 'song': 'See Me When You See Me', 'genre': 'Hip-Hop', 'alternative_artist': 'Dubble A', 'add_to_final_records': True}
+{'artist': 'e-dubble & 27 Lights', 'song': 'The Devil is a Lie', 'genre': 'Hip-Hop', 'alternative_artist': 'Dubble A', 'add_to_final_records': True}
+{'artist': 'e-dubble & 27 Lights', 'song': 'Over Here', 'genre': 'Hip-Hop', 'alternative_artist': 'Dubble A', 'add_to_final_records': True}
+{'artist': 'e-dubble & 27 Lights', 'song': 'Klitschko', 'genre': 'Hip-Hop', 'alternative_artist': 'Dubble A', 'add_to_final_records': True}
+{'artist': 'e-dubble', 'song': 'Two Tone Rebel', 'genre': 'Hip-Hop', 'alternative_artist': 'Dubble A', 'add_to_final_records': True}
+{'artist': 'e-dubble', 'song': 'Backseat', 'genre': 'Hip-Hop', 'alternative_artist': 'Dubble A', 'add_to_final_records': True}
+{'artist': 'e-dubble', 'song': "Robot's Can't Drink", 'genre': 'Hip-Hop', 'alternative_artist': 'Dubble A', 'add_to_final_records': True}
+{'artist': 'e-dubble', 'song': 'War of Attrition', 'genre': 'Hip-Hop', 'alternative_artist': 'Dubble A', 'add_to_final_records': True}
+{'artist': 'e-dubble', 'song': 'One Question', 'genre': 'Hip-Hop', 'alternative_artist': 'Dubble A', 'add_to_final_records': True}
+{'artist': 'e-dubble', 'song': 'Wait', 'genre': 'Hip-Hop', 'alternative_artist': 'Dubble A', 'add_to_final_records': True}
+{'artist': 'e-dubble', 'song': 'Olly Olly (Oxen Free) [feat. Reef the Lost Cauze]', 'genre': 'Hip-Hop', 'alternative_artist': 'Dubble A', 'add_to_final_records': True}
+{'artist': 'e-dubble', 'song': 'Heat (Five OHH)', 'genre': 'Hip-Hop', 'alternative_artist': 'Dubble A', 'add_to_final_records': True}
+{'artist': 'e-dubble', 'song': 'Safe Travels', 'genre': 'Hip-Hop', 'alternative_artist': 'Dubble A', 'add_to_final_records': True}
+{'artist': 'e-dubble', 'song': "Getting By (I'm Good)", 'genre': 'Hip-Hop', 'alternative_artist': 'Dubble A', 'add_to_final_records': True}
+{'artist': 'e-dubble', 'song': 'Graceland (feat. Elissa Janelle Velveteen)', 'genre': 'Hip-Hop', 'alternative_artist': 'Dubble A', 'add_to_final_records': True}
+{'artist': 'e-dubble', 'song': 'Changed My Mind', 'genre': 'Hip-Hop', 'alternative_artist': 'Dubble A', 'add_to_final_records': True}
+{'artist': 'e-dubble', 'song': 'Golden Ones', 'genre': 'Hip-Hop', 'alternative_artist': 'Dubble A', 'add_to_final_records': True}
+{'artist': 'e-dubble', 'song': 'Waves', 'genre': 'Hip-Hop', 'alternative_artist': 'Dubble A', 'add_to_final_records': True}
+{'artist': 'e-dubble', 'song': 'Rebuild', 'genre': 'Hip-Hop', 'alternative_artist': 'Dubble A', 'add_to_final_records': True}
+{'artist': 'e-dubble', 'song': 'Metabars', 'genre': 'Hip-Hop', 'alternative_artist': 'Dubble A', 'add_to_final_records': True}
+{'artist': 'e-dubble', 'song': 'Jailbreak', 'genre': 'Hip-Hop', 'alternative_artist': 'Dubble A', 'add_to_final_records': True}
+{'artist': 'BGee Beatz', 'song': "Can't Do It Better Than Me", 'genre': 'Hip-Hop', 'alternative_artist': 'Bgee', 'add_to_final_records': True}
+{'artist': "Lil' Flip & Z-Ro", 'song': 'Burbans & Lacs', 'genre': 'Hip-Hop', 'alternative_artist': "Lil' Flip", 'add_to_final_records': True}
+{'artist': "Lil' Flip & Z-Ro", 'song': 'Kings of the South', 'genre': 'Hip-Hop', 'alternative_artist': "Lil' Flip", 'add_to_final_records': True}
+{'artist': "Lil' Flip & Z-Ro", 'song': 'F**k Dat N**ga', 'genre': 'Hip-Hop', 'alternative_artist': "Lil' Flip", 'add_to_final_records': True}
+{'artist': "Lil' Flip & Z-Ro", 'song': 'Get It Crunk', 'genre': 'Hip-Hop', 'alternative_artist': "Lil' Flip", 'add_to_final_records': True}
+{'artist': "Lil' Flip & Z-Ro", 'song': 'Da Cops', 'genre': 'Hip-Hop', 'alternative_artist': "Lil' Flip", 'add_to_final_records': True}
+{'artist': "Lil' Flip & Z-Ro", 'song': 'Whut up Now', 'genre': 'Hip-Hop', 'alternative_artist': "Lil' Flip", 'add_to_final_records': True}
+{'artist': "Lil' Flip & Z-Ro", 'song': 'Grown Man', 'genre': 'Hip-Hop', 'alternative_artist': "Lil' Flip", 'add_to_final_records': True}
+{'artist': "Lil' Flip & Z-Ro", 'song': 'Never Let the Game Go', 'genre': 'Hip-Hop', 'alternative_artist': "Lil' Flip", 'add_to_final_records': True}
+{'artist': "Lil' Flip & Z-Ro", 'song': 'Art of War', 'genre': 'Hip-Hop', 'alternative_artist': "Lil' Flip", 'add_to_final_records': True}
+{'artist': "Lil' Flip & Z-Ro", 'song': 'Uncut', 'genre': 'Hip-Hop', 'alternative_artist': "Lil' Flip", 'add_to_final_records': True}
+{'artist': "Lil' Flip & Z-Ro", 'song': 'Remember Me', 'genre': 'Hip-Hop', 'alternative_artist': "Lil' Flip", 'add_to_final_records': True}
+{'artist': "Lil' Flip & Z-Ro", 'song': 'Screwed up Click', 'genre': 'Hip-Hop', 'alternative_artist': "Lil' Flip", 'add_to_final_records': True}
+{'artist': "Lil' Flip & Z-Ro", 'song': 'Never Take Me Alive', 'genre': 'Hip-Hop', 'alternative_artist': "Lil' Flip", 'add_to_final_records': True}
+{'artist': 'Yogi', 'song': 'SIRI (feat. Elliphant & Pusha T)', 'genre': 'Hip-Hop', 'alternative_artist': 'Elliphant', 'add_to_final_records': True}
+{'artist': 'Kodak Black', 'song': 'Tunnel Vision', 'genre': 'Hip-Hop', 'alternative_artist': 'Kodak black', 'add_to_final_records': True}
+{'artist': 'Kodak Black', 'song': 'Patty Cake', 'genre': 'Hip-Hop', 'alternative_artist': 'Kodak black', 'add_to_final_records': True}
+{'artist': 'Kodak Black', 'song': 'Skrt', 'genre': 'Hip-Hop', 'alternative_artist': 'Kodak black', 'add_to_final_records': True}
+{'artist': 'Kodak Black', 'song': 'Conscience (feat. Future)', 'genre': 'Hip-Hop', 'alternative_artist': 'Kodak black', 'add_to_final_records': True}
+{'artist': 'Kodak Black', 'song': 'Side Nigga', 'genre': 'Hip-Hop', 'alternative_artist': 'Kodak black', 'add_to_final_records': True}
+{'artist': 'Kodak Black', 'song': 'There He Go', 'genre': 'Hip-Hop', 'alternative_artist': 'Kodak black', 'add_to_final_records': True}
+{'artist': 'Kodak Black', 'song': 'Coolin and Booted', 'genre': 'Hip-Hop', 'alternative_artist': 'Kodak black', 'add_to_final_records': True}
+{'artist': 'Kodak Black', 'song': 'Twenty 8', 'genre': 'Hip-Hop', 'alternative_artist': 'Kodak black', 'add_to_final_records': True}
+{'artist': 'Kodak Black', 'song': "U Ain't Never", 'genre': 'Hip-Hop', 'alternative_artist': 'Kodak black', 'add_to_final_records': True}
+{'artist': 'Kodak Black', 'song': 'Candy Paint (feat. Bun B)', 'genre': 'Hip-Hop', 'alternative_artist': 'Kodak black', 'add_to_final_records': True}
+{'artist': 'Kodak Black', 'song': 'Save You', 'genre': 'Hip-Hop', 'alternative_artist': 'Kodak black', 'add_to_final_records': True}
+{'artist': 'Kodak Black', 'song': 'Top Off Benz (feat. Young Thug)', 'genre': 'Hip-Hop', 'alternative_artist': 'Kodak black', 'add_to_final_records': True}
+{'artist': 'Kodak Black', 'song': 'Feeling Like (feat. Jeezy)', 'genre': 'Hip-Hop', 'alternative_artist': 'Kodak black', 'add_to_final_records': True}
+{'artist': 'Kodak Black', 'song': 'Reminiscing (feat. A Boogie wit da Hoodie)', 'genre': 'Hip-Hop', 'alternative_artist': 'Kodak black', 'add_to_final_records': True}
+{'artist': 'Kodak Black', 'song': 'Off the Land', 'genre': 'Hip-Hop', 'alternative_artist': 'Kodak black', 'add_to_final_records': True}
+{'artist': 'Kodak Black', 'song': 'Up in Here', 'genre': 'Hip-Hop', 'alternative_artist': 'Kodak black', 'add_to_final_records': True}
+{'artist': 'Kodak Black', 'song': 'Day for Day', 'genre': 'Hip-Hop', 'alternative_artist': 'Kodak black', 'add_to_final_records': True}
+{'artist': 'Kodak Black', 'song': 'Why They Call You Kodak', 'genre': 'Hip-Hop', 'alternative_artist': 'Kodak black', 'add_to_final_records': True}
+{'artist': 'Kodak Black', 'song': 'Corrlinks and JPay', 'genre': 'Hip-Hop', 'alternative_artist': 'Kodak black', 'add_to_final_records': True}
+{'artist': 'Kodak Black', 'song': 'First Day Out', 'genre': 'Hip-Hop', 'alternative_artist': 'Kodak black', 'add_to_final_records': True}
+{'artist': 'Kodak Black', 'song': 'No Flockin', 'genre': 'Hip-Hop', 'alternative_artist': 'Kodak black', 'add_to_final_records': True}
+{'artist': 'Kodak Black', 'song': 'U Aint Never', 'genre': 'Hip-Hop', 'alternative_artist': 'Kodak black', 'add_to_final_records': True}
+{'artist': 'Kodak Black', 'song': 'Reminiscing (feat. A Boogie Wit da Hoodie)', 'genre': 'Hip-Hop', 'alternative_artist': 'Kodak black', 'add_to_final_records': True}
+{'artist': 'Kodak Black', 'song': 'Up In Here', 'genre': 'Hip-Hop', 'alternative_artist': 'Kodak black', 'add_to_final_records': True}
+{'artist': 'Kodak Black', 'song': 'Side N****', 'genre': 'Hip-Hop', 'alternative_artist': 'Kodak black', 'add_to_final_records': True}
+{'artist': 'Kodak Black', 'song': 'Day For Day', 'genre': 'Hip-Hop', 'alternative_artist': 'Kodak black', 'add_to_final_records': True}
+{'artist': 'Eff Yoo', 'song': 'Archie Bunker', 'genre': 'Hip-Hop', 'alternative_artist': 'Archie Bunker', 'add_to_final_records': True}
+{'artist': 'Cham', 'song': 'Lawless', 'genre': 'Hip-Hop', 'alternative_artist': 'Cham', 'add_to_final_records': True}
+{'artist': 'Huero Snipes, Spanky Loco & Conejo', 'song': 'My Lifestyle Gangsta', 'genre': 'Hip-Hop', 'alternative_artist': 'Conejo', 'add_to_final_records': True}
+{'artist': 'Smoke DZA, Devin the Dude, Asher Roth & Curren$y', 'song': 'Marley & Me (Remix)', 'genre': 'Hip-Hop', 'alternative_artist': 'Curren$y', 'add_to_final_records': True}
+{'artist': 'Curren$y & Harry Fraud', 'song': 'Biscayne Bay', 'genre': 'Hip-Hop', 'alternative_artist': 'Curren$y', 'add_to_final_records': True}
+{'artist': 'Wiz Khalifa & Curren$y', 'song': 'Friendly', 'genre': 'Hip-Hop', 'alternative_artist': 'Curren$y', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'I Want War', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'Saddam', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'Do You Wanna Dance?', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': "Poppin' Off", 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'Wanting You', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': "F*ckin' Wit Pastor", 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'Will He Come Home Tonight', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'Vica Versa', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'Tool Music', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'No Mo Play in GA', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': "I'm F*cked Up", 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': "Are We Cuttin'", 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': "Ridin' Big", 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': "I'm Down", 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'Heaven Is Below', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'Digital', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'You See the Swag On That Boy', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'Hard For the Money', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'Comin Wit Me', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': "Facin' Fifteen", 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'In My Truck With Me', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'Who U Gonna Call', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'All I Know', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': "Talkin' Sh*t", 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'Is That Your Girl?', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'Here We Go', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': "That's the Move", 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'My Box Chevy', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'Feel Me or Kill Me', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'Hey Mama', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'The Belt', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'Still Looking', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'About to Go Down', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'Just to Fight', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'This tha City', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'Comin wit Me', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'No Money', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': "I'm Hot (I Got That Lava)", 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': "Lyin' Bout Her Crib", 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': "Don't Kill'em", 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'Down to Ride', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'License to Kill', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'Dope Boy', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'Pt', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'Street Law', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'No Mo Play in GA, Pt. 2', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'Well Uh Huh', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'It Get Me Crunk (Bonus Track)', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'A-Town Down', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': "It's too Late Now, We Ready", 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': "I'm Fucked Up", 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'They Shootin', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'Ridin Big', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'Yeah!!!', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'Georgia Swag', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'For My Soldiers', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'Dread and Alive', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': "I'm Comin", 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'Attitude Adjuster', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'Murder Man', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'Fuck Them Niggas', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': "Ain't No Sunshine", 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'Keep Talkin (feat. Gangsta Boo) [Bonus Track]', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'Champion', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'Poppin Off', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'I Declare War!!', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'Rhonda', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Pastor Troy', 'song': 'If U Pull...', 'genre': 'Hip-Hop', 'alternative_artist': 'Pastor Troy', 'add_to_final_records': True}
+{'artist': 'Dirty', 'song': 'If I Die Tonight', 'genre': 'Hip-Hop', 'alternative_artist': 'Dirty', 'add_to_final_records': True}
+{'artist': 'Dirty', 'song': 'I Wish', 'genre': 'Hip-Hop', 'alternative_artist': 'Dirty', 'add_to_final_records': True}
+{'artist': 'Dirty', 'song': 'Paid My Dues', 'genre': 'Hip-Hop', 'alternative_artist': 'Dirty', 'add_to_final_records': True}
+{'artist': 'Dirty', 'song': 'We Still', 'genre': 'Hip-Hop', 'alternative_artist': 'Dirty', 'add_to_final_records': True}
+{'artist': 'Dirty', 'song': 'Gangsta Wife', 'genre': 'Hip-Hop', 'alternative_artist': 'Dirty', 'add_to_final_records': True}
+{'artist': 'Dirty', 'song': 'Pimp Life', 'genre': 'Hip-Hop', 'alternative_artist': 'Dirty', 'add_to_final_records': True}
+{'artist': 'Dirty', 'song': '24 Inches Woodgrain Grippin', 'genre': 'Hip-Hop', 'alternative_artist': 'Dirty', 'add_to_final_records': True}
+{'artist': 'Dirty', 'song': 'Keep My Name out Your Mouth', 'genre': 'Hip-Hop', 'alternative_artist': 'Dirty', 'add_to_final_records': True}
+{'artist': 'Dirty', 'song': "That's Why I", 'genre': 'Hip-Hop', 'alternative_artist': 'Dirty', 'add_to_final_records': True}
+{'artist': 'Dirty', 'song': 'Thou Shall Not Kill', 'genre': 'Hip-Hop', 'alternative_artist': 'Dirty', 'add_to_final_records': True}
+{'artist': 'Dirty', 'song': '2 Deep Creepin', 'genre': 'Hip-Hop', 'alternative_artist': 'Dirty', 'add_to_final_records': True}
+{'artist': 'Dirty', 'song': 'Love Us or Hate Us', 'genre': 'Hip-Hop', 'alternative_artist': 'Dirty', 'add_to_final_records': True}
+{'artist': 'Wonder Brown', 'song': 'Oh Gallows', 'genre': 'Hip-Hop', 'alternative_artist': 'Oh Wonder', 'add_to_final_records': True}
+{'artist': 'Swishahouse & Michael Watts', 'song': 'Be Me', 'genre': 'Hip-Hop', 'alternative_artist': 'Cash Money Millionaires', 'add_to_final_records': True}
+{'artist': 'Scarface', 'song': 'They Down with Us', 'genre': 'Hip-Hop', 'alternative_artist': 'Cash Money Millionaires', 'add_to_final_records': True}
+{'artist': 'AZ', 'song': 'Money Makes the World Go Round', 'genre': 'Hip-Hop', 'alternative_artist': 'Cash Money Millionaires', 'add_to_final_records': True}
+{'artist': 'Xola', 'song': 'Love and Loyalty (feat. Sir Mix-A-Lot)', 'genre': 'Hip-Hop', 'alternative_artist': 'Sir Mix-A-Lot', 'add_to_final_records': True}
+{'artist': 'Tech N9ne Collabos', 'song': 'Straight Out the Gate: (The Scott Stevens Remix) [feat. John 5, Krizz Kaliko & Serj Tankian]', 'genre': 'Hip-Hop', 'alternative_artist': 'John 5', 'add_to_final_records': True}
+{'artist': 'Macklemore & Ryan Lewis', 'song': 'Jimmy Iovine (feat. Ab-Soul)', 'genre': 'Hip-Hop', 'alternative_artist': 'Ab-Soul', 'add_to_final_records': True}
+{'artist': 'Mac Miller', 'song': 'Two Matches (feat. Ab-Soul)', 'genre': 'Hip-Hop', 'alternative_artist': 'Ab-Soul', 'add_to_final_records': True}
+{'artist': 'Mac Miller', 'song': 'Matches (feat. Ab-Soul)', 'genre': 'Hip-Hop', 'alternative_artist': 'Ab-Soul', 'add_to_final_records': True}
+{'artist': 'MOD SUN', 'song': 'Save (feat. Ab-Soul, Rich Hil & Metasota)', 'genre': 'Hip-Hop', 'alternative_artist': 'Ab-Soul', 'add_to_final_records': True}
+{'artist': 'Smoke DZA', 'song': 'Diamond (feat. Ab-Soul)', 'genre': 'Hip-Hop', 'alternative_artist': 'Ab-Soul', 'add_to_final_records': True}
+{'artist': 'weerdoze', 'song': 'AB Soul', 'genre': 'Hip-Hop', 'alternative_artist': 'Ab-Soul', 'add_to_final_records': True}
+{'artist': 'Smoke DZA', 'song': 'Hearses (feat. Ab-Soul)', 'genre': 'Hip-Hop', 'alternative_artist': 'Ab-Soul', 'add_to_final_records': True}
+{'artist': 'Twista', 'song': '3rd Eye (feat. Ab Soul)', 'genre': 'Hip-Hop', 'alternative_artist': 'Ab-Soul', 'add_to_final_records': True}
+{'artist': 'Twista', 'song': 'A.D.I.D.A.S', 'genre': 'Hip-Hop', 'alternative_artist': 'Ab-Soul', 'add_to_final_records': True}
+{'artist': 'Twista', 'song': 'Kush Rhymes', 'genre': 'Hip-Hop', 'alternative_artist': 'Ab-Soul', 'add_to_final_records': True}
+{'artist': 'Twista', 'song': 'The Heat (feat. Raekwon)', 'genre': 'Hip-Hop', 'alternative_artist': 'Ab-Soul', 'add_to_final_records': True}
+{'artist': 'Twista', 'song': 'Panties Off (feat. 3p!c)', 'genre': 'Hip-Hop', 'alternative_artist': 'Ab-Soul', 'add_to_final_records': True}
+{'artist': 'Twista', 'song': 'D.O.A', 'genre': 'Hip-Hop', 'alternative_artist': 'Ab-Soul', 'add_to_final_records': True}
+{'artist': 'Twista', 'song': 'Bad Girl (feat. Lloyd)', 'genre': 'Hip-Hop', 'alternative_artist': 'Ab-Soul', 'add_to_final_records': True}
+{'artist': 'Twista', 'song': 'Choppaz In My Lap (feat. Do or Die)', 'genre': 'Hip-Hop', 'alternative_artist': 'Ab-Soul', 'add_to_final_records': True}
+{'artist': 'Twista', 'song': 'Pu*#y Whip', 'genre': 'Hip-Hop', 'alternative_artist': 'Ab-Soul', 'add_to_final_records': True}
+{'artist': 'Twista', 'song': 'Pimp On (feat. Buk)', 'genre': 'Hip-Hop', 'alternative_artist': 'Ab-Soul', 'add_to_final_records': True}
+{'artist': 'Khia', 'song': 'Steer', 'genre': 'Hip-Hop', 'alternative_artist': 'Khia', 'add_to_final_records': True}
+{'artist': 'Khia', 'song': 'Like Me', 'genre': 'Hip-Hop', 'alternative_artist': 'Khia', 'add_to_final_records': True}
+{'artist': 'Khia', 'song': "It's Whatever", 'genre': 'Hip-Hop', 'alternative_artist': 'Khia', 'add_to_final_records': True}
+{'artist': 'Khia', 'song': 'Been the Shit', 'genre': 'Hip-Hop', 'alternative_artist': 'Khia', 'add_to_final_records': True}
+{'artist': 'Khia', 'song': 'Ass Talk', 'genre': 'Hip-Hop', 'alternative_artist': 'Khia', 'add_to_final_records': True}
+{'artist': 'Khia', 'song': 'Whistle On It', 'genre': 'Hip-Hop', 'alternative_artist': 'Khia', 'add_to_final_records': True}
+{'artist': 'Khia', 'song': 'Be Your Lady', 'genre': 'Hip-Hop', 'alternative_artist': 'Khia', 'add_to_final_records': True}
+{'artist': 'Khia', 'song': 'Get Out', 'genre': 'Hip-Hop', 'alternative_artist': 'Khia', 'add_to_final_records': True}
+{'artist': 'Khia', 'song': 'Put That Pussy On His Ass', 'genre': 'Hip-Hop', 'alternative_artist': 'Khia', 'add_to_final_records': True}
+{'artist': 'Khia', 'song': 'My Swag', 'genre': 'Hip-Hop', 'alternative_artist': 'Khia', 'add_to_final_records': True}
+{'artist': 'Khia', 'song': 'Nasti Muzik', 'genre': 'Hip-Hop', 'alternative_artist': 'Khia', 'add_to_final_records': True}
+{'artist': 'Khia', 'song': 'Bitch Bitch', 'genre': 'Hip-Hop', 'alternative_artist': 'Khia', 'add_to_final_records': True}
+{'artist': 'Khia', 'song': 'Geeked Up', 'genre': 'Hip-Hop', 'alternative_artist': 'Khia', 'add_to_final_records': True}
+{'artist': 'Khia', 'song': 'Get It and Go', 'genre': 'Hip-Hop', 'alternative_artist': 'Khia', 'add_to_final_records': True}
+{'artist': 'Khia', 'song': 'What They Do', 'genre': 'Hip-Hop', 'alternative_artist': 'Khia', 'add_to_final_records': True}
+{'artist': 'Khia', 'song': 'K-Wang', 'genre': 'Hip-Hop', 'alternative_artist': 'Khia', 'add_to_final_records': True}
+{'artist': 'Khia', 'song': 'Shit On Me', 'genre': 'Hip-Hop', 'alternative_artist': 'Khia', 'add_to_final_records': True}
+{'artist': 'Khia', 'song': "That's Why They Hatin", 'genre': 'Hip-Hop', 'alternative_artist': 'Khia', 'add_to_final_records': True}
+{'artist': 'Khia', 'song': 'I Refuse', 'genre': 'Hip-Hop', 'alternative_artist': 'Khia', 'add_to_final_records': True}
+{'artist': 'Khia', 'song': 'Fuck You and Suck You', 'genre': 'Hip-Hop', 'alternative_artist': 'Khia', 'add_to_final_records': True}
+{'artist': 'Khia', 'song': "Don't Trust No Niggas (feat. Dsd)", 'genre': 'Hip-Hop', 'alternative_artist': 'Khia', 'add_to_final_records': True}
+{'artist': 'Zaytoven, Khia, Dj Carisma & Dj RootsQueen', 'song': 'Petty', 'genre': 'Hip-Hop', 'alternative_artist': 'Khia', 'add_to_final_records': True}
+{'artist': 'Skee-Lo', 'song': "Holdin' On", 'genre': 'Hip-Hop', 'alternative_artist': 'Skee-Lo', 'add_to_final_records': True}
+{'artist': 'Skee-Lo', 'song': 'Superman', 'genre': 'Hip-Hop', 'alternative_artist': 'Skee-Lo', 'add_to_final_records': True}
+{'artist': 'Linni', 'song': 'Skee-Lo ting (feat. Myra)', 'genre': 'Hip-Hop', 'alternative_artist': 'Skee-Lo', 'add_to_final_records': True}
+{'artist': 'Blaxuede', 'song': 'Set the Alarm', 'genre': 'Hip-Hop', 'alternative_artist': 'Blaxuede', 'add_to_final_records': True}
+{'artist': 'Blaxuede', 'song': 'Money Up', 'genre': 'Hip-Hop', 'alternative_artist': 'Blaxuede', 'add_to_final_records': True}
+{'artist': 'Unpunished Crime & Little Chill-dren', 'song': '100 Scratches', 'genre': 'Hip-Hop', 'alternative_artist': 'Dren', 'add_to_final_records': True}
+{'artist': 'Bone Thugs-n-Harmony', 'song': 'Murda On U (feat. Don Jagwarr)', 'genre': 'Hip-Hop', 'alternative_artist': 'Don Jagwarr', 'add_to_final_records': True}
+{'artist': 'Fly_Warrior', 'song': 'Make It Happen', 'genre': 'Hip-Hop', 'alternative_artist': 'Fly_Warrior', 'add_to_final_records': True}
+{'artist': 'The Original Playboi', 'song': 'On Flame (feat. Spice 1 & Hannibal Leq)', 'genre': 'Hip-Hop', 'alternative_artist': 'Hannibal Leq', 'add_to_final_records': True}
+{'artist': 'Downtown Dion', 'song': 'Damian Lillard', 'genre': 'Hip-Hop', 'alternative_artist': 'DOWNTOWN DION', 'add_to_final_records': True}
+{'artist': 'Downtown Dion', 'song': 'Feel Better', 'genre': 'Hip-Hop', 'alternative_artist': 'DOWNTOWN DION', 'add_to_final_records': True}
+{'artist': 'Downtown Dion', 'song': 'Payback', 'genre': 'Hip-Hop', 'alternative_artist': 'DOWNTOWN DION', 'add_to_final_records': True}
+{'artist': 'Downtown Dion', 'song': "I Ain't into That", 'genre': 'Hip-Hop', 'alternative_artist': 'DOWNTOWN DION', 'add_to_final_records': True}
+{'artist': 'Downtown Dion', 'song': 'Blocktorious', 'genre': 'Hip-Hop', 'alternative_artist': 'DOWNTOWN DION', 'add_to_final_records': True}
+{'artist': 'Downtown Dion', 'song': 'Care (feat. The Kid Daytona)', 'genre': 'Hip-Hop', 'alternative_artist': 'DOWNTOWN DION', 'add_to_final_records': True}
+{'artist': 'Downtown Dion', 'song': 'Time', 'genre': 'Hip-Hop', 'alternative_artist': 'DOWNTOWN DION', 'add_to_final_records': True}
+{'artist': 'Downtown Dion', 'song': 'Swoop Ya Yaa', 'genre': 'Hip-Hop', 'alternative_artist': 'DOWNTOWN DION', 'add_to_final_records': True}
+{'artist': 'Downtown Dion', 'song': 'Pride', 'genre': 'Hip-Hop', 'alternative_artist': 'DOWNTOWN DION', 'add_to_final_records': True}
+{'artist': 'Downtown Dion', 'song': "Thinkin' Bout Ya", 'genre': 'Hip-Hop', 'alternative_artist': 'DOWNTOWN DION', 'add_to_final_records': True}
+{'artist': 'Downtown Dion', 'song': 'Fell in Love', 'genre': 'Hip-Hop', 'alternative_artist': 'DOWNTOWN DION', 'add_to_final_records': True}
+{'artist': 'Downtown Dion', 'song': 'Sniper', 'genre': 'Hip-Hop', 'alternative_artist': 'DOWNTOWN DION', 'add_to_final_records': True}
+{'artist': 'Downtown Dion', 'song': 'Fuck or Not (feat. Yejin Hong)', 'genre': 'Hip-Hop', 'alternative_artist': 'DOWNTOWN DION', 'add_to_final_records': True}
+{'artist': 'Downtown Dion', 'song': 'Pharmacy', 'genre': 'Hip-Hop', 'alternative_artist': 'DOWNTOWN DION', 'add_to_final_records': True}
+{'artist': 'Downtown Dion', 'song': 'All Day', 'genre': 'Hip-Hop', 'alternative_artist': 'DOWNTOWN DION', 'add_to_final_records': True}
+{'artist': 'Downtown Dion', 'song': 'Jeepers Kreepers', 'genre': 'Hip-Hop', 'alternative_artist': 'DOWNTOWN DION', 'add_to_final_records': True}
+{'artist': 'Downtown Dion', 'song': 'Everything on Me', 'genre': 'Hip-Hop', 'alternative_artist': 'DOWNTOWN DION', 'add_to_final_records': True}
+{'artist': 'Downtown Dion', 'song': 'Benefits', 'genre': 'Hip-Hop', 'alternative_artist': 'DOWNTOWN DION', 'add_to_final_records': True}
+{'artist': 'Downtown Dion', 'song': "Father's Day", 'genre': 'Hip-Hop', 'alternative_artist': 'DOWNTOWN DION', 'add_to_final_records': True}
+{'artist': 'Downtown Dion', 'song': 'I Know', 'genre': 'Hip-Hop', 'alternative_artist': 'DOWNTOWN DION', 'add_to_final_records': True}
+{'artist': 'Downtown Dion', 'song': 'All Year', 'genre': 'Hip-Hop', 'alternative_artist': 'DOWNTOWN DION', 'add_to_final_records': True}
+{'artist': 'Downtown Dion', 'song': 'Komin Down', 'genre': 'Hip-Hop', 'alternative_artist': 'DOWNTOWN DION', 'add_to_final_records': True}
+{'artist': 'Polo Hayes', 'song': 'Not the Same (feat. Downtown Dion)', 'genre': 'Hip-Hop', 'alternative_artist': 'DOWNTOWN DION', 'add_to_final_records': True}
+{'artist': 'Tech N9ne Collabos', 'song': 'Strangeulation IV (feat. Prozak, Big Scoob, Krizz Kaliko & Rittz)', 'genre': 'Hip-Hop', 'alternative_artist': 'In Pursuit', 'add_to_final_records': True}
+{'artist': 'Tech N9ne', 'song': 'Strangeulation, Vol. II - Cypher V (feat. MURS, Wrekonize, Bernz)', 'genre': 'Hip-Hop', 'alternative_artist': 'In Pursuit', 'add_to_final_records': True}
+{'artist': 'Action Bronson & Statik Selektah', 'song': 'Cocoa Butter (feat. Nina Sky)', 'genre': 'Hip-Hop', 'alternative_artist': 'Nina Sky', 'add_to_final_records': True}
+{'artist': 'N.O.R.E.', 'song': 'Move (feat. Jim Jones & Nina Sky)', 'genre': 'Hip-Hop', 'alternative_artist': 'Nina Sky', 'add_to_final_records': True}
+{'artist': 'N.O.R.E.', 'song': 'Move (feat. Nina Sky & Jim Jones)', 'genre': 'Hip-Hop', 'alternative_artist': 'Nina Sky', 'add_to_final_records': True}
+{'artist': 'Flosstradamus & Mayhem', 'song': 'Back Again (feat. Waka Flocka Flame)', 'genre': 'Hip-Hop', 'alternative_artist': 'Mayham', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'I Like What U Do', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'What a Job', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'Doubie Ashtray', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': "Lacville ' 79", 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'R & B', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'Almighty Dollar', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': "Lil' Girl Gone", 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'Doobie Ashtray', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'She Want That Money', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'Go Somewhere', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'Just Tryin ta Live', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': "Some Of ' Em", 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': "I Hope I Don't Get Sick-a-This", 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': "Don't Wanna Be Alone", 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'She Useta Be', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'Would Ya?', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'Fa Sho', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': "Til It's All Gone", 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'Broccoli & Cheese', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': "It's a Shame", 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'Just a Man', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'Just Because', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': "Nothin' to Roll With", 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': "Who's That Man, Moma", 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'Zeldar', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'Tough Love', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'I-Hi', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': "Somebody Else's Wife", 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'Wxyz', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'No Longer Needed Here', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'Boom I', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'Boom II', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'Boom III', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'Whatever', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': "Cutcha' Up", 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'Gotta Be Me', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': "Fuckha'", 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': "Ain't Goin Nowhere", 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'Jus Coolin', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': "I'm High", 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': "It's Goin Down", 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'To Tha X-Treme', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'Gimme Some', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'Shut Up', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'No Need to Call', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'You So Real', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': "They 10'S", 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'Come & Go', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'When Will I Win?', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'Anythang', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'Briar Patch', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'Everyday', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'Too Cute', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'Motha', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Smoke DZA, Devin the Dude, Asher Roth & Curren$y', 'song': 'Marley & Me (Remix)', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude, Slim Thug & Cory Mo', 'song': 'Wut the Fuk?', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': "Comin' Back", 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'Where Can We Go', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': '17 Holes', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'What ?', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'My Occupation', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'Lil Mary Juana', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': "She's Gone", 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'Reefer and Beer', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'We Get High', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'Unity for U & Me', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'Go Fight Some Other Crime', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'Come On', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'Lacville 79', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': "Just Tryin' ta Live", 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': "Gettin' Crazy", 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': "Lacville '79", 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'Bad Company', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'Tha Funk', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'Come On & Come', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': "Devin's Medley", 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'Run', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Devin the Dude', 'song': 'Get High', 'genre': 'Hip-Hop', 'alternative_artist': 'Devin the Dude', 'add_to_final_records': True}
+{'artist': 'Afroman', 'song': 'Crazy Rap', 'genre': 'Hip-Hop', 'alternative_artist': 'Afroman', 'add_to_final_records': True}
+{'artist': 'Afroman', 'song': 'Smoke 2 Blunts', 'genre': 'Hip-Hop', 'alternative_artist': 'Afroman', 'add_to_final_records': True}
+{'artist': 'Afroman', 'song': 'Smokin Weed', 'genre': 'Hip-Hop', 'alternative_artist': 'Afroman', 'add_to_final_records': True}
+{'artist': 'Afroman', 'song': 'Because I Got High 2009', 'genre': 'Hip-Hop', 'alternative_artist': 'Afroman', 'add_to_final_records': True}
+{'artist': 'Afroman', 'song': 'No Time', 'genre': 'Hip-Hop', 'alternative_artist': 'Afroman', 'add_to_final_records': True}
+{'artist': 'Afroman', 'song': 'Late Show Skit', 'genre': 'Hip-Hop', 'alternative_artist': 'Afroman', 'add_to_final_records': True}
+{'artist': 'Afroman', 'song': 'Crazy Rap Intro', 'genre': 'Hip-Hop', 'alternative_artist': 'Afroman', 'add_to_final_records': True}
+{'artist': 'Afroman', 'song': 'Homegrown Alabama', 'genre': 'Hip-Hop', 'alternative_artist': 'Afroman', 'add_to_final_records': True}
+{'artist': 'Afroman', 'song': 'Marijuana, Malt Liquor', 'genre': 'Hip-Hop', 'alternative_artist': 'Afroman', 'add_to_final_records': True}
+{'artist': 'Afroman', 'song': "I Don't Wanna Leave", 'genre': 'Hip-Hop', 'alternative_artist': 'Afroman', 'add_to_final_records': True}
+{'artist': 'Afroman', 'song': 'Negativity News Skit', 'genre': 'Hip-Hop', 'alternative_artist': 'Afroman', 'add_to_final_records': True}
+{'artist': 'Afroman', 'song': 'Mr. Wisdom Skit', 'genre': 'Hip-Hop', 'alternative_artist': 'Afroman', 'add_to_final_records': True}
+{'artist': 'Afroman', 'song': 'Before I Hit the Party', 'genre': 'Hip-Hop', 'alternative_artist': 'Afroman', 'add_to_final_records': True}
+{'artist': 'Afroman', 'song': 'Everyday I Party', 'genre': 'Hip-Hop', 'alternative_artist': 'Afroman', 'add_to_final_records': True}
+{'artist': 'Afroman', 'song': 'No No Fro', 'genre': 'Hip-Hop', 'alternative_artist': 'Afroman', 'add_to_final_records': True}
+{'artist': 'Afroman', 'song': 'Success Or Fail', 'genre': 'Hip-Hop', 'alternative_artist': 'Afroman', 'add_to_final_records': True}
+{'artist': 'Afroman', 'song': 'Couple Next Door', 'genre': 'Hip-Hop', 'alternative_artist': 'Afroman', 'add_to_final_records': True}
+{'artist': 'Afroman', 'song': 'East Side Palmdale', 'genre': 'Hip-Hop', 'alternative_artist': 'Afroman', 'add_to_final_records': True}
+{'artist': 'Afroman', 'song': 'Palmdale Pimp', 'genre': 'Hip-Hop', 'alternative_artist': 'Afroman', 'add_to_final_records': True}
+{'artist': 'Afroman', 'song': 'Pimp Church Skit', 'genre': 'Hip-Hop', 'alternative_artist': 'Afroman', 'add_to_final_records': True}
+{'artist': 'Afroman', 'song': 'Intro', 'genre': 'Hip-Hop', 'alternative_artist': 'Afroman', 'add_to_final_records': True}
+{'artist': 'Afroman', 'song': 'Victory Speech', 'genre': 'Hip-Hop', 'alternative_artist': 'Afroman', 'add_to_final_records': True}
+{'artist': 'Afroman', 'song': 'Outro', 'genre': 'Hip-Hop', 'alternative_artist': 'Afroman', 'add_to_final_records': True}
+{'artist': 'Afroman', 'song': 'No No Fro Skit', 'genre': 'Hip-Hop', 'alternative_artist': 'Afroman', 'add_to_final_records': True}
+{'artist': 'Afroman', 'song': 'Club Owner Skit', 'genre': 'Hip-Hop', 'alternative_artist': 'Afroman', 'add_to_final_records': True}
+{'artist': 'Kendrick Lamar', 'song': 'War Is My Love', 'genre': 'Hip-Hop', 'alternative_artist': 'Big Kenny', 'add_to_final_records': True}
+{'artist': 'Cold187um', 'song': 'Trap Life (feat. Big Syke & Kenny Camacho)', 'genre': 'Hip-Hop', 'alternative_artist': 'Big Kenny', 'add_to_final_records': True}
+{'artist': 'Omelly & Blac Youngsta', 'song': 'Choppas and Glocks', 'genre': 'Hip-Hop', 'alternative_artist': 'blac youngsta', 'add_to_final_records': True}
+{'artist': 'Eddy Fish', 'song': 'Goalz (feat. Blac Youngsta)', 'genre': 'Hip-Hop', 'alternative_artist': 'blac youngsta', 'add_to_final_records': True}
+{'artist': '8 Ball', 'song': 'Room 306 (feat. Keelyn Ellis)', 'genre': 'Hip-Hop', 'alternative_artist': 'Eightball & MJG', 'add_to_final_records': True}
+{'artist': 'Jay Money', 'song': "Preacher's Kid", 'genre': 'Hip-Hop', 'alternative_artist': 'JayMoney', 'add_to_final_records': True}
+{'artist': 'Jay Money', 'song': 'Peace & Blessings', 'genre': 'Hip-Hop', 'alternative_artist': 'JayMoney', 'add_to_final_records': True}
+{'artist': 'Jay Money', 'song': 'Midwest Live / Afta Da Club, Pt. 1 (feat. Superior DBX)', 'genre': 'Hip-Hop', 'alternative_artist': 'JayMoney', 'add_to_final_records': True}
+{'artist': 'Jay Money', 'song': 'Afta Da Club, Pt 2', 'genre': 'Hip-Hop', 'alternative_artist': 'JayMoney', 'add_to_final_records': True}
+{'artist': 'Jay Money', 'song': 'Payback (Mack Official) [feat. Superior DBX & Lex Lootha]', 'genre': 'Hip-Hop', 'alternative_artist': 'JayMoney', 'add_to_final_records': True}
+{'artist': 'Jay Money', 'song': 'Hood Blues (feat. Antonio Starks, Deshaunna Starks, LaTisha Starks, & Nakiya Williams, Rome Williams)', 'genre': 'Hip-Hop', 'alternative_artist': 'JayMoney', 'add_to_final_records': True}
+{'artist': 'Jay Money', 'song': 'Don Soul - Ar', 'genre': 'Hip-Hop', 'alternative_artist': 'JayMoney', 'add_to_final_records': True}
+{'artist': 'Jay Money', 'song': 'Da Main Event', 'genre': 'Hip-Hop', 'alternative_artist': 'JayMoney', 'add_to_final_records': True}
+{'artist': 'Jay Money', 'song': 'Dead & Gone', 'genre': 'Hip-Hop', 'alternative_artist': 'JayMoney', 'add_to_final_records': True}
+{'artist': 'Jay Money', 'song': 'Til I Get Home (feat. Abdul Brown)', 'genre': 'Hip-Hop', 'alternative_artist': 'JayMoney', 'add_to_final_records': True}
+{'artist': 'Jay Money', 'song': 'Brand New', 'genre': 'Hip-Hop', 'alternative_artist': 'JayMoney', 'add_to_final_records': True}
+{'artist': 'Jay Money', 'song': 'Da Rain', 'genre': 'Hip-Hop', 'alternative_artist': 'JayMoney', 'add_to_final_records': True}
+{'artist': 'Jay Money', 'song': 'No Losses', 'genre': 'Hip-Hop', 'alternative_artist': 'JayMoney', 'add_to_final_records': True}
+{'artist': 'Jay Money', 'song': 'Round O.Ne', 'genre': 'Hip-Hop', 'alternative_artist': 'JayMoney', 'add_to_final_records': True}
+{'artist': 'Jay Money', 'song': 'I Called Tyrone (feat. Jermaine Williams)', 'genre': 'Hip-Hop', 'alternative_artist': 'JayMoney', 'add_to_final_records': True}
+{'artist': 'Jay Money', 'song': 'Hustla', 'genre': 'Hip-Hop', 'alternative_artist': 'JayMoney', 'add_to_final_records': True}
+{'artist': 'Jay Money', 'song': 'Party Tonite (feat. Freddie Lee Johnson)', 'genre': 'Hip-Hop', 'alternative_artist': 'JayMoney', 'add_to_final_records': True}
+{'artist': 'Jay Money', 'song': 'Apology', 'genre': 'Hip-Hop', 'alternative_artist': 'JayMoney', 'add_to_final_records': True}
+{'artist': 'Sammus', 'song': 'Genius', 'genre': 'Hip-Hop', 'alternative_artist': 'Dave Grohl', 'add_to_final_records': True}
+{'artist': 'Necro', 'song': 'Pit', 'genre': 'Hip-Hop', 'alternative_artist': 'Axl Rose', 'add_to_final_records': True}
+{'artist': 'Curren$y & Harry Fraud', 'song': 'W.O.H. (feat. Styles P)', 'genre': 'Hip-Hop', 'alternative_artist': 'Axl Rose', 'add_to_final_records': True}
+{'artist': 'Space Surimi', 'song': 'Dale', 'genre': 'Hip-Hop', 'alternative_artist': 'Axl Rose', 'add_to_final_records': True}
+{'artist': 'Atmosphere', 'song': 'Ringo', 'genre': 'Hip-Hop', 'alternative_artist': 'Atmosphere', 'add_to_final_records': True}
+{'artist': 'Atmosphere', 'song': 'No Biggie', 'genre': 'Hip-Hop', 'alternative_artist': 'Atmosphere', 'add_to_final_records': True}
+{'artist': 'Atmosphere', 'song': "Won't Look Back (feat. Kim Manning)", 'genre': 'Hip-Hop', 'alternative_artist': 'Atmosphere', 'add_to_final_records': True}
+{'artist': 'Atmosphere', 'song': "The Shit That We've Been Through", 'genre': 'Hip-Hop', 'alternative_artist': 'Atmosphere', 'add_to_final_records': True}
+{'artist': 'Atmosphere', 'song': 'Seismic Waves', 'genre': 'Hip-Hop', 'alternative_artist': 'Atmosphere', 'add_to_final_records': True}
+{'artist': 'Atmosphere', 'song': 'Fishing Blues (feat. The Grouch)', 'genre': 'Hip-Hop', 'alternative_artist': 'Atmosphere', 'add_to_final_records': True}
+{'artist': 'Atmosphere', 'song': 'Besos', 'genre': 'Hip-Hop', 'alternative_artist': 'Atmosphere', 'add_to_final_records': True}
+{'artist': 'Atmosphere', 'song': 'When the Lights Go Out (feat. DOOM & Kool Keith)', 'genre': 'Hip-Hop', 'alternative_artist': 'Atmosphere', 'add_to_final_records': True}
+{'artist': 'Atmosphere', 'song': 'Everything', 'genre': 'Hip-Hop', 'alternative_artist': 'Atmosphere', 'add_to_final_records': True}
+{'artist': 'Atmosphere', 'song': 'Pure Evil (feat. I.B.E.)', 'genre': 'Hip-Hop', 'alternative_artist': 'Atmosphere', 'add_to_final_records': True}
+{'artist': 'Atmosphere', 'song': "Anybody That I've Known", 'genre': 'Hip-Hop', 'alternative_artist': 'Atmosphere', 'add_to_final_records': True}
+{'artist': 'Atmosphere', 'song': 'Like a Fire', 'genre': 'Hip-Hop', 'alternative_artist': 'Atmosphere', 'add_to_final_records': True}
+{'artist': 'Atmosphere', 'song': 'A Long Hello', 'genre': 'Hip-Hop', 'alternative_artist': 'Atmosphere', 'add_to_final_records': True}
+{'artist': 'Atmosphere', 'song': 'Chasing New York (feat. Aesop Rock)', 'genre': 'Hip-Hop', 'alternative_artist': 'Atmosphere', 'add_to_final_records': True}
+{'artist': 'Atmosphere', 'song': 'Next To You (feat. deM atlaS)', 'genre': 'Hip-Hop', 'alternative_artist': 'Atmosphere', 'add_to_final_records': True}
+{'artist': 'Atmosphere', 'song': 'Sugar', 'genre': 'Hip-Hop', 'alternative_artist': 'Atmosphere', 'add_to_final_records': True}
+{'artist': 'Atmosphere', 'song': 'Still Be Here', 'genre': 'Hip-Hop', 'alternative_artist': 'Atmosphere', 'add_to_final_records': True}
+{'artist': 'Atmosphere', 'song': 'Perfect', 'genre': 'Hip-Hop', 'alternative_artist': 'Atmosphere', 'add_to_final_records': True}
+{'artist': 'Webbie', 'song': 'Trilla Than a B***h', 'genre': 'Hip-Hop', 'alternative_artist': 'Webbie', 'add_to_final_records': True}
+{'artist': 'Webbie', 'song': "Whats Happenin'", 'genre': 'Hip-Hop', 'alternative_artist': 'Webbie', 'add_to_final_records': True}
+{'artist': 'Young Thug', 'song': 'Webbie (feat. Duke)', 'genre': 'Hip-Hop', 'alternative_artist': 'Webbie', 'add_to_final_records': True}
+{'artist': 'Webbie', 'song': 'Tear It Down', 'genre': 'Hip-Hop', 'alternative_artist': 'Webbie', 'add_to_final_records': True}
+{'artist': 'Webbie', 'song': 'Bounce That', 'genre': 'Hip-Hop', 'alternative_artist': 'Webbie', 'add_to_final_records': True}
+{'artist': 'Webbie', 'song': 'Shawty Know', 'genre': 'Hip-Hop', 'alternative_artist': 'Webbie', 'add_to_final_records': True}
+{'artist': 'Webbie', 'song': 'Pops I Luv U', 'genre': 'Hip-Hop', 'alternative_artist': 'Webbie', 'add_to_final_records': True}
+{'artist': 'Webbie', 'song': 'Baddest In Here', 'genre': 'Hip-Hop', 'alternative_artist': 'Webbie', 'add_to_final_records': True}
+{'artist': 'Webbie', 'song': 'I Do Em All', 'genre': 'Hip-Hop', 'alternative_artist': 'Webbie', 'add_to_final_records': True}
+{'artist': 'Webbie', 'song': 'Rubber Tonight', 'genre': 'Hip-Hop', 'alternative_artist': 'Webbie', 'add_to_final_records': True}
+{'artist': 'Webbie', 'song': 'Mo A**', 'genre': 'Hip-Hop', 'alternative_artist': 'Webbie', 'add_to_final_records': True}
+{'artist': 'Webbie', 'song': 'Made N***A', 'genre': 'Hip-Hop', 'alternative_artist': 'Webbie', 'add_to_final_records': True}
+{'artist': 'Webbie', 'song': 'Sleep', 'genre': 'Hip-Hop', 'alternative_artist': 'Webbie', 'add_to_final_records': True}
+{'artist': 'Webbie', 'song': 'Keep Ya Head Up', 'genre': 'Hip-Hop', 'alternative_artist': 'Webbie', 'add_to_final_records': True}
+{'artist': 'Webbie', 'song': 'In Dis B***h', 'genre': 'Hip-Hop', 'alternative_artist': 'Webbie', 'add_to_final_records': True}
+{'artist': 'Webbie', 'song': 'What You Want', 'genre': 'Hip-Hop', 'alternative_artist': 'Webbie', 'add_to_final_records': True}
+{'artist': 'Webbie', 'song': 'Right Now', 'genre': 'Hip-Hop', 'alternative_artist': 'Webbie', 'add_to_final_records': True}
+{'artist': 'Webbie', 'song': 'Momma', 'genre': 'Hip-Hop', 'alternative_artist': 'Webbie', 'add_to_final_records': True}
+{'artist': 'Webbie', 'song': 'I Been Here', 'genre': 'Hip-Hop', 'alternative_artist': 'Webbie', 'add_to_final_records': True}
+{'artist': "K'naan", 'song': 'In the Beginning', 'genre': 'Hip-Hop', 'alternative_artist': "K'naan", 'add_to_final_records': True}
+{'artist': "K'naan", 'song': "Strugglin'", 'genre': 'Hip-Hop', 'alternative_artist': "K'naan", 'add_to_final_records': True}
+{'artist': "K'naan", 'song': 'Hoobaale', 'genre': 'Hip-Hop', 'alternative_artist': "K'naan", 'add_to_final_records': True}
+{'artist': "K'naan", 'song': 'Soobax', 'genre': 'Hip-Hop', 'alternative_artist': "K'naan", 'add_to_final_records': True}
+{'artist': "K'naan", 'song': 'The Dusty Foot Philosopher', 'genre': 'Hip-Hop', 'alternative_artist': "K'naan", 'add_to_final_records': True}
+{'artist': "K'naan", 'song': 'If Rap Gets Jealous', 'genre': 'Hip-Hop', 'alternative_artist': "K'naan", 'add_to_final_records': True}
+{'artist': "K'naan", 'song': 'I Was Stabbed By Satan', 'genre': 'Hip-Hop', 'alternative_artist': "K'naan", 'add_to_final_records': True}
+{'artist': "K'naan", 'song': "What's Hardcore?", 'genre': 'Hip-Hop', 'alternative_artist': "K'naan", 'add_to_final_records': True}
+{'artist': "K'naan", 'song': 'Until the Lion Learns To Speak', 'genre': 'Hip-Hop', 'alternative_artist': "K'naan", 'add_to_final_records': True}
+{'artist': "K'naan", 'song': 'Smile', 'genre': 'Hip-Hop', 'alternative_artist': "K'naan", 'add_to_final_records': True}
+{'artist': "K'naan", 'song': 'Voices In My Head', 'genre': 'Hip-Hop', 'alternative_artist': "K'naan", 'add_to_final_records': True}
+{'artist': "K'naan", 'song': 'For Mohamoud (Soviet)', 'genre': 'Hip-Hop', 'alternative_artist': "K'naan", 'add_to_final_records': True}
+{'artist': "K'naan", 'song': 'Boxing My Shadow', 'genre': 'Hip-Hop', 'alternative_artist': "K'naan", 'add_to_final_records': True}
+{'artist': "K'naan", 'song': 'Wash It Down', 'genre': 'Hip-Hop', 'alternative_artist': "K'naan", 'add_to_final_records': True}
+{'artist': "K'naan", 'song': 'My Old Home', 'genre': 'Hip-Hop', 'alternative_artist': "K'naan", 'add_to_final_records': True}
+{'artist': "K'naan", 'song': 'Blues For the Horn', 'genre': 'Hip-Hop', 'alternative_artist': "K'naan", 'add_to_final_records': True}
+{'artist': "K'naan", 'song': 'Moment (Interlude)', 'genre': 'Hip-Hop', 'alternative_artist': "K'naan", 'add_to_final_records': True}
+{'artist': "K'naan", 'song': 'My God (Interlude)', 'genre': 'Hip-Hop', 'alternative_artist': "K'naan", 'add_to_final_records': True}
+{'artist': "K'naan", 'song': 'Be Free', 'genre': 'Hip-Hop', 'alternative_artist': "K'naan", 'add_to_final_records': True}
+{'artist': "K'naan", 'song': 'By the End of the Day', 'genre': 'Hip-Hop', 'alternative_artist': "K'naan", 'add_to_final_records': True}
+{'artist': "K'naan", 'song': 'The African Way', 'genre': 'Hip-Hop', 'alternative_artist': "K'naan", 'add_to_final_records': True}
+{'artist': "K'naan", 'song': 'Is It a Myth?', 'genre': 'Hip-Hop', 'alternative_artist': "K'naan", 'add_to_final_records': True}
+{'artist': "K'naan", 'song': "What's Hardcore", 'genre': 'Hip-Hop', 'alternative_artist': "K'naan", 'add_to_final_records': True}
+{'artist': 'Bendik, Christine, Izabell, Julie Bergan, Silvana Imam & Stella Mwangi', 'song': 'Attitudeproblem (P3 remix)', 'genre': 'Hip-Hop', 'alternative_artist': 'Christine', 'add_to_final_records': True}
+{'artist': 'PARRI$', 'song': 'MISSING U (feat. Sammy J)', 'genre': 'Hip-Hop', 'alternative_artist': 'Sammy Jay', 'add_to_final_records': True}
+{'artist': 'Steph Lecor', 'song': "I Know You Ain't (feat. Migos)", 'genre': 'Hip-Hop', 'alternative_artist': 'Steph Lecor', 'add_to_final_records': True}
+{'artist': 'Lupe Fiasco', 'song': 'Law (feat. Simon Sayz)', 'genre': 'Hip-Hop', 'alternative_artist': 'Law', 'add_to_final_records': True}
+{'artist': 'Mac Miller', 'song': 'Break the Law', 'genre': 'Hip-Hop', 'alternative_artist': 'Law', 'add_to_final_records': True}
+{'artist': 'Twisted Insane', 'song': 'Floor Boards (feat. Kamikazi)', 'genre': 'Hip-Hop', 'alternative_artist': 'Knife in the Water', 'add_to_final_records': True}
+{'artist': 'DRAM', 'song': 'Broccoli (feat. Lil Yachty) [BUSTED by Herobust]', 'genre': 'Hip-Hop', 'alternative_artist': 'D', 'add_to_final_records': True}
+{'artist': 'Ice Cube & Common', 'song': 'Real People', 'genre': 'Hip-Hop', 'alternative_artist': 'Common', 'add_to_final_records': True}
+{'artist': 'Dulla', 'song': 'I Told You', 'genre': 'Hip-Hop', 'alternative_artist': 'Dulla', 'add_to_final_records': True}
+{'artist': 'Mello Music Group', 'song': 'King O.A.T. (feat. Yu, Tim Hicks & Charlie Ross)', 'genre': 'Hip-Hop', 'alternative_artist': 'Tim Hicks', 'add_to_final_records': True}
+{'artist': 'Tech N9ne Collabos', 'song': 'American Horror Story (feat. Ces Cru)', 'genre': 'Hip-Hop', 'alternative_artist': 'CRU', 'add_to_final_records': True}
+{'artist': 'Tech N9ne Collabos', 'song': 'Great Night (feat. Ces Cru)', 'genre': 'Hip-Hop', 'alternative_artist': 'CRU', 'add_to_final_records': True}
+{'artist': 'Ces Cru', 'song': 'Gridlock', 'genre': 'Hip-Hop', 'alternative_artist': 'CRU', 'add_to_final_records': True}
+{'artist': 'Tech N9ne Collabos', 'song': 'PBSA (feat. Ces Cru)', 'genre': 'Hip-Hop', 'alternative_artist': 'CRU', 'add_to_final_records': True}
+{'artist': 'Tech N9ne Collabos', 'song': 'Strangeulation, Vol. II - Cypher II (feat. Ces Cru, Stevie Stone)', 'genre': 'Hip-Hop', 'alternative_artist': 'CRU', 'add_to_final_records': True}
+{'artist': 'Tech N9ne Collabos', 'song': 'Casket Music (feat. Ces Cru, Tech N9ne & Wrekonize)', 'genre': 'Hip-Hop', 'alternative_artist': 'CRU', 'add_to_final_records': True}
+{'artist': 'Tech N9ne Collabos', 'song': 'The Answer (feat. Ces Cru, Tech N9ne & Krizz Kaliko)', 'genre': 'Hip-Hop', 'alternative_artist': 'CRU', 'add_to_final_records': True}
+{'artist': 'Stevie Stone', 'song': 'Wait On It (feat. Ces Cru)', 'genre': 'Hip-Hop', 'alternative_artist': 'CRU', 'add_to_final_records': True}
+{'artist': 'Ces Cru', 'song': 'Hero (feat. Mackenzie Nicole)', 'genre': 'Hip-Hop', 'alternative_artist': 'CRU', 'add_to_final_records': True}
+{'artist': 'Ces Cru', 'song': 'The Process (Guillotine)', 'genre': 'Hip-Hop', 'alternative_artist': 'CRU', 'add_to_final_records': True}
+{'artist': 'Ces Cru', 'song': 'Rock Out (feat. Tech N9ne)', 'genre': 'Hip-Hop', 'alternative_artist': 'CRU', 'add_to_final_records': True}
+{'artist': 'Ces Cru', 'song': 'Ghetto Celebrity (feat. J.L., Joey Cool & Info Gates)', 'genre': 'Hip-Hop', 'alternative_artist': 'CRU', 'add_to_final_records': True}
+{'artist': 'Ces Cru', 'song': 'Purge', 'genre': 'Hip-Hop', 'alternative_artist': 'CRU', 'add_to_final_records': True}
+{'artist': 'Ces Cru', 'song': 'Famished (Remix) [feat. PERSEPH1, Kutty Slitz, Trizz & J.L.]', 'genre': 'Hip-Hop', 'alternative_artist': 'CRU', 'add_to_final_records': True}
+{'artist': 'Ces Cru', 'song': 'Average Joe', 'genre': 'Hip-Hop', 'alternative_artist': 'CRU', 'add_to_final_records': True}
+{'artist': 'Ces Cru', 'song': 'Same Same', 'genre': 'Hip-Hop', 'alternative_artist': 'CRU', 'add_to_final_records': True}
+{'artist': 'Ces Cru', 'song': 'Tidal Wavy', 'genre': 'Hip-Hop', 'alternative_artist': 'CRU', 'add_to_final_records': True}
+{'artist': 'Ces Cru', 'song': 'Metal and Flesh (feat. Murs)', 'genre': 'Hip-Hop', 'alternative_artist': 'CRU', 'add_to_final_records': True}
+{'artist': 'Ces Cru', 'song': 'Combustible', 'genre': 'Hip-Hop', 'alternative_artist': 'CRU', 'add_to_final_records': True}
+{'artist': 'Ces Cru', 'song': 'Slave', 'genre': 'Hip-Hop', 'alternative_artist': 'CRU', 'add_to_final_records': True}
+{'artist': 'Ces Cru', 'song': 'Entropy\xa0(Act II)', 'genre': 'Hip-Hop', 'alternative_artist': 'CRU', 'add_to_final_records': True}
+{'artist': 'Ces Cru', 'song': 'Hangout (feat. Krizz Kaliko)', 'genre': 'Hip-Hop', 'alternative_artist': 'CRU', 'add_to_final_records': True}
+{'artist': 'Ces Cru', 'song': 'Calamity (Act I)', 'genre': 'Hip-Hop', 'alternative_artist': 'CRU', 'add_to_final_records': True}
+{'artist': 'Ces Cru', 'song': 'Deja Vu', 'genre': 'Hip-Hop', 'alternative_artist': 'CRU', 'add_to_final_records': True}
+{'artist': 'Ces Cru', 'song': 'Rubble (feat. Rittz)', 'genre': 'Hip-Hop', 'alternative_artist': 'CRU', 'add_to_final_records': True}
+{'artist': 'Ces Cru', 'song': 'Highlander', 'genre': 'Hip-Hop', 'alternative_artist': 'CRU', 'add_to_final_records': True}
+{'artist': 'Ces Cru', 'song': 'Scourge (Act III)', 'genre': 'Hip-Hop', 'alternative_artist': 'CRU', 'add_to_final_records': True}
+{'artist': 'Insane Clown Posse & Twiztid', 'song': "Red Neck Hoe '99", 'genre': 'Hip-Hop', 'alternative_artist': '99 Posse', 'add_to_final_records': True}
+{'artist': 'Jay Rock', 'song': 'Do You Know (feat. kokane)', 'genre': 'Hip-Hop', 'alternative_artist': 'Jay Rock', 'add_to_final_records': True}
+{'artist': 'Jay Rock', 'song': 'How We Grow Up', 'genre': 'Hip-Hop', 'alternative_artist': 'Jay Rock', 'add_to_final_records': True}
+{'artist': 'Tech N9ne Collabos', 'song': 'Red Rags (feat. Big Scoob, Jay Rock & Kutt Calhoun)', 'genre': 'Hip-Hop', 'alternative_artist': 'Jay Rock', 'add_to_final_records': True}
+{'artist': 'Tech N9ne Collabos', 'song': 'Paper (feat. Joe Vertigo & Jay Rock)', 'genre': 'Hip-Hop', 'alternative_artist': 'Jay Rock', 'add_to_final_records': True}
+{'artist': 'Tech N9ne Collabos', 'song': 'Red Rags (feat. Kutt Calhoun, Big Scoob & Jay Rock)', 'genre': 'Hip-Hop', 'alternative_artist': 'Jay Rock', 'add_to_final_records': True}
+{'artist': 'Canibus', 'song': 'Title 17 USMC', 'genre': 'Hip-Hop', 'alternative_artist': 'Canibus', 'add_to_final_records': True}
+{'artist': 'Canibus', 'song': 'Golden Terra of Rap', 'genre': 'Hip-Hop', 'alternative_artist': 'Canibus', 'add_to_final_records': True}
+{'artist': 'Canibus', 'song': 'CPTN Cold Crush', 'genre': 'Hip-Hop', 'alternative_artist': 'Canibus', 'add_to_final_records': True}
+{'artist': 'Canibus', 'song': "The Messenger's Message", 'genre': 'Hip-Hop', 'alternative_artist': 'Canibus', 'add_to_final_records': True}
+{'artist': 'Canibus', 'song': 'Cingularity Point', 'genre': 'Hip-Hop', 'alternative_artist': 'Canibus', 'add_to_final_records': True}
+{'artist': 'Canibus', 'song': 'Worthlessness Purpose', 'genre': 'Hip-Hop', 'alternative_artist': 'Canibus', 'add_to_final_records': True}
+{'artist': 'Canibus', 'song': 'Salute', 'genre': 'Hip-Hop', 'alternative_artist': 'Canibus', 'add_to_final_records': True}
+{'artist': 'Canibus', 'song': 'C Scrolls', 'genre': 'Hip-Hop', 'alternative_artist': 'Canibus', 'add_to_final_records': True}
+{'artist': 'Canibus', 'song': 'Merchant of Metaphors', 'genre': 'Hip-Hop', 'alternative_artist': 'Canibus', 'add_to_final_records': True}
+{'artist': 'Canibus', 'song': 'Right Now', 'genre': 'Hip-Hop', 'alternative_artist': 'Canibus', 'add_to_final_records': True}
+{'artist': 'Canibus', 'song': 'Lunar Deluge', 'genre': 'Hip-Hop', 'alternative_artist': 'Canibus', 'add_to_final_records': True}
+{'artist': 'Canibus', 'song': 'Pine Comb Poem', 'genre': 'Hip-Hop', 'alternative_artist': 'Canibus', 'add_to_final_records': True}
+{'artist': 'Canibus', 'song': 'Free Words', 'genre': 'Hip-Hop', 'alternative_artist': 'Canibus', 'add_to_final_records': True}
+{'artist': 'Canibus', 'song': 'Good Equals Evil', 'genre': 'Hip-Hop', 'alternative_artist': 'Canibus', 'add_to_final_records': True}
+{'artist': 'Canibus', 'song': 'Jack Move', 'genre': 'Hip-Hop', 'alternative_artist': 'Canibus', 'add_to_final_records': True}
+{'artist': 'King Tha Rapper', 'song': 'I.M.O. (In My Opinion) [feat. Kurupt] [Junel Mix]', 'genre': 'Hip-Hop', 'alternative_artist': 'King Tha Rapper', 'add_to_final_records': True}
+{'artist': 'King Tha Rapper', 'song': 'Hoes All Night', 'genre': 'Hip-Hop', 'alternative_artist': 'King Tha Rapper', 'add_to_final_records': True}
+{'artist': 'Das EFX', 'song': 'G Music', 'genre': 'Hip-Hop', 'alternative_artist': 'Das EFX', 'add_to_final_records': True}
+{'artist': 'Das EFX', 'song': 'Diggy Das', 'genre': 'Hip-Hop', 'alternative_artist': 'Das EFX', 'add_to_final_records': True}
+{'artist': 'Das EFX', 'song': 'Greezy', 'genre': 'Hip-Hop', 'alternative_artist': 'Das EFX', 'add_to_final_records': True}
+{'artist': 'Das EFX', 'song': 'How We Do', 'genre': 'Hip-Hop', 'alternative_artist': 'Das EFX', 'add_to_final_records': True}
+{'artist': 'Das EFX', 'song': 'Jungle (feat. Lovey)', 'genre': 'Hip-Hop', 'alternative_artist': 'Das EFX', 'add_to_final_records': True}
+{'artist': 'Das EFX', 'song': 'East Coast Husslaz (feat. JJ & Un Pacino)', 'genre': 'Hip-Hop', 'alternative_artist': 'Das EFX', 'add_to_final_records': True}
+{'artist': 'Das EFX', 'song': 'Intro', 'genre': 'Hip-Hop', 'alternative_artist': 'Das EFX', 'add_to_final_records': True}
+{'artist': 'Das EFX', 'song': 'Full Tyme Hussle', 'genre': 'Hip-Hop', 'alternative_artist': 'Das EFX', 'add_to_final_records': True}
+{'artist': 'Das EFX', 'song': "Let's Get Money", 'genre': 'Hip-Hop', 'alternative_artist': 'Das EFX', 'add_to_final_records': True}
+{'artist': 'Das EFX', 'song': 'Dro & Henne (feat. JJ)', 'genre': 'Hip-Hop', 'alternative_artist': 'Das EFX', 'add_to_final_records': True}
+{'artist': 'Das EFX', 'song': 'B.S.A.P. (feat. Lovey)', 'genre': 'Hip-Hop', 'alternative_artist': 'Das EFX', 'add_to_final_records': True}
+{'artist': 'Das EFX', 'song': 'The Memories Remain (feat. Sean Paul)', 'genre': 'Hip-Hop', 'alternative_artist': 'Das EFX', 'add_to_final_records': True}
+{'artist': 'Das EFX', 'song': "Get It Poppin'", 'genre': 'Hip-Hop', 'alternative_artist': 'Das EFX', 'add_to_final_records': True}
+{'artist': 'Gillie Da Kid', 'song': 'Tattoo (feat. Jeremih)', 'genre': 'Hip-Hop', 'alternative_artist': 'Gillie Da Kid', 'add_to_final_records': True}
+{'artist': 'Gillie Da Kid', 'song': 'Tellin', 'genre': 'Hip-Hop', 'alternative_artist': 'Gillie Da Kid', 'add_to_final_records': True}
+{'artist': 'Gillie Da Kid', 'song': 'Like Me', 'genre': 'Hip-Hop', 'alternative_artist': 'Gillie Da Kid', 'add_to_final_records': True}
+{'artist': 'Gillie Da Kid', 'song': 'Tryna Get Me One (feat. Pusha T)', 'genre': 'Hip-Hop', 'alternative_artist': 'Gillie Da Kid', 'add_to_final_records': True}
+{'artist': 'Gillie Da Kid', 'song': 'King Me', 'genre': 'Hip-Hop', 'alternative_artist': 'Gillie Da Kid', 'add_to_final_records': True}
+{'artist': 'Gillie Da Kid', 'song': 'Single', 'genre': 'Hip-Hop', 'alternative_artist': 'Gillie Da Kid', 'add_to_final_records': True}
+{'artist': 'Gillie Da Kid', 'song': 'Real', 'genre': 'Hip-Hop', 'alternative_artist': 'Gillie Da Kid', 'add_to_final_records': True}
+{'artist': 'Gillie Da Kid', 'song': 'Born King (feat. Big Ooh, Ab Liva)', 'genre': 'Hip-Hop', 'alternative_artist': 'Gillie Da Kid', 'add_to_final_records': True}
+{'artist': 'Gillie Da Kid', 'song': 'Blow My High', 'genre': 'Hip-Hop', 'alternative_artist': 'Gillie Da Kid', 'add_to_final_records': True}
+{'artist': 'Gillie Da Kid', 'song': 'All I Really Want', 'genre': 'Hip-Hop', 'alternative_artist': 'Gillie Da Kid', 'add_to_final_records': True}
+{'artist': 'Gillie Da Kid', 'song': 'Fireplace', 'genre': 'Hip-Hop', 'alternative_artist': 'Gillie Da Kid', 'add_to_final_records': True}
+{'artist': 'Gillie Da Kid', 'song': 'Bout Da Life', 'genre': 'Hip-Hop', 'alternative_artist': 'Gillie Da Kid', 'add_to_final_records': True}
+{'artist': 'Gillie Da Kid', 'song': 'We Goin Win (feat. PnB Rock)', 'genre': 'Hip-Hop', 'alternative_artist': 'Gillie Da Kid', 'add_to_final_records': True}
+{'artist': 'Gillie Da Kid', 'song': 'Not Ready to Go (feat. Stacy Barthe)', 'genre': 'Hip-Hop', 'alternative_artist': 'Gillie Da Kid', 'add_to_final_records': True}
+{'artist': 'Gillie Da Kid', 'song': 'Ass Like Dat (feat. Bianca J)', 'genre': 'Hip-Hop', 'alternative_artist': 'Gillie Da Kid', 'add_to_final_records': True}
+{'artist': 'Gillie Da Kid', 'song': 'Young Bull', 'genre': 'Hip-Hop', 'alternative_artist': 'Gillie Da Kid', 'add_to_final_records': True}
+{'artist': 'Gillie Da Kid', 'song': 'Up Up Again', 'genre': 'Hip-Hop', 'alternative_artist': 'Gillie Da Kid', 'add_to_final_records': True}
+{'artist': 'Gillie Da Kid', 'song': 'Thats That Nigga', 'genre': 'Hip-Hop', 'alternative_artist': 'Gillie Da Kid', 'add_to_final_records': True}
+{'artist': 'Gillie Da Kid', 'song': 'Get a Load of Me (feat. King Midas)', 'genre': 'Hip-Hop', 'alternative_artist': 'Gillie Da Kid', 'add_to_final_records': True}
+{'artist': 'Gillie Da Kid', 'song': "Chillin' Wit You", 'genre': 'Hip-Hop', 'alternative_artist': 'Gillie Da Kid', 'add_to_final_records': True}
+{'artist': 'Gillie Da Kid', 'song': 'On My Game (The Message)', 'genre': 'Hip-Hop', 'alternative_artist': 'Gillie Da Kid', 'add_to_final_records': True}
+{'artist': 'Gillie Da Kid', 'song': 'Gangsta Party', 'genre': 'Hip-Hop', 'alternative_artist': 'Gillie Da Kid', 'add_to_final_records': True}
+{'artist': 'Gillie Da Kid', 'song': 'Loaded Shoot', 'genre': 'Hip-Hop', 'alternative_artist': 'Gillie Da Kid', 'add_to_final_records': True}
+{'artist': 'Gillie Da Kid', 'song': 'Oh Ma (feat. Pnb Meen)', 'genre': 'Hip-Hop', 'alternative_artist': 'Gillie Da Kid', 'add_to_final_records': True}
+{'artist': 'Gillie Da Kid', 'song': 'Mdwg', 'genre': 'Hip-Hop', 'alternative_artist': 'Gillie Da Kid', 'add_to_final_records': True}
+{'artist': 'Gillie Da Kid', 'song': 'Stack N Fall Back', 'genre': 'Hip-Hop', 'alternative_artist': 'Gillie Da Kid', 'add_to_final_records': True}
+{'artist': 'Gillie Da Kid', 'song': "I'm Da Man (feat. Boosie Badazz)", 'genre': 'Hip-Hop', 'alternative_artist': 'Gillie Da Kid', 'add_to_final_records': True}
+{'artist': 'Gillie Da Kid', 'song': 'Stop It', 'genre': 'Hip-Hop', 'alternative_artist': 'Gillie Da Kid', 'add_to_final_records': True}
+{'artist': 'Beanie Sigel', 'song': "Don't Blow my High feat. Gillie Da Kid", 'genre': 'Hip-Hop', 'alternative_artist': 'Gillie Da Kid', 'add_to_final_records': True}
+{'artist': 'Etho Escobar', 'song': 'Fear (feat. MON EG, Gillie Da Kid & Young Twon)', 'genre': 'Hip-Hop', 'alternative_artist': 'Gillie Da Kid', 'add_to_final_records': True}
+{'artist': 'Etho Escobar & Mon. E.G.', 'song': 'Fear (feat. Gillie Da Kid & Young Twon)', 'genre': 'Hip-Hop', 'alternative_artist': 'Gillie Da Kid', 'add_to_final_records': True}
+{'artist': 'Etho Escobar', 'song': 'Fear (feat. Gillie Da Kid)', 'genre': 'Hip-Hop', 'alternative_artist': 'Gillie Da Kid', 'add_to_final_records': True}
+{'artist': 'Amaze', 'song': 'Studio Rodeo (feat. Gillie da Kid)', 'genre': 'Hip-Hop', 'alternative_artist': 'Gillie Da Kid', 'add_to_final_records': True}
+{'artist': 'DBoy the Rebel', 'song': 'Every Body Knows (Og) [feat. Gillie Da Kid]', 'genre': 'Hip-Hop', 'alternative_artist': 'Gillie Da Kid', 'add_to_final_records': True}
+{'artist': 'Alexx, Danny, Donnie, Jimmy Roses, Tha Spitta & Young City', 'song': 'Yadda Way Fitted', 'genre': 'Hip-Hop', 'alternative_artist': 'Danny!', 'add_to_final_records': True}
+{'artist': 'Vixen', 'song': 'Falala', 'genre': 'Hip-Hop', 'alternative_artist': 'Vixen', 'add_to_final_records': True}
+{'artist': 'Vixen', 'song': 'Taki Jaki Jestem', 'genre': 'Hip-Hop', 'alternative_artist': 'Vixen', 'add_to_final_records': True}
+{'artist': 'Vixen', 'song': 'Jak Hammurabi', 'genre': 'Hip-Hop', 'alternative_artist': 'Vixen', 'add_to_final_records': True}
+{'artist': 'Vixen', 'song': 'Skit 3', 'genre': 'Hip-Hop', 'alternative_artist': 'Vixen', 'add_to_final_records': True}
+{'artist': 'Vixen', 'song': 'Rece', 'genre': 'Hip-Hop', 'alternative_artist': 'Vixen', 'add_to_final_records': True}
+{'artist': 'Vixen', 'song': 'Zer00wki', 'genre': 'Hip-Hop', 'alternative_artist': 'Vixen', 'add_to_final_records': True}
+{'artist': 'Vixen', 'song': 'Frankenstein', 'genre': 'Hip-Hop', 'alternative_artist': 'Vixen', 'add_to_final_records': True}
+{'artist': 'Vixen', 'song': 'Skit 2', 'genre': 'Hip-Hop', 'alternative_artist': 'Vixen', 'add_to_final_records': True}
+{'artist': 'Vixen', 'song': 'Nevermind', 'genre': 'Hip-Hop', 'alternative_artist': 'Vixen', 'add_to_final_records': True}
+{'artist': 'Vixen', 'song': 'Ahooj', 'genre': 'Hip-Hop', 'alternative_artist': 'Vixen', 'add_to_final_records': True}
+{'artist': 'Vixen', 'song': 'Termos', 'genre': 'Hip-Hop', 'alternative_artist': 'Vixen', 'add_to_final_records': True}
+{'artist': 'Vixen', 'song': 'Country Boy', 'genre': 'Hip-Hop', 'alternative_artist': 'Vixen', 'add_to_final_records': True}
+{'artist': "Ol' Dirty Bastard", 'song': 'Bam Bam', 'genre': 'Hip-Hop', 'alternative_artist': "Ol' Dirty Bastard", 'add_to_final_records': True}
+{'artist': "Ol' Dirty Bastard", 'song': 'Black Mamba (feat. RZA)', 'genre': 'Hip-Hop', 'alternative_artist': "Ol' Dirty Bastard", 'add_to_final_records': True}
+{'artist': 'DC Young Fly', 'song': 'M.A.P. (feat. Money Bag)', 'genre': 'Hip-Hop', 'alternative_artist': 'Young Von', 'add_to_final_records': True}
+{'artist': 'Jet Life', 'song': 'Money Piles (feat. Trademark Da Skydiver, Young Roddy & Street Wiz)', 'genre': 'Hip-Hop', 'alternative_artist': 'Young Von', 'add_to_final_records': True}
+{'artist': 'Cali Swag District', 'song': 'Cotton Candy', 'genre': 'Hip-Hop', 'alternative_artist': 'Cali Swag District', 'add_to_final_records': True}
+{'artist': 'Cali Swag District', 'song': 'Positions', 'genre': 'Hip-Hop', 'alternative_artist': 'Cali Swag District', 'add_to_final_records': True}
+{'artist': 'Runtown & Nasty C', 'song': 'No Permission', 'genre': 'Hip-Hop', 'alternative_artist': 'C-Nasty', 'add_to_final_records': True}
+{'artist': 'DJ Switch', 'song': 'Way It Go (feat. Tumi Molekane, Youngsta & Nasty C)', 'genre': 'Hip-Hop', 'alternative_artist': 'C-Nasty', 'add_to_final_records': True}
+{'artist': 'C-Murder', 'song': 'Nasty Chick (feat. Rico from Sons of Funk)', 'genre': 'Hip-Hop', 'alternative_artist': 'C-Nasty', 'add_to_final_records': True}
+{'artist': 'DJ Wobbly', 'song': 'Ubusha Bethu (Going Up) [feat. DreamTeam, Nasty C & Mgarimbe]', 'genre': 'Hip-Hop', 'alternative_artist': 'C-Nasty', 'add_to_final_records': True}
+{'artist': 'Quikk Billion', 'song': 'Feelin Lit (feat. Nasty C)', 'genre': 'Hip-Hop', 'alternative_artist': 'C-Nasty', 'add_to_final_records': True}
+{'artist': 'M.C. J.Brown', 'song': 'Make It Nasty (Remix)', 'genre': 'Hip-Hop', 'alternative_artist': 'C-Nasty', 'add_to_final_records': True}
+{'artist': 'M.C. J.Brown', 'song': 'Make It Nasty (Instrumental) [Version]', 'genre': 'Hip-Hop', 'alternative_artist': 'C-Nasty', 'add_to_final_records': True}
+{'artist': 'MC Eiht', 'song': 'Straight Up Menace', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'MC Eiht', 'song': 'Growin Up in the Hood', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'MC Eiht', 'song': 'Represent Like This (feat. WC)', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'MC Eiht', 'song': 'Heart Cold (feat. The Lady of Rage)', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'MC Eiht', 'song': 'Medicate (feat. Xzibit)', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'MC Eiht', 'song': "Sittin' Around Smokin'", 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'MC Eiht', 'song': "Nothin' but the Gangsta (feat. Redman)", 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'MC Eiht', 'song': 'Born To Hustle (feat. Big Mike & J Starr)', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'MC Eiht', 'song': "Last Ones Left (feat. Compton's Most Wanted)", 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'MC Eiht', 'song': 'Got That (feat. DJ Premier)', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'MC Eiht', 'song': 'Shut Em Down (feat. Outlawz)', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'MC Eiht', 'song': 'Compton Zoo', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'MC Eiht', 'song': 'As I Proceed', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'MC Eiht', 'song': "You Nia'z", 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'MC Eiht', 'song': 'Runn the Blocc (feat. Maylay)', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'MC Eiht', 'song': 'Gangsta Gangsta (feat. Kurupt)', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'MC Eiht', 'song': 'Pass Me By (feat. B-Real)', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'MC Eiht', 'song': "4 Tha OG'z (feat. Bumpy Knuckles)", 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'MC Eiht', 'song': 'Compton 4 Death', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'MC Eiht', 'song': 'Can I Still Kill It', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'MC Eiht', 'song': "Thuggin' It Up", 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'MC Eiht', 'song': "That's the Way Life Goes (feat. Spice 1)", 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'MC Eiht', 'song': 'Niggaz That Kill', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'MC Eiht', 'song': 'Late Night Hype, Pt. 2', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'MC Eiht', 'song': 'The Murder Show, Pt. 2 (feat. Spice 1)', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'MC Eiht', 'song': 'Anything U Want', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'MC Eiht', 'song': 'Tha Business', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'MC Eiht', 'song': "Ain't Nuthin' to It", 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'MC Eiht', 'song': '187 Hemp', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'MC Eiht', 'song': 'No One Else', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'MC Eiht', 'song': 'All for the Money', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'MC Eiht', 'song': "You Can't See Me (feat. Compton's Most Wanted)", 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'MC Eiht', 'song': "You Don't Know, Who I Know", 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'Brotha Lynch Hung, Spice 1 & MC Eiht', 'song': "I Ain't Scared", 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'Brotha Lynch Hung, Spice 1 & MC Eiht', 'song': 'Buy Another Gun', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'Spice 1 & MC Eiht', 'song': 'No Chit Chat', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'Spice 1 & MC Eiht', 'song': 'Been a Long Time (Bonus Track)', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'Brotha Lynch Hung, Spice 1 & MC Eiht', 'song': 'The New Season, Pt. 2', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'Spice 1 & MC Eiht', 'song': 'So Damn Crazy (Bonus Track)', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'Spice 1 & MC Eiht', 'song': 'The Bossilini', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'Spice 1 & MC Eiht', 'song': "Spit At Em'", 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'MC Eiht', 'song': 'Represent Like This (feat. WC & DJ Premier)', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'Brotha Lynch Hung, Spice 1 & MC Eiht', 'song': 'Dreams', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'Brotha Lynch Hung, Spice 1 & MC Eiht', 'song': 'Round Here', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'Brotha Lynch Hung, Spice 1 & MC Eiht', 'song': "Westside Ridin'", 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'Spice 1 & MC Eiht', 'song': 'Raw wit It', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'Brotha Lynch Hung, Spice 1 & MC Eiht', 'song': 'Rest in Piss (Agent Double O Deuce 4 Blocc)', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'Spice 1 & MC Eiht', 'song': "I'm Original", 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'Brotha Lynch Hung, Spice 1 & MC Eiht', 'song': 'California Bangers', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'Spice 1 & MC Eiht', 'song': 'Less Than Nothin', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'Brotha Lynch Hung, Spice 1 & MC Eiht', 'song': 'Neighborhood Boyz', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'Spice 1 & MC Eiht', 'song': "They Just Don't Know", 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'Spice 1 & MC Eiht', 'song': 'Ohh Sh#t', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'Brotha Lynch Hung, Spice 1 & MC Eiht', 'song': "That's All U Can Do", 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'Brotha Lynch Hung, Spice 1 & MC Eiht', 'song': 'Split Ya Head', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'Spice 1 & MC Eiht', 'song': 'The Warning', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'Brotha Lynch Hung, Spice 1 & MC Eiht', 'song': 'When You Hear the Shots', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'Brotha Lynch Hung, Spice 1 & MC Eiht', 'song': 'War Outside', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'Brotha Lynch Hung, Spice 1 & MC Eiht', 'song': 'The New Season, Pt. 1', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'Spice 1 & MC Eiht', 'song': 'Let It Blow', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'Brotha Lynch Hung, Spice 1 & MC Eiht', 'song': 'Sticky Sheets', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'Spice 1 & MC Eiht', 'song': 'Revenge', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'Spice 1 & MC Eiht', 'song': "That's the Way Life Goes (Bonus Track)", 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'Spice 1 & MC Eiht', 'song': 'Raw Wit It', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'Spice 1 & MC Eiht', 'song': 'Rest in Piss (Agent Double O Deuce 4 Blocc) [feat. Brotha Lynch Hung] [Bonus Track]', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'Brotha Lynch Hung & MC Eiht', 'song': 'Rest in Piss 2 (Agent Double O Deuce 4 Blocc)', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'Spice 1 & MC Eiht', 'song': 'The Murda Show, Pt. 2', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': 'Spice 1 & MC Eiht', 'song': 'All I Came 2 Do', 'genre': 'Hip-Hop', 'alternative_artist': 'MC Eiht', 'add_to_final_records': True}
+{'artist': "Lil' Keke, Big Pokey & Lil C", 'song': 'Freestyle Swishahouse', 'genre': 'Hip-Hop', 'alternative_artist': 'Big Pokey', 'add_to_final_records': True}
+{'artist': 'Lil C, Big Pokey & J-Dawg', 'song': 'Credit Cards and Cash', 'genre': 'Hip-Hop', 'alternative_artist': 'Big Pokey', 'add_to_final_records': True}
+{'artist': 'ESG, Big Pokey, J-Dawg & Lil C', 'song': 'Gotta Get My Smoke On', 'genre': 'Hip-Hop', 'alternative_artist': 'Big Pokey', 'add_to_final_records': True}
+{'artist': 'Big Pokey', 'song': 'Boss Hogg On Candy', 'genre': 'Hip-Hop', 'alternative_artist': 'Big Pokey', 'add_to_final_records': True}
+{'artist': 'Big Pokey', 'song': 'Headed 2 Tha League', 'genre': 'Hip-Hop', 'alternative_artist': 'Big Pokey', 'add_to_final_records': True}
+{'artist': 'Bizzy Bone', 'song': 'Give Up the Ghost (feat. Immature)', 'genre': 'Hip-Hop', 'alternative_artist': 'Immature', 'add_to_final_records': True}
+{'artist': 'Eric Chris Ward', 'song': 'Back to My Ways', 'genre': 'Hip-Hop', 'alternative_artist': 'Immature', 'add_to_final_records': True}
+{'artist': 'Eric Chris Ward', 'song': 'Better Things', 'genre': 'Hip-Hop', 'alternative_artist': 'Immature', 'add_to_final_records': True}
+{'artist': 'Bizzy Bone', 'song': 'Give up the Ghost (feat. Immature)', 'genre': 'Hip-Hop', 'alternative_artist': 'Immature', 'add_to_final_records': True}
+{'artist': 'Livin', 'song': 'When I Approach (feat. Joe Budden, Travie McCoy)', 'genre': 'Hip-Hop', 'alternative_artist': 'Travie McCoy', 'add_to_final_records': True}
+{'artist': 'Geto Boys', 'song': 'Damn It Feels Good to Be a Gangsta', 'genre': 'Hip-Hop', 'alternative_artist': 'Dope', 'add_to_final_records': True}
+{'artist': 'Immortal Technique', 'song': 'Dance With the Devil', 'genre': 'Hip-Hop', 'alternative_artist': 'Immortal', 'add_to_final_records': True}
+{'artist': 'Immortal Technique', 'song': "That's What It Is", 'genre': 'Hip-Hop', 'alternative_artist': 'Immortal', 'add_to_final_records': True}
+{'artist': 'Immortal Technique', 'song': 'No Mercy', 'genre': 'Hip-Hop', 'alternative_artist': 'Immortal', 'add_to_final_records': True}
+{'artist': 'Immortal Technique', 'song': 'Positive Balance (feat. BigZoo)', 'genre': 'Hip-Hop', 'alternative_artist': 'Immortal', 'add_to_final_records': True}
+{'artist': 'Immortal Technique', 'song': 'Creation & Destruction', 'genre': 'Hip-Hop', 'alternative_artist': 'Immortal', 'add_to_final_records': True}
+{'artist': 'Immortal Technique', 'song': 'Caught in the Hustle', 'genre': 'Hip-Hop', 'alternative_artist': 'Immortal', 'add_to_final_records': True}
+{'artist': 'Immortal Technique', 'song': 'The Prophecy', 'genre': 'Hip-Hop', 'alternative_artist': 'Immortal', 'add_to_final_records': True}
+{'artist': 'Immortal Technique', 'song': 'Dominant Species', 'genre': 'Hip-Hop', 'alternative_artist': 'Immortal', 'add_to_final_records': True}
+{'artist': 'Immortal Technique', 'song': 'The Poverty of Philosphy', 'genre': 'Hip-Hop', 'alternative_artist': 'Immortal', 'add_to_final_records': True}
+{'artist': 'Immortal Technique', 'song': 'No Me Importa', 'genre': 'Hip-Hop', 'alternative_artist': 'Immortal', 'add_to_final_records': True}
+{'artist': 'Immortal Technique', 'song': 'Speak Your Mind (feat. Diabolic)', 'genre': 'Hip-Hop', 'alternative_artist': 'Immortal', 'add_to_final_records': True}
+{'artist': 'Immortal Technique', 'song': 'The Illest (feat. Jean Grae, PumpkinHead)', 'genre': 'Hip-Hop', 'alternative_artist': 'Immortal', 'add_to_final_records': True}
+{'artist': 'Immortal Technique', 'song': 'Revolutionary', 'genre': 'Hip-Hop', 'alternative_artist': 'Immortal', 'add_to_final_records': True}
+{'artist': 'Immortal Technique', 'song': 'The Getaway', 'genre': 'Hip-Hop', 'alternative_artist': 'Immortal', 'add_to_final_records': True}
+{'artist': 'Immortal Technique', 'song': 'Top of the Food Chain (feat. Poison Pen)', 'genre': 'Hip-Hop', 'alternative_artist': 'Immortal', 'add_to_final_records': True}
+{'artist': 'Immortal Technique', 'song': 'Beef & Broccoli', 'genre': 'Hip-Hop', 'alternative_artist': 'Immortal', 'add_to_final_records': True}
+{'artist': 'Immortal Technique', 'song': 'Spend Some Time', 'genre': 'Hip-Hop', 'alternative_artist': 'Immortal', 'add_to_final_records': True}
+{'artist': 'Immortal Technique', 'song': 'Understand Why', 'genre': 'Hip-Hop', 'alternative_artist': 'Immortal', 'add_to_final_records': True}
+{'artist': 'Immortal Technique', 'song': 'The 3rd World (feat. DJ Green Lantern)', 'genre': 'Hip-Hop', 'alternative_artist': 'Immortal', 'add_to_final_records': True}
+{'artist': 'Shwayze', 'song': 'Young Love', 'genre': 'Hip-Hop', 'alternative_artist': 'Shwayze', 'add_to_final_records': True}
+{'artist': 'Shwayze', 'song': 'Summer Ink (feat. Richard Wynne)', 'genre': 'Hip-Hop', 'alternative_artist': 'Shwayze', 'add_to_final_records': True}
+{'artist': 'Shwayze', 'song': 'King of the Summer', 'genre': 'Hip-Hop', 'alternative_artist': 'Shwayze', 'add_to_final_records': True}
+{'artist': 'Shwayze', 'song': 'Addicted (feat. Paul Couture)', 'genre': 'Hip-Hop', 'alternative_artist': 'Shwayze', 'add_to_final_records': True}
+{'artist': 'Shwayze', 'song': 'Own Damn Party (feat. Jodi Valentin)', 'genre': 'Hip-Hop', 'alternative_artist': 'Shwayze', 'add_to_final_records': True}
+{'artist': 'Shwayze', 'song': 'Tequila (feat. Atrel)', 'genre': 'Hip-Hop', 'alternative_artist': 'Shwayze', 'add_to_final_records': True}
+{'artist': 'Shwayze', 'song': 'Roll the Camera (Movie)', 'genre': 'Hip-Hop', 'alternative_artist': 'Shwayze', 'add_to_final_records': True}
+{'artist': 'San Quinn, Big Rich & Cellski', 'song': 'Black and Orange (Giants Anthem)', 'genre': 'Hip-Hop', 'alternative_artist': 'San Quinn', 'add_to_final_records': True}
+{'artist': 'San Quinn', 'song': 'Hell Yeah', 'genre': 'Hip-Hop', 'alternative_artist': 'San Quinn', 'add_to_final_records': True}
+{'artist': 'The Hoodstarz & San Quinn', 'song': 'Saggy Jean Era (Feat. San Quinn, And Big Seff)', 'genre': 'Hip-Hop', 'alternative_artist': 'San Quinn', 'add_to_final_records': True}
+{'artist': 'Joey Bada$$', 'song': 'Paper Trail$', 'genre': 'Hip-Hop', 'alternative_artist': 'Joey Bada$$', 'add_to_final_records': True}
+{'artist': 'Joey Bada$$', 'song': 'Teach Me (feat. Kiesza)', 'genre': 'Hip-Hop', 'alternative_artist': 'Joey Bada$$', 'add_to_final_records': True}
+{'artist': 'Joey Bada$$', 'song': 'On & On (feat. Maverick Sabre & Dyemond Lewis)', 'genre': 'Hip-Hop', 'alternative_artist': 'Joey Bada$$', 'add_to_final_records': True}
+{'artist': 'Joey Bada$$', 'song': 'Christ Conscious', 'genre': 'Hip-Hop', 'alternative_artist': 'Joey Bada$$', 'add_to_final_records': True}
+{'artist': 'Joey Bada$$', 'song': 'Curry Chicken', 'genre': 'Hip-Hop', 'alternative_artist': 'Joey Bada$$', 'add_to_final_records': True}
+{'artist': 'Joey Bada$$', 'song': 'Escape 120 (feat. Raury)', 'genre': 'Hip-Hop', 'alternative_artist': 'Joey Bada$$', 'add_to_final_records': True}
+{'artist': 'Joey Bada$$', 'song': 'Greenbax (Introlude)', 'genre': 'Hip-Hop', 'alternative_artist': 'Joey Bada$$', 'add_to_final_records': True}
+{'artist': 'Joey Bada$$', 'song': 'Piece of Mind', 'genre': 'Hip-Hop', 'alternative_artist': 'Joey Bada$$', 'add_to_final_records': True}
+{'artist': 'Joey Bada$$', 'song': 'O.C.B.', 'genre': 'Hip-Hop', 'alternative_artist': 'Joey Bada$$', 'add_to_final_records': True}
+{'artist': 'Joey Bada$$', 'song': 'Run up on Ya (feat. Action Bronson & Elle Varner)', 'genre': 'Hip-Hop', 'alternative_artist': 'Joey Bada$$', 'add_to_final_records': True}
+{'artist': 'Joey Bada$$', 'song': 'Black Beetles', 'genre': 'Hip-Hop', 'alternative_artist': 'Joey Bada$$', 'add_to_final_records': True}
+{'artist': 'Joey Bada$$', 'song': 'Big Dusty', 'genre': 'Hip-Hop', 'alternative_artist': 'Joey Bada$$', 'add_to_final_records': True}
+{'artist': 'Joey Bada$$', 'song': 'No. 99', 'genre': 'Hip-Hop', 'alternative_artist': 'Joey Bada$$', 'add_to_final_records': True}
+{'artist': 'Joey Bada$$', 'song': 'Hazeus View', 'genre': 'Hip-Hop', 'alternative_artist': 'Joey Bada$$', 'add_to_final_records': True}
+{'artist': 'Joey Bada$$', 'song': 'Belly of the Beast (feat. Chronixx)', 'genre': 'Hip-Hop', 'alternative_artist': 'Joey Bada$$', 'add_to_final_records': True}
+{'artist': 'Joey Bada$$', 'song': 'Like Me (feat. BJ the Chicago Kid)', 'genre': 'Hip-Hop', 'alternative_artist': 'Joey Bada$$', 'add_to_final_records': True}
+{'artist': 'Joey Bada$$', 'song': 'Save the Children', 'genre': 'Hip-Hop', 'alternative_artist': 'Joey Bada$$', 'add_to_final_records': True}
+{'artist': 'Joey Bada$$', 'song': 'My Yout (feat. Collie Buddz)', 'genre': 'Hip-Hop', 'alternative_artist': 'Joey Bada$$', 'add_to_final_records': True}
+{'artist': 'Joey Bada$$', 'song': "#longlivesteelo (feat. T'nah Apex)", 'genre': 'Hip-Hop', 'alternative_artist': 'Joey Bada$$', 'add_to_final_records': True}
+{'artist': 'Joey Bada$$', 'song': 'Hilary $Wank', 'genre': 'Hip-Hop', 'alternative_artist': 'Joey Bada$$', 'add_to_final_records': True}
+{'artist': 'Joey Bada$$', 'song': '95 Till Infinity', 'genre': 'Hip-Hop', 'alternative_artist': 'Joey Bada$$', 'add_to_final_records': True}
+{'artist': 'Joey Bada$$', 'song': 'My Jeep (feat. Chuck Strangers, Issa Gold & Meechie Darko)', 'genre': 'Hip-Hop', 'alternative_artist': 'Joey Bada$$', 'add_to_final_records': True}
+{'artist': 'Joey Bada$$', 'song': "Sit N' Prey (feat. Dessy & T'nah Apex)", 'genre': 'Hip-Hop', 'alternative_artist': 'Joey Bada$$', 'add_to_final_records': True}
+{'artist': 'Joey Bada$$', 'song': 'My Yout (feat. Maverick Sabre)', 'genre': 'Hip-Hop', 'alternative_artist': 'Joey Bada$$', 'add_to_final_records': True}
+{'artist': 'Joey Bada$$', 'song': '500 Benz', 'genre': 'Hip-Hop', 'alternative_artist': 'Joey Bada$$', 'add_to_final_records': True}
+{'artist': 'Joey Bada$$', 'song': "Brooklyn's Own", 'genre': 'Hip-Hop', 'alternative_artist': 'Joey Bada$$', 'add_to_final_records': True}
+{'artist': 'Mick Jenkins', 'song': 'Jerome (feat. Joey Bada$$)', 'genre': 'Hip-Hop', 'alternative_artist': 'Joey Bada$$', 'add_to_final_records': True}
+{'artist': 'Smoke DZA', 'song': 'The Mood (feat. Joey Bada$$)', 'genre': 'Hip-Hop', 'alternative_artist': 'Joey Bada$$', 'add_to_final_records': True}
+{'artist': 'Rejjie Snow', 'song': 'Purple Tuesday (feat. Joey Bada$$ & Jesse Boykins III)', 'genre': 'Hip-Hop', 'alternative_artist': 'Joey Bada$$', 'add_to_final_records': True}
+{'artist': 'Smoke DZA', 'song': 'G.Otham F.Uckin C.Ity (feat. Joey Bada$$)', 'genre': 'Hip-Hop', 'alternative_artist': 'Joey Bada$$', 'add_to_final_records': True}
+{'artist': 'Smoke DZA', 'song': 'Wagons (feat. Joey Bada$$)', 'genre': 'Hip-Hop', 'alternative_artist': 'Joey Bada$$', 'add_to_final_records': True}
+{'artist': 'Group Home & Jeru the Damaja', 'song': 'G.U.R.U.', 'genre': 'Hip-Hop', 'alternative_artist': 'Guru', 'add_to_final_records': True}
+{'artist': 'B-Real, Busta Rhymes, Coolio, LL Cool J & Method Man', 'song': "Hit 'Em High (The Monstars' Anthem)", 'genre': 'Hip-Hop', 'alternative_artist': 'Coolio', 'add_to_final_records': True}
+{'artist': 'Riflman', 'song': 'We Up (feat. Grit Boys)', 'genre': 'Hip-Hop', 'alternative_artist': 'Grit Boys', 'add_to_final_records': True}
+{'artist': 'YBs & Charlie Frank$', 'song': 'On That Girl (feat. Unique of  the Grit Boyz)', 'genre': 'Hip-Hop', 'alternative_artist': 'Grit Boys', 'add_to_final_records': True}
+{'artist': "Mo Thugs Presents & Knoc-Turn'al", 'song': 'N the Paint (feat. Big Caz & Nune)', 'genre': 'Hip-Hop', 'alternative_artist': "Knoc-Turn'Al", 'add_to_final_records': True}
+{'artist': "Knoc-Turn'al", 'song': 'Got Me Going (feat. J. Wells)', 'genre': 'Hip-Hop', 'alternative_artist': "Knoc-Turn'Al", 'add_to_final_records': True}
+{'artist': 'SoulChef', 'song': 'First Class (feat. Nicholas Smalc)', 'genre': 'Hip-Hop', 'alternative_artist': 'Fearless Four', 'add_to_final_records': True}
+{'artist': 'Kardinal Offishall', 'song': 'Samurai Showdown (feat. Masicka)', 'genre': 'Hip-Hop', 'alternative_artist': 'Kardinal Offishall', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Jackel', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Everytime (feat. CeeKay Jones)', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Fuck Madchild', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Devils and Angels', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Body Bag (feat. Domo Genesis & Oh No)', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Write It Down', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'All I Know (feat. Krondon & Evidence)', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Corleone (feat. Evidence)', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Cold Crush', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Imaginary Tears', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Mental (feat. Demrick)', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Broken Record', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Club 33 (feat. Evidence & The Alchemist)', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Drama', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Green Light (feat. Evidence)', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Black and White', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Badchild', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Double Tap (feat. A$ton Matthews & Fashawn)', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Land (feat. Illmaculate)', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Slut', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Lose My Mind (feat. JD Era)', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Untold Story', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Triple Threat (feat. Slaine, Demrick)', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Zero', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Electricity', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Night Time Kill', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': '50 Seven', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Meat Knife', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': "Don't Stop (feat. Slaine)", 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Brain Dead', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Hurt That Man (feat. JD Era & Rich Kidd)', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'White Tyson', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Murder Mouth', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Dickhead', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Balboa', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Zombie Fucker', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Monster', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Wild Fire', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': "Devil's Reject (feat. DJ Revolution)", 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Grenade Launcher (feat. Slaine of La Coka Nostra & Prevail of Swollen Members)', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Runaway', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Wake Up', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Judgment Day (feat. Sophia Danai)', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Painful Skies', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Reaper', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Count Down', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Freak', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Little Monster Blend', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Wanted', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Mongoloid', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Oxylude', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Jitters (feat. Dutch Robinson & Matt Brevner)', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Top Cat', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Battleaxe (feat. Dilated Peoples, Bishop Lamont & D-Sisive)', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Animal Fight', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Poison', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Madchild', 'song': 'Slayer (feat. Demrick)', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Slaine', 'song': 'Bobby Be Real (feat.Tech N9ne & Madchild)', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Snowgoons', 'song': 'The Hatred 2 (feat. Slaine, Madchild & Sicknature)', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Prozak', 'song': 'The Plague (feat. Madchild, Ubiquitous)', 'genre': 'Hip-Hop', 'alternative_artist': 'Madchild', 'add_to_final_records': True}
+{'artist': 'Eko Fresh & Farid Bang', 'song': 'Bandits', 'genre': 'Hip-Hop', 'alternative_artist': 'Farid Bang', 'add_to_final_records': True}
+{'artist': 'Manuellsen, La Honda Boys, XATAR, Joe Rilla, G-Fu, Hanybal, Solo, Snaga, Decino, Juvel, Farid Bang & Psyko Vasol', 'song': 'Vorbye', 'genre': 'Hip-Hop', 'alternative_artist': 'Farid Bang', 'add_to_final_records': True}
+{'artist': 'Pimp C', 'song': 'Watch the Reaction', 'genre': 'Hip-Hop', 'alternative_artist': 'The Fall Four', 'add_to_final_records': True}
+{'artist': 'J-Haze', 'song': 'Steel City', 'genre': 'Hip-Hop', 'alternative_artist': 'City Haze', 'add_to_final_records': True}
+{'artist': 'R.A. the Rugged Man', 'song': 'Supah', 'genre': 'Hip-Hop', 'alternative_artist': 'R', 'add_to_final_records': True}
+{'artist': 'CZARFACE', 'song': 'Good Villains Go Last (feat. R.A. The Rugged Man)', 'genre': 'Hip-Hop', 'alternative_artist': 'R', 'add_to_final_records': True}
+{'artist': 'Reks', 'song': 'Bitch Slap (feat. R.A. the Rugged Man)', 'genre': 'Hip-Hop', 'alternative_artist': 'R', 'add_to_final_records': True}
+{'artist': 'Jedi Mind Tricks', 'song': 'Uncommon Valor: A Vietnam Story (feat. R.A. the Rugged Man)', 'genre': 'Hip-Hop', 'alternative_artist': 'R', 'add_to_final_records': True}
+{'artist': 'Hi-Rez', 'song': 'Drop Top (feat. R.A. the Rugged Man)', 'genre': 'Hip-Hop', 'alternative_artist': 'R', 'add_to_final_records': True}
+{'artist': 'Onyx', 'song': 'O.D. (feat. R.A. the Rugged Man)', 'genre': 'Hip-Hop', 'alternative_artist': 'R', 'add_to_final_records': True}
+{'artist': 'Domingo', 'song': 'The Return (feat. Chris Rivers, Bamboo, KRS-One, R.A. the Rugged Man & DJ Eclipse)', 'genre': 'Hip-Hop', 'alternative_artist': 'R', 'add_to_final_records': True}
+{'artist': 'Dra-Q', 'song': 'Raise Ya Hands (feat. RA the Rugged Man & Pal One)', 'genre': 'Hip-Hop', 'alternative_artist': 'R', 'add_to_final_records': True}
+{'artist': 'Antihelden', 'song': 'In The Night (feat. RA the Rugged Man, JAW & Morlockk Dilemma)', 'genre': 'Hip-Hop', 'alternative_artist': 'R', 'add_to_final_records': True}
+{'artist': 'Snowgoons', 'song': 'Come On (feat. Kebap & RA the Rugged Man)', 'genre': 'Hip-Hop', 'alternative_artist': 'R', 'add_to_final_records': True}
+{'artist': 'Chill Rob G', 'song': "Tell 'Em (feat. R.A. the Rugged Man)", 'genre': 'Hip-Hop', 'alternative_artist': 'R', 'add_to_final_records': True}
+{'artist': 'Blaze Ya Dead Homie', 'song': 'Nasty', 'genre': 'Hip-Hop', 'alternative_artist': 'Blaze Ya Dead Homie', 'add_to_final_records': True}
+{'artist': 'Insane Clown Posse, Boondox, Twiztid & Blaze Ya Dead Homie', 'song': 'Hatchet House', 'genre': 'Hip-Hop', 'alternative_artist': 'Blaze Ya Dead Homie', 'add_to_final_records': True}
+{'artist': 'Twiztid, Blaze Ya Dead Homie, Violent J & Syn', 'song': 'Waiting on Christmas Gifts', 'genre': 'Hip-Hop', 'alternative_artist': 'Blaze Ya Dead Homie', 'add_to_final_records': True}
+{'artist': 'Blaze Ya Dead Homie', 'song': 'Touch of Death', 'genre': 'Hip-Hop', 'alternative_artist': 'Blaze Ya Dead Homie', 'add_to_final_records': True}
+{'artist': 'Blaze Ya Dead Homie', 'song': 'Hood Ratz', 'genre': 'Hip-Hop', 'alternative_artist': 'Blaze Ya Dead Homie', 'add_to_final_records': True}
+{'artist': 'Twiztid & Blaze Ya Dead Homie', 'song': 'Decorate Your Christmas Tree', 'genre': 'Hip-Hop', 'alternative_artist': 'Blaze Ya Dead Homie', 'add_to_final_records': True}
+{'artist': 'Twiztid & Blaze Ya Dead Homie', 'song': 'Sad Christmas Song', 'genre': 'Hip-Hop', 'alternative_artist': 'Blaze Ya Dead Homie', 'add_to_final_records': True}
+{'artist': 'Twiztid & Blaze Ya Dead Homie', 'song': 'My Favorite Things', 'genre': 'Hip-Hop', 'alternative_artist': 'Blaze Ya Dead Homie', 'add_to_final_records': True}
+{'artist': 'Blaze Ya Dead Homie', 'song': 'Juggalo Anthem', 'genre': 'Hip-Hop', 'alternative_artist': 'Blaze Ya Dead Homie', 'add_to_final_records': True}
+{'artist': 'Blaze Ya Dead Homie & Monoxide', 'song': 'Blaze & Monoxide', 'genre': 'Hip-Hop', 'alternative_artist': 'Blaze Ya Dead Homie', 'add_to_final_records': True}
+{'artist': 'Blaze Ya Dead Homie', 'song': 'Given Half the Chance', 'genre': 'Hip-Hop', 'alternative_artist': 'Blaze Ya Dead Homie', 'add_to_final_records': True}
+{'artist': 'Blaze Ya Dead Homie', 'song': 'In Case U Forgot', 'genre': 'Hip-Hop', 'alternative_artist': 'Blaze Ya Dead Homie', 'add_to_final_records': True}
+{'artist': 'Blaze Ya Dead Homie', 'song': 'Casket', 'genre': 'Hip-Hop', 'alternative_artist': 'Blaze Ya Dead Homie', 'add_to_final_records': True}
+{'artist': 'Twiztid & Blaze Ya Dead Homie', 'song': 'Sickness', 'genre': 'Hip-Hop', 'alternative_artist': 'Blaze Ya Dead Homie', 'add_to_final_records': True}
+{'artist': 'Blaze Ya Dead Homie', 'song': 'Thug 4 Life', 'genre': 'Hip-Hop', 'alternative_artist': 'Blaze Ya Dead Homie', 'add_to_final_records': True}
+{'artist': 'Blaze Ya Dead Homie', 'song': "U Can't Hurt Me Now", 'genre': 'Hip-Hop', 'alternative_artist': 'Blaze Ya Dead Homie', 'add_to_final_records': True}
+{'artist': 'Blaze Ya Dead Homie', 'song': 'Saturday Afternoon', 'genre': 'Hip-Hop', 'alternative_artist': 'Blaze Ya Dead Homie', 'add_to_final_records': True}
+{'artist': 'Blaze Ya Dead Homie', 'song': 'Maggot Face', 'genre': 'Hip-Hop', 'alternative_artist': 'Blaze Ya Dead Homie', 'add_to_final_records': True}
+{'artist': 'Blaze Ya Dead Homie', 'song': "Mamma I Ain't Changed", 'genre': 'Hip-Hop', 'alternative_artist': 'Blaze Ya Dead Homie', 'add_to_final_records': True}
+{'artist': 'Blaze Ya Dead Homie', 'song': 'Hatchet Luv', 'genre': 'Hip-Hop', 'alternative_artist': 'Blaze Ya Dead Homie', 'add_to_final_records': True}
+{'artist': 'Blaze Ya Dead Homie', 'song': 'I Go to Work', 'genre': 'Hip-Hop', 'alternative_artist': 'Blaze Ya Dead Homie', 'add_to_final_records': True}
+{'artist': 'Blaze Ya Dead Homie', 'song': 'Put It Down', 'genre': 'Hip-Hop', 'alternative_artist': 'Blaze Ya Dead Homie', 'add_to_final_records': True}
+{'artist': 'Blaze Ya Dead Homie', 'song': 'Real G Shit', 'genre': 'Hip-Hop', 'alternative_artist': 'Blaze Ya Dead Homie', 'add_to_final_records': True}
+{'artist': 'Blaze Ya Dead Homie', 'song': 'Intro 2 Tha Hood', 'genre': 'Hip-Hop', 'alternative_artist': 'Blaze Ya Dead Homie', 'add_to_final_records': True}
+{'artist': 'Blaze Ya Dead Homie', 'song': 'Look Out', 'genre': 'Hip-Hop', 'alternative_artist': 'Blaze Ya Dead Homie', 'add_to_final_records': True}
+{'artist': 'Blaze Ya Dead Homie', 'song': "Grave Ain't No Place", 'genre': 'Hip-Hop', 'alternative_artist': 'Blaze Ya Dead Homie', 'add_to_final_records': True}
+{'artist': 'Blaze Ya Dead Homie', 'song': 'Garbage', 'genre': 'Hip-Hop', 'alternative_artist': 'Blaze Ya Dead Homie', 'add_to_final_records': True}
+{'artist': 'Prozak', 'song': 'Killing Me (feat. Krizz Kaliko, Blaze Ya Dead Homie, The R.O.C.)', 'genre': 'Hip-Hop', 'alternative_artist': 'Blaze Ya Dead Homie', 'add_to_final_records': True}
+{'artist': 'Potluck', 'song': 'Smokin Blunts and Drinkin 40s (feat. Blaze Ya Dead Homie)', 'genre': 'Hip-Hop', 'alternative_artist': 'Blaze Ya Dead Homie', 'add_to_final_records': True}
+{'artist': 'Insane Clown Posse', 'song': 'Untitled (feat. Blaze Ya Dead Homie & Jamie Madrox)', 'genre': 'Hip-Hop', 'alternative_artist': 'Blaze Ya Dead Homie', 'add_to_final_records': True}
+{'artist': 'Anybody Killa', 'song': 'Sticky Icky Situation (feat. Blaze Ya Dead Homie, Esham & Violent J)', 'genre': 'Hip-Hop', 'alternative_artist': 'Blaze Ya Dead Homie', 'add_to_final_records': True}
+{'artist': 'Insane Clown Posse', 'song': 'Shout (feat. Blaze Ya Dead Homie)', 'genre': 'Hip-Hop', 'alternative_artist': 'Blaze Ya Dead Homie', 'add_to_final_records': True}
+{'artist': 'Kottonmouth Kings', 'song': '1 More Body (feat. (hed) p.e., Blaze Ya Dead Homie & Twiztid)', 'genre': 'Hip-Hop', 'alternative_artist': 'Blaze Ya Dead Homie', 'add_to_final_records': True}
+{'artist': 'The Dirtball', 'song': 'The Paper (feat. Blaze Ya Dead Homie)', 'genre': 'Hip-Hop', 'alternative_artist': 'Blaze Ya Dead Homie', 'add_to_final_records': True}
+{'artist': 'Migos', 'song': 'New Atlanta (feat. Rich Homie Quan, Young Thug and Jermaine Dupri)', 'genre': 'Hip-Hop', 'alternative_artist': 'L', 'add_to_final_records': True}
+{'artist': 'Children of the Corn & Big L', 'song': 'Stars Is Born', 'genre': 'Hip-Hop', 'alternative_artist': 'L', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': 'Do U?', 'genre': 'Hip-Hop', 'alternative_artist': 'L', 'add_to_final_records': True}
+{'artist': 'Baby Boy', 'song': 'Ya No Llores', 'genre': 'Hip-Hop', 'alternative_artist': 'Baby Boy', 'add_to_final_records': True}
+{'artist': 'Baby Boy', 'song': 'Donde Estas', 'genre': 'Hip-Hop', 'alternative_artist': 'Baby Boy', 'add_to_final_records': True}
+{'artist': 'Baby Boy', 'song': 'Entre Tu Y Yo', 'genre': 'Hip-Hop', 'alternative_artist': 'Baby Boy', 'add_to_final_records': True}
+{'artist': 'Baby Boy', 'song': 'Tengo Algo Para Ti', 'genre': 'Hip-Hop', 'alternative_artist': 'Baby Boy', 'add_to_final_records': True}
+{'artist': 'Baby Boy', 'song': 'Bésame Fuerte', 'genre': 'Hip-Hop', 'alternative_artist': 'Baby Boy', 'add_to_final_records': True}
+{'artist': 'Baby Boy', 'song': 'Ya no Llores', 'genre': 'Hip-Hop', 'alternative_artist': 'Baby Boy', 'add_to_final_records': True}
+{'artist': 'Baby Boy', 'song': 'Morenita', 'genre': 'Hip-Hop', 'alternative_artist': 'Baby Boy', 'add_to_final_records': True}
+{'artist': 'Baby Boy', 'song': 'Interlude Uno', 'genre': 'Hip-Hop', 'alternative_artist': 'Baby Boy', 'add_to_final_records': True}
+{'artist': 'Baby Boy', 'song': 'Mía, Mía, Mía', 'genre': 'Hip-Hop', 'alternative_artist': 'Baby Boy', 'add_to_final_records': True}
+{'artist': 'Baby Boy', 'song': 'So High', 'genre': 'Hip-Hop', 'alternative_artist': 'Baby Boy', 'add_to_final_records': True}
+{'artist': 'Baby Boy', 'song': 'Never Gonna Let You Go', 'genre': 'Hip-Hop', 'alternative_artist': 'Baby Boy', 'add_to_final_records': True}
+{'artist': 'Baby Boy', 'song': 'Tu Cuerpo', 'genre': 'Hip-Hop', 'alternative_artist': 'Baby Boy', 'add_to_final_records': True}
+{'artist': 'Baby Boy', 'song': 'Interlude Dos', 'genre': 'Hip-Hop', 'alternative_artist': 'Baby Boy', 'add_to_final_records': True}
+{'artist': 'Baby Boy', 'song': 'Pushing It', 'genre': 'Hip-Hop', 'alternative_artist': 'Baby Boy', 'add_to_final_records': True}
+{'artist': 'Baby Boy', 'song': 'Intro Baby Boy', 'genre': 'Hip-Hop', 'alternative_artist': 'Baby Boy', 'add_to_final_records': True}
+{'artist': 'Kodak Black', 'song': 'Tunnel Vision', 'genre': 'Hip-Hop', 'alternative_artist': 'Baby Boy', 'add_to_final_records': True}
+{'artist': "Lil' Kim", 'song': 'Download (feat. T-Pain & Charlie Wilson)', 'genre': 'Hip-Hop', 'alternative_artist': 'Charles Wilson', 'add_to_final_records': True}
+{'artist': 'Bizzy Bone', 'song': 'Thugz Cry', 'genre': 'Hip-Hop', 'alternative_artist': 'Bizzy Bone', 'add_to_final_records': True}
+{'artist': 'Bizzy Bone', 'song': 'On the Freeway', 'genre': 'Hip-Hop', 'alternative_artist': 'Bizzy Bone', 'add_to_final_records': True}
+{'artist': 'Bizzy Bone', 'song': 'Nobody Can Stop Me', 'genre': 'Hip-Hop', 'alternative_artist': 'Bizzy Bone', 'add_to_final_records': True}
+{'artist': 'Bizzy Bone', 'song': 'Still Thuggish Ruggish', 'genre': 'Hip-Hop', 'alternative_artist': 'Bizzy Bone', 'add_to_final_records': True}
+{'artist': 'Bizzy Bone', 'song': 'When I See', 'genre': 'Hip-Hop', 'alternative_artist': 'Bizzy Bone', 'add_to_final_records': True}
+{'artist': 'Bizzy Bone', 'song': 'Play It Again', 'genre': 'Hip-Hop', 'alternative_artist': 'Bizzy Bone', 'add_to_final_records': True}
+{'artist': 'Bizzy Bone', 'song': "Waitin' for Warfare", 'genre': 'Hip-Hop', 'alternative_artist': 'Bizzy Bone', 'add_to_final_records': True}
+{'artist': 'Bizzy Bone', 'song': 'Distant', 'genre': 'Hip-Hop', 'alternative_artist': 'Bizzy Bone', 'add_to_final_records': True}
+{'artist': 'Bizzy Bone', 'song': 'One Time', 'genre': 'Hip-Hop', 'alternative_artist': 'Bizzy Bone', 'add_to_final_records': True}
+{'artist': 'Bizzy Bone', 'song': '(This Roof Is) On Fire', 'genre': 'Hip-Hop', 'alternative_artist': 'Bizzy Bone', 'add_to_final_records': True}
+{'artist': 'Bizzy Bone', 'song': 'Give Up the Ghost (feat. Immature)', 'genre': 'Hip-Hop', 'alternative_artist': 'Bizzy Bone', 'add_to_final_records': True}
+{'artist': 'Bizzy Bone', 'song': "Yes Yes Y'all", 'genre': 'Hip-Hop', 'alternative_artist': 'Bizzy Bone', 'add_to_final_records': True}
+{'artist': 'Bizzy Bone', 'song': 'Thugs Need Love Too', 'genre': 'Hip-Hop', 'alternative_artist': 'Bizzy Bone', 'add_to_final_records': True}
+{'artist': 'Bizzy Bone', 'song': 'The Top', 'genre': 'Hip-Hop', 'alternative_artist': 'Bizzy Bone', 'add_to_final_records': True}
+{'artist': 'Bizzy Bone', 'song': 'I Understand', 'genre': 'Hip-Hop', 'alternative_artist': 'Bizzy Bone', 'add_to_final_records': True}
+{'artist': 'Bizzy Bone', 'song': "Don't Ask Me Why", 'genre': 'Hip-Hop', 'alternative_artist': 'Bizzy Bone', 'add_to_final_records': True}
+{'artist': 'Bizzy Bone', 'song': 'Lookin the Same', 'genre': 'Hip-Hop', 'alternative_artist': 'Bizzy Bone', 'add_to_final_records': True}
+{'artist': 'Bizzy Bone', 'song': 'Never Grow', 'genre': 'Hip-Hop', 'alternative_artist': 'Bizzy Bone', 'add_to_final_records': True}
+{'artist': 'Bizzy Bone', 'song': 'Let the Haters Know (Bonus Track)', 'genre': 'Hip-Hop', 'alternative_artist': 'Bizzy Bone', 'add_to_final_records': True}
+{'artist': 'Bizzy Bone', 'song': 'Maybe You Can Hold Me', 'genre': 'Hip-Hop', 'alternative_artist': 'Bizzy Bone', 'add_to_final_records': True}
+{'artist': 'Bizzy Bone', 'song': 'Wit a $20 Dolla Bill', 'genre': 'Hip-Hop', 'alternative_artist': 'Bizzy Bone', 'add_to_final_records': True}
+{'artist': 'Bizzy Bone', 'song': 'Jesus', 'genre': 'Hip-Hop', 'alternative_artist': 'Bizzy Bone', 'add_to_final_records': True}
+{'artist': 'Bizzy Bone', 'song': "Doin' It Wrong (Bonus Track)", 'genre': 'Hip-Hop', 'alternative_artist': 'Bizzy Bone', 'add_to_final_records': True}
+{'artist': 'Bizzy Bone', 'song': 'If the Sky Falls', 'genre': 'Hip-Hop', 'alternative_artist': 'Bizzy Bone', 'add_to_final_records': True}
+{'artist': 'Bizzy Bone', 'song': 'Explain to Me', 'genre': 'Hip-Hop', 'alternative_artist': 'Bizzy Bone', 'add_to_final_records': True}
+{'artist': 'Bizzy Bone', 'song': 'Seeing Things', 'genre': 'Hip-Hop', 'alternative_artist': 'Bizzy Bone', 'add_to_final_records': True}
+{'artist': 'Bizzy Bone', 'song': 'Menensky Mobbin', 'genre': 'Hip-Hop', 'alternative_artist': 'Bizzy Bone', 'add_to_final_records': True}
+{'artist': 'Bizzy Bone', 'song': 'Fried Day', 'genre': 'Hip-Hop', 'alternative_artist': 'Bizzy Bone', 'add_to_final_records': True}
+{'artist': 'Bizzy Bone', 'song': 'Demons Surround Me', 'genre': 'Hip-Hop', 'alternative_artist': 'Bizzy Bone', 'add_to_final_records': True}
+{'artist': 'Bizzy Bone', 'song': 'We Play', 'genre': 'Hip-Hop', 'alternative_artist': 'Bizzy Bone', 'add_to_final_records': True}
+{'artist': 'Bizzy Bone', 'song': 'Before I Go', 'genre': 'Hip-Hop', 'alternative_artist': 'Bizzy Bone', 'add_to_final_records': True}
+{'artist': 'Bizzy Bone', 'song': 'What Do We Say?', 'genre': 'Hip-Hop', 'alternative_artist': 'Bizzy Bone', 'add_to_final_records': True}
+{'artist': 'Bizzy Bone', 'song': 'BB da Thug', 'genre': 'Hip-Hop', 'alternative_artist': 'Bizzy Bone', 'add_to_final_records': True}
+{'artist': 'Bizzy Bone', 'song': 'Around the World', 'genre': 'Hip-Hop', 'alternative_artist': 'Bizzy Bone', 'add_to_final_records': True}
+{'artist': 'Bizzy Bone', 'song': 'All Day, All Night', 'genre': 'Hip-Hop', 'alternative_artist': 'Bizzy Bone', 'add_to_final_records': True}
+{'artist': 'Harrisun21', 'song': 'Oh Plz', 'genre': 'Hip-Hop', 'alternative_artist': 'Willa Ford', 'add_to_final_records': True}
+{'artist': 'Closed Sessions', 'song': 'So Stupid (feat. Sir Michael Rocks & Vic Mensa)', 'genre': 'Hip-Hop', 'alternative_artist': 'Vic Mensa', 'add_to_final_records': True}
+{'artist': 'Dead Obies', 'song': 'Montréal $ud', 'genre': 'Hip-Hop', 'alternative_artist': 'Bobbie Nelson', 'add_to_final_records': True}
+{'artist': 'Cory Gunz', 'song': 'Str8 Drop (feat. Hash)', 'genre': 'Hip-Hop', 'alternative_artist': 'Cory Gunz', 'add_to_final_records': True}
+{'artist': 'Fred the Godson & Cory Gunz', 'song': 'The Gods Gunz', 'genre': 'Hip-Hop', 'alternative_artist': 'Cory Gunz', 'add_to_final_records': True}
+{'artist': 'Nadia Patric & Cory Gunz', 'song': 'Trace of You', 'genre': 'Hip-Hop', 'alternative_artist': 'Cory Gunz', 'add_to_final_records': True}
+{'artist': 'Smoke DZA', 'song': 'Crazy Glue (feat. Cory Gunz & & Big Sant)', 'genre': 'Hip-Hop', 'alternative_artist': 'Cory Gunz', 'add_to_final_records': True}
+{'artist': 'Jet Life', 'song': 'Crazy Glue (feat. Smoke DZA, Cory Gunz & & Big Sant)', 'genre': 'Hip-Hop', 'alternative_artist': 'Cory Gunz', 'add_to_final_records': True}
+{'artist': 'Willie the Kid', 'song': 'Friends and Money (feat. Cory Gunz)', 'genre': 'Hip-Hop', 'alternative_artist': 'Cory Gunz', 'add_to_final_records': True}
+{'artist': 'Pete Powerz', 'song': 'X Marks the Spot (feat. Mysoone, Fred Da Godson, Drag  On, Fat Joe, Statuzz, Cory Gunz, Torch & Oun P)', 'genre': 'Hip-Hop', 'alternative_artist': 'Cory Gunz', 'add_to_final_records': True}
+{'artist': 'Macklemore & Ryan Lewis', 'song': 'Downtown (feat. Melle Mel, Grandmaster Caz, Kool Moe Dee & Eric Nally)', 'genre': 'Hip-Hop', 'alternative_artist': 'Grandmaster Melle Mel', 'add_to_final_records': True}
+{'artist': 'Boogie Black', 'song': "We Don't Need No Hook (feat. Grandmaster Melle Mel & Grandmaster Caz)", 'genre': 'Hip-Hop', 'alternative_artist': 'Grandmaster Melle Mel', 'add_to_final_records': True}
+{'artist': 'Bo Hagon, Crime Mob & D4L', 'song': 'Wuz Up', 'genre': 'Hip-Hop', 'alternative_artist': 'Crime Mob', 'add_to_final_records': True}
+{'artist': 'Pimp C, Bun B, Cory Mo & David Banner', 'song': "Ain't Nobody Trippin", 'genre': 'Hip-Hop', 'alternative_artist': 'David Banner', 'add_to_final_records': True}
+{'artist': 'Channel Live', 'song': 'All Is Fair', 'genre': 'Hip-Hop', 'alternative_artist': 'Channel Live', 'add_to_final_records': True}
+{'artist': 'Diaz & Channel Live', 'song': 'For the Right Price', 'genre': 'Hip-Hop', 'alternative_artist': 'Channel Live', 'add_to_final_records': True}
+{'artist': 'Heavy Z & Dente', 'song': 'Nice to Know Ya', 'genre': 'Hip-Hop', 'alternative_artist': 'Dente', 'add_to_final_records': True}
+{'artist': 'Heavy Z & Dente', 'song': 'Horse Power (feat. TX2)', 'genre': 'Hip-Hop', 'alternative_artist': 'Dente', 'add_to_final_records': True}
+{'artist': 'Heavy Z & Dente', 'song': 'Stand Out', 'genre': 'Hip-Hop', 'alternative_artist': 'Dente', 'add_to_final_records': True}
+{'artist': 'Heavy Z & Dente', 'song': 'Self Made', 'genre': 'Hip-Hop', 'alternative_artist': 'Dente', 'add_to_final_records': True}
+{'artist': 'Heavy Z & Dente', 'song': "I'm Back", 'genre': 'Hip-Hop', 'alternative_artist': 'Dente', 'add_to_final_records': True}
+{'artist': 'Heavy Z & Dente', 'song': 'Dripp', 'genre': 'Hip-Hop', 'alternative_artist': 'Dente', 'add_to_final_records': True}
+{'artist': 'Heavy Z & Dente', 'song': 'No Sub', 'genre': 'Hip-Hop', 'alternative_artist': 'Dente', 'add_to_final_records': True}
+{'artist': 'Heavy Z & Dente', 'song': 'Facts', 'genre': 'Hip-Hop', 'alternative_artist': 'Dente', 'add_to_final_records': True}
+{'artist': 'Heavy Z & Dente', 'song': 'Hitta Liq', 'genre': 'Hip-Hop', 'alternative_artist': 'Dente', 'add_to_final_records': True}
+{'artist': 'Heavy Z & Dente', 'song': 'Stoop Kidz', 'genre': 'Hip-Hop', 'alternative_artist': 'Dente', 'add_to_final_records': True}
+{'artist': 'O.G Fade Dogg', 'song': 'Ride With Me (feat. Kid Frost & David Wade)', 'genre': 'Hip-Hop', 'alternative_artist': 'Kid Frost', 'add_to_final_records': True}
+{'artist': 'Aplus Tha Kid', 'song': 'Real Niggaz (feat. Frost Beez & G Baby)', 'genre': 'Hip-Hop', 'alternative_artist': 'Kid Frost', 'add_to_final_records': True}
+{'artist': 'Casino the G', 'song': 'Tattoos & Alcoho (feat. Kid Frost & Weeto)', 'genre': 'Hip-Hop', 'alternative_artist': 'Kid Frost', 'add_to_final_records': True}
+{'artist': 'Nosizwe', 'song': 'Breathe (Chris Read Remix) [feat. Guilty Simpson, Rene Mclean & Naima Mclean]', 'genre': 'Hip-Hop', 'alternative_artist': 'Chris Rene', 'add_to_final_records': True}
+{'artist': 'Tech N9ne', 'song': "We're Not Sorry (feat. Mackenzie Nicole)", 'genre': 'Hip-Hop', 'alternative_artist': 'The Good Brothers', 'add_to_final_records': True}
+{'artist': 'Bianca Bonnie', 'song': 'Take Me Away (feat. Justina Valentine)', 'genre': 'Hip-Hop', 'alternative_artist': 'Justina Valentine', 'add_to_final_records': True}
+{'artist': 'Dirt Nasty', 'song': 'Preppy', 'genre': 'Hip-Hop', 'alternative_artist': 'Dirt Nasty', 'add_to_final_records': True}
+{'artist': 'Dirt Nasty', 'song': 'Dirt Nasty Sux (Intro)', 'genre': 'Hip-Hop', 'alternative_artist': 'Dirt Nasty', 'add_to_final_records': True}
+{'artist': 'Dirt Nasty', 'song': 'Gone Tomorrow (feat. Elan)', 'genre': 'Hip-Hop', 'alternative_artist': 'Dirt Nasty', 'add_to_final_records': True}
+{'artist': 'Dirt Nasty', 'song': 'Burn Rubber', 'genre': 'Hip-Hop', 'alternative_artist': 'Dirt Nasty', 'add_to_final_records': True}
+{'artist': 'Dirt Nasty', 'song': 'Superbad', 'genre': 'Hip-Hop', 'alternative_artist': 'Dirt Nasty', 'add_to_final_records': True}
+{'artist': 'Dirt Nasty', 'song': 'Special Report (Interlude)', 'genre': 'Hip-Hop', 'alternative_artist': 'Dirt Nasty', 'add_to_final_records': True}
+{'artist': 'Dirt Nasty', 'song': 'ExGF', 'genre': 'Hip-Hop', 'alternative_artist': 'Dirt Nasty', 'add_to_final_records': True}
+{'artist': 'Dirt Nasty', 'song': 'Crispy Baby', 'genre': 'Hip-Hop', 'alternative_artist': 'Dirt Nasty', 'add_to_final_records': True}
+{'artist': 'Kool Keith', 'song': 'World Wide Lamper (feat. B.a.R.S. Murre & Dirt Nasty)', 'genre': 'Hip-Hop', 'alternative_artist': 'Dirt Nasty', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': 'Po Pimp', 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': 'Playa Like Me and You', 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': 'Still Po Pimpin', 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': 'Playa Like Me', 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': 'Just Ballin', 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': 'Paper Chase', 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': 'Money Flow', 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': 'Alpha and Omega', 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': 'Sex Appeal', 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': 'Pimpology', 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': 'Kill or Be Killed', 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': 'Do U?', 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': 'Alpha Omega', 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': "Nobody's Home", 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': 'U Already Know', 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': '6 Million', 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': 'Bustin Back', 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': 'Can U Make It Hot', 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': 'Shut Em Down', 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': "Shut ' Em Down", 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': 'Choppin up That Paper', 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': 'Anotha One Dead and Gone', 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': 'Search Warrant', 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': 'Promise', 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': 'Hey Ma!', 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': 'Fantasy', 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': 'Get This Paper', 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': 'Holla', 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': 'Victory', 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': "Lil' Ghetto Boy", 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': 'Paperchase', 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': "Somethin' Like a Playa", 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': 'On My Own', 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': "Shut 'Em Down", 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': 'Skit', 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': 'One More Way 2 Die', 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': 'Up That Scratch', 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': "It Ain't Hard", 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': 'Grown Folk Biz', 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': 'Who I F*ck Wit', 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': 'Street Sh$T', 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': 'Get Yo Gunz', 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': '24-36-24', 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': 'Not 4 U', 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': 'Cold World', 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': 'Bomb on Contact', 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': 'In a Minute', 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': "Don't Give No F*ck (No Love 2k3)", 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': 'See It Through Reality', 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': 'Stateville', 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': 'Lil Sum Sum', 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': 'Can I', 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Do or Die', 'song': 'In a Mode', 'genre': 'Hip-Hop', 'alternative_artist': 'Do or Die', 'add_to_final_records': True}
+{'artist': 'Luh Brandon', 'song': 'Tatted Up', 'genre': 'Hip-Hop', 'alternative_artist': 'Luh Brandon', 'add_to_final_records': True}
+{'artist': 'Luh Brandon', 'song': 'With the Money', 'genre': 'Hip-Hop', 'alternative_artist': 'Luh Brandon', 'add_to_final_records': True}
+{'artist': 'Luh Brandon', 'song': 'God Mode', 'genre': 'Hip-Hop', 'alternative_artist': 'Luh Brandon', 'add_to_final_records': True}
+{'artist': 'Luh Brandon', 'song': 'Shower Sex', 'genre': 'Hip-Hop', 'alternative_artist': 'Luh Brandon', 'add_to_final_records': True}
+{'artist': 'Luh Brandon', 'song': 'Best Friend', 'genre': 'Hip-Hop', 'alternative_artist': 'Luh Brandon', 'add_to_final_records': True}
+{'artist': 'Luh Brandon', 'song': "I'm Back", 'genre': 'Hip-Hop', 'alternative_artist': 'Luh Brandon', 'add_to_final_records': True}
+{'artist': 'Luh Brandon', 'song': 'Name on the Check (feat. Rock Rackz)', 'genre': 'Hip-Hop', 'alternative_artist': 'Luh Brandon', 'add_to_final_records': True}
+{'artist': 'Luh Brandon', 'song': 'Finish Him', 'genre': 'Hip-Hop', 'alternative_artist': 'Luh Brandon', 'add_to_final_records': True}
+{'artist': 'Luh Brandon', 'song': 'Hoes Goin', 'genre': 'Hip-Hop', 'alternative_artist': 'Luh Brandon', 'add_to_final_records': True}
+{'artist': 'Luh Brandon', 'song': '24 / 7', 'genre': 'Hip-Hop', 'alternative_artist': 'Luh Brandon', 'add_to_final_records': True}
+{'artist': 'Luh Brandon', 'song': "Let's Ride", 'genre': 'Hip-Hop', 'alternative_artist': 'Luh Brandon', 'add_to_final_records': True}
+{'artist': 'Luh Brandon', 'song': 'My List', 'genre': 'Hip-Hop', 'alternative_artist': 'Luh Brandon', 'add_to_final_records': True}
+{'artist': 'Luh Brandon', 'song': 'Want It', 'genre': 'Hip-Hop', 'alternative_artist': 'Luh Brandon', 'add_to_final_records': True}
+{'artist': 'Luh Brandon', 'song': 'Suave Nigga', 'genre': 'Hip-Hop', 'alternative_artist': 'Luh Brandon', 'add_to_final_records': True}
+{'artist': 'Luh Brandon', 'song': 'Whole Lotta', 'genre': 'Hip-Hop', 'alternative_artist': 'Luh Brandon', 'add_to_final_records': True}
+{'artist': 'Luh Brandon', 'song': 'Salute', 'genre': 'Hip-Hop', 'alternative_artist': 'Luh Brandon', 'add_to_final_records': True}
+{'artist': 'Luh Brandon', 'song': 'Saturday', 'genre': 'Hip-Hop', 'alternative_artist': 'Luh Brandon', 'add_to_final_records': True}
+{'artist': 'Luh Brandon', 'song': 'Ghetto Tron', 'genre': 'Hip-Hop', 'alternative_artist': 'Luh Brandon', 'add_to_final_records': True}
+{'artist': 'Luh Brandon', 'song': 'Wit the Shit (feat. Rev Rock)', 'genre': 'Hip-Hop', 'alternative_artist': 'Luh Brandon', 'add_to_final_records': True}
+{'artist': 'Luh Brandon', 'song': 'Champion', 'genre': 'Hip-Hop', 'alternative_artist': 'Luh Brandon', 'add_to_final_records': True}
+{'artist': 'Luh Brandon', 'song': 'Poppin', 'genre': 'Hip-Hop', 'alternative_artist': 'Luh Brandon', 'add_to_final_records': True}
+{'artist': 'Luh Brandon', 'song': 'Cocky', 'genre': 'Hip-Hop', 'alternative_artist': 'Luh Brandon', 'add_to_final_records': True}
+{'artist': 'Luh Brandon', 'song': 'Bollyhood', 'genre': 'Hip-Hop', 'alternative_artist': 'Luh Brandon', 'add_to_final_records': True}
+{'artist': 'Luh Brandon', 'song': 'Money', 'genre': 'Hip-Hop', 'alternative_artist': 'Luh Brandon', 'add_to_final_records': True}
+{'artist': 'Luh Brandon', 'song': "Let's Go", 'genre': 'Hip-Hop', 'alternative_artist': 'Luh Brandon', 'add_to_final_records': True}
+{'artist': 'Luh Brandon', 'song': 'So Fly', 'genre': 'Hip-Hop', 'alternative_artist': 'Luh Brandon', 'add_to_final_records': True}
+{'artist': 'Luh Brandon', 'song': '618', 'genre': 'Hip-Hop', 'alternative_artist': 'Luh Brandon', 'add_to_final_records': True}
+{'artist': 'Luh Brandon', 'song': 'Staring', 'genre': 'Hip-Hop', 'alternative_artist': 'Luh Brandon', 'add_to_final_records': True}
+{'artist': 'Luh Brandon', 'song': 'You Lose', 'genre': 'Hip-Hop', 'alternative_artist': 'Luh Brandon', 'add_to_final_records': True}
+{'artist': 'Luh Brandon', 'song': 'We On (feat. Donn White)', 'genre': 'Hip-Hop', 'alternative_artist': 'Luh Brandon', 'add_to_final_records': True}
+{'artist': 'Luh Brandon', 'song': 'Stop', 'genre': 'Hip-Hop', 'alternative_artist': 'Luh Brandon', 'add_to_final_records': True}
+{'artist': 'Luh Brandon', 'song': 'Mailman (feat. Rock Rackz)', 'genre': 'Hip-Hop', 'alternative_artist': 'Luh Brandon', 'add_to_final_records': True}
+{'artist': 'Luh Brandon', 'song': 'Weapon', 'genre': 'Hip-Hop', 'alternative_artist': 'Luh Brandon', 'add_to_final_records': True}
+{'artist': 'Luh Brandon', 'song': 'Crazy', 'genre': 'Hip-Hop', 'alternative_artist': 'Luh Brandon', 'add_to_final_records': True}
+{'artist': 'Luh Brandon', 'song': 'Shottas', 'genre': 'Hip-Hop', 'alternative_artist': 'Luh Brandon', 'add_to_final_records': True}
+{'artist': 'Luh Brandon', 'song': 'California', 'genre': 'Hip-Hop', 'alternative_artist': 'Luh Brandon', 'add_to_final_records': True}
+{'artist': 'Luh Brandon', 'song': 'Vampire Gang', 'genre': 'Hip-Hop', 'alternative_artist': 'Luh Brandon', 'add_to_final_records': True}
+{'artist': 'Luh Brandon', 'song': 'Addicted', 'genre': 'Hip-Hop', 'alternative_artist': 'Luh Brandon', 'add_to_final_records': True}
+{'artist': 'Luh Brandon', 'song': 'Show Me Now', 'genre': 'Hip-Hop', 'alternative_artist': 'Luh Brandon', 'add_to_final_records': True}
+{'artist': 'Luh Brandon', 'song': 'Switching Lanes (feat. Don Hoover & Donn White)', 'genre': 'Hip-Hop', 'alternative_artist': 'Luh Brandon', 'add_to_final_records': True}
+{'artist': 'Luh Brandon', 'song': 'Turn It Up', 'genre': 'Hip-Hop', 'alternative_artist': 'Luh Brandon', 'add_to_final_records': True}
+{'artist': 'Luh Brandon', 'song': 'Flexxxin', 'genre': 'Hip-Hop', 'alternative_artist': 'Luh Brandon', 'add_to_final_records': True}
+{'artist': 'Luh Brandon', 'song': 'Sex Tape', 'genre': 'Hip-Hop', 'alternative_artist': 'Luh Brandon', 'add_to_final_records': True}
+{'artist': 'King Cyrus', 'song': 'Know Who I Am (feat. J.L. Revolutionary)', 'genre': 'Hip-Hop', 'alternative_artist': 'J', 'add_to_final_records': True}
+{'artist': 'DJ Revolution', 'song': '4 1 (feat. DJ Craze, DJ Infamous & Chino XL)', 'genre': 'Hip-Hop', 'alternative_artist': 'DJ Infamous', 'add_to_final_records': True}
+{'artist': "Candy's .22", 'song': "2 Shitbags & the Flys that go With' em (feat. Mickey Avalon & Metfly)", 'genre': 'Hip-Hop', 'alternative_artist': 'The Flys', 'add_to_final_records': True}
+{'artist': 'Boondox & Esham', 'song': 'I Murder', 'genre': 'Hip-Hop', 'alternative_artist': 'Boondox', 'add_to_final_records': True}
+{'artist': 'Boondox', 'song': 'Another Love Song', 'genre': 'Hip-Hop', 'alternative_artist': 'Boondox', 'add_to_final_records': True}
+{'artist': 'Insane Clown Posse, Boondox, Twiztid & Blaze Ya Dead Homie', 'song': 'Hatchet House', 'genre': 'Hip-Hop', 'alternative_artist': 'Boondox', 'add_to_final_records': True}
+{'artist': 'Boondox', 'song': 'Off the Post', 'genre': 'Hip-Hop', 'alternative_artist': 'Boondox', 'add_to_final_records': True}
+{'artist': 'Hazy Flow', 'song': 'Boondox', 'genre': 'Hip-Hop', 'alternative_artist': 'Boondox', 'add_to_final_records': True}
+{'artist': 'Snowgoons', 'song': 'The Legacy (feat. Esoteric, Ill Bill, Godilla, Fredro Starr, Sicknature, Punchline, Reks, Thirstin Howl 3rd, Planetary, Virtuoso, Maylay Sparks, Swann, Sav Killz, M-Dot & Reef the Lost Cauze)', 'genre': 'Hip-Hop', 'alternative_artist': 'Fredro Starr', 'add_to_final_records': True}
+{'artist': 'Mello Music Group', 'song': 'No Design to This (feat. Audible Doctor & Fredro Starr)', 'genre': 'Hip-Hop', 'alternative_artist': 'Fredro Starr', 'add_to_final_records': True}
+{'artist': 'Snowgoons', 'song': 'The Legacy (feat. Esoteric, Fredro Starr, Godilla, Ill Bill, Maylay Sparks, M-Dot, Planetary, Punchline, Reef the Lost Cauze, Reks, Sav Killz, Sicknature, Swan, Thirstin Howl III & Virtuoso)', 'genre': 'Hip-Hop', 'alternative_artist': 'Fredro Starr', 'add_to_final_records': True}
+{'artist': 'Reks', 'song': 'Unholy (feat. Fredro Starr & Ruste Juxx)', 'genre': 'Hip-Hop', 'alternative_artist': 'Fredro Starr', 'add_to_final_records': True}
+{'artist': 'Annakin Slayd', 'song': "Bringin' Bac Da Madface (feat. Fredro Starr & Sticky Fingaz of Onyx)", 'genre': 'Hip-Hop', 'alternative_artist': 'Fredro Starr', 'add_to_final_records': True}
+{'artist': 'Optimystic', 'song': 'Running from Reality (feat. Kali Ranks, Rampage & Fredro Starr)', 'genre': 'Hip-Hop', 'alternative_artist': 'Fredro Starr', 'add_to_final_records': True}
+{'artist': 'Alphamale', 'song': 'The War (feat. Fredro Starr)', 'genre': 'Hip-Hop', 'alternative_artist': 'Fredro Starr', 'add_to_final_records': True}
+{'artist': 'Children of the Corn & Big L', 'song': 'Biscuts & Bangers', 'genre': 'Hip-Hop', 'alternative_artist': 'Big L', 'add_to_final_records': True}
+{'artist': 'Children of the Corn & Big L', 'song': 'American Dream', 'genre': 'Hip-Hop', 'alternative_artist': 'Big L', 'add_to_final_records': True}
+{'artist': 'Children of the Corn & Big L', 'song': 'Harlem Nights', 'genre': 'Hip-Hop', 'alternative_artist': 'Big L', 'add_to_final_records': True}
+{'artist': 'Children of the Corn & Big L', 'song': 'I Remember When...', 'genre': 'Hip-Hop', 'alternative_artist': 'Big L', 'add_to_final_records': True}
+{'artist': 'Children of the Corn & Big L', 'song': 'Stars Is Born', 'genre': 'Hip-Hop', 'alternative_artist': 'Big L', 'add_to_final_records': True}
+{'artist': 'Children of the Corn & Big L', 'song': 'Ill Flow', 'genre': 'Hip-Hop', 'alternative_artist': 'Big L', 'add_to_final_records': True}
+{'artist': 'Children of the Corn & Big L', 'song': 'Doin It', 'genre': 'Hip-Hop', 'alternative_artist': 'Big L', 'add_to_final_records': True}
+{'artist': 'Children of the Corn & Big L', 'song': 'Paint the Town Red', 'genre': 'Hip-Hop', 'alternative_artist': 'Big L', 'add_to_final_records': True}
+{'artist': 'Children of the Corn & Big L', 'song': "Don't Sleep", 'genre': 'Hip-Hop', 'alternative_artist': 'Big L', 'add_to_final_records': True}
+{'artist': 'Children of the Corn & Big L', 'song': 'Hard 2 Get By', 'genre': 'Hip-Hop', 'alternative_artist': 'Big L', 'add_to_final_records': True}
+{'artist': 'Children of the Corn & Big L', 'song': "Trickin'", 'genre': 'Hip-Hop', 'alternative_artist': 'Big L', 'add_to_final_records': True}
+{'artist': 'Big Scoob', 'song': 'Dump Ni**A (feat. J.L. & Boogieman)', 'genre': 'Hip-Hop', 'alternative_artist': 'Big L', 'add_to_final_records': True}
+{'artist': 'Psycho Les', 'song': 'Baba Barz (feat. RA Rugged man & Eamon)', 'genre': 'Hip-Hop', 'alternative_artist': 'Eamon', 'add_to_final_records': True}
+{'artist': 'KYLE', 'song': 'Deepest Part of Me', 'genre': 'Hip-Hop', 'alternative_artist': 'Army of Me', 'add_to_final_records': True}
+{'artist': 'Mr Muffin', 'song': 'U$Ed $Cam', 'genre': 'Hip-Hop', 'alternative_artist': 'Mr Muffin', 'add_to_final_records': True}
+{'artist': 'Mr Muffin', 'song': 'Magnificent', 'genre': 'Hip-Hop', 'alternative_artist': 'Mr Muffin', 'add_to_final_records': True}
+{'artist': 'Mr Muffin', 'song': 'Blue Face', 'genre': 'Hip-Hop', 'alternative_artist': 'Mr Muffin', 'add_to_final_records': True}
+{'artist': 'Mr Muffin', 'song': 'Fire and Grace!!', 'genre': 'Hip-Hop', 'alternative_artist': 'Mr Muffin', 'add_to_final_records': True}
+{'artist': 'Mr Muffin', 'song': 'The Afr!can Dream', 'genre': 'Hip-Hop', 'alternative_artist': 'Mr Muffin', 'add_to_final_records': True}
+{'artist': 'Mr Muffin', 'song': 'Syll@Bus', 'genre': 'Hip-Hop', 'alternative_artist': 'Mr Muffin', 'add_to_final_records': True}
+{'artist': 'Mr Muffin', 'song': 'Breakfast', 'genre': 'Hip-Hop', 'alternative_artist': 'Mr Muffin', 'add_to_final_records': True}
+{'artist': 'Mr Muffin', 'song': '+Demonic -Gonzo- (feat. 12welve)', 'genre': 'Hip-Hop', 'alternative_artist': 'Mr Muffin', 'add_to_final_records': True}
+{'artist': 'Mr Muffin', 'song': '#Mnb', 'genre': 'Hip-Hop', 'alternative_artist': 'Mr Muffin', 'add_to_final_records': True}
+{'artist': 'Mr Muffin', 'song': 'Tnb, Laga!', 'genre': 'Hip-Hop', 'alternative_artist': 'Mr Muffin', 'add_to_final_records': True}
+{'artist': 'Mr Muffin', 'song': 'Blakk Boi Muff! (feat. Drew)', 'genre': 'Hip-Hop', 'alternative_artist': 'Mr Muffin', 'add_to_final_records': True}
+{'artist': 'Mr Muffin', 'song': 'Lunch', 'genre': 'Hip-Hop', 'alternative_artist': 'Mr Muffin', 'add_to_final_records': True}
+{'artist': 'Young Buck', 'song': 'Smoke Our Life Away', 'genre': 'Hip-Hop', 'alternative_artist': 'Young Buck', 'add_to_final_records': True}
+{'artist': 'Young Buck', 'song': 'Not Killing Me', 'genre': 'Hip-Hop', 'alternative_artist': 'Young Buck', 'add_to_final_records': True}
+{'artist': 'Young Buck', 'song': 'The Bust', 'genre': 'Hip-Hop', 'alternative_artist': 'Young Buck', 'add_to_final_records': True}
+{'artist': 'Young Buck', 'song': 'Reality Check', 'genre': 'Hip-Hop', 'alternative_artist': 'Young Buck', 'add_to_final_records': True}
+{'artist': 'Young Buck', 'song': 'Ya Betta Know It', 'genre': 'Hip-Hop', 'alternative_artist': 'Young Buck', 'add_to_final_records': True}
+{'artist': 'Young Buck', 'song': 'Hood Documentary', 'genre': 'Hip-Hop', 'alternative_artist': 'Young Buck', 'add_to_final_records': True}
+{'artist': 'Young Buck', 'song': 'When the Rain Stops', 'genre': 'Hip-Hop', 'alternative_artist': 'Young Buck', 'add_to_final_records': True}
+{'artist': 'Young Buck', 'song': 'Tha Streetz', 'genre': 'Hip-Hop', 'alternative_artist': 'Young Buck', 'add_to_final_records': True}
+{'artist': 'Young Buck', 'song': 'Keep It Moving', 'genre': 'Hip-Hop', 'alternative_artist': 'Young Buck', 'add_to_final_records': True}
+{'artist': 'Young Buck', 'song': 'This Is Mine', 'genre': 'Hip-Hop', 'alternative_artist': 'Young Buck', 'add_to_final_records': True}
+{'artist': 'Young Buck', 'song': 'Leave It Alone', 'genre': 'Hip-Hop', 'alternative_artist': 'Young Buck', 'add_to_final_records': True}
+{'artist': 'Young Buck', 'song': 'Statistics', 'genre': 'Hip-Hop', 'alternative_artist': 'Young Buck', 'add_to_final_records': True}
+{'artist': 'Young Buck', 'song': 'Like a Million', 'genre': 'Hip-Hop', 'alternative_artist': 'Young Buck', 'add_to_final_records': True}
+{'artist': 'Young Buck', 'song': "Nothin' 4 Ya", 'genre': 'Hip-Hop', 'alternative_artist': 'Young Buck', 'add_to_final_records': True}
+{'artist': 'Chad Armes', 'song': 'Tip the DJ (feat. Josh Hoge)', 'genre': 'Hip-Hop', 'alternative_artist': 'Josh Hoge', 'add_to_final_records': True}
+{'artist': 'Chad Armes', 'song': 'Summertime (feat. Josh Hoge)', 'genre': 'Hip-Hop', 'alternative_artist': 'Josh Hoge', 'add_to_final_records': True}

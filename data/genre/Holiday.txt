@@ -2207,3 +2207,1151 @@
 {'artist': 'The Decemberists', 'song': "Please Daddy (Don't Get Drunk This Christmas) [CONNECT Set]", 'genre': 'Holiday', 'alternative_artist': 'The Decemberists', 'add_to_final_records': True}
 {'artist': 'The Decemberists', 'song': "Angel, Won't You Call Me", 'genre': 'Holiday', 'alternative_artist': 'The Decemberists', 'add_to_final_records': True}
 {'artist': 'The Decemberists', 'song': 'Jesus Christ', 'genre': 'Holiday', 'alternative_artist': 'The Decemberists', 'add_to_final_records': True}
+{'artist': 'Fuel', 'song': 'We Three Kings', 'genre': 'Holiday', 'alternative_artist': 'Fuel', 'add_to_final_records': True}
+{'artist': 'The Broadway Cast Of "The Phantom Of The Opera"', 'song': 'I Saw Three Ships (feat. James Barbour, Rachel Zatcoff, Lynne Abeles, Angie Finn, Kelly Jeanne Grant, Heather Hill, Satomi Hofmann, Billy Kazdan, Gina Lamparella, Michele MC Connell, Katherine MC Namee, Nathan Patrick Morgan, Brett Tubbs & Wade Walton)', 'genre': 'Holiday', 'alternative_artist': 'Brett James', 'add_to_final_records': True}
+{'artist': 'James Griffett, Ian Partridge, Neil Jenkins, Charles Brett, Timothy Penrose, Brian Etheridge, Michael George, Pro Cantione Antiqua & Mark Brown', 'song': 'Alle Psallite Cum Luya', 'genre': 'Holiday', 'alternative_artist': 'Brett James', 'add_to_final_records': True}
+{'artist': 'James Griffett, Ian Partridge, Neil Jenkins, Charles Brett, Timothy Penrose, Brian Etheridge, Michael George, Peter Davies, Jonathan Morgan, Andrew Van Der Beek, Pro Cantione Antiqua, Medieval Wind Ensemble & Mark Brown', 'song': 'Synge We to Thys Mery Cumpane', 'genre': 'Holiday', 'alternative_artist': 'Brett James', 'add_to_final_records': True}
+{'artist': 'James Griffett, Ian Partridge, Neil Jenkins, Charles Brett, Timothy Penrose, Brian Etheridge, Michael George, Pro Cantione Antiqua & Mark Brown', 'song': 'Nova, Nova, Ave fix ed Eva', 'genre': 'Holiday', 'alternative_artist': 'Brett James', 'add_to_final_records': True}
+{'artist': 'James Griffett, Ian Partridge, Neil Jenkins, Charles Brett, Timothy Penrose, Brian Etheridge, Michael George, Pro Cantione Antiqua & Mark Brown', 'song': 'Verbum Patris Hodie', 'genre': 'Holiday', 'alternative_artist': 'Brett James', 'add_to_final_records': True}
+{'artist': 'James Griffett, Ian Partridge, Neil Jenkins, Charles Brett, Timothy Penrose, Brian Etheridge, Michael George, Pro Cantione Antiqua & Mark Brown', 'song': 'E Semine Rosa', 'genre': 'Holiday', 'alternative_artist': 'Brett James', 'add_to_final_records': True}
+{'artist': 'James Griffett, Ian Partridge, Neil Jenkins, Charles Brett, Timothy Penrose, Brian Etheridge, Michael George, Pro Cantione Antiqua & Mark Brown', 'song': 'Nowel, Synge We Both Al and Som', 'genre': 'Holiday', 'alternative_artist': 'Brett James', 'add_to_final_records': True}
+{'artist': 'James Griffett, Ian Partridge, Neil Jenkins, Charles Brett, Timothy Penrose, Brian Etheridge, Michael George, Pro Cantione Antiqua & Mark Brown', 'song': 'Alleluia Psallat', 'genre': 'Holiday', 'alternative_artist': 'Brett James', 'add_to_final_records': True}
+{'artist': 'James Griffett, Ian Partridge, Neil Jenkins, Charles Brett, Timothy Penrose, Brian Etheridge, Michael George, Pro Cantione Antiqua & Mark Brown', 'song': 'Hayl Mary', 'genre': 'Holiday', 'alternative_artist': 'Brett James', 'add_to_final_records': True}
+{'artist': 'James Griffett, Ian Partridge, Neil Jenkins, Charles Brett, Timothy Penrose, Brian Etheridge, Michael George, Pro Cantione Antiqua & Mark Brown', 'song': 'Edi Beo Thu, Hevene Queene', 'genre': 'Holiday', 'alternative_artist': 'Brett James', 'add_to_final_records': True}
+{'artist': 'James Griffett, Ian Partridge, Neil Jenkins, Charles Brett, Timothy Penrose, Brian Etheridge, Michael George, Pro Cantione Antiqua & Mark Brown', 'song': 'Orientis Partibus', 'genre': 'Holiday', 'alternative_artist': 'Brett James', 'add_to_final_records': True}
+{'artist': 'James Griffett, Ian Partridge, Neil Jenkins, Charles Brett, Timothy Penrose, Brian Etheridge, Michael George, Pro Cantione Antiqua & Mark Brown', 'song': 'Angelus ad Virginem', 'genre': 'Holiday', 'alternative_artist': 'Brett James', 'add_to_final_records': True}
+{'artist': 'Brent James & the Vintage Youth', 'song': 'Christmas Is Coming', 'genre': 'Holiday', 'alternative_artist': 'Brett James', 'add_to_final_records': True}
+{'artist': 'James Griffett, Ian Partridge, Neil Jenkins, Charles Brett, Timothy Penrose, Brian Etheridge, Michael George, Pro Cantione Antiqua & Mark Brown', 'song': 'Nowel: Owt of your slepe aryse', 'genre': 'Holiday', 'alternative_artist': 'Brett James', 'add_to_final_records': True}
+{'artist': 'James Griffett, Ian Partridge, Neil Jenkins, Charles Brett, Timothy Penrose, Brian Etheridge, Michael George, Peter Davies, Andrew Van Der Beek, Pro Cantione Antiqua, Medieval Wind Ensemble & Mark Brown', 'song': 'Goday My Lord Syre Cristemasse', 'genre': 'Holiday', 'alternative_artist': 'Brett James', 'add_to_final_records': True}
+{'artist': 'The Christmas Pranksters', 'song': 'Joy to the World, FedEx Has Come', 'genre': 'Holiday', 'alternative_artist': 'Fedez', 'add_to_final_records': True}
+{'artist': 'Evan Taubenfeld', 'song': 'Merry Swiftmas (Even Though I Celebrate Chanukah)', 'genre': 'Holiday', 'alternative_artist': 'Evan Taubenfeld', 'add_to_final_records': True}
+{'artist': 'Steve Carter', 'song': 'We Three Kings (feat. Jeffrey Barnes)', 'genre': 'Holiday', 'alternative_artist': 'Denton King', 'add_to_final_records': True}
+{'artist': 'Kelly Willis & Bruce Robison', 'song': "Baby, It's Cold Outside", 'genre': 'Holiday', 'alternative_artist': 'Bruce Willis', 'add_to_final_records': True}
+{'artist': 'Kelly Willis & Bruce Robison', 'song': 'Santa Baby', 'genre': 'Holiday', 'alternative_artist': 'Bruce Willis', 'add_to_final_records': True}
+{'artist': 'Kelly Willis & Bruce Robison', 'song': 'Oklahoma Christmas', 'genre': 'Holiday', 'alternative_artist': 'Bruce Willis', 'add_to_final_records': True}
+{'artist': 'Kelly Willis & Bruce Robison', 'song': 'Have Yourself a Merry Little Christmas', 'genre': 'Holiday', 'alternative_artist': 'Bruce Willis', 'add_to_final_records': True}
+{'artist': 'Kelly Willis & Bruce Robison', 'song': 'Santa Looked a Lot Like Daddy', 'genre': 'Holiday', 'alternative_artist': 'Bruce Willis', 'add_to_final_records': True}
+{'artist': 'Kelly Willis & Bruce Robison', 'song': "Please Daddy, Don't Get Drunk", 'genre': 'Holiday', 'alternative_artist': 'Bruce Willis', 'add_to_final_records': True}
+{'artist': 'Kelly Willis & Bruce Robison', 'song': 'In the Bleak Midwinter', 'genre': 'Holiday', 'alternative_artist': 'Bruce Willis', 'add_to_final_records': True}
+{'artist': 'Kelly Willis & Bruce Robison', 'song': 'The Christmas Waltz', 'genre': 'Holiday', 'alternative_artist': 'Bruce Willis', 'add_to_final_records': True}
+{'artist': 'Kelly Willis & Bruce Robison', 'song': "A Winter's Tale", 'genre': 'Holiday', 'alternative_artist': 'Bruce Willis', 'add_to_final_records': True}
+{'artist': 'Kelly Willis & Bruce Robison', 'song': 'Shut In At Christmas', 'genre': 'Holiday', 'alternative_artist': 'Bruce Willis', 'add_to_final_records': True}
+{'artist': 'Kelly Willis & Bruce Robison', 'song': 'Blue Christmas', 'genre': 'Holiday', 'alternative_artist': 'Bruce Willis', 'add_to_final_records': True}
+{'artist': 'Last Train Home', 'song': 'Christmas in St. Paul', 'genre': 'Holiday', 'alternative_artist': 'Last Train Home', 'add_to_final_records': True}
+{'artist': 'Last Train Home', 'song': 'Home for Christmas', 'genre': 'Holiday', 'alternative_artist': 'Last Train Home', 'add_to_final_records': True}
+{'artist': 'Chad Brock', 'song': 'Blue Christmas (LP Version)', 'genre': 'Holiday', 'alternative_artist': 'Chad Brock', 'add_to_final_records': True}
+{'artist': 'Mariah Carey', 'song': 'All I Want For Christmas Is You', 'genre': 'Holiday', 'alternative_artist': 'All', 'add_to_final_records': True}
+{'artist': 'Ima', 'song': "I'll Be Home for Christmas / Feliz Navidad", 'genre': 'Holiday', 'alternative_artist': 'Ima', 'add_to_final_records': True}
+{'artist': 'Ima', 'song': 'Marie-Noël', 'genre': 'Holiday', 'alternative_artist': 'Ima', 'add_to_final_records': True}
+{'artist': 'Ima', 'song': 'Joyeux Noël - Finale', 'genre': 'Holiday', 'alternative_artist': 'Ima', 'add_to_final_records': True}
+{'artist': 'Ima', 'song': 'Happy Xmas (War Is Over) / Imagine', 'genre': 'Holiday', 'alternative_artist': 'Ima', 'add_to_final_records': True}
+{'artist': 'Ima', 'song': "I'm Always Chasing Rainbows / Over the Rainbow", 'genre': 'Holiday', 'alternative_artist': 'Ima', 'add_to_final_records': True}
+{'artist': 'Ima', 'song': 'Amazing Grace', 'genre': 'Holiday', 'alternative_artist': 'Ima', 'add_to_final_records': True}
+{'artist': 'Ima', 'song': 'Santa Claus Is Coming to Town', 'genre': 'Holiday', 'alternative_artist': 'Ima', 'add_to_final_records': True}
+{'artist': 'Ima', 'song': 'Intro - The Christmas Song', 'genre': 'Holiday', 'alternative_artist': 'Ima', 'add_to_final_records': True}
+{'artist': 'Ima', 'song': 'I Have a Dream', 'genre': 'Holiday', 'alternative_artist': 'Ima', 'add_to_final_records': True}
+{'artist': 'Ima', 'song': 'Danny Boy', 'genre': 'Holiday', 'alternative_artist': 'Ima', 'add_to_final_records': True}
+{'artist': 'Ima', 'song': 'Angel', 'genre': 'Holiday', 'alternative_artist': 'Ima', 'add_to_final_records': True}
+{'artist': 'Ima', 'song': 'It Had to Be You', 'genre': 'Holiday', 'alternative_artist': 'Ima', 'add_to_final_records': True}
+{'artist': 'Ima', 'song': 'Ma liste de Noël', 'genre': 'Holiday', 'alternative_artist': 'Ima', 'add_to_final_records': True}
+{'artist': 'Ima', 'song': 'Ma Liste De Noël', 'genre': 'Holiday', 'alternative_artist': 'Ima', 'add_to_final_records': True}
+{'artist': 'Paul Brandt', 'song': 'Home for the Holidays', 'genre': 'Holiday', 'alternative_artist': 'Paul Brandt', 'add_to_final_records': True}
+{'artist': 'Tim Johnson', 'song': "Angels Bounce (Ryan's Song)", 'genre': 'Holiday', 'alternative_artist': 'Tim Ryan', 'add_to_final_records': True}
+{'artist': 'The Buckaroos', 'song': 'Santa Looked a Lot Like Daddy (Or Daddy Looked a Lot Like Him)', 'genre': 'Holiday', 'alternative_artist': 'Buck Owens', 'add_to_final_records': True}
+{'artist': 'The Buckaroos', 'song': "Santa's Gonna Come In a Stage Coach", 'genre': 'Holiday', 'alternative_artist': 'Buck Owens', 'add_to_final_records': True}
+{'artist': 'The Buckaroos', 'song': 'Jingle Bells', 'genre': 'Holiday', 'alternative_artist': 'Buck Owens', 'add_to_final_records': True}
+{'artist': 'The Buckaroos', 'song': 'Here Comes Santa Claus Again', 'genre': 'Holiday', 'alternative_artist': 'Buck Owens', 'add_to_final_records': True}
+{'artist': 'Buck Owens', 'song': 'Santa Looked a Lot Like Daddy (Daddy Looked a Lot Like Him)', 'genre': 'Holiday', 'alternative_artist': 'Buck Owens', 'add_to_final_records': True}
+{'artist': 'The Buckaroos', 'song': "Because It's Christmas Time", 'genre': 'Holiday', 'alternative_artist': 'Buck Owens', 'add_to_final_records': True}
+{'artist': 'The Buckaroos', 'song': 'All I Want for Christmas Is You', 'genre': 'Holiday', 'alternative_artist': 'Buck Owens', 'add_to_final_records': True}
+{'artist': 'The Buckaroos', 'song': 'Blue Christmas Lights', 'genre': 'Holiday', 'alternative_artist': 'Buck Owens', 'add_to_final_records': True}
+{'artist': 'The Buckaroos', 'song': "Christmas Time's A-Comin'", 'genre': 'Holiday', 'alternative_artist': 'Buck Owens', 'add_to_final_records': True}
+{'artist': 'The Buckaroos', 'song': "Christmas Ain't Christmas", 'genre': 'Holiday', 'alternative_artist': 'Buck Owens', 'add_to_final_records': True}
+{'artist': 'The Buckaroos', 'song': 'Blue Christmas Tree', 'genre': 'Holiday', 'alternative_artist': 'Buck Owens', 'add_to_final_records': True}
+{'artist': 'The Buckaroos', 'song': 'Christmas Morning', 'genre': 'Holiday', 'alternative_artist': 'Buck Owens', 'add_to_final_records': True}
+{'artist': 'The Buckaroos', 'song': "It's Christmas Time for Everyone But Me", 'genre': 'Holiday', 'alternative_artist': 'Buck Owens', 'add_to_final_records': True}
+{'artist': 'John Sebastian', 'song': 'Grumpy Little Christmas (feat. David Grisman)', 'genre': 'Holiday', 'alternative_artist': 'John Sebastian', 'add_to_final_records': True}
+{'artist': 'Buddy Emmons', 'song': 'Sleigh Ride', 'genre': 'Holiday', 'alternative_artist': 'Buddy Emmons', 'add_to_final_records': True}
+{'artist': 'Buddy Emmons', 'song': 'Have Yourself a Merry Little Christmas', 'genre': 'Holiday', 'alternative_artist': 'Buddy Emmons', 'add_to_final_records': True}
+{'artist': 'Narini', 'song': 'I Believe', 'genre': 'Holiday', 'alternative_artist': 'Amanda Marshall', 'add_to_final_records': True}
+{'artist': 'Chad Mitchell Trio', 'song': 'Marvelous Toy', 'genre': 'Holiday', 'alternative_artist': 'Chad Mitchell', 'add_to_final_records': True}
+{'artist': 'Chad Mitchell Trio', 'song': 'Virgin Mary', 'genre': 'Holiday', 'alternative_artist': 'Chad Mitchell', 'add_to_final_records': True}
+{'artist': 'Kathie Lee Gifford', 'song': 'Most of All I Wish You Were Here', 'genre': 'Holiday', 'alternative_artist': 'Kathie Lee Gifford', 'add_to_final_records': True}
+{'artist': 'Kathie Lee Gifford', 'song': 'Have Yourself a Merry Little Christmas', 'genre': 'Holiday', 'alternative_artist': 'Kathie Lee Gifford', 'add_to_final_records': True}
+{'artist': 'Kathie Lee Gifford', 'song': 'The Christmas Waltz / The Most Wonderful Time of the Year', 'genre': 'Holiday', 'alternative_artist': 'Kathie Lee Gifford', 'add_to_final_records': True}
+{'artist': 'Kathie Lee Gifford', 'song': 'What Child Is This', 'genre': 'Holiday', 'alternative_artist': 'Kathie Lee Gifford', 'add_to_final_records': True}
+{'artist': 'Kathie Lee Gifford', 'song': "It's Beginning to Look Like Christmas", 'genre': 'Holiday', 'alternative_artist': 'Kathie Lee Gifford', 'add_to_final_records': True}
+{'artist': 'Kathie Lee Gifford', 'song': 'It Came Upon a Midnight Clear / Angels We Have Heard On High / Hark! The Herald Angels Sing', 'genre': 'Holiday', 'alternative_artist': 'Kathie Lee Gifford', 'add_to_final_records': True}
+{'artist': 'Kathie Lee Gifford', 'song': 'Silver Bells', 'genre': 'Holiday', 'alternative_artist': 'Kathie Lee Gifford', 'add_to_final_records': True}
+{'artist': 'Kathie Lee Gifford', 'song': "I'll Be Home for Christmas", 'genre': 'Holiday', 'alternative_artist': 'Kathie Lee Gifford', 'add_to_final_records': True}
+{'artist': 'Kathie Lee Gifford', 'song': 'Winter Wonderland', 'genre': 'Holiday', 'alternative_artist': 'Kathie Lee Gifford', 'add_to_final_records': True}
+{'artist': 'Kathie Lee Gifford', 'song': 'White Christmas', 'genre': 'Holiday', 'alternative_artist': 'Kathie Lee Gifford', 'add_to_final_records': True}
+{'artist': 'Kathie Lee Gifford', 'song': 'Away In a Manger / Sleep Well Little Children', 'genre': 'Holiday', 'alternative_artist': 'Kathie Lee Gifford', 'add_to_final_records': True}
+{'artist': 'Kathie Lee Gifford', 'song': "O Little Town of Bethlehem / The First Noel / It's Christmas Time", 'genre': 'Holiday', 'alternative_artist': 'Kathie Lee Gifford', 'add_to_final_records': True}
+{'artist': 'The Broadway Cast Of "Kinky Boots"', 'song': 'One Little Christmas Tree (feat. Douglas Baldeo, Graham Montgomery, Jeremy T. Villas, Jonah Halperin, Nick Rashad Burroughs, Sean Patrick Doyle, Mia Gentile, Gaelen Gilliland, Kevin Smith Kirkwood, Ellyn Marie Marsh, Jennifer Perry & Cortney Wolfson)', 'genre': 'Holiday', 'alternative_artist': 'Kevin Montgomery', 'add_to_final_records': True}
+{'artist': "Keb' Mo'", 'song': 'Shopping On Christmas Eve', 'genre': 'Holiday', 'alternative_artist': "Keb' Mo'", 'add_to_final_records': True}
+{'artist': "Keb' Mo'", 'song': 'Jingle Bell Jamboree', 'genre': 'Holiday', 'alternative_artist': "Keb' Mo'", 'add_to_final_records': True}
+{'artist': "Keb' Mo'", 'song': 'The Christmas Song', 'genre': 'Holiday', 'alternative_artist': "Keb' Mo'", 'add_to_final_records': True}
+{'artist': "Keb' Mo'", 'song': 'We Call It Christmas', 'genre': 'Holiday', 'alternative_artist': "Keb' Mo'", 'add_to_final_records': True}
+{'artist': 'The Wood Brothers', 'song': 'Rebel Jesus', 'genre': 'Holiday', 'alternative_artist': 'The Wood Brothers', 'add_to_final_records': True}
+{'artist': 'JT Hodges', 'song': 'Joy To the World', 'genre': 'Holiday', 'alternative_artist': 'JT Hodges', 'add_to_final_records': True}
+{'artist': 'Burl Ives', 'song': 'A Holly Jolly Christmas', 'genre': 'Holiday', 'alternative_artist': 'Burl Ives', 'add_to_final_records': True}
+{'artist': 'Burl Ives', 'song': 'Rudolph the Red-Nosed Reindeer', 'genre': 'Holiday', 'alternative_artist': 'Burl Ives', 'add_to_final_records': True}
+{'artist': 'Burl Ives', 'song': 'Silver and Gold', 'genre': 'Holiday', 'alternative_artist': 'Burl Ives', 'add_to_final_records': True}
+{'artist': 'Burl Ives', 'song': 'It Came Upon a Midnight Clear', 'genre': 'Holiday', 'alternative_artist': 'Burl Ives', 'add_to_final_records': True}
+{'artist': 'Burl Ives', 'song': 'Overture and a Holly Jolly Christmas', 'genre': 'Holiday', 'alternative_artist': 'Burl Ives', 'add_to_final_records': True}
+{'artist': 'Burl Ives', 'song': 'What Child Is This?', 'genre': 'Holiday', 'alternative_artist': 'Burl Ives', 'add_to_final_records': True}
+{'artist': 'Burl Ives', 'song': 'Silver Bells', 'genre': 'Holiday', 'alternative_artist': 'Burl Ives', 'add_to_final_records': True}
+{'artist': 'Burl Ives', 'song': 'Santa Claus Is Coming to Town', 'genre': 'Holiday', 'alternative_artist': 'Burl Ives', 'add_to_final_records': True}
+{'artist': 'Burl Ives', 'song': 'Twelve Days of Christmas', 'genre': 'Holiday', 'alternative_artist': 'Burl Ives', 'add_to_final_records': True}
+{'artist': 'Burl Ives', 'song': 'Oh, Little Town of Bethlehem', 'genre': 'Holiday', 'alternative_artist': 'Burl Ives', 'add_to_final_records': True}
+{'artist': 'Burl Ives', 'song': 'I Heard the Bells On Christmas Day', 'genre': 'Holiday', 'alternative_artist': 'Burl Ives', 'add_to_final_records': True}
+{'artist': 'Burl Ives', 'song': 'The Little Drummer Boy', 'genre': 'Holiday', 'alternative_artist': 'Burl Ives', 'add_to_final_records': True}
+{'artist': 'Burl Ives', 'song': 'White Christmas', 'genre': 'Holiday', 'alternative_artist': 'Burl Ives', 'add_to_final_records': True}
+{'artist': 'Burl Ives', 'song': 'Silent Night', 'genre': 'Holiday', 'alternative_artist': 'Burl Ives', 'add_to_final_records': True}
+{'artist': 'Burl Ives', 'song': 'Winter Wonderland', 'genre': 'Holiday', 'alternative_artist': 'Burl Ives', 'add_to_final_records': True}
+{'artist': 'Burl Ives', 'song': "Christmas Can't Be Far Away", 'genre': 'Holiday', 'alternative_artist': 'Burl Ives', 'add_to_final_records': True}
+{'artist': 'Burl Ives', 'song': 'Snow for Johnny', 'genre': 'Holiday', 'alternative_artist': 'Burl Ives', 'add_to_final_records': True}
+{'artist': 'Burl Ives', 'song': 'Christmas Child', 'genre': 'Holiday', 'alternative_artist': 'Burl Ives', 'add_to_final_records': True}
+{'artist': 'Burl Ives', 'song': 'Christmas Is a Birthday', 'genre': 'Holiday', 'alternative_artist': 'Burl Ives', 'add_to_final_records': True}
+{'artist': 'Burl Ives', 'song': 'It Came Upon the Midnight Clear', 'genre': 'Holiday', 'alternative_artist': 'Burl Ives', 'add_to_final_records': True}
+{'artist': 'Burl Ives', 'song': 'Santa Mouse', 'genre': 'Holiday', 'alternative_artist': 'Burl Ives', 'add_to_final_records': True}
+{'artist': 'Burl Ives', 'song': 'O Holy Night', 'genre': 'Holiday', 'alternative_artist': 'Burl Ives', 'add_to_final_records': True}
+{'artist': 'Burl Ives', 'song': "O' Little Town of Bethlehem", 'genre': 'Holiday', 'alternative_artist': 'Burl Ives', 'add_to_final_records': True}
+{'artist': 'Burl Ives', 'song': 'Molly Malone', 'genre': 'Holiday', 'alternative_artist': 'Burl Ives', 'add_to_final_records': True}
+{'artist': 'Burl Ives', 'song': 'Ave Maria', 'genre': 'Holiday', 'alternative_artist': 'Burl Ives', 'add_to_final_records': True}
+{'artist': 'Burl Ives', 'song': 'Come Back Paddy Reilly', 'genre': 'Holiday', 'alternative_artist': 'Burl Ives', 'add_to_final_records': True}
+{'artist': 'Burl Ives', 'song': "Happy Birthday, Jesus (A Child's Prayer)", 'genre': 'Holiday', 'alternative_artist': 'Burl Ives', 'add_to_final_records': True}
+{'artist': 'Burl Ives', 'song': 'O Little Town of Bethlehem', 'genre': 'Holiday', 'alternative_artist': 'Burl Ives', 'add_to_final_records': True}
+{'artist': 'Burl Ives', 'song': 'The Christmas Story', 'genre': 'Holiday', 'alternative_artist': 'Burl Ives', 'add_to_final_records': True}
+{'artist': 'Burl Ives', 'song': 'Silent Night, Holy Night', 'genre': 'Holiday', 'alternative_artist': 'Burl Ives', 'add_to_final_records': True}
+{'artist': 'Burl Ives', 'song': 'Oh What a Lucky Boy Am I', 'genre': 'Holiday', 'alternative_artist': 'Burl Ives', 'add_to_final_records': True}
+{'artist': 'Burl Ives', 'song': 'Thy Rebuke / Behold (From "The Messiah")', 'genre': 'Holiday', 'alternative_artist': 'Burl Ives', 'add_to_final_records': True}
+{'artist': 'Burl Ives', 'song': 'Jingle Bells', 'genre': 'Holiday', 'alternative_artist': 'Burl Ives', 'add_to_final_records': True}
+{'artist': 'Burl Ives', 'song': 'The Friendly Beasts', 'genre': 'Holiday', 'alternative_artist': 'Burl Ives', 'add_to_final_records': True}
+{'artist': 'Burl Ives', 'song': 'Jesous Ahatonia', 'genre': 'Holiday', 'alternative_artist': 'Burl Ives', 'add_to_final_records': True}
+{'artist': 'Burl Ives', 'song': 'There Were Three Ships', 'genre': 'Holiday', 'alternative_artist': 'Burl Ives', 'add_to_final_records': True}
+{'artist': 'Burl Ives', 'song': 'King Herod and the Cock', 'genre': 'Holiday', 'alternative_artist': 'Burl Ives', 'add_to_final_records': True}
+{'artist': 'Burl Ives', 'song': 'Down In Yon Forest', 'genre': 'Holiday', 'alternative_artist': 'Burl Ives', 'add_to_final_records': True}
+{'artist': 'Burl Ives', 'song': 'The Seven Joys of Mary, Pt. 2', 'genre': 'Holiday', 'alternative_artist': 'Burl Ives', 'add_to_final_records': True}
+{'artist': 'Burl Ives', 'song': 'The Seven Joys of Mary, Pt. 1', 'genre': 'Holiday', 'alternative_artist': 'Burl Ives', 'add_to_final_records': True}
+{'artist': 'Adam Sandler', 'song': 'The Chanukah Song', 'genre': 'Holiday', 'alternative_artist': 'Adam Sandler', 'add_to_final_records': True}
+{'artist': 'Adam Sandler', 'song': 'The Chanukah Song, Pt. 2 (Live)', 'genre': 'Holiday', 'alternative_artist': 'Adam Sandler', 'add_to_final_records': True}
+{'artist': 'Montell Jordan', 'song': 'Shake Heaven (Christmas Remix) [feat. Beckah Shae]', 'genre': 'Holiday', 'alternative_artist': 'Montell Jordan', 'add_to_final_records': True}
+{'artist': '8mm', 'song': "I'll Be Home for Christmas", 'genre': 'Holiday', 'alternative_artist': '8mm', 'add_to_final_records': True}
+{'artist': '8mm', 'song': 'Have Yourself a Merry Little Christmas', 'genre': 'Holiday', 'alternative_artist': '8mm', 'add_to_final_records': True}
+{'artist': '8mm', 'song': 'On a Silent Night', 'genre': 'Holiday', 'alternative_artist': '8mm', 'add_to_final_records': True}
+{'artist': '8mm', 'song': 'Christmas Time Is Here', 'genre': 'Holiday', 'alternative_artist': '8mm', 'add_to_final_records': True}
+{'artist': '8mm', 'song': 'Santa Baby', 'genre': 'Holiday', 'alternative_artist': '8mm', 'add_to_final_records': True}
+{'artist': '8mm', 'song': "'Zat You Santa Claus?", 'genre': 'Holiday', 'alternative_artist': '8mm', 'add_to_final_records': True}
+{'artist': '8mm', 'song': 'Blue Christmas', 'genre': 'Holiday', 'alternative_artist': '8mm', 'add_to_final_records': True}
+{'artist': '8mm', 'song': "Baby, It's Cold Outside", 'genre': 'Holiday', 'alternative_artist': '8mm', 'add_to_final_records': True}
+{'artist': 'Marah', 'song': "Baby, It's Cold Outside (feat. Felicia Navidad)", 'genre': 'Holiday', 'alternative_artist': 'Felecia', 'add_to_final_records': True}
+{'artist': 'Aaron Tippin', 'song': 'Jingle Bell Rock', 'genre': 'Holiday', 'alternative_artist': 'Aaron Tippin', 'add_to_final_records': True}
+{'artist': 'Billy Crockett, Beth Wood, Nathan Brown & Bob Bennet', 'song': 'What Child Is This?', 'genre': 'Holiday', 'alternative_artist': 'Beth Wood', 'add_to_final_records': True}
+{'artist': 'Beth Wood', 'song': 'The Peace Carol', 'genre': 'Holiday', 'alternative_artist': 'Beth Wood', 'add_to_final_records': True}
+{'artist': 'Beth & Scott', 'song': 'Wood-hoopoe Willie', 'genre': 'Holiday', 'alternative_artist': 'Beth Wood', 'add_to_final_records': True}
+{'artist': 'Julian Casablancas', 'song': 'Christmas Treat', 'genre': 'Holiday', 'alternative_artist': 'The Strokes', 'add_to_final_records': True}
+{'artist': 'George Canyon', 'song': 'Silent Night', 'genre': 'Holiday', 'alternative_artist': 'George Canyon', 'add_to_final_records': True}
+{'artist': 'George Canyon', 'song': 'What Child Is This', 'genre': 'Holiday', 'alternative_artist': 'George Canyon', 'add_to_final_records': True}
+{'artist': 'George Canyon', 'song': 'Frosty the Snowman', 'genre': 'Holiday', 'alternative_artist': 'George Canyon', 'add_to_final_records': True}
+{'artist': 'George Canyon', 'song': 'Rudolph the Red Nosed Reindeer', 'genre': 'Holiday', 'alternative_artist': 'George Canyon', 'add_to_final_records': True}
+{'artist': 'George Canyon', 'song': 'Away In a Manger', 'genre': 'Holiday', 'alternative_artist': 'George Canyon', 'add_to_final_records': True}
+{'artist': 'George Canyon', 'song': "Santa's On His Way", 'genre': 'Holiday', 'alternative_artist': 'George Canyon', 'add_to_final_records': True}
+{'artist': 'George Canyon', 'song': 'Blue Christmas', 'genre': 'Holiday', 'alternative_artist': 'George Canyon', 'add_to_final_records': True}
+{'artist': 'Independent Film Support Group', 'song': 'The Bleeders Meet the Breeders and All Hell Breaks Loose', 'genre': 'Holiday', 'alternative_artist': 'The Breeders', 'add_to_final_records': True}
+{'artist': 'Tina Micula & The Cape Henry 7th & 8th Grade Chorus', 'song': 'Christmas, Kwanzaa, Hanukkah (Jing-A-Ling)', 'genre': 'Holiday', 'alternative_artist': 'Grade 8', 'add_to_final_records': True}
+{'artist': 'Pizitz 8th Grade Choir', 'song': 'Football Frenzy', 'genre': 'Holiday', 'alternative_artist': 'Grade 8', 'add_to_final_records': True}
+{'artist': 'Pizitz 8th Grade Choir', 'song': 'Mary, Mary', 'genre': 'Holiday', 'alternative_artist': 'Grade 8', 'add_to_final_records': True}
+{'artist': 'Pizitz 8th Grade Choir', 'song': 'Various Themes On Fa, La, La', 'genre': 'Holiday', 'alternative_artist': 'Grade 8', 'add_to_final_records': True}
+{'artist': 'Kevin & Dustin Welch', 'song': 'Santa Had a Dream', 'genre': 'Holiday', 'alternative_artist': 'Kevin Welch', 'add_to_final_records': True}
+{'artist': 'Ella Fitzgerald & Frank Devol Orchestra', 'song': 'The Christmas Song', 'genre': 'Holiday', 'alternative_artist': 'Ella Fitzgerald', 'add_to_final_records': True}
+{'artist': 'Ella Fitzgerald & Frank Devol Orchestra', 'song': 'Frosty the Snowman', 'genre': 'Holiday', 'alternative_artist': 'Ella Fitzgerald', 'add_to_final_records': True}
+{'artist': 'Ella Fitzgerald & Frank Devol Orchestra', 'song': 'Sleigh Ride', 'genre': 'Holiday', 'alternative_artist': 'Ella Fitzgerald', 'add_to_final_records': True}
+{'artist': 'Ella Fitzgerald & Frank Devol Orchestra', 'song': "What Are You Doing New Year's Eve?", 'genre': 'Holiday', 'alternative_artist': 'Ella Fitzgerald', 'add_to_final_records': True}
+{'artist': 'Ella Fitzgerald & Frank Devol Orchestra', 'song': 'Have Yourself a Merry Little Christmas', 'genre': 'Holiday', 'alternative_artist': 'Ella Fitzgerald', 'add_to_final_records': True}
+{'artist': 'Ella Fitzgerald & Frank Devol Orchestra', 'song': 'Let It Snow! Let It Snow! Let It Snow!', 'genre': 'Holiday', 'alternative_artist': 'Ella Fitzgerald', 'add_to_final_records': True}
+{'artist': 'Ella Fitzgerald & Frank Devol Orchestra', 'song': 'Winter Wonderland', 'genre': 'Holiday', 'alternative_artist': 'Ella Fitzgerald', 'add_to_final_records': True}
+{'artist': 'Ella Fitzgerald & Frank Devol Orchestra', 'song': 'White Christmas', 'genre': 'Holiday', 'alternative_artist': 'Ella Fitzgerald', 'add_to_final_records': True}
+{'artist': 'Ella Fitzgerald & Frank Devol Orchestra', 'song': 'Santa Claus Is Coming to Town', 'genre': 'Holiday', 'alternative_artist': 'Ella Fitzgerald', 'add_to_final_records': True}
+{'artist': 'Ella Fitzgerald & Frank Devol Orchestra', 'song': 'Jingle Bells', 'genre': 'Holiday', 'alternative_artist': 'Ella Fitzgerald', 'add_to_final_records': True}
+{'artist': 'Ella Fitzgerald & Frank Devol Orchestra', 'song': 'Rudolph the Red-Nosed Reindeer', 'genre': 'Holiday', 'alternative_artist': 'Ella Fitzgerald', 'add_to_final_records': True}
+{'artist': 'Ella Fitzgerald & Frank Devol Orchestra', 'song': 'Good Morning Blues', 'genre': 'Holiday', 'alternative_artist': 'Ella Fitzgerald', 'add_to_final_records': True}
+{'artist': 'Ella Fitzgerald', 'song': 'Have Yourself A Merry Little Christmas', 'genre': 'Holiday', 'alternative_artist': 'Ella Fitzgerald', 'add_to_final_records': True}
+{'artist': 'The Felice Brothers', 'song': 'The Dollar Store', 'genre': 'Holiday', 'alternative_artist': 'Dollar Store', 'add_to_final_records': True}
+{'artist': 'Sam Smith', 'song': 'Have Yourself a Merry Little Christmas', 'genre': 'Holiday', 'alternative_artist': 'Ray Smith', 'add_to_final_records': True}
+{'artist': 'Sam Smith', 'song': 'Have Yourself A Merry Little Christmas', 'genre': 'Holiday', 'alternative_artist': 'Ray Smith', 'add_to_final_records': True}
+{'artist': 'The Broadway Cast Of "Les Miserables"', 'song': 'One Star (feat. Chris MC Carrell, Wallace Smith, Brennyn Lark, Alex Finke, Rachel Izen, Siri Howard, Christianne Tisdale, Arbender Robinson, Sam Chuck, Marcus D’angelo, Lilyana Cornell, Eleanor Koski, Will Ray, Danielle Gordon & Andrew Love)', 'genre': 'Holiday', 'alternative_artist': 'Ray Smith', 'add_to_final_records': True}
+{'artist': 'Charlie Walker', 'song': 'Amazing Love', 'genre': 'Holiday', 'alternative_artist': 'Charlie Walker', 'add_to_final_records': True}
+{'artist': 'Kenny Vaughan Trio', 'song': 'Rudolph the Red Nosed Reindeer', 'genre': 'Holiday', 'alternative_artist': 'Kenny Vaughan', 'add_to_final_records': True}
+{'artist': 'Rod Picott', 'song': "Dad's Drunk Again on Christmas", 'genre': 'Holiday', 'alternative_artist': 'Rod Picott', 'add_to_final_records': True}
+{'artist': 'Rangely Junior / Senior High School Choir', 'song': 'O Come, O Come, Emmanuel', 'genre': 'Holiday', 'alternative_artist': 'Junior Senior', 'add_to_final_records': True}
+{'artist': 'Wardology', 'song': '12 Days of Ward Christmas (feat. Asaph a. Ward Sr., Josiah Ward, Randi Ward & Asaph Ward Jr.)', 'genre': 'Holiday', 'alternative_artist': 'Junior Senior', 'add_to_final_records': True}
+{'artist': 'David Hasselhoff', 'song': 'Jingle Bells', 'genre': 'Holiday', 'alternative_artist': 'David Hasselhoff', 'add_to_final_records': True}
+{'artist': 'David Hasselhoff', 'song': 'Deck the Halls', 'genre': 'Holiday', 'alternative_artist': 'David Hasselhoff', 'add_to_final_records': True}
+{'artist': 'David Hasselhoff', 'song': 'Feliz Navidad', 'genre': 'Holiday', 'alternative_artist': 'David Hasselhoff', 'add_to_final_records': True}
+{'artist': 'David Hasselhoff', 'song': 'Stille Nacht', 'genre': 'Holiday', 'alternative_artist': 'David Hasselhoff', 'add_to_final_records': True}
+{'artist': 'David Hasselhoff', 'song': 'White Christmas', 'genre': 'Holiday', 'alternative_artist': 'David Hasselhoff', 'add_to_final_records': True}
+{'artist': 'David Hasselhoff', 'song': 'We Wish You a Merry Christmas', 'genre': 'Holiday', 'alternative_artist': 'David Hasselhoff', 'add_to_final_records': True}
+{'artist': 'David Hasselhoff', 'song': 'Silent Night', 'genre': 'Holiday', 'alternative_artist': 'David Hasselhoff', 'add_to_final_records': True}
+{'artist': 'David Hasselhoff', 'song': 'Twas the Night Before Christmas', 'genre': 'Holiday', 'alternative_artist': 'David Hasselhoff', 'add_to_final_records': True}
+{'artist': 'David Hasselhoff', 'song': 'Joy to the World', 'genre': 'Holiday', 'alternative_artist': 'David Hasselhoff', 'add_to_final_records': True}
+{'artist': 'David Hasselhoff', 'song': 'God Rest Ye Merry Gentleman', 'genre': 'Holiday', 'alternative_artist': 'David Hasselhoff', 'add_to_final_records': True}
+{'artist': 'David Hasselhoff', 'song': "O' Holy Night", 'genre': 'Holiday', 'alternative_artist': 'David Hasselhoff', 'add_to_final_records': True}
+{'artist': 'David Hasselhoff', 'song': 'Hark the Herald Angels', 'genre': 'Holiday', 'alternative_artist': 'David Hasselhoff', 'add_to_final_records': True}
+{'artist': 'David Hasselhoff', 'song': 'The Christmas Song', 'genre': 'Holiday', 'alternative_artist': 'David Hasselhoff', 'add_to_final_records': True}
+{'artist': 'David Hasselhoff', 'song': 'Please Come Home for Christmas (Duet With Gwen)', 'genre': 'Holiday', 'alternative_artist': 'David Hasselhoff', 'add_to_final_records': True}
+{'artist': 'Clarence Clemons', 'song': "There's Still Christmas", 'genre': 'Holiday', 'alternative_artist': 'Clarence Clemons', 'add_to_final_records': True}
+{'artist': 'Clarence Clemons', 'song': 'The Christmas Song', 'genre': 'Holiday', 'alternative_artist': 'Clarence Clemons', 'add_to_final_records': True}
+{'artist': 'The Cheetah Girls', 'song': 'Have Yourself a Merry Little Christmas', 'genre': 'Holiday', 'alternative_artist': 'The Cheetah Girls', 'add_to_final_records': True}
+{'artist': 'Pam Tillis', 'song': 'Have Yourself a Merry Lil Christmas', 'genre': 'Holiday', 'alternative_artist': 'Pam Tillis', 'add_to_final_records': True}
+{'artist': 'Pam Tillis', 'song': "The Rockin' Christmas Medley", 'genre': 'Holiday', 'alternative_artist': 'Pam Tillis', 'add_to_final_records': True}
+{'artist': 'Pam Tillis', 'song': 'Pretty Paper', 'genre': 'Holiday', 'alternative_artist': 'Pam Tillis', 'add_to_final_records': True}
+{'artist': 'Pam Tillis', 'song': 'Christmas Waltz', 'genre': 'Holiday', 'alternative_artist': 'Pam Tillis', 'add_to_final_records': True}
+{'artist': 'Pam Tillis', 'song': 'Beautiful Night', 'genre': 'Holiday', 'alternative_artist': 'Pam Tillis', 'add_to_final_records': True}
+{'artist': 'Pam Tillis', 'song': 'Light of the World', 'genre': 'Holiday', 'alternative_artist': 'Pam Tillis', 'add_to_final_records': True}
+{'artist': 'Pam Tillis', 'song': 'Seasons', 'genre': 'Holiday', 'alternative_artist': 'Pam Tillis', 'add_to_final_records': True}
+{'artist': 'Pam Tillis', 'song': "I'll Be Home for Christmas", 'genre': 'Holiday', 'alternative_artist': 'Pam Tillis', 'add_to_final_records': True}
+{'artist': 'Pam Tillis', 'song': "New Year's Eve", 'genre': 'Holiday', 'alternative_artist': 'Pam Tillis', 'add_to_final_records': True}
+{'artist': 'Pam Tillis', 'song': 'Silent Night Medley', 'genre': 'Holiday', 'alternative_artist': 'Pam Tillis', 'add_to_final_records': True}
+{'artist': 'B.B. King', 'song': 'Merry Christmas Baby', 'genre': 'Holiday', 'alternative_artist': 'B', 'add_to_final_records': True}
+{'artist': 'B.B. King', 'song': 'Back Door Santa', 'genre': 'Holiday', 'alternative_artist': 'B', 'add_to_final_records': True}
+{'artist': 'B.B. King', 'song': 'Please Come Home for Christmas', 'genre': 'Holiday', 'alternative_artist': 'B', 'add_to_final_records': True}
+{'artist': 'B.B. King', 'song': 'Auld Lang Syne', 'genre': 'Holiday', 'alternative_artist': 'B', 'add_to_final_records': True}
+{'artist': 'B.B. King', 'song': 'Christmas Celebration', 'genre': 'Holiday', 'alternative_artist': 'B', 'add_to_final_records': True}
+{'artist': 'B.B. King', 'song': 'Christmas Comes But Once a Year', 'genre': 'Holiday', 'alternative_artist': 'B', 'add_to_final_records': True}
+{'artist': 'B.B. King', 'song': 'Blue Decorations', 'genre': 'Holiday', 'alternative_artist': 'B', 'add_to_final_records': True}
+{'artist': 'B.B. King', 'song': 'Lonesome Christmas', 'genre': 'Holiday', 'alternative_artist': 'B', 'add_to_final_records': True}
+{'artist': 'B.B. King', 'song': 'Christmas Love', 'genre': 'Holiday', 'alternative_artist': 'B', 'add_to_final_records': True}
+{'artist': 'B.B. King', 'song': "I'll Be Home for Christmas", 'genre': 'Holiday', 'alternative_artist': 'B', 'add_to_final_records': True}
+{'artist': 'B.B. King', 'song': 'Christmas In Heaven', 'genre': 'Holiday', 'alternative_artist': 'B', 'add_to_final_records': True}
+{'artist': 'B.B. King', 'song': 'Bringing In a Brand New Year', 'genre': 'Holiday', 'alternative_artist': 'B', 'add_to_final_records': True}
+{'artist': 'B.B. King', 'song': 'To Someone That I Love', 'genre': 'Holiday', 'alternative_artist': 'B', 'add_to_final_records': True}
+{'artist': 'She & Him', 'song': 'Have Yourself a Merry Little Christmas', 'genre': 'Holiday', 'alternative_artist': 'HIM', 'add_to_final_records': True}
+{'artist': 'She & Him', 'song': "Baby, It's Cold Outside", 'genre': 'Holiday', 'alternative_artist': 'HIM', 'add_to_final_records': True}
+{'artist': 'She & Him', 'song': 'The Christmas Waltz', 'genre': 'Holiday', 'alternative_artist': 'HIM', 'add_to_final_records': True}
+{'artist': 'She & Him', 'song': "Rockin' Around the Christmas Tree", 'genre': 'Holiday', 'alternative_artist': 'HIM', 'add_to_final_records': True}
+{'artist': 'She & Him', 'song': 'The Christmas Song', 'genre': 'Holiday', 'alternative_artist': 'HIM', 'add_to_final_records': True}
+{'artist': 'She & Him', 'song': "I'll Be Home for Christmas", 'genre': 'Holiday', 'alternative_artist': 'HIM', 'add_to_final_records': True}
+{'artist': 'She & Him', 'song': 'Sleigh Ride', 'genre': 'Holiday', 'alternative_artist': 'HIM', 'add_to_final_records': True}
+{'artist': 'She & Him', 'song': 'Silver Bells', 'genre': 'Holiday', 'alternative_artist': 'HIM', 'add_to_final_records': True}
+{'artist': 'She & Him', 'song': 'Little Saint Nick', 'genre': 'Holiday', 'alternative_artist': 'HIM', 'add_to_final_records': True}
+{'artist': 'She & Him', 'song': 'Christmas Day', 'genre': 'Holiday', 'alternative_artist': 'HIM', 'add_to_final_records': True}
+{'artist': 'She & Him', 'song': 'Blue Christmas', 'genre': 'Holiday', 'alternative_artist': 'HIM', 'add_to_final_records': True}
+{'artist': 'She & Him', 'song': 'Christmas Wish', 'genre': 'Holiday', 'alternative_artist': 'HIM', 'add_to_final_records': True}
+{'artist': 'Charlie Louvin', 'song': "Jesus Won't Come Down Your Chimney", 'genre': 'Holiday', 'alternative_artist': 'Charlie Louvin', 'add_to_final_records': True}
+{'artist': 'Riders In the Sky', 'song': 'The Christmas Yodel', 'genre': 'Holiday', 'alternative_artist': 'Riders in the Sky', 'add_to_final_records': True}
+{'artist': 'Riders In the Sky', 'song': 'An Old Fashioned Christmas Polka', 'genre': 'Holiday', 'alternative_artist': 'Riders in the Sky', 'add_to_final_records': True}
+{'artist': 'Riders In the Sky', 'song': 'Corn, Water and Wood', 'genre': 'Holiday', 'alternative_artist': 'Riders in the Sky', 'add_to_final_records': True}
+{'artist': 'Riders In the Sky', 'song': "Let It Snow/The Last Christmas Medley You'll Ever Need to Hear", 'genre': 'Holiday', 'alternative_artist': 'Riders in the Sky', 'add_to_final_records': True}
+{'artist': 'Riders In the Sky', 'song': 'The Twelve Days of Cowboy Christmas', 'genre': 'Holiday', 'alternative_artist': 'Riders in the Sky', 'add_to_final_records': True}
+{'artist': 'Riders In the Sky', 'song': 'The Prairie Dog Christmas Ball', 'genre': 'Holiday', 'alternative_artist': 'Riders in the Sky', 'add_to_final_records': True}
+{'artist': 'Riders In the Sky', 'song': 'O Come, O Come Emmanuel', 'genre': 'Holiday', 'alternative_artist': 'Riders in the Sky', 'add_to_final_records': True}
+{'artist': 'Riders In the Sky', 'song': 'The Friendly Beasts', 'genre': 'Holiday', 'alternative_artist': 'Riders in the Sky', 'add_to_final_records': True}
+{'artist': 'Riders In the Sky', 'song': 'Just Put a Ribbon in Your Hair', 'genre': 'Holiday', 'alternative_artist': 'Riders in the Sky', 'add_to_final_records': True}
+{'artist': 'Riders In the Sky', 'song': "Sidemeat's Christmas Stew", 'genre': 'Holiday', 'alternative_artist': 'Riders in the Sky', 'add_to_final_records': True}
+{'artist': 'Riders In the Sky', 'song': "I'll Be Home for Christmas", 'genre': 'Holiday', 'alternative_artist': 'Riders in the Sky', 'add_to_final_records': True}
+{'artist': 'Riders In the Sky', 'song': 'Virgen Maria', 'genre': 'Holiday', 'alternative_artist': 'Riders in the Sky', 'add_to_final_records': True}
+{'artist': 'Elliott Yamin', 'song': 'This Christmas', 'genre': 'Holiday', 'alternative_artist': 'Elliott Yamin', 'add_to_final_records': True}
+{'artist': 'Richard Stoltzman, Deborah Henson-Conant, Jeremy Wall, Eddie Gomez, Neil Clark, Dan Barrett, Carol Benner, Marshall Coid, Brian Keane & Dave Samuels', 'song': 'Dona Nobis Pacem', 'genre': 'Holiday', 'alternative_artist': 'Clark Hill', 'add_to_final_records': True}
+{'artist': 'May Erlewine', 'song': 'While the World', 'genre': 'Holiday', 'alternative_artist': 'Little May', 'add_to_final_records': True}
+{'artist': 'May Erlewine', 'song': 'So Far Away', 'genre': 'Holiday', 'alternative_artist': 'Little May', 'add_to_final_records': True}
+{'artist': 'May Erlewine', 'song': 'The Little Things', 'genre': 'Holiday', 'alternative_artist': 'Little May', 'add_to_final_records': True}
+{'artist': 'May Erlewine', 'song': 'In a Year', 'genre': 'Holiday', 'alternative_artist': 'Little May', 'add_to_final_records': True}
+{'artist': 'May Erlewine', 'song': "Let's Get Real", 'genre': 'Holiday', 'alternative_artist': 'Little May', 'add_to_final_records': True}
+{'artist': 'May Erlewine', 'song': 'Come on In', 'genre': 'Holiday', 'alternative_artist': 'Little May', 'add_to_final_records': True}
+{'artist': 'Brother Joe May', 'song': 'Sweet Little Jesus', 'genre': 'Holiday', 'alternative_artist': 'Little May', 'add_to_final_records': True}
+{'artist': 'Tracy Silverman', 'song': 'Holiday Medley: White Christmas / Away In a Manger / Little Drummer Boy / Santa Claus Is Coming to Town', 'genre': 'Holiday', 'alternative_artist': 'Little May', 'add_to_final_records': True}
+{'artist': 'Tracy Silverman', 'song': 'Have Yourself a Merry Little Christmas / The First Noel / Hark the Herald Angels', 'genre': 'Holiday', 'alternative_artist': 'Little May', 'add_to_final_records': True}
+{'artist': 'Brooke White', 'song': 'Blue Christmas', 'genre': 'Holiday', 'alternative_artist': 'Brooke White', 'add_to_final_records': True}
+{'artist': 'Brooke White', 'song': 'California Christmas', 'genre': 'Holiday', 'alternative_artist': 'Brooke White', 'add_to_final_records': True}
+{'artist': 'Brooke White', 'song': 'I Love Christmas (The Girls With Glasses)', 'genre': 'Holiday', 'alternative_artist': 'Brooke White', 'add_to_final_records': True}
+{'artist': 'Brooke White', 'song': 'Christmas Time Is Here', 'genre': 'Holiday', 'alternative_artist': 'Brooke White', 'add_to_final_records': True}
+{'artist': 'Brooke White', 'song': 'Silent Night', 'genre': 'Holiday', 'alternative_artist': 'Brooke White', 'add_to_final_records': True}
+{'artist': 'Brooke White', 'song': 'Away in the Manger (Bonus Track)', 'genre': 'Holiday', 'alternative_artist': 'Brooke White', 'add_to_final_records': True}
+{'artist': 'Brooke White', 'song': 'O Come All Ye Faithful', 'genre': 'Holiday', 'alternative_artist': 'Brooke White', 'add_to_final_records': True}
+{'artist': 'Brooke White', 'song': 'Christmas Card', 'genre': 'Holiday', 'alternative_artist': 'Brooke White', 'add_to_final_records': True}
+{'artist': 'Brooke White', 'song': 'Wonderful Christmastime', 'genre': 'Holiday', 'alternative_artist': 'Brooke White', 'add_to_final_records': True}
+{'artist': 'Brooke White', 'song': 'What Child Is This?', 'genre': 'Holiday', 'alternative_artist': 'Brooke White', 'add_to_final_records': True}
+{'artist': 'Brooke White', 'song': 'Have Yourself a Merry Little Christmas', 'genre': 'Holiday', 'alternative_artist': 'Brooke White', 'add_to_final_records': True}
+{'artist': 'Brooke White', 'song': 'Last Christmas', 'genre': 'Holiday', 'alternative_artist': 'Brooke White', 'add_to_final_records': True}
+{'artist': 'Brooke Bartlett', 'song': 'White Christmas', 'genre': 'Holiday', 'alternative_artist': 'Brooke White', 'add_to_final_records': True}
+{'artist': 'Various Artists', 'song': 'God Bless The USA', 'genre': 'Holiday', 'alternative_artist': 'Various Artists', 'add_to_final_records': True}
+{'artist': 'Il Volo', 'song': 'Mis Deseos / Feliz Navidad (feat. Belinda)', 'genre': 'Holiday', 'alternative_artist': 'Belinda', 'add_to_final_records': True}
+{'artist': 'Doyle Dykes & Johnny Tillotson', 'song': 'Christmas at Knebworth (with You)', 'genre': 'Holiday', 'alternative_artist': 'Johnny Tillotson', 'add_to_final_records': True}
+{'artist': 'Johnny Tillotson', 'song': 'Christmas Is the Best of All', 'genre': 'Holiday', 'alternative_artist': 'Johnny Tillotson', 'add_to_final_records': True}
+{'artist': 'Johnny Tillotson', 'song': "(There's No Place Like) Home for the Holidays", 'genre': 'Holiday', 'alternative_artist': 'Johnny Tillotson', 'add_to_final_records': True}
+{'artist': 'Johnny Tillotson', 'song': 'Blue Christmas', 'genre': 'Holiday', 'alternative_artist': 'Johnny Tillotson', 'add_to_final_records': True}
+{'artist': 'Johnny Tillotson', 'song': 'Mistletoe and Memories', 'genre': 'Holiday', 'alternative_artist': 'Johnny Tillotson', 'add_to_final_records': True}
+{'artist': 'Johnny Tillotson', 'song': 'Christmas Country Style', 'genre': 'Holiday', 'alternative_artist': 'Johnny Tillotson', 'add_to_final_records': True}
+{'artist': 'Johnny Tillotson', 'song': 'Silver Bells', 'genre': 'Holiday', 'alternative_artist': 'Johnny Tillotson', 'add_to_final_records': True}
+{'artist': 'Johnny Tillotson', 'song': "It's Christmas", 'genre': 'Holiday', 'alternative_artist': 'Johnny Tillotson', 'add_to_final_records': True}
+{'artist': 'Johnny Tillotson', 'song': 'White Christmas', 'genre': 'Holiday', 'alternative_artist': 'Johnny Tillotson', 'add_to_final_records': True}
+{'artist': 'Johnny Tillotson', 'song': 'Jingle Bells', 'genre': 'Holiday', 'alternative_artist': 'Johnny Tillotson', 'add_to_final_records': True}
+{'artist': 'Johnny Tillotson', 'song': 'Winter Wonderland', 'genre': 'Holiday', 'alternative_artist': 'Johnny Tillotson', 'add_to_final_records': True}
+{'artist': 'Johnny Tillotson', 'song': 'Pretty Paper', 'genre': 'Holiday', 'alternative_artist': 'Johnny Tillotson', 'add_to_final_records': True}
+{'artist': 'Johnny Tillotson', 'song': "I'll Be Home for Christmas", 'genre': 'Holiday', 'alternative_artist': 'Johnny Tillotson', 'add_to_final_records': True}
+{'artist': 'Pro Sound Effects Library', 'song': 'Rancid', 'genre': 'Holiday', 'alternative_artist': 'Rancid', 'add_to_final_records': True}
+{'artist': "Lil' Flip", 'song': 'Sunshine', 'genre': 'Holiday', 'alternative_artist': "Lil' Flip", 'add_to_final_records': True}
+{'artist': 'Baccara', 'song': 'Hark! the Herald Angels Sing', 'genre': 'Holiday', 'alternative_artist': 'Baccara', 'add_to_final_records': True}
+{'artist': 'Baccara', 'song': 'Daughter Zion', 'genre': 'Holiday', 'alternative_artist': 'Baccara', 'add_to_final_records': True}
+{'artist': 'Jeannie C. Riley', 'song': 'Away In a Manger', 'genre': 'Holiday', 'alternative_artist': 'Jeannie C', 'add_to_final_records': True}
+{'artist': 'Jeannie C. Riley', 'song': 'Silver Bells', 'genre': 'Holiday', 'alternative_artist': 'Jeannie C', 'add_to_final_records': True}
+{'artist': 'Jeannie C. Riley', 'song': 'Joy to the World', 'genre': 'Holiday', 'alternative_artist': 'Jeannie C', 'add_to_final_records': True}
+{'artist': 'Jeannie C. Riley', 'song': 'Away In the Manger', 'genre': 'Holiday', 'alternative_artist': 'Jeannie C', 'add_to_final_records': True}
+{'artist': 'Delta Goodrem', 'song': 'Amazing Grace', 'genre': 'Holiday', 'alternative_artist': 'Delta Goodrem', 'add_to_final_records': True}
+{'artist': 'Delta Goodrem', 'song': 'O Holy Night', 'genre': 'Holiday', 'alternative_artist': 'Delta Goodrem', 'add_to_final_records': True}
+{'artist': 'Delta Goodrem', 'song': 'Blue Christmas', 'genre': 'Holiday', 'alternative_artist': 'Delta Goodrem', 'add_to_final_records': True}
+{'artist': 'Delta Goodrem', 'song': 'Santa Claus is Back In Town', 'genre': 'Holiday', 'alternative_artist': 'Delta Goodrem', 'add_to_final_records': True}
+{'artist': 'Delta Goodrem', 'song': 'God Rest Ye Merry Gentlemen', 'genre': 'Holiday', 'alternative_artist': 'Delta Goodrem', 'add_to_final_records': True}
+{'artist': 'Joan Baez', 'song': 'O Come, O Come, Emmanuel', 'genre': 'Holiday', 'alternative_artist': 'Joan Baez', 'add_to_final_records': True}
+{'artist': 'Joan Baez', 'song': 'I Wonder As I Wander', 'genre': 'Holiday', 'alternative_artist': 'Joan Baez', 'add_to_final_records': True}
+{'artist': 'Joan Baez', 'song': 'Ave Maria (Sung In German)', 'genre': 'Holiday', 'alternative_artist': 'Joan Baez', 'add_to_final_records': True}
+{'artist': 'Joan Baez', 'song': 'Adeste Fidelis (Instrumental)', 'genre': 'Holiday', 'alternative_artist': 'Joan Baez', 'add_to_final_records': True}
+{'artist': 'Joan Baez', 'song': 'Virgin Mary', 'genre': 'Holiday', 'alternative_artist': 'Joan Baez', 'add_to_final_records': True}
+{'artist': 'Joan Baez', 'song': 'What Child Is This?', 'genre': 'Holiday', 'alternative_artist': 'Joan Baez', 'add_to_final_records': True}
+{'artist': 'Joan Baez', 'song': 'Cantique de Noël (Oh Holy Night, Sung In German)', 'genre': 'Holiday', 'alternative_artist': 'Joan Baez', 'add_to_final_records': True}
+{'artist': 'Joan Baez', 'song': 'The Carol of the Birds', 'genre': 'Holiday', 'alternative_artist': 'Joan Baez', 'add_to_final_records': True}
+{'artist': 'Joan Baez', 'song': 'We Three Kings', 'genre': 'Holiday', 'alternative_artist': 'Joan Baez', 'add_to_final_records': True}
+{'artist': 'Joan Baez', 'song': 'Deck the Halls (Instrumental)', 'genre': 'Holiday', 'alternative_artist': 'Joan Baez', 'add_to_final_records': True}
+{'artist': 'Joan Baez', 'song': 'Coventry Carol', 'genre': 'Holiday', 'alternative_artist': 'Joan Baez', 'add_to_final_records': True}
+{'artist': 'Joan Baez', 'song': 'Away In a Manger', 'genre': 'Holiday', 'alternative_artist': 'Joan Baez', 'add_to_final_records': True}
+{'artist': 'Joan Baez', 'song': 'The Little Drummer Boy', 'genre': 'Holiday', 'alternative_artist': 'Joan Baez', 'add_to_final_records': True}
+{'artist': 'Joan Baez', 'song': 'Good Christian Kings', 'genre': 'Holiday', 'alternative_artist': 'Joan Baez', 'add_to_final_records': True}
+{'artist': 'Joan Baez', 'song': 'Down In Yon Forrest', 'genre': 'Holiday', 'alternative_artist': 'Joan Baez', 'add_to_final_records': True}
+{'artist': 'Joan Baez', 'song': "Mary's Wandering", 'genre': 'Holiday', 'alternative_artist': 'Joan Baez', 'add_to_final_records': True}
+{'artist': 'Joan Baez', 'song': 'Silent Night', 'genre': 'Holiday', 'alternative_artist': 'Joan Baez', 'add_to_final_records': True}
+{'artist': 'Joan Baez', 'song': 'Angels We Have Heard On High (Instrumental)', 'genre': 'Holiday', 'alternative_artist': 'Joan Baez', 'add_to_final_records': True}
+{'artist': 'Joan Baez', 'song': 'The First Noël', 'genre': 'Holiday', 'alternative_artist': 'Joan Baez', 'add_to_final_records': True}
+{'artist': 'Joan Baez', 'song': 'Burgundian Carol', 'genre': 'Holiday', 'alternative_artist': 'Joan Baez', 'add_to_final_records': True}
+{'artist': 'Joan Baez', 'song': 'Good King Wenceslas (Instrumental)', 'genre': 'Holiday', 'alternative_artist': 'Joan Baez', 'add_to_final_records': True}
+{'artist': 'Joan Baez', 'song': 'Bring a Torch, Jeannette, Isabella (Instrumental)', 'genre': 'Holiday', 'alternative_artist': 'Joan Baez', 'add_to_final_records': True}
+{'artist': 'Eurythmics', 'song': 'Winter Wonderland', 'genre': 'Holiday', 'alternative_artist': 'Eurythmics', 'add_to_final_records': True}
+{'artist': 'Lee DeWyze', 'song': 'Xmas Jamboree', 'genre': 'Holiday', 'alternative_artist': 'Lee DeWyze', 'add_to_final_records': True}
+{'artist': 'Jason Ellsworth', 'song': 'Wizards in Winter', 'genre': 'Holiday', 'alternative_artist': 'Electric Wizard', 'add_to_final_records': True}
+{'artist': 'Rooney & Snyder', 'song': 'Danger Was the Stranger At the Manger', 'genre': 'Holiday', 'alternative_artist': 'Rooney', 'add_to_final_records': True}
+{'artist': 'Mark Caesar - The Physician', 'song': 'Girl In da Blue Jeans', 'genre': 'Holiday', 'alternative_artist': 'Da Blast', 'add_to_final_records': True}
+{'artist': 'Paul Anka', 'song': 'Let It Snow', 'genre': 'Holiday', 'alternative_artist': 'Paul Anka', 'add_to_final_records': True}
+{'artist': 'Paul Anka', 'song': 'Christmas Song', 'genre': 'Holiday', 'alternative_artist': 'Paul Anka', 'add_to_final_records': True}
+{'artist': 'Paul Anka', 'song': 'Blue Christmas', 'genre': 'Holiday', 'alternative_artist': 'Paul Anka', 'add_to_final_records': True}
+{'artist': 'Paul Anka', 'song': 'Silent Night / A Cradle In Bethlehem', 'genre': 'Holiday', 'alternative_artist': 'Paul Anka', 'add_to_final_records': True}
+{'artist': 'Paul Anka', 'song': 'Santa Claus Is Coming to Town', 'genre': 'Holiday', 'alternative_artist': 'Paul Anka', 'add_to_final_records': True}
+{'artist': 'Paul Anka', 'song': "I'll Be Home for Christmas", 'genre': 'Holiday', 'alternative_artist': 'Paul Anka', 'add_to_final_records': True}
+{'artist': 'Paul Anka', 'song': 'Have Yourself a Merry Little Christmas', 'genre': 'Holiday', 'alternative_artist': 'Paul Anka', 'add_to_final_records': True}
+{'artist': 'Paul Anka', 'song': 'Winter Wonderland', 'genre': 'Holiday', 'alternative_artist': 'Paul Anka', 'add_to_final_records': True}
+{'artist': 'Paul Anka', 'song': "It's the Most Wonderful Time of the Year", 'genre': 'Holiday', 'alternative_artist': 'Paul Anka', 'add_to_final_records': True}
+{'artist': 'Paul Anka', 'song': 'Silver Bells', 'genre': 'Holiday', 'alternative_artist': 'Paul Anka', 'add_to_final_records': True}
+{'artist': 'Paul Anka', 'song': 'White Christmas', 'genre': 'Holiday', 'alternative_artist': 'Paul Anka', 'add_to_final_records': True}
+{'artist': 'Kurtis Blow', 'song': "Christmas Rappin'", 'genre': 'Holiday', 'alternative_artist': 'Kurtis Blow', 'add_to_final_records': True}
+{'artist': 'Mormon Tabernacle Choir', 'song': 'Oh, Come, All Ye Faithful (With Soloist Bryn Terfel)', 'genre': 'Holiday', 'alternative_artist': 'Oh Wonder', 'add_to_final_records': True}
+{'artist': 'Daniel Kirkley', 'song': 'Sacred Medley: Oh Come Oh Come Emmanuel / The First Noel / Silent Night / I Wonder As I Wonder', 'genre': 'Holiday', 'alternative_artist': 'Oh Wonder', 'add_to_final_records': True}
+{'artist': 'Josh Gracin', 'song': 'O Holy Night', 'genre': 'Holiday', 'alternative_artist': 'Josh Gracin', 'add_to_final_records': True}
+{'artist': 'Josh Gracin', 'song': 'Please Come Home for Christmas', 'genre': 'Holiday', 'alternative_artist': 'Josh Gracin', 'add_to_final_records': True}
+{'artist': 'Josh Gracin', 'song': "The Virgin's Lullaby", 'genre': 'Holiday', 'alternative_artist': 'Josh Gracin', 'add_to_final_records': True}
+{'artist': 'Liberace', 'song': 'Ave Maria', 'genre': 'Holiday', 'alternative_artist': 'Liberace', 'add_to_final_records': True}
+{'artist': 'Liberace', 'song': 'Jesu Bambino', 'genre': 'Holiday', 'alternative_artist': 'Liberace', 'add_to_final_records': True}
+{'artist': 'Liberace', 'song': "Skater's Waltz", 'genre': 'Holiday', 'alternative_artist': 'Liberace', 'add_to_final_records': True}
+{'artist': 'Liberace', 'song': 'Christmas Medley', 'genre': 'Holiday', 'alternative_artist': 'Liberace', 'add_to_final_records': True}
+{'artist': 'Liberace', 'song': 'Sleigh Ride', 'genre': 'Holiday', 'alternative_artist': 'Liberace', 'add_to_final_records': True}
+{'artist': 'Liberace', 'song': 'Coventry Carol', 'genre': 'Holiday', 'alternative_artist': 'Liberace', 'add_to_final_records': True}
+{'artist': 'Liberace', 'song': 'Jingle Bells / White Christmas / Adestes Fideles / Silent Night', 'genre': 'Holiday', 'alternative_artist': 'Liberace', 'add_to_final_records': True}
+{'artist': 'Liberace', 'song': 'The Little Drummer Boy', 'genre': 'Holiday', 'alternative_artist': 'Liberace', 'add_to_final_records': True}
+{'artist': 'Liberace', 'song': 'O Little Town of Bethlehem / It Came Upon a Midnight Clear / Joy to the World', 'genre': 'Holiday', 'alternative_artist': 'Liberace', 'add_to_final_records': True}
+{'artist': 'Liberace', 'song': 'Silver Bells', 'genre': 'Holiday', 'alternative_artist': 'Liberace', 'add_to_final_records': True}
+{'artist': 'Liberace', 'song': 'The Christmas Song', 'genre': 'Holiday', 'alternative_artist': 'Liberace', 'add_to_final_records': True}
+{'artist': 'Liberace', 'song': "'Twas the Night Before Christmas", 'genre': 'Holiday', 'alternative_artist': 'Liberace', 'add_to_final_records': True}
+{'artist': 'Liberace', 'song': 'O Holy Night', 'genre': 'Holiday', 'alternative_artist': 'Liberace', 'add_to_final_records': True}
+{'artist': 'Liberace', 'song': 'Star Bright', 'genre': 'Holiday', 'alternative_artist': 'Liberace', 'add_to_final_records': True}
+{'artist': 'Liberace', 'song': 'What Child Is This', 'genre': 'Holiday', 'alternative_artist': 'Liberace', 'add_to_final_records': True}
+{'artist': 'Liberace', 'song': 'The Spirit of Christmas', 'genre': 'Holiday', 'alternative_artist': 'Liberace', 'add_to_final_records': True}
+{'artist': 'Liberace', 'song': 'Winter Wonderland', 'genre': 'Holiday', 'alternative_artist': 'Liberace', 'add_to_final_records': True}
+{'artist': 'Liberace', 'song': 'The Rosary', 'genre': 'Holiday', 'alternative_artist': 'Liberace', 'add_to_final_records': True}
+{'artist': 'Liberace', 'song': "Party With Santa/Jingle Bells/I'll Be Seeing You", 'genre': 'Holiday', 'alternative_artist': 'Liberace', 'add_to_final_records': True}
+{'artist': 'Liberace', 'song': 'Christmas Prayer/O Holy Night', 'genre': 'Holiday', 'alternative_artist': 'Liberace', 'add_to_final_records': True}
+{'artist': 'Liberace', 'song': 'Christmas Card Recitation', 'genre': 'Holiday', 'alternative_artist': 'Liberace', 'add_to_final_records': True}
+{'artist': 'Liberace', 'song': 'White Christmas/Adeste Fideles/Silent Night', 'genre': 'Holiday', 'alternative_artist': 'Liberace', 'add_to_final_records': True}
+{'artist': 'Liberace', 'song': 'Bless This House', 'genre': 'Holiday', 'alternative_artist': 'Liberace', 'add_to_final_records': True}
+{'artist': 'India.Arie & Joe Sample', 'song': 'Silent Night (feat. Brandy)', 'genre': 'Holiday', 'alternative_artist': 'Braddy', 'add_to_final_records': True}
+{'artist': 'Jeff Buckley', 'song': 'Hallelujah', 'genre': 'Holiday', 'alternative_artist': 'Jeff Buckley', 'add_to_final_records': True}
+{'artist': 'Alice Cooper, Billy Sheehan, John 5 & Vinny Appice', 'song': 'Santa Claus Is Coming to Town', 'genre': 'Holiday', 'alternative_artist': 'John 5', 'add_to_final_records': True}
+{'artist': 'Mel Street', 'song': 'Memory of an Old Christmas Card', 'genre': 'Holiday', 'alternative_artist': 'Mel Street', 'add_to_final_records': True}
+{'artist': 'Cimorelli', 'song': 'Carol of the Bells', 'genre': 'Holiday', 'alternative_artist': 'Cimorelli', 'add_to_final_records': True}
+{'artist': 'Cimorelli', 'song': 'Joy to the World', 'genre': 'Holiday', 'alternative_artist': 'Cimorelli', 'add_to_final_records': True}
+{'artist': 'Cimorelli', 'song': 'The First Noel', 'genre': 'Holiday', 'alternative_artist': 'Cimorelli', 'add_to_final_records': True}
+{'artist': 'Cimorelli', 'song': 'Christmas of Love', 'genre': 'Holiday', 'alternative_artist': 'Cimorelli', 'add_to_final_records': True}
+{'artist': 'Cimorelli', 'song': 'The Coventry Carol (Lullay)', 'genre': 'Holiday', 'alternative_artist': 'Cimorelli', 'add_to_final_records': True}
+{'artist': 'Cimorelli', 'song': 'O Holy Night', 'genre': 'Holiday', 'alternative_artist': 'Cimorelli', 'add_to_final_records': True}
+{'artist': 'Cimorelli', 'song': 'Hark! The Herald Angels Sing', 'genre': 'Holiday', 'alternative_artist': 'Cimorelli', 'add_to_final_records': True}
+{'artist': 'Cimorelli', 'song': 'Christmas Lights', 'genre': 'Holiday', 'alternative_artist': 'Cimorelli', 'add_to_final_records': True}
+{'artist': 'Cimorelli', 'song': 'Silent Night', 'genre': 'Holiday', 'alternative_artist': 'Cimorelli', 'add_to_final_records': True}
+{'artist': 'Cimorelli', 'song': 'Last Christmas / All I Want for Christmas Is You', 'genre': 'Holiday', 'alternative_artist': 'Cimorelli', 'add_to_final_records': True}
+{'artist': 'Cimorelli', 'song': 'Santa Tell Me', 'genre': 'Holiday', 'alternative_artist': 'Cimorelli', 'add_to_final_records': True}
+{'artist': 'Cimorelli', 'song': 'Jingle Bell Rock', 'genre': 'Holiday', 'alternative_artist': 'Cimorelli', 'add_to_final_records': True}
+{'artist': 'Cimorelli', 'song': 'Little Drummer Boy', 'genre': 'Holiday', 'alternative_artist': 'Cimorelli', 'add_to_final_records': True}
+{'artist': 'Cimorelli', 'song': 'Mistletoe', 'genre': 'Holiday', 'alternative_artist': 'Cimorelli', 'add_to_final_records': True}
+{'artist': 'Cimorelli', 'song': 'Coventry Carol (Lullay)', 'genre': 'Holiday', 'alternative_artist': 'Cimorelli', 'add_to_final_records': True}
+{'artist': 'John Legend', 'song': 'Have Yourself a Merry Little Christmas (feat. Esperanza Spalding)', 'genre': 'Holiday', 'alternative_artist': 'Esperanza Spalding', 'add_to_final_records': True}
+{'artist': 'Lacy J. Dalton', 'song': 'Here Comes Santa Claus', 'genre': 'Holiday', 'alternative_artist': 'Lacy J', 'add_to_final_records': True}
+{'artist': 'Columbia River Group Entertainment & Lacy J. Dalton', 'song': 'Winter Wonderland', 'genre': 'Holiday', 'alternative_artist': 'Lacy J', 'add_to_final_records': True}
+{'artist': 'Jonny Hill', 'song': 'Oh Tannenbaum', 'genre': 'Holiday', 'alternative_artist': 'Jonny Hill', 'add_to_final_records': True}
+{'artist': 'Jonny Hill', 'song': 'Der kleine Trommler', 'genre': 'Holiday', 'alternative_artist': 'Jonny Hill', 'add_to_final_records': True}
+{'artist': 'Jonny Hill', 'song': 'Ihr Kinderlein kommet', 'genre': 'Holiday', 'alternative_artist': 'Jonny Hill', 'add_to_final_records': True}
+{'artist': 'Jonny Hill', 'song': 'Stille Nacht, heilige Nacht', 'genre': 'Holiday', 'alternative_artist': 'Jonny Hill', 'add_to_final_records': True}
+{'artist': 'Jonny Hill', 'song': 'Weihnachten auf hoher See', 'genre': 'Holiday', 'alternative_artist': 'Jonny Hill', 'add_to_final_records': True}
+{'artist': 'Jonny Hill', 'song': 'Heidschi, Bumbeidschi', 'genre': 'Holiday', 'alternative_artist': 'Jonny Hill', 'add_to_final_records': True}
+{'artist': 'Jonny Hill', 'song': 'Weiße Weihnacht in der Heimat', 'genre': 'Holiday', 'alternative_artist': 'Jonny Hill', 'add_to_final_records': True}
+{'artist': 'Jonny Hill', 'song': 'Leise rieselt der Schnee', 'genre': 'Holiday', 'alternative_artist': 'Jonny Hill', 'add_to_final_records': True}
+{'artist': 'Jonny Hill', 'song': "Es ist ein Ros' entsprungen", 'genre': 'Holiday', 'alternative_artist': 'Jonny Hill', 'add_to_final_records': True}
+{'artist': 'Jonny Hill', 'song': "Morgen Kinder wird's was geben", 'genre': 'Holiday', 'alternative_artist': 'Jonny Hill', 'add_to_final_records': True}
+{'artist': 'Jonny Hill', 'song': 'Alle Jahre wieder', 'genre': 'Holiday', 'alternative_artist': 'Jonny Hill', 'add_to_final_records': True}
+{'artist': 'Jonny Hill', 'song': 'Heilige Nacht', 'genre': 'Holiday', 'alternative_artist': 'Jonny Hill', 'add_to_final_records': True}
+{'artist': 'Jonny Hill', 'song': 'Zu Hause brennt ein Lichterbaum', 'genre': 'Holiday', 'alternative_artist': 'Jonny Hill', 'add_to_final_records': True}
+{'artist': 'Jonny Hill', 'song': 'Süßer die Glocken nie klingen', 'genre': 'Holiday', 'alternative_artist': 'Jonny Hill', 'add_to_final_records': True}
+{'artist': 'Jonny Hill', 'song': 'Fröhliche Weihnacht', 'genre': 'Holiday', 'alternative_artist': 'Jonny Hill', 'add_to_final_records': True}
+{'artist': 'Jonny Hill', 'song': 'Süßer die glocken nie klingen', 'genre': 'Holiday', 'alternative_artist': 'Jonny Hill', 'add_to_final_records': True}
+{'artist': 'Jonny Hill', 'song': 'Knecht Ruprecht', 'genre': 'Holiday', 'alternative_artist': 'Jonny Hill', 'add_to_final_records': True}
+{'artist': 'Jonny Hill', 'song': 'Es wird schon gleich dumpa', 'genre': 'Holiday', 'alternative_artist': 'Jonny Hill', 'add_to_final_records': True}
+{'artist': 'Boxcar Willie', 'song': 'Up On the House Top', 'genre': 'Holiday', 'alternative_artist': 'Boxcar Willie', 'add_to_final_records': True}
+{'artist': 'Boxcar Willie', 'song': 'Silent Night', 'genre': 'Holiday', 'alternative_artist': 'Boxcar Willie', 'add_to_final_records': True}
+{'artist': 'Sam Bush', 'song': 'Sleigh Ride', 'genre': 'Holiday', 'alternative_artist': 'Sam Bush', 'add_to_final_records': True}
+{'artist': 'Demon Hunter', 'song': 'The Wind', 'genre': 'Holiday', 'alternative_artist': 'Demon Hunter', 'add_to_final_records': True}
+{'artist': 'Carmel & Eddie Money', 'song': "Baby It's Cold Outside", 'genre': 'Holiday', 'alternative_artist': 'Eddie Money', 'add_to_final_records': True}
+{'artist': 'Eddie Money', 'song': 'Little Drummer Boy (feat. Corey Glover & the Counterfeiters)', 'genre': 'Holiday', 'alternative_artist': 'Eddie Money', 'add_to_final_records': True}
+{'artist': 'The Brian Setzer Orchestra', 'song': 'Jingle Bell Rock', 'genre': 'Holiday', 'alternative_artist': 'Brian Setzer Orchestra', 'add_to_final_records': True}
+{'artist': 'The Brian Setzer Orchestra', 'song': 'Jingle Bells', 'genre': 'Holiday', 'alternative_artist': 'Brian Setzer Orchestra', 'add_to_final_records': True}
+{'artist': 'The Brian Setzer Orchestra', 'song': "Gettin' In the Mood (For Christmas)", 'genre': 'Holiday', 'alternative_artist': 'Brian Setzer Orchestra', 'add_to_final_records': True}
+{'artist': 'The Brian Setzer Orchestra', 'song': 'The Nutcracker Suite', 'genre': 'Holiday', 'alternative_artist': 'Brian Setzer Orchestra', 'add_to_final_records': True}
+{'artist': 'The Brian Setzer Orchestra', 'song': 'Run Rudolph Run', 'genre': 'Holiday', 'alternative_artist': 'Brian Setzer Orchestra', 'add_to_final_records': True}
+{'artist': 'The Brian Setzer Orchestra', 'song': 'Boogie Woogie Santa Claus', 'genre': 'Holiday', 'alternative_artist': 'Brian Setzer Orchestra', 'add_to_final_records': True}
+{'artist': 'The Brian Setzer Orchestra', 'song': 'Sleigh Ride', 'genre': 'Holiday', 'alternative_artist': 'Brian Setzer Orchestra', 'add_to_final_records': True}
+{'artist': 'The Brian Setzer Orchestra', 'song': "You're a Mean One, Mr. Grinch", 'genre': 'Holiday', 'alternative_artist': 'Brian Setzer Orchestra', 'add_to_final_records': True}
+{'artist': 'The Brian Setzer Orchestra', 'song': 'Winter Wonderland', 'genre': 'Holiday', 'alternative_artist': 'Brian Setzer Orchestra', 'add_to_final_records': True}
+{'artist': 'The Brian Setzer Orchestra', 'song': "(Everybody's Waitin' For) The Man With the Bag", 'genre': 'Holiday', 'alternative_artist': 'Brian Setzer Orchestra', 'add_to_final_records': True}
+{'artist': 'The Brian Setzer Orchestra', 'song': 'Let It Snow! Let It Snow! Let It Snow!', 'genre': 'Holiday', 'alternative_artist': 'Brian Setzer Orchestra', 'add_to_final_records': True}
+{'artist': 'The Brian Setzer Orchestra', 'song': 'Santa Drives a Hot Rod', 'genre': 'Holiday', 'alternative_artist': 'Brian Setzer Orchestra', 'add_to_final_records': True}
+{'artist': 'The Brian Setzer Orchestra', 'song': 'Dig That Crazy Santa Claus', 'genre': 'Holiday', 'alternative_artist': 'Brian Setzer Orchestra', 'add_to_final_records': True}
+{'artist': 'The Brian Setzer Orchestra', 'song': 'Angels We Have Heard On High', 'genre': 'Holiday', 'alternative_artist': 'Brian Setzer Orchestra', 'add_to_final_records': True}
+{'artist': 'The Brian Setzer Orchestra', 'song': 'Santa Claus Is Coming to Town', 'genre': 'Holiday', 'alternative_artist': 'Brian Setzer Orchestra', 'add_to_final_records': True}
+{'artist': 'The Brian Setzer Orchestra', 'song': "Baby, It's Cold Outside", 'genre': 'Holiday', 'alternative_artist': 'Brian Setzer Orchestra', 'add_to_final_records': True}
+{'artist': 'The Brian Setzer Orchestra', 'song': "Bach's Bounce", 'genre': 'Holiday', 'alternative_artist': 'Brian Setzer Orchestra', 'add_to_final_records': True}
+{'artist': 'The Brian Setzer Orchestra', 'song': 'My Favorite Things', 'genre': 'Holiday', 'alternative_artist': 'Brian Setzer Orchestra', 'add_to_final_records': True}
+{'artist': 'The Brian Setzer Orchestra', 'song': 'Take a Break Guys', 'genre': 'Holiday', 'alternative_artist': 'Brian Setzer Orchestra', 'add_to_final_records': True}
+{'artist': 'The Brian Setzer Orchestra', 'song': 'Christmas Island', 'genre': 'Holiday', 'alternative_artist': 'Brian Setzer Orchestra', 'add_to_final_records': True}
+{'artist': 'The Brian Setzer Orchestra', 'song': 'White Christmas', 'genre': 'Holiday', 'alternative_artist': 'Brian Setzer Orchestra', 'add_to_final_records': True}
+{'artist': 'The Brian Setzer Orchestra', 'song': 'Cool Yule', 'genre': 'Holiday', 'alternative_artist': 'Brian Setzer Orchestra', 'add_to_final_records': True}
+{'artist': 'The Brian Setzer Orchestra', 'song': "'Zat You Santa Claus?", 'genre': 'Holiday', 'alternative_artist': 'Brian Setzer Orchestra', 'add_to_final_records': True}
+{'artist': 'The Brian Setzer Orchestra', 'song': 'Hey Santa!', 'genre': 'Holiday', 'alternative_artist': 'Brian Setzer Orchestra', 'add_to_final_records': True}
+{'artist': 'The Brian Setzer Orchestra', 'song': "What Are You Doing New Year's Eve", 'genre': 'Holiday', 'alternative_artist': 'Brian Setzer Orchestra', 'add_to_final_records': True}
+{'artist': 'The Brian Setzer Orchestra', 'song': 'Yabba-Dabba Yuletide', 'genre': 'Holiday', 'alternative_artist': 'Brian Setzer Orchestra', 'add_to_final_records': True}
+{'artist': 'The Brian Setzer Orchestra', 'song': 'Santa Claus Is Back In Town', 'genre': 'Holiday', 'alternative_artist': 'Brian Setzer Orchestra', 'add_to_final_records': True}
+{'artist': 'The Brian Setzer Orchestra', 'song': 'Rockabilly Rudolph', 'genre': 'Holiday', 'alternative_artist': 'Brian Setzer Orchestra', 'add_to_final_records': True}
+{'artist': 'The Brian Setzer Orchestra', 'song': 'Here Comes Santa Claus', 'genre': 'Holiday', 'alternative_artist': 'Brian Setzer Orchestra', 'add_to_final_records': True}
+{'artist': 'The Brian Setzer Orchestra', 'song': "Rockin' Around the Christmas Tree", 'genre': 'Holiday', 'alternative_artist': 'Brian Setzer Orchestra', 'add_to_final_records': True}
+{'artist': 'The Brian Setzer Orchestra', 'song': "Baby It's Cold Outside (Duet With Ann-Margaret)", 'genre': 'Holiday', 'alternative_artist': 'Brian Setzer Orchestra', 'add_to_final_records': True}
+{'artist': 'The Brian Setzer Orchestra', 'song': "Swingin' Joy", 'genre': 'Holiday', 'alternative_artist': 'Brian Setzer Orchestra', 'add_to_final_records': True}
+{'artist': 'The Brian Setzer Orchestra', 'song': 'Most Wonderful Time of the Year', 'genre': 'Holiday', 'alternative_artist': 'Brian Setzer Orchestra', 'add_to_final_records': True}
+{'artist': 'The Brian Setzer Orchestra', 'song': 'Have Yourself a Merry Little Christmas', 'genre': 'Holiday', 'alternative_artist': 'Brian Setzer Orchestra', 'add_to_final_records': True}
+{'artist': 'The Brian Setzer Orchestra', 'song': 'Carol of the Bells', 'genre': 'Holiday', 'alternative_artist': 'Brian Setzer Orchestra', 'add_to_final_records': True}
+{'artist': 'The Brian Setzer Orchestra', 'song': 'Hark! The Herald Angels Sing', 'genre': 'Holiday', 'alternative_artist': 'Brian Setzer Orchestra', 'add_to_final_records': True}
+{'artist': 'The Brian Setzer Orchestra', 'song': 'O Little Town of Bethlehem', 'genre': 'Holiday', 'alternative_artist': 'Brian Setzer Orchestra', 'add_to_final_records': True}
+{'artist': 'The Brian Setzer Orchestra', 'song': 'O Holy Night', 'genre': 'Holiday', 'alternative_artist': 'Brian Setzer Orchestra', 'add_to_final_records': True}
+{'artist': 'The Brian Setzer Orchestra', 'song': 'Little Jack Frost', 'genre': 'Holiday', 'alternative_artist': 'Brian Setzer Orchestra', 'add_to_final_records': True}
+{'artist': 'The Brian Setzer Orchestra', 'song': 'Cactus Christmas', 'genre': 'Holiday', 'alternative_artist': 'Brian Setzer Orchestra', 'add_to_final_records': True}
+{'artist': 'The Brian Setzer Orchestra', 'song': "So They Say It's Christmas", 'genre': 'Holiday', 'alternative_artist': 'Brian Setzer Orchestra', 'add_to_final_records': True}
+{'artist': 'The Brian Setzer Orchestra', 'song': 'Blue Christmas', 'genre': 'Holiday', 'alternative_artist': 'Brian Setzer Orchestra', 'add_to_final_records': True}
+{'artist': 'The Brian Setzer Orchestra', 'song': 'The Amens', 'genre': 'Holiday', 'alternative_artist': 'Brian Setzer Orchestra', 'add_to_final_records': True}
+{'artist': 'The Brian Setzer Orchestra', 'song': 'Stray Cat Strut / You’re a Mean One, Mr. Grinch (Live)', 'genre': 'Holiday', 'alternative_artist': 'Brian Setzer Orchestra', 'add_to_final_records': True}
+{'artist': 'The Brian Setzer Orchestra', 'song': '(Everybody’s Waiting For) The Man With The Bag (Live)', 'genre': 'Holiday', 'alternative_artist': 'Brian Setzer Orchestra', 'add_to_final_records': True}
+{'artist': 'Josh Kelley', 'song': 'Fall In Love With Me On Christmas', 'genre': 'Holiday', 'alternative_artist': 'Josh Kelley', 'add_to_final_records': True}
+{'artist': 'Josh Kelley', 'song': 'Oh Holy Night', 'genre': 'Holiday', 'alternative_artist': 'Josh Kelley', 'add_to_final_records': True}
+{'artist': 'Josh Kelley', 'song': 'Travelin Home for Christmas (feat. Katherine Heigl)', 'genre': 'Holiday', 'alternative_artist': 'Josh Kelley', 'add_to_final_records': True}
+{'artist': 'Josh Kelley', 'song': 'Silent Night', 'genre': 'Holiday', 'alternative_artist': 'Josh Kelley', 'add_to_final_records': True}
+{'artist': 'Josh Kelley', 'song': 'Jingle Bells', 'genre': 'Holiday', 'alternative_artist': 'Josh Kelley', 'add_to_final_records': True}
+{'artist': 'Dr Teeth & Electric Mayhem Band', 'song': "'Zat You Santa Claus?", 'genre': 'Holiday', 'alternative_artist': 'Mayham', 'add_to_final_records': True}
+{'artist': 'Electric Mayhem Band', 'song': 'Merry Christmas Baby', 'genre': 'Holiday', 'alternative_artist': 'Mayham', 'add_to_final_records': True}
+{'artist': 'Dr.Teeth, Electric Mayhem Band', 'song': 'Run, Run Rudolph', 'genre': 'Holiday', 'alternative_artist': 'Mayham', 'add_to_final_records': True}
+{'artist': 'Office Romance', 'song': 'I Love the Holidays (feat. Syd Butler, Seth Jabour, Amy Carlson & Alex Winston)', 'genre': 'Holiday', 'alternative_artist': 'Alex Winston', 'add_to_final_records': True}
+{'artist': 'Office Romance', 'song': "Holidays Aren't the Same Without You (feat. Syd Butler, Seth Jabour, Amy Carlson & Alex Winston)", 'genre': 'Holiday', 'alternative_artist': 'Alex Winston', 'add_to_final_records': True}
+{'artist': 'Afroman', 'song': 'Deck My Balls', 'genre': 'Holiday', 'alternative_artist': 'Afroman', 'add_to_final_records': True}
+{'artist': 'Afroman', 'song': "12 J's of Christmas", 'genre': 'Holiday', 'alternative_artist': 'Afroman', 'add_to_final_records': True}
+{'artist': 'Afroman', 'song': 'Afroman Is Coming to Town', 'genre': 'Holiday', 'alternative_artist': 'Afroman', 'add_to_final_records': True}
+{'artist': 'Afroman', 'song': 'Frosty', 'genre': 'Holiday', 'alternative_artist': 'Afroman', 'add_to_final_records': True}
+{'artist': 'Afroman', 'song': 'Jobe Bells', 'genre': 'Holiday', 'alternative_artist': 'Afroman', 'add_to_final_records': True}
+{'artist': 'Afroman', 'song': 'I Wish You Would Roll a New Blunt', 'genre': 'Holiday', 'alternative_artist': 'Afroman', 'add_to_final_records': True}
+{'artist': 'Afroman', 'song': 'Police Blow My Wad', 'genre': 'Holiday', 'alternative_artist': 'Afroman', 'add_to_final_records': True}
+{'artist': 'Afroman', 'song': 'Violent Night', 'genre': 'Holiday', 'alternative_artist': 'Afroman', 'add_to_final_records': True}
+{'artist': 'Afroman', 'song': "12 J's of X-Mas", 'genre': 'Holiday', 'alternative_artist': 'Afroman', 'add_to_final_records': True}
+{'artist': 'Afroman', 'song': 'Let Her Blow', 'genre': 'Holiday', 'alternative_artist': 'Afroman', 'add_to_final_records': True}
+{'artist': 'Afroman', 'song': 'O Chronic Tree', 'genre': 'Holiday', 'alternative_artist': 'Afroman', 'add_to_final_records': True}
+{'artist': 'Afroman', 'song': 'A Strainj Poem', 'genre': 'Holiday', 'alternative_artist': 'Afroman', 'add_to_final_records': True}
+{'artist': 'Afroman', 'song': 'A Strainy Poem', 'genre': 'Holiday', 'alternative_artist': 'Afroman', 'add_to_final_records': True}
+{'artist': 'Tori Amos', 'song': 'Star of Wonder', 'genre': 'Holiday', 'alternative_artist': 'Tori Amos', 'add_to_final_records': True}
+{'artist': 'Tori Amos', 'song': 'Pink and Glitter', 'genre': 'Holiday', 'alternative_artist': 'Tori Amos', 'add_to_final_records': True}
+{'artist': 'Tori Amos', 'song': 'Candle: Coventry Carol', 'genre': 'Holiday', 'alternative_artist': 'Tori Amos', 'add_to_final_records': True}
+{'artist': 'Tori Amos', 'song': 'Emmanuel', 'genre': 'Holiday', 'alternative_artist': 'Tori Amos', 'add_to_final_records': True}
+{'artist': 'Tori Amos', 'song': 'Good King Wenceslas', 'genre': 'Holiday', 'alternative_artist': 'Tori Amos', 'add_to_final_records': True}
+{'artist': 'Tori Amos', 'song': 'Stille Nacht! Heilige Nacht! (Silent Night! Holy Night!) [Bonus Track]', 'genre': 'Holiday', 'alternative_artist': 'Tori Amos', 'add_to_final_records': True}
+{'artist': 'Tori Amos', 'song': 'What Child, Nowell', 'genre': 'Holiday', 'alternative_artist': 'Tori Amos', 'add_to_final_records': True}
+{'artist': 'Tori Amos', 'song': 'Comfort and Joy', 'genre': 'Holiday', 'alternative_artist': 'Tori Amos', 'add_to_final_records': True}
+{'artist': 'Tori Amos', 'song': 'Holly, Ivy and Rose', 'genre': 'Holiday', 'alternative_artist': 'Tori Amos', 'add_to_final_records': True}
+{'artist': 'Tori Amos', 'song': 'Jeanette, Isabella', 'genre': 'Holiday', 'alternative_artist': 'Tori Amos', 'add_to_final_records': True}
+{'artist': 'Tori Amos', 'song': 'Harps of Gold', 'genre': 'Holiday', 'alternative_artist': 'Tori Amos', 'add_to_final_records': True}
+{'artist': 'Tori Amos', 'song': 'Snow Angel', 'genre': 'Holiday', 'alternative_artist': 'Tori Amos', 'add_to_final_records': True}
+{'artist': 'Tori Amos', 'song': 'Our New Year', 'genre': 'Holiday', 'alternative_artist': 'Tori Amos', 'add_to_final_records': True}
+{'artist': 'Tori Amos', 'song': "Winter's Carol", 'genre': 'Holiday', 'alternative_artist': 'Tori Amos', 'add_to_final_records': True}
+{'artist': 'Tori Amos', 'song': 'A Silent Night With You', 'genre': 'Holiday', 'alternative_artist': 'Tori Amos', 'add_to_final_records': True}
+{'artist': 'Waddie Mitchell', 'song': "A Cowboy's Night Before Christmas", 'genre': 'Holiday', 'alternative_artist': 'Waddie Mitchell', 'add_to_final_records': True}
+{'artist': 'Waddie Mitchell', 'song': 'Christmas Letter', 'genre': 'Holiday', 'alternative_artist': 'Waddie Mitchell', 'add_to_final_records': True}
+{'artist': 'John Denver & The Muppets', 'song': "Alfie, the Christmas Tree / Carol for a Christmas Tree / It's In Every One of Us", 'genre': 'Holiday', 'alternative_artist': 'Brotherhood of Man', 'add_to_final_records': True}
+{'artist': 'Carole King', 'song': 'Everyday Will Be Like a Holiday', 'genre': 'Holiday', 'alternative_artist': 'Carole King', 'add_to_final_records': True}
+{'artist': 'Carole King', 'song': 'Christmas Paradise', 'genre': 'Holiday', 'alternative_artist': 'Carole King', 'add_to_final_records': True}
+{'artist': 'Carole King', 'song': 'Carol of the Bells', 'genre': 'Holiday', 'alternative_artist': 'Carole King', 'add_to_final_records': True}
+{'artist': 'Carole King', 'song': 'Christmas In the Air', 'genre': 'Holiday', 'alternative_artist': 'Carole King', 'add_to_final_records': True}
+{'artist': 'Carole King', 'song': 'I Got My Love to Keep Me Warm', 'genre': 'Holiday', 'alternative_artist': 'Carole King', 'add_to_final_records': True}
+{'artist': 'Carole King', 'song': 'Sleigh Ride', 'genre': 'Holiday', 'alternative_artist': 'Carole King', 'add_to_final_records': True}
+{'artist': 'Carole King', 'song': 'Have Yourself a Merry Little Christmas', 'genre': 'Holiday', 'alternative_artist': 'Carole King', 'add_to_final_records': True}
+{'artist': 'Carole King', 'song': 'This Christmas', 'genre': 'Holiday', 'alternative_artist': 'Carole King', 'add_to_final_records': True}
+{'artist': 'Carole King', 'song': 'Chanukah Prayer', 'genre': 'Holiday', 'alternative_artist': 'Carole King', 'add_to_final_records': True}
+{'artist': 'Carole King', 'song': "New Year's Day", 'genre': 'Holiday', 'alternative_artist': 'Carole King', 'add_to_final_records': True}
+{'artist': 'Carole King', 'song': 'Do You Hear What I Hear', 'genre': 'Holiday', 'alternative_artist': 'Carole King', 'add_to_final_records': True}
+{'artist': 'Carole King', 'song': 'My Favorite Things', 'genre': 'Holiday', 'alternative_artist': 'Carole King', 'add_to_final_records': True}
+{'artist': 'Ben Folds & Sara Bareilles', 'song': "Baby, It's Cold Outside (feat. The Sing-Off Contestants)", 'genre': 'Holiday', 'alternative_artist': 'Ben Folds', 'add_to_final_records': True}
+{'artist': 'Five for Fighting', 'song': 'Christmas Where You Are (feat. Jim Brickman)', 'genre': 'Holiday', 'alternative_artist': 'Five for Fighting', 'add_to_final_records': True}
+{'artist': 'Five for Fighting', 'song': 'Christmas Where You Are (Live) [feat. Jim Brickman]', 'genre': 'Holiday', 'alternative_artist': 'Five for Fighting', 'add_to_final_records': True}
+{'artist': 'Five for Fighting', 'song': 'Christmas Every Day of the Year', 'genre': 'Holiday', 'alternative_artist': 'Five for Fighting', 'add_to_final_records': True}
+{'artist': 'Five for Fighting', 'song': 'Hymms and Carols Medley (Live) [feat. Jim Brickman]', 'genre': 'Holiday', 'alternative_artist': 'Five for Fighting', 'add_to_final_records': True}
+{'artist': 'Five for Fighting', 'song': 'Edelweiss (Live) [feat. The International Children’s Choir]', 'genre': 'Holiday', 'alternative_artist': 'Five for Fighting', 'add_to_final_records': True}
+{'artist': 'Five for Fighting', 'song': 'The First Noel (Live)', 'genre': 'Holiday', 'alternative_artist': 'Five for Fighting', 'add_to_final_records': True}
+{'artist': 'Five for Fighting', 'song': 'In the Bleak Midwinter (Live)', 'genre': 'Holiday', 'alternative_artist': 'Five for Fighting', 'add_to_final_records': True}
+{'artist': 'Five for Fighting', 'song': 'Six for Christmas (Live) [feat. The Five for Fighting Quartet]', 'genre': 'Holiday', 'alternative_artist': 'Five for Fighting', 'add_to_final_records': True}
+{'artist': 'Five for Fighting', 'song': 'Superman (Live)', 'genre': 'Holiday', 'alternative_artist': 'Five for Fighting', 'add_to_final_records': True}
+{'artist': 'Five for Fighting', 'song': 'It Came Upon a Midnight Clear (Live)', 'genre': 'Holiday', 'alternative_artist': 'Five for Fighting', 'add_to_final_records': True}
+{'artist': 'Five for Fighting', 'song': 'Winter Wonderland (Live)', 'genre': 'Holiday', 'alternative_artist': 'Five for Fighting', 'add_to_final_records': True}
+{'artist': 'Five for Fighting', 'song': 'Santa Claus Is Coming to Town. (Live) [feat. Oliva Ondrasik]', 'genre': 'Holiday', 'alternative_artist': 'Five for Fighting', 'add_to_final_records': True}
+{'artist': 'Five for Fighting', 'song': 'Christmas Time Is Here (Live) [feat. The International Children’s Choir]', 'genre': 'Holiday', 'alternative_artist': 'Five for Fighting', 'add_to_final_records': True}
+{'artist': 'Kristian Bush', 'song': 'Shiny Shiny Christmas Tree', 'genre': 'Holiday', 'alternative_artist': 'Kristian Bush', 'add_to_final_records': True}
+{'artist': 'Belinda Carlisle', 'song': 'God Rest Ye Merry Gentlemen', 'genre': 'Holiday', 'alternative_artist': 'Belinda Carlisle', 'add_to_final_records': True}
+{'artist': 'Tony Bennett', 'song': 'Winter Wonderland', 'genre': 'Holiday', 'alternative_artist': 'Ben Smith', 'add_to_final_records': True}
+{'artist': 'Ben Smith', 'song': 'Christmas Down the Shore', 'genre': 'Holiday', 'alternative_artist': 'Ben Smith', 'add_to_final_records': True}
+{'artist': 'Ben Smith', 'song': 'Coal for Christmas', 'genre': 'Holiday', 'alternative_artist': 'Ben Smith', 'add_to_final_records': True}
+{'artist': 'Ben Smith', 'song': "Santa's All In", 'genre': 'Holiday', 'alternative_artist': 'Ben Smith', 'add_to_final_records': True}
+{'artist': 'Ben Smith', 'song': "He's Just Me", 'genre': 'Holiday', 'alternative_artist': 'Ben Smith', 'add_to_final_records': True}
+{'artist': 'Ben Smith', 'song': 'I Got a New Tattoo for Christmas', 'genre': 'Holiday', 'alternative_artist': 'Ben Smith', 'add_to_final_records': True}
+{'artist': 'Michael Hedges', 'song': 'What Child Is This', 'genre': 'Holiday', 'alternative_artist': 'Michael Hedges', 'add_to_final_records': True}
+{'artist': 'Anggun', 'song': 'Have Yourself a Merry Little Christmas', 'genre': 'Holiday', 'alternative_artist': 'Anggun', 'add_to_final_records': True}
+{'artist': 'Lemmy Kilmister, Billy F Gibbons & Dave Grohl', 'song': 'Run Rudolph Run', 'genre': 'Holiday', 'alternative_artist': 'Dave Grohl', 'add_to_final_records': True}
+{'artist': 'Justin Bieber', 'song': 'Mistletoe', 'genre': 'Holiday', 'alternative_artist': 'Bei Bei', 'add_to_final_records': True}
+{'artist': 'David Hart', 'song': 'Let It Snow (feat. Hargus "Pig" Robbins)', 'genre': 'Holiday', 'alternative_artist': "Hargus 'Pig' Robbins", 'add_to_final_records': True}
+{'artist': 'Imelda May & Michel Legrand', 'song': 'Silent Night', 'genre': 'Holiday', 'alternative_artist': 'Imelda May', 'add_to_final_records': True}
+{'artist': 'Bob Thompson', 'song': 'Angels We Have Heard On High', 'genre': 'Holiday', 'alternative_artist': 'Bobby Thompson', 'add_to_final_records': True}
+{'artist': 'Ringo Starr', 'song': 'Come On Christmas, Christmas Come On', 'genre': 'Holiday', 'alternative_artist': 'Ringo Starr', 'add_to_final_records': True}
+{'artist': 'Ringo Starr', 'song': 'Christmas Time Is Here Again', 'genre': 'Holiday', 'alternative_artist': 'Ringo Starr', 'add_to_final_records': True}
+{'artist': 'Ringo Starr', 'song': 'The Little Drummer Boy', 'genre': 'Holiday', 'alternative_artist': 'Ringo Starr', 'add_to_final_records': True}
+{'artist': 'Ringo Starr', 'song': 'I Wanna Be Santa Claus', 'genre': 'Holiday', 'alternative_artist': 'Ringo Starr', 'add_to_final_records': True}
+{'artist': 'Ringo Starr', 'song': 'Dear Santa', 'genre': 'Holiday', 'alternative_artist': 'Ringo Starr', 'add_to_final_records': True}
+{'artist': 'Ringo Starr', 'song': 'Rudolph the Red-Nosed Reindeer', 'genre': 'Holiday', 'alternative_artist': 'Ringo Starr', 'add_to_final_records': True}
+{'artist': 'Ringo Starr', 'song': 'Winter Wonderland', 'genre': 'Holiday', 'alternative_artist': 'Ringo Starr', 'add_to_final_records': True}
+{'artist': 'Ringo Starr', 'song': 'Peace Be With You', 'genre': 'Holiday', 'alternative_artist': 'Ringo Starr', 'add_to_final_records': True}
+{'artist': 'Ringo Starr', 'song': 'The Christmas Dance', 'genre': 'Holiday', 'alternative_artist': 'Ringo Starr', 'add_to_final_records': True}
+{'artist': 'Ringo Starr', 'song': 'Blue Christmas', 'genre': 'Holiday', 'alternative_artist': 'Ringo Starr', 'add_to_final_records': True}
+{'artist': 'Ringo Starr', 'song': 'White Christmas', 'genre': 'Holiday', 'alternative_artist': 'Ringo Starr', 'add_to_final_records': True}
+{'artist': 'Ringo Starr', 'song': 'Christmas Eve', 'genre': 'Holiday', 'alternative_artist': 'Ringo Starr', 'add_to_final_records': True}
+{'artist': 'L.A. Guns', 'song': 'Run Rudolph Run', 'genre': 'Holiday', 'alternative_artist': 'L', 'add_to_final_records': True}
+{'artist': 'Andrea Nardinocchi & Christine', 'song': 'Happy Xmas (War Is Over) [feat. Christine]', 'genre': 'Holiday', 'alternative_artist': 'Christine', 'add_to_final_records': True}
+{'artist': 'Christine Byrd, Cliff Young, Dan Haseltine, Danielle Young, Derri Daugherty, Leigh Nash, Mac Powell, Michael Tait, Out of Eden, Sara Groves & Terry Scott Taylor', 'song': "It's Christmas Time", 'genre': 'Holiday', 'alternative_artist': 'Christine', 'add_to_final_records': True}
+{'artist': 'US Air Force Concert Band', 'song': 'A Few Festive Things (Carol of the Bells, My Favorite Things, the Christmas Waltz, Silver Bells, the Most Wonderful Time of the Year)', 'genre': 'Holiday', 'alternative_artist': 'Sammy Jay', 'add_to_final_records': True}
+{'artist': 'Miss Sammy J', 'song': 'Santa I Can Boogie', 'genre': 'Holiday', 'alternative_artist': 'Sammy Jay', 'add_to_final_records': True}
+{'artist': 'Jessie Baylin', 'song': "That's What I Want for Christmas", 'genre': 'Holiday', 'alternative_artist': 'Jessie Baylin', 'add_to_final_records': True}
+{'artist': 'Jessie Baylin', 'song': 'Mrs. Christmas', 'genre': 'Holiday', 'alternative_artist': 'Jessie Baylin', 'add_to_final_records': True}
+{'artist': 'Jessie Baylin', 'song': 'Purple Snowflakes', 'genre': 'Holiday', 'alternative_artist': 'Jessie Baylin', 'add_to_final_records': True}
+{'artist': 'Sheila E.', 'song': 'Santa Baby', 'genre': 'Holiday', 'alternative_artist': 'Sheila E', 'add_to_final_records': True}
+{'artist': 'Sheila E.', 'song': 'Rudolph the Red-Nosed Reindeer', 'genre': 'Holiday', 'alternative_artist': 'Sheila E', 'add_to_final_records': True}
+{'artist': 'The French Kicks', 'song': 'Alabaster City', 'genre': 'Holiday', 'alternative_artist': 'French Kicks', 'add_to_final_records': True}
+{'artist': 'DRAM', 'song': 'Silver Bells (feat. BigBabyMom)', 'genre': 'Holiday', 'alternative_artist': 'D', 'add_to_final_records': True}
+{'artist': 'DRAM', 'song': '#1HappyHoliday', 'genre': 'Holiday', 'alternative_artist': 'D', 'add_to_final_records': True}
+{'artist': 'DRAM', 'song': 'The Christmas Song', 'genre': 'Holiday', 'alternative_artist': 'D', 'add_to_final_records': True}
+{'artist': 'Run-DMC', 'song': 'Christmas In Hollis', 'genre': 'Holiday', 'alternative_artist': 'D', 'add_to_final_records': True}
+{'artist': 'M-G-M Studio Chorus & MGM Studio Orchestra', 'song': 'Welcome Christmas', 'genre': 'Holiday', 'alternative_artist': 'D', 'add_to_final_records': True}
+{'artist': 'M-G-M Studio Chorus & MGM Studio Orchestra', 'song': 'Opening', 'genre': 'Holiday', 'alternative_artist': 'D', 'add_to_final_records': True}
+{'artist': 'M-G-M Studio Chorus & MGM Studio Orchestra', 'song': 'Trim Up the Tree', 'genre': 'Holiday', 'alternative_artist': 'D', 'add_to_final_records': True}
+{'artist': 'M-G-M Studio Chorus & MGM Studio Orchestra', 'song': 'I Must Stop Christmas', 'genre': 'Holiday', 'alternative_artist': 'D', 'add_to_final_records': True}
+{'artist': 'M-G-M Studio Chorus & MGM Studio Orchestra', 'song': 'Finale', 'genre': 'Holiday', 'alternative_artist': 'D', 'add_to_final_records': True}
+{'artist': 'M-G-M Studio Chorus & MGM Studio Orchestra', 'song': "Tomorrow Is Christmas, It's Practically Here", 'genre': 'Holiday', 'alternative_artist': 'D', 'add_to_final_records': True}
+{'artist': 'M-G-M Studio Chorus & MGM Studio Orchestra', 'song': 'A Quarter of Dawn', 'genre': 'Holiday', 'alternative_artist': 'D', 'add_to_final_records': True}
+{'artist': 'US Air Force Concert Band and Singing Sergeants', 'song': 'Christmas Eve In Washington', 'genre': 'Holiday', 'alternative_artist': 'Jim Sullivan', 'add_to_final_records': True}
+{'artist': 'Kat Edmonson & Lyle Lovett', 'song': 'Christmas Time Is Here (with Mitch Watson)', 'genre': 'Holiday', 'alternative_artist': 'Kat Edmonson', 'add_to_final_records': True}
+{'artist': 'Guy Clark, Ashley Cleveland & Robert Ellis Orral', 'song': 'Unto Us a Child Is Born', 'genre': 'Holiday', 'alternative_artist': 'Ashley Clark', 'add_to_final_records': True}
+{'artist': 'Guy Clark, Thom Schuyler & Ashley Cleveland', 'song': 'In the Dark of Night', 'genre': 'Holiday', 'alternative_artist': 'Ashley Clark', 'add_to_final_records': True}
+{'artist': 'DJ Boo Boo', 'song': 'Get Scared', 'genre': 'Holiday', 'alternative_artist': 'Get Scared', 'add_to_final_records': True}
+{'artist': 'Pee Wee King', 'song': 'Rootin’ Tootin’ Santa Claus', 'genre': 'Holiday', 'alternative_artist': 'Pee Wee King', 'add_to_final_records': True}
+{'artist': 'Pee Wee King', 'song': 'Rootin Tootin Santa Claus', 'genre': 'Holiday', 'alternative_artist': 'Pee Wee King', 'add_to_final_records': True}
+{'artist': 'Anna Wilson', 'song': 'Mrs. Claus', 'genre': 'Holiday', 'alternative_artist': 'Anna Wilson', 'add_to_final_records': True}
+{'artist': 'Anna Wilson', 'song': 'Light Me Up (feat. Chuck Wicks)', 'genre': 'Holiday', 'alternative_artist': 'Anna Wilson', 'add_to_final_records': True}
+{'artist': 'Anna Wilson', 'song': 'Yule Swing', 'genre': 'Holiday', 'alternative_artist': 'Anna Wilson', 'add_to_final_records': True}
+{'artist': 'Anna Wilson', 'song': 'Christmas Is Coming to Town', 'genre': 'Holiday', 'alternative_artist': 'Anna Wilson', 'add_to_final_records': True}
+{'artist': 'Anna Wilson', 'song': 'A House, a Home (For the Holidays)', 'genre': 'Holiday', 'alternative_artist': 'Anna Wilson', 'add_to_final_records': True}
+{'artist': 'Anna Wilson', 'song': "Holiday Lovin'", 'genre': 'Holiday', 'alternative_artist': 'Anna Wilson', 'add_to_final_records': True}
+{'artist': 'Anna Wilson', 'song': 'Through Their Eyes', 'genre': 'Holiday', 'alternative_artist': 'Anna Wilson', 'add_to_final_records': True}
+{'artist': 'Anna Wilson', 'song': 'Wish', 'genre': 'Holiday', 'alternative_artist': 'Anna Wilson', 'add_to_final_records': True}
+{'artist': 'Anna Wilson', 'song': 'One Day', 'genre': 'Holiday', 'alternative_artist': 'Anna Wilson', 'add_to_final_records': True}
+{'artist': 'Anna Wilson', 'song': 'Resolutions', 'genre': 'Holiday', 'alternative_artist': 'Anna Wilson', 'add_to_final_records': True}
+{'artist': 'Kenny Loggins, Peter Asher, Kate Price, David Rubenstein, Dean Parks, Geoffrey Gordon, Jai Winding, Peter Kater, Jimmy Johnson, David Darling, R. Carlos Nakai & Norton Buffalo', 'song': 'Have Yourself a Merry Little Christmas', 'genre': 'Holiday', 'alternative_artist': 'Kenny Price', 'add_to_final_records': True}
+{'artist': 'Kenny Loggins, Kate Price, David Rubenstein, Dean Parks, Geoffrey Gordon, Jai Winding, Peter Kater, Jimmy Johnson, David Darling & R. Carlos Nakai', 'song': 'The Christmas Song (Chestnuts Roasting On an Open Fire)', 'genre': 'Holiday', 'alternative_artist': 'Kenny Price', 'add_to_final_records': True}
+{'artist': 'Kenny Loggins, Kate Price, David Rubenstein, Dean Parks, Geoffrey Gordon, Jai Winding, Peter Kater, Larry Tuttle, David Darling, Everette Harp & R. Carlos Nakai', 'song': 'Some Children See Him', 'genre': 'Holiday', 'alternative_artist': 'Kenny Price', 'add_to_final_records': True}
+{'artist': 'Paul McCartney, Jimmy Fallon & The Roots', 'song': 'Wonderful Christmastime', 'genre': 'Holiday', 'alternative_artist': 'Jimmy Fallon', 'add_to_final_records': True}
+{'artist': 'Jimmy Fallon', 'song': 'Drunk On Christmas', 'genre': 'Holiday', 'alternative_artist': 'Jimmy Fallon', 'add_to_final_records': True}
+{'artist': 'Jack Johnson & The Roots', 'song': 'Rudolph the Red Nosed Reindeer (Live from Late Night with Jimmy Fallon)', 'genre': 'Holiday', 'alternative_artist': 'Jimmy Fallon', 'add_to_final_records': True}
+{'artist': 'Canned Heat', 'song': 'Christmas Blues', 'genre': 'Holiday', 'alternative_artist': 'Canned Heat', 'add_to_final_records': True}
+{'artist': 'James Durbin', 'song': 'Santa Claus Is Back In Town', 'genre': 'Holiday', 'alternative_artist': 'James Durbin', 'add_to_final_records': True}
+{'artist': 'James Durbin', 'song': "It's Just Not Christmas Without You", 'genre': 'Holiday', 'alternative_artist': 'James Durbin', 'add_to_final_records': True}
+{'artist': 'The Kicks', 'song': 'Santa Clause Is Coming to the Usa', 'genre': 'Holiday', 'alternative_artist': 'The Kicks', 'add_to_final_records': True}
+{'artist': 'Alana Davis', 'song': 'The Christmas Song', 'genre': 'Holiday', 'alternative_artist': 'Alana Davis', 'add_to_final_records': True}
+{'artist': 'Eric Paslay', 'song': 'We Three Kings', 'genre': 'Holiday', 'alternative_artist': 'Eric Paslay', 'add_to_final_records': True}
+{'artist': 'Jim Brickman, Collin Raye & Susan Ashton', 'song': 'The Gift', 'genre': 'Holiday', 'alternative_artist': 'Susan Raye', 'add_to_final_records': True}
+{'artist': 'Erran Baron Cohen', 'song': 'Dreidel (feat. Jules Brookes)', 'genre': 'Holiday', 'alternative_artist': 'Jules', 'add_to_final_records': True}
+{'artist': 'Erran Baron Cohen', 'song': 'Hanukkah oh Hanukkah (feat. Jules Brookes & Y-Love)', 'genre': 'Holiday', 'alternative_artist': 'Jules', 'add_to_final_records': True}
+{'artist': 'Skeeter Davis', 'song': 'Rudolph the Red Nosed Reindeer', 'genre': 'Holiday', 'alternative_artist': 'Skeeter Davis', 'add_to_final_records': True}
+{'artist': 'Skeeter Davis', 'song': 'Santa Claus Is Coming to Town', 'genre': 'Holiday', 'alternative_artist': 'Skeeter Davis', 'add_to_final_records': True}
+{'artist': 'Tenacious D & Sum 41', 'song': 'Things I Want', 'genre': 'Holiday', 'alternative_artist': 'Sum 41', 'add_to_final_records': True}
+{'artist': 'Kim Larsen & Kjukken', 'song': 'Sig Nærmer Tiden', 'genre': 'Holiday', 'alternative_artist': 'Kim Larsen', 'add_to_final_records': True}
+{'artist': 'Kim Larsen & Kjukken', 'song': 'Kimer I Klokker', 'genre': 'Holiday', 'alternative_artist': 'Kim Larsen', 'add_to_final_records': True}
+{'artist': 'Kim Larsen & Kjukken', 'song': 'Tak For Alt I Det Gamle År', 'genre': 'Holiday', 'alternative_artist': 'Kim Larsen', 'add_to_final_records': True}
+{'artist': 'Kim Larsen & Kjukken', 'song': 'Sikke En Voldsom Trængsel Og Alarm', 'genre': 'Holiday', 'alternative_artist': 'Kim Larsen', 'add_to_final_records': True}
+{'artist': 'Kim Larsen & Kjukken', 'song': 'Højt Fra Træets Grønne Top', 'genre': 'Holiday', 'alternative_artist': 'Kim Larsen', 'add_to_final_records': True}
+{'artist': 'Kim Larsen & Kjukken', 'song': "Så' Det Jul", 'genre': 'Holiday', 'alternative_artist': 'Kim Larsen', 'add_to_final_records': True}
+{'artist': 'Kim Larsen & Kjukken', 'song': 'Der Er Noget I Luften', 'genre': 'Holiday', 'alternative_artist': 'Kim Larsen', 'add_to_final_records': True}
+{'artist': 'Kim Larsen & Kjukken', 'song': 'Velkommen Igen Guds Engle Små', 'genre': 'Holiday', 'alternative_artist': 'Kim Larsen', 'add_to_final_records': True}
+{'artist': 'Kim Larsen & Kjukken', 'song': 'Juletræet Med Sin Pynt', 'genre': 'Holiday', 'alternative_artist': 'Kim Larsen', 'add_to_final_records': True}
+{'artist': 'Kim Larsen & Kjukken', 'song': 'En Rose Så Jeg Skyde', 'genre': 'Holiday', 'alternative_artist': 'Kim Larsen', 'add_to_final_records': True}
+{'artist': 'Kim Larsen & Kjukken', 'song': 'Julen Har Bragt Velsignet Bud', 'genre': 'Holiday', 'alternative_artist': 'Kim Larsen', 'add_to_final_records': True}
+{'artist': 'Kim Larsen & Kjukken', 'song': 'Et Barn Er Født I Bethlehem', 'genre': 'Holiday', 'alternative_artist': 'Kim Larsen', 'add_to_final_records': True}
+{'artist': 'Kim Larsen & Kjukken', 'song': 'Lysets Engel Går med Glans', 'genre': 'Holiday', 'alternative_artist': 'Kim Larsen', 'add_to_final_records': True}
+{'artist': 'Leslie Satcher, Kix Brooks & Jay DeMarcus', 'song': 'Silent Night', 'genre': 'Holiday', 'alternative_artist': 'Leslie Satcher', 'add_to_final_records': True}
+{'artist': 'Vanessa Hudgens', 'song': 'Winter Wonderland', 'genre': 'Holiday', 'alternative_artist': 'Vanessa Hudgens', 'add_to_final_records': True}
+{'artist': 'Leif Garrett', 'song': 'The Sara Band Song', 'genre': 'Holiday', 'alternative_artist': 'Leif Garrett', 'add_to_final_records': True}
+{'artist': 'Leif Garrett, Joey Sculthorpe, Steve Stevens and The Malcontents', 'song': 'Evilard (The Song)', 'genre': 'Holiday', 'alternative_artist': 'Leif Garrett', 'add_to_final_records': True}
+{'artist': 'Leif Garrett, Steve Stevens and The Malcontents', 'song': 'Evilards Reprise', 'genre': 'Holiday', 'alternative_artist': 'Leif Garrett', 'add_to_final_records': True}
+{'artist': 'MIKA & Michel Legrand', 'song': 'Vive Le Vent', 'genre': 'Holiday', 'alternative_artist': 'Mika', 'add_to_final_records': True}
+{'artist': 'Hannah Jane Snoots', 'song': 'What Child Is This', 'genre': 'Holiday', 'alternative_artist': 'Jane Child', 'add_to_final_records': True}
+{'artist': 'Sarah Jane McMahon', 'song': 'Child of the Poor/What Child Is This?', 'genre': 'Holiday', 'alternative_artist': 'Jane Child', 'add_to_final_records': True}
+{'artist': 'Jane Curtis', 'song': "El Noi de la mare (The Mother's Child) & Fun fum fum", 'genre': 'Holiday', 'alternative_artist': 'Jane Child', 'add_to_final_records': True}
+{'artist': 'Sarah Jane Morris', 'song': 'A Child Is Born', 'genre': 'Holiday', 'alternative_artist': 'Jane Child', 'add_to_final_records': True}
+{'artist': 'Jane Curtis', 'song': 'Come Little Children', 'genre': 'Holiday', 'alternative_artist': 'Jane Child', 'add_to_final_records': True}
+{'artist': 'Belinda Jane', 'song': 'What Child', 'genre': 'Holiday', 'alternative_artist': 'Jane Child', 'add_to_final_records': True}
+{'artist': 'Vocal Arts Ensemble of Durham', 'song': 'What Child Is This? (Live) [feat. Jane Lynch]', 'genre': 'Holiday', 'alternative_artist': 'Jane Child', 'add_to_final_records': True}
+{'artist': 'Matilda Jane Kraemer & André van Haren', 'song': "Children's Christmas Gloria", 'genre': 'Holiday', 'alternative_artist': 'Jane Child', 'add_to_final_records': True}
+{'artist': 'Samantha Jade & Guy Sebastian', 'song': 'The Magic of Christmas Time', 'genre': 'Holiday', 'alternative_artist': 'Guy Sebastian', 'add_to_final_records': True}
+{'artist': 'Henri Salvador', 'song': "C'est Noël m'amie", 'genre': 'Holiday', 'alternative_artist': 'Amil', 'add_to_final_records': True}
+{'artist': 'Johnny Mathis & Percy Faith and His Orchestra', 'song': 'Sleigh Ride (with Percy Faith and His Orchestra)', 'genre': 'Holiday', 'alternative_artist': 'Ian Stewart', 'add_to_final_records': True}
+{'artist': 'Rosanne Cash', 'song': 'It Came Upon a Midnight Clear (feat. Bill Bauer, Joe Loonan, John Agnello, Luke Noonan, Merry Mechant Circle Of Men, Stewart Lerman & T-Bone Wolk)', 'genre': 'Holiday', 'alternative_artist': 'Ian Stewart', 'add_to_final_records': True}
+{'artist': 'Jordan Rudess', 'song': 'God Rest Ye Merry Gentlemen', 'genre': 'Holiday', 'alternative_artist': 'Jordan Rudess', 'add_to_final_records': True}
+{'artist': 'Jordan Rudess', 'song': 'The Christmas Song', 'genre': 'Holiday', 'alternative_artist': 'Jordan Rudess', 'add_to_final_records': True}
+{'artist': 'Jordan Rudess', 'song': 'O Holy Night', 'genre': 'Holiday', 'alternative_artist': 'Jordan Rudess', 'add_to_final_records': True}
+{'artist': 'Jordan Rudess', 'song': 'White Christmas', 'genre': 'Holiday', 'alternative_artist': 'Jordan Rudess', 'add_to_final_records': True}
+{'artist': 'Jordan Rudess', 'song': 'It Came Upon a Midnight Clear', 'genre': 'Holiday', 'alternative_artist': 'Jordan Rudess', 'add_to_final_records': True}
+{'artist': 'Jordan Rudess', 'song': 'Silent Night', 'genre': 'Holiday', 'alternative_artist': 'Jordan Rudess', 'add_to_final_records': True}
+{'artist': 'Jordan Rudess', 'song': 'Andelusion', 'genre': 'Holiday', 'alternative_artist': 'Jordan Rudess', 'add_to_final_records': True}
+{'artist': 'Jordan Rudess', 'song': 'The First Noel', 'genre': 'Holiday', 'alternative_artist': 'Jordan Rudess', 'add_to_final_records': True}
+{'artist': 'Jordan Rudess', 'song': 'The Little Drummer Boy', 'genre': 'Holiday', 'alternative_artist': 'Jordan Rudess', 'add_to_final_records': True}
+{'artist': 'Jordan Rudess', 'song': 'I Wonder When I Wander', 'genre': 'Holiday', 'alternative_artist': 'Jordan Rudess', 'add_to_final_records': True}
+{'artist': 'Jordan Rudess', 'song': 'What Child is This', 'genre': 'Holiday', 'alternative_artist': 'Jordan Rudess', 'add_to_final_records': True}
+{'artist': 'Keaton Simons', 'song': 'Alone With You at Christmas', 'genre': 'Holiday', 'alternative_artist': 'Keaton Simons', 'add_to_final_records': True}
+{'artist': 'Keaton Simons', 'song': 'Eyes Light up at Christmas', 'genre': 'Holiday', 'alternative_artist': 'Keaton Simons', 'add_to_final_records': True}
+{'artist': 'Donny Hathaway', 'song': 'This Christmas', 'genre': 'Holiday', 'alternative_artist': 'Danny!', 'add_to_final_records': True}
+{'artist': 'Danny Elfman', 'song': 'Stealing Christmas', 'genre': 'Holiday', 'alternative_artist': 'Danny!', 'add_to_final_records': True}
+{'artist': 'Danny Elfman', 'song': 'A Wonderful Awful Idea', 'genre': 'Holiday', 'alternative_artist': 'Danny!', 'add_to_final_records': True}
+{'artist': 'Dale Evans & Roy Rogers', 'song': 'Sleigh Ride / Jingle Bells (Medley)', 'genre': 'Holiday', 'alternative_artist': 'Dale Evans', 'add_to_final_records': True}
+{'artist': 'Dale Evans & Roy Rogers', 'song': "I'll Be Home for Christmas", 'genre': 'Holiday', 'alternative_artist': 'Dale Evans', 'add_to_final_records': True}
+{'artist': 'Dale Evans & Roy Rogers', 'song': "It's the Most Wonderful Time of the Year", 'genre': 'Holiday', 'alternative_artist': 'Dale Evans', 'add_to_final_records': True}
+{'artist': 'Dale Evans & Roy Rogers', 'song': 'Let There Be Peace On Earth', 'genre': 'Holiday', 'alternative_artist': 'Dale Evans', 'add_to_final_records': True}
+{'artist': 'Dale Evans & Roy Rogers', 'song': 'A Christmas Prayer', 'genre': 'Holiday', 'alternative_artist': 'Dale Evans', 'add_to_final_records': True}
+{'artist': 'Dale Evans & Roy Rogers', 'song': 'What Color Is Love?', 'genre': 'Holiday', 'alternative_artist': 'Dale Evans', 'add_to_final_records': True}
+{'artist': 'Dale Evans & Roy Rogers', 'song': 'Christmas Is Always', 'genre': 'Holiday', 'alternative_artist': 'Dale Evans', 'add_to_final_records': True}
+{'artist': 'Dale Evans & Roy Rogers', 'song': 'Merry Christmas, My Darling', 'genre': 'Holiday', 'alternative_artist': 'Dale Evans', 'add_to_final_records': True}
+{'artist': 'Dale Evans & Roy Rogers', 'song': 'December Time', 'genre': 'Holiday', 'alternative_artist': 'Dale Evans', 'add_to_final_records': True}
+{'artist': 'Dale Evans & Roy Rogers', 'song': 'What Child Is This? / Sweet Little Jesus Boy (Medley)', 'genre': 'Holiday', 'alternative_artist': 'Dale Evans', 'add_to_final_records': True}
+{'artist': 'Dale Evans & Roy Rogers', 'song': 'Remember Whose Birthday It Is / Happy Birthday, Gentle Saviour (Medley)', 'genre': 'Holiday', 'alternative_artist': 'Dale Evans', 'add_to_final_records': True}
+{'artist': 'Dale Evans & Roy Rogers', 'song': 'Star of Hope', 'genre': 'Holiday', 'alternative_artist': 'Dale Evans', 'add_to_final_records': True}
+{'artist': '"Little" Jimmy Dickens', 'song': "'Twas the Night Before Christmas", 'genre': 'Holiday', 'alternative_artist': 'Little Jimmy Dickens', 'add_to_final_records': True}
+{'artist': 'Kim Carnes', 'song': 'Away In a Manger', 'genre': 'Holiday', 'alternative_artist': 'Kim Carnes', 'add_to_final_records': True}
+{'artist': 'Kim Carnes', 'song': 'Run, Run Rudolph', 'genre': 'Holiday', 'alternative_artist': 'Kim Carnes', 'add_to_final_records': True}
+{'artist': 'Kim Carnes', 'song': 'O Little Town of Bethlehem', 'genre': 'Holiday', 'alternative_artist': 'Kim Carnes', 'add_to_final_records': True}
+{'artist': 'Billy Squier', 'song': 'Christmas Is the Time to Say "I Love You"', 'genre': 'Holiday', 'alternative_artist': 'Billy Squier', 'add_to_final_records': True}
+{'artist': 'Billy Squier', 'song': 'Christmas Is the Time To Say "I Love You"', 'genre': 'Holiday', 'alternative_artist': 'Billy Squier', 'add_to_final_records': True}
+{'artist': 'BZN', 'song': 'Adeste Fidelis', 'genre': 'Holiday', 'alternative_artist': 'BZN', 'add_to_final_records': True}
+{'artist': 'BZN', 'song': 'Winter Wonderland', 'genre': 'Holiday', 'alternative_artist': 'BZN', 'add_to_final_records': True}
+{'artist': 'BZN', 'song': 'White Christmas', 'genre': 'Holiday', 'alternative_artist': 'BZN', 'add_to_final_records': True}
+{'artist': 'BZN', 'song': 'Gold And Myrrh', 'genre': 'Holiday', 'alternative_artist': 'BZN', 'add_to_final_records': True}
+{'artist': 'BZN', 'song': 'Ta Kronia Ekina', 'genre': 'Holiday', 'alternative_artist': 'BZN', 'add_to_final_records': True}
+{'artist': 'BZN', 'song': 'La delivrance', 'genre': 'Holiday', 'alternative_artist': 'BZN', 'add_to_final_records': True}
+{'artist': 'BZN', 'song': 'Once Upon A Christmas', 'genre': 'Holiday', 'alternative_artist': 'BZN', 'add_to_final_records': True}
+{'artist': 'BZN', 'song': 'Silent Night, Holy Night', 'genre': 'Holiday', 'alternative_artist': 'BZN', 'add_to_final_records': True}
+{'artist': 'BZN', 'song': 'Xristoejena', 'genre': 'Holiday', 'alternative_artist': 'BZN', 'add_to_final_records': True}
+{'artist': 'BZN', 'song': 'This Is Christmas Night', 'genre': 'Holiday', 'alternative_artist': 'BZN', 'add_to_final_records': True}
+{'artist': 'BZN', 'song': 'The First Nowell', 'genre': 'Holiday', 'alternative_artist': 'BZN', 'add_to_final_records': True}
+{'artist': 'Boots Randolph, Billy Grammer, Orion, Jerry Reed, The Jordanaires, Bill Purcell, Max Fagan, Scotty Moore, D.J. Fontana, Butch Carr & Ernie Reed', 'song': "'Twas the Night Before Christmas", 'genre': 'Holiday', 'alternative_artist': 'Billy Grammer', 'add_to_final_records': True}
+{'artist': 'Boots Randolph, Billy Grammer, Orion, Jerry Reed, The Jordanaires, Bill Purcell, Max Fagan, Scotty Moore, D.J. Fontana, Butch Carr & Ernie Reed', 'song': 'White Christmas', 'genre': 'Holiday', 'alternative_artist': 'Billy Grammer', 'add_to_final_records': True}
+{'artist': 'Boots Randolph, Billy Grammer, Orion, Jerry Reed, The Jordanaires, Bill Purcell, Max Fagan, Scotty Moore, D.J. Fontana, Butch Carr & Ernie Reed', 'song': 'Silent Night', 'genre': 'Holiday', 'alternative_artist': 'Billy Grammer', 'add_to_final_records': True}
+{'artist': 'Boots Randolph, Billy Grammer, Orion, Jerry Reed, The Jordanaires, Bill Purcell, Max Fagan, Scotty Moore, D.J. Fontana, Butch Carr & Ernie Reed', 'song': "Jolly Ol' St. Nicholas", 'genre': 'Holiday', 'alternative_artist': 'Billy Grammer', 'add_to_final_records': True}
+{'artist': 'Boots Randolph, Billy Grammer, Orion, Jerry Reed, The Jordanaires, Bill Purcell, Max Fagan, Scotty Moore, D.J. Fontana, Butch Carr & Ernie Reed', 'song': 'I Heard the Bells On Christmas Day', 'genre': 'Holiday', 'alternative_artist': 'Billy Grammer', 'add_to_final_records': True}
+{'artist': 'Boots Randolph, Billy Grammer, Orion, Jerry Reed, The Jordanaires, Bill Purcell, Max Fagan, Scotty Moore, D.J. Fontana, Butch Carr & Ernie Reed', 'song': 'Monastery Bells', 'genre': 'Holiday', 'alternative_artist': 'Billy Grammer', 'add_to_final_records': True}
+{'artist': 'Boots Randolph, Billy Grammer, Orion, Jerry Reed, The Jordanaires, Bill Purcell, Max Fagan, Scotty Moore, D.J. Fontana, Butch Carr & Ernie Reed', 'song': 'Santa Claus Is Coming to Town', 'genre': 'Holiday', 'alternative_artist': 'Billy Grammer', 'add_to_final_records': True}
+{'artist': 'Boots Randolph, Billy Grammer, Orion, Jerry Reed, The Jordanaires, Bill Purcell, Max Fagan, Scotty Moore, D.J. Fontana, Butch Carr & Ernie Reed', 'song': 'Up On the Housetop', 'genre': 'Holiday', 'alternative_artist': 'Billy Grammer', 'add_to_final_records': True}
+{'artist': 'Boots Randolph, Billy Grammer, Orion, Jerry Reed, The Jordanaires, Bill Purcell, Max Fagan, Scotty Moore, D.J. Fontana, Butch Carr & Ernie Reed', 'song': 'Angels We Have Heard On High', 'genre': 'Holiday', 'alternative_artist': 'Billy Grammer', 'add_to_final_records': True}
+{'artist': 'Boots Randolph, Billy Grammer, Orion, Jerry Reed, The Jordanaires, Bill Purcell, Max Fagan, Scotty Moore, D.J. Fontana, Butch Carr & Ernie Reed', 'song': 'The First Noel', 'genre': 'Holiday', 'alternative_artist': 'Billy Grammer', 'add_to_final_records': True}
+{'artist': 'Boots Randolph, Billy Grammer, Orion, Jerry Reed, The Jordanaires, Bill Purcell, Max Fagan, Scotty Moore, D.J. Fontana, Butch Carr & Ernie Reed', 'song': 'We Wish You a Merry Christmas', 'genre': 'Holiday', 'alternative_artist': 'Billy Grammer', 'add_to_final_records': True}
+{'artist': 'Boots Randolph, Billy Grammer, Orion, Jerry Reed, The Jordanaires, Bill Purcell, Max Fagan, Scotty Moore, D.J. Fontana, Butch Carr & Ernie Reed', 'song': 'Joy to the World', 'genre': 'Holiday', 'alternative_artist': 'Billy Grammer', 'add_to_final_records': True}
+{'artist': 'Boots Randolph, Billy Grammer, Orion, Jerry Reed, The Jordanaires, Bill Purcell, Max Fagan, Scotty Moore, D.J. Fontana, Butch Carr & Ernie Reed', 'song': 'It Came Upon a Midnight Clear', 'genre': 'Holiday', 'alternative_artist': 'Billy Grammer', 'add_to_final_records': True}
+{'artist': 'Boots Randolph, Billy Grammer, Orion, Jerry Reed, The Jordanaires, Bill Purcell, Max Fagan, Scotty Moore, D.J. Fontana, Butch Carr & Ernie Reed', 'song': 'What Child Is This?', 'genre': 'Holiday', 'alternative_artist': 'Billy Grammer', 'add_to_final_records': True}
+{'artist': 'Boots Randolph, Billy Grammer, Orion, Jerry Reed, The Jordanaires, Bill Purcell, Max Fagan, Scotty Moore, D.J. Fontana, Butch Carr & Ernie Reed', 'song': 'Deck the Halls', 'genre': 'Holiday', 'alternative_artist': 'Billy Grammer', 'add_to_final_records': True}
+{'artist': 'Boots Randolph, Billy Grammer, Orion, Jerry Reed, The Jordanaires, Bill Purcell, Max Fagan, Scotty Moore, D.J. Fontana, Butch Carr & Ernie Reed', 'song': "Rockin' Jingle Bells", 'genre': 'Holiday', 'alternative_artist': 'Billy Grammer', 'add_to_final_records': True}
+{'artist': 'Boots Randolph, Billy Grammer, Orion, Jerry Reed, The Jordanaires, Bill Purcell, Max Fagan, Scotty Moore, D.J. Fontana, Butch Carr & Ernie Reed', 'song': 'Jingle Bells', 'genre': 'Holiday', 'alternative_artist': 'Billy Grammer', 'add_to_final_records': True}
+{'artist': 'Boots Randolph, Billy Grammer, Orion, Jerry Reed, The Jordanaires, Bill Purcell, Max Fagan, Scotty Moore, D.J. Fontana, Butch Carr & Ernie Reed', 'song': 'O Christmas Tree', 'genre': 'Holiday', 'alternative_artist': 'Billy Grammer', 'add_to_final_records': True}
+{'artist': 'Boots Randolph, Billy Grammer, Orion, Jerry Reed, The Jordanaires, Bill Purcell, Max Fagan, Scotty Moore, D.J. Fontana, Butch Carr & Ernie Reed', 'song': 'Rock Around the Christmas Tree', 'genre': 'Holiday', 'alternative_artist': 'Billy Grammer', 'add_to_final_records': True}
+{'artist': 'Boots Randolph, Billy Grammer, Orion, Jerry Reed, The Jordanaires, Bill Purcell, Max Fagan, Scotty Moore, D.J. Fontana, Butch Carr & Ernie Reed', 'song': 'O Come Little Children', 'genre': 'Holiday', 'alternative_artist': 'Billy Grammer', 'add_to_final_records': True}
+{'artist': 'Boots Randolph, Billy Grammer, Orion, Jerry Reed, The Jordanaires, Bill Purcell, Max Fagan, Scotty Moore, D.J. Fontana, Butch Carr & Ernie Reed', 'song': 'Hark! the Herald Angels Sing', 'genre': 'Holiday', 'alternative_artist': 'Billy Grammer', 'add_to_final_records': True}
+{'artist': 'Boots Randolph, Billy Grammer, Orion, Jerry Reed, The Jordanaires, Bill Purcell, Max Fagan, Scotty Moore, D.J. Fontana, Butch Carr & Ernie Reed', 'song': 'Dancing In a Winter Wonderland', 'genre': 'Holiday', 'alternative_artist': 'Billy Grammer', 'add_to_final_records': True}
+{'artist': 'Boots Randolph, Billy Grammer, Orion, Jerry Reed, The Jordanaires, Bill Purcell, Max Fagan, Scotty Moore, D.J. Fontana, Butch Carr & Ernie Reed', 'song': 'Away In a Manger', 'genre': 'Holiday', 'alternative_artist': 'Billy Grammer', 'add_to_final_records': True}
+{'artist': 'Boots Randolph, Billy Grammer, Orion, Jerry Reed, The Jordanaires, Bill Purcell, Max Fagan, Scotty Moore, D.J. Fontana, Butch Carr & Ernie Reed', 'song': 'O Come All Ye Faithful', 'genre': 'Holiday', 'alternative_artist': 'Billy Grammer', 'add_to_final_records': True}
+{'artist': 'Boots Randolph, Billy Grammer, Orion, Jerry Reed, The Jordanaires, Bill Purcell, Max Fagan, Scotty Moore, D.J. Fontana, Butch Carr & Ernie Reed', 'song': 'O Little Town of Bethlehem', 'genre': 'Holiday', 'alternative_artist': 'Billy Grammer', 'add_to_final_records': True}
+{'artist': 'Kathy Kallick', 'song': 'Ring the Bells at Midnight', 'genre': 'Holiday', 'alternative_artist': 'Kathy Kallick', 'add_to_final_records': True}
+{'artist': 'Kathy Kallick', 'song': 'Ring the Bells At Midnight', 'genre': 'Holiday', 'alternative_artist': 'Kathy Kallick', 'add_to_final_records': True}
+{'artist': 'Charles Esten', 'song': 'The Lights of Graceland (feat. Sixwire)', 'genre': 'Holiday', 'alternative_artist': 'Charles Esten', 'add_to_final_records': True}
+{'artist': 'Ann-Margret', 'song': "Baby, It's Cold Outside", 'genre': 'Holiday', 'alternative_artist': 'Ann-Margret', 'add_to_final_records': True}
+{'artist': "Gene Autry, The Cass County Boys, The Gene Autry Blue Jeans & Carl Cotner's Melody Ranch Hard-Way-Six", 'song': 'Where Is My Snow-Man?', 'genre': 'Holiday', 'alternative_artist': 'Blue County', 'add_to_final_records': True}
+{'artist': "Gene Autry, The Cass County Boys, The Gene Autry Blue Jeans & Carl Cotner's Melody Ranch Orchestra", 'song': 'Round, Round the Christmas Tree', 'genre': 'Holiday', 'alternative_artist': 'Blue County', 'add_to_final_records': True}
+{'artist': 'Grandmaster Flash', 'song': 'White Lines', 'genre': 'Holiday', 'alternative_artist': 'Grandmaster Flash', 'add_to_final_records': True}
+{'artist': 'Grandmaster Flash & The Furious Five', 'song': 'The Message', 'genre': 'Holiday', 'alternative_artist': 'Grandmaster Flash', 'add_to_final_records': True}
+{'artist': 'Amy Grant', 'song': 'Grown-Up Christmas List', 'genre': 'Holiday', 'alternative_artist': 'Home Grown', 'add_to_final_records': True}
+{'artist': 'Bobby Sherman', 'song': 'Amen', 'genre': 'Holiday', 'alternative_artist': 'Bobby Sherman', 'add_to_final_records': True}
+{'artist': 'Bobby Sherman', 'song': "Love's What You're Gettin' for Christmas", 'genre': 'Holiday', 'alternative_artist': 'Bobby Sherman', 'add_to_final_records': True}
+{'artist': 'Bobby Sherman', 'song': "Santa Claus Is Comin' to Town", 'genre': 'Holiday', 'alternative_artist': 'Bobby Sherman', 'add_to_final_records': True}
+{'artist': 'Bobby Sherman', 'song': 'Christmas On Her Mind', 'genre': 'Holiday', 'alternative_artist': 'Bobby Sherman', 'add_to_final_records': True}
+{'artist': 'Bobby Sherman', 'song': "Yesterday's Christmas", 'genre': 'Holiday', 'alternative_artist': 'Bobby Sherman', 'add_to_final_records': True}
+{'artist': 'Bobby Sherman', 'song': 'Christmas Is (Make It Sweet)', 'genre': 'Holiday', 'alternative_artist': 'Bobby Sherman', 'add_to_final_records': True}
+{'artist': 'Bobby Sherman', 'song': 'Christmas Wish', 'genre': 'Holiday', 'alternative_artist': 'Bobby Sherman', 'add_to_final_records': True}
+{'artist': 'Bobby Sherman', 'song': 'A Song of Joy (Himno a la Alegria)', 'genre': 'Holiday', 'alternative_artist': 'Bobby Sherman', 'add_to_final_records': True}
+{'artist': 'Bobby Sherman', 'song': 'Jingle Bell Rock', 'genre': 'Holiday', 'alternative_artist': 'Bobby Sherman', 'add_to_final_records': True}
+{'artist': 'Bobby Sherman', 'song': 'Blue Christmas', 'genre': 'Holiday', 'alternative_artist': 'Bobby Sherman', 'add_to_final_records': True}
+{'artist': 'Bobby Sherman', 'song': 'Prologue', 'genre': 'Holiday', 'alternative_artist': 'Bobby Sherman', 'add_to_final_records': True}
+{'artist': 'Bobby Sherman', 'song': "Goin' Home (Sing a Song of Christmas Cheer)", 'genre': 'Holiday', 'alternative_artist': 'Bobby Sherman', 'add_to_final_records': True}
+{'artist': 'Bobby Sherman', 'song': 'I Saw Mommy Kissing Santa Claus', 'genre': 'Holiday', 'alternative_artist': 'Bobby Sherman', 'add_to_final_records': True}
+{'artist': 'FireHouse', 'song': "Rockin' Around the Christmas Tree", 'genre': 'Holiday', 'alternative_artist': 'fIREHOSE', 'add_to_final_records': True}
+{'artist': 'John Denver', 'song': "Please, Daddy (Don't Get Drunk This Christmas)", 'genre': 'Holiday', 'alternative_artist': 'Don Henry', 'add_to_final_records': True}
+{'artist': 'Fiddler on the Roof', 'song': 'Nerotai Hazeirim (feat. Alix Korey, Aaron Young, George Psomas, Matt Moisey, Jenny Rose Baker, John Bell, Julie Benko, Hayley Feinstein, Adam Kantor, Jesse Kovarsky, Zach MC Nally, Sarah Parker & Tess Primack)', 'genre': 'Holiday', 'alternative_artist': 'Sarah Johns', 'add_to_final_records': True}
+{'artist': 'Polaroid Giraffe', 'song': 'Carol of the Bells', 'genre': 'Holiday', 'alternative_artist': 'Broken Bells', 'add_to_final_records': True}
+{'artist': 'On Bells', 'song': 'Floating Drawings', 'genre': 'Holiday', 'alternative_artist': 'Broken Bells', 'add_to_final_records': True}
+{'artist': 'On Bells', 'song': 'Entrance', 'genre': 'Holiday', 'alternative_artist': 'Broken Bells', 'add_to_final_records': True}
+{'artist': 'On Bells', 'song': 'Hallway', 'genre': 'Holiday', 'alternative_artist': 'Broken Bells', 'add_to_final_records': True}
+{'artist': 'On Bells', 'song': 'Animal Transformation', 'genre': 'Holiday', 'alternative_artist': 'Broken Bells', 'add_to_final_records': True}
+{'artist': 'Dope', 'song': 'The Corporate Upbeat', 'genre': 'Holiday', 'alternative_artist': 'Dope', 'add_to_final_records': True}
+{'artist': 'Dope', 'song': 'New Horizon', 'genre': 'Holiday', 'alternative_artist': 'Dope', 'add_to_final_records': True}
+{'artist': 'Dope', 'song': 'Success Business', 'genre': 'Holiday', 'alternative_artist': 'Dope', 'add_to_final_records': True}
+{'artist': 'Dope', 'song': 'Inspiring Progress', 'genre': 'Holiday', 'alternative_artist': 'Dope', 'add_to_final_records': True}
+{'artist': 'Dope', 'song': 'The Wind', 'genre': 'Holiday', 'alternative_artist': 'Dope', 'add_to_final_records': True}
+{'artist': 'Dope', 'song': 'Uplifting Corporate', 'genre': 'Holiday', 'alternative_artist': 'Dope', 'add_to_final_records': True}
+{'artist': 'Dope', 'song': 'Inspiring Technology', 'genre': 'Holiday', 'alternative_artist': 'Dope', 'add_to_final_records': True}
+{'artist': 'Mascott & Dave Derby', 'song': 'This Christmastime', 'genre': 'Holiday', 'alternative_artist': 'Derby', 'add_to_final_records': True}
+{'artist': "Mary O'Callahan", 'song': 'God Rest Ye Merry Gentlemen', 'genre': 'Holiday', 'alternative_artist': 'Dulcimer', 'add_to_final_records': True}
+{'artist': "Mary O'Callahan", 'song': 'O Christmas Tree', 'genre': 'Holiday', 'alternative_artist': 'Dulcimer', 'add_to_final_records': True}
+{'artist': "Mary O'Callahan", 'song': 'What Child Is This', 'genre': 'Holiday', 'alternative_artist': 'Dulcimer', 'add_to_final_records': True}
+{'artist': "Mary O'Callahan", 'song': 'We Three Kings', 'genre': 'Holiday', 'alternative_artist': 'Dulcimer', 'add_to_final_records': True}
+{'artist': "Mary O'Callahan", 'song': 'The Holly and the Ivy', 'genre': 'Holiday', 'alternative_artist': 'Dulcimer', 'add_to_final_records': True}
+{'artist': "Mary O'Callahan", 'song': 'Silver Bells', 'genre': 'Holiday', 'alternative_artist': 'Dulcimer', 'add_to_final_records': True}
+{'artist': "Mary O'Callahan", 'song': 'Joy to the World', 'genre': 'Holiday', 'alternative_artist': 'Dulcimer', 'add_to_final_records': True}
+{'artist': "Mary O'Callahan", 'song': 'O Come All Ye Faithful', 'genre': 'Holiday', 'alternative_artist': 'Dulcimer', 'add_to_final_records': True}
+{'artist': "Mary O'Callahan", 'song': 'Away In a Manger', 'genre': 'Holiday', 'alternative_artist': 'Dulcimer', 'add_to_final_records': True}
+{'artist': "Mary O'Callahan", 'song': 'Frosty the Snowman', 'genre': 'Holiday', 'alternative_artist': 'Dulcimer', 'add_to_final_records': True}
+{'artist': 'Hammered Dulcimer', 'song': 'Here We Come a Caroling', 'genre': 'Holiday', 'alternative_artist': 'Dulcimer', 'add_to_final_records': True}
+{'artist': 'Hammered Dulcimer', 'song': 'I Saw Three Ships', 'genre': 'Holiday', 'alternative_artist': 'Dulcimer', 'add_to_final_records': True}
+{'artist': 'Dulcimer Dan & The Blue Skies Band', 'song': 'In the Bleak Midwinter', 'genre': 'Holiday', 'alternative_artist': 'Dulcimer', 'add_to_final_records': True}
+{'artist': 'Dulcimer Dan & The Blue Skies Band', 'song': 'Away in a Manger', 'genre': 'Holiday', 'alternative_artist': 'Dulcimer', 'add_to_final_records': True}
+{'artist': 'Dulcimer Dan & The Blue Skies Band', 'song': 'Sleigh Ride', 'genre': 'Holiday', 'alternative_artist': 'Dulcimer', 'add_to_final_records': True}
+{'artist': 'Joshua Messick', 'song': 'Carol of the Bells', 'genre': 'Holiday', 'alternative_artist': 'Dulcimer', 'add_to_final_records': True}
+{'artist': 'Dulcimer Dan & The Blue Skies Band', 'song': "I'll Be Home for Christmas", 'genre': 'Holiday', 'alternative_artist': 'Dulcimer', 'add_to_final_records': True}
+{'artist': 'Dulcimer Dan & The Blue Skies Band', 'song': 'Let It Snow, Let It Snow, Let It Snow', 'genre': 'Holiday', 'alternative_artist': 'Dulcimer', 'add_to_final_records': True}
+{'artist': 'Craig Riley', 'song': 'Irish Magic - Mellow Accoustic Guitar, Recorder & Dulcimer', 'genre': 'Holiday', 'alternative_artist': 'Dulcimer', 'add_to_final_records': True}
+{'artist': 'Dulcimer Dan & The Blue Skies Band', 'song': 'The First Noel', 'genre': 'Holiday', 'alternative_artist': 'Dulcimer', 'add_to_final_records': True}
+{'artist': 'Dulcimer Dan & The Blue Skies Band', 'song': 'Jingle Bells', 'genre': 'Holiday', 'alternative_artist': 'Dulcimer', 'add_to_final_records': True}
+{'artist': 'Dulcimer Dan & The Blue Skies Band', 'song': "O' Come All Ye Faithful", 'genre': 'Holiday', 'alternative_artist': 'Dulcimer', 'add_to_final_records': True}
+{'artist': 'Dulcimer Dan & The Blue Skies Band', 'song': 'Deck the Halls', 'genre': 'Holiday', 'alternative_artist': 'Dulcimer', 'add_to_final_records': True}
+{'artist': 'Hank Thompson', 'song': 'Gonna Wrap My Heart In Ribbons (feat. The Brazos Valley Boys)', 'genre': 'Holiday', 'alternative_artist': 'Hank Thompson', 'add_to_final_records': True}
+{'artist': 'Hank Thompson', 'song': 'Mr. & Mrs. Snowman (feat. The Brazos Valley Boys)', 'genre': 'Holiday', 'alternative_artist': 'Hank Thompson', 'add_to_final_records': True}
+{'artist': 'Hank Thompson', 'song': 'White Christmas (feat. The Brazos Valley Boys)', 'genre': 'Holiday', 'alternative_artist': 'Hank Thompson', 'add_to_final_records': True}
+{'artist': 'Hank Thompson', 'song': "I'd Like To Have an Elephant For Christmas (feat. The Brazos Valley Boys)", 'genre': 'Holiday', 'alternative_artist': 'Hank Thompson', 'add_to_final_records': True}
+{'artist': 'Hank Thompson', 'song': 'Here Comes Santa Claus (Right Down Santa Claus Lane) [feat. The Brazos Valley Boys]', 'genre': 'Holiday', 'alternative_artist': 'Hank Thompson', 'add_to_final_records': True}
+{'artist': 'Hank Thompson', 'song': 'Blue Christmas (feat. The Brazos Valley Boys)', 'genre': 'Holiday', 'alternative_artist': 'Hank Thompson', 'add_to_final_records': True}
+{'artist': 'Hank Thompson', 'song': 'Silver Bells (feat. The Brazos Valley Boys)', 'genre': 'Holiday', 'alternative_artist': 'Hank Thompson', 'add_to_final_records': True}
+{'artist': 'Hank Thompson', 'song': 'Little Christmas Angel (feat. The Brazos Valley Boys)', 'genre': 'Holiday', 'alternative_artist': 'Hank Thompson', 'add_to_final_records': True}
+{'artist': 'Hank Thompson', 'song': "It's Christmas Every Day In Alaska (feat. The Brazos Valley Boys)", 'genre': 'Holiday', 'alternative_artist': 'Hank Thompson', 'add_to_final_records': True}
+{'artist': 'Hank Thompson', 'song': "It's Christmas Time (feat. The Brazos Valley Boys)", 'genre': 'Holiday', 'alternative_artist': 'Hank Thompson', 'add_to_final_records': True}
+{'artist': 'Grandaddy & Band of Horses', 'song': 'Hang an Ornament', 'genre': 'Holiday', 'alternative_artist': 'Band of Horses', 'add_to_final_records': True}
+{'artist': 'Mickey and the Gang', 'song': 'Jingle Bells', 'genre': 'Holiday', 'alternative_artist': 'Micky & the Motorcars', 'add_to_final_records': True}
+{'artist': 'Mickey and his Friends', 'song': 'Deck the Halls', 'genre': 'Holiday', 'alternative_artist': 'Micky & the Motorcars', 'add_to_final_records': True}
+{'artist': "Mickey Mouse & Mickey's Gang", 'song': 'We Wish You a Merry Christmas (Vocal)', 'genre': 'Holiday', 'alternative_artist': 'Micky & the Motorcars', 'add_to_final_records': True}
+{'artist': 'Lari White', 'song': 'White Christmas', 'genre': 'Holiday', 'alternative_artist': 'Lari White', 'add_to_final_records': True}
+{'artist': 'Northern Light Orchestra', 'song': 'Prelude (feat. Kip Winger)', 'genre': 'Holiday', 'alternative_artist': 'Kip Winger', 'add_to_final_records': True}
+{'artist': 'Beegie Adair', 'song': 'Let It Snow, Let It Snow, Let It Snow', 'genre': 'Holiday', 'alternative_artist': 'Adair', 'add_to_final_records': True}
+{'artist': 'Beegie Adair', 'song': 'Have Yourself a Merry Little Christmas', 'genre': 'Holiday', 'alternative_artist': 'Adair', 'add_to_final_records': True}
+{'artist': 'Beegie Adair', 'song': 'Frosty the Snowman', 'genre': 'Holiday', 'alternative_artist': 'Adair', 'add_to_final_records': True}
+{'artist': 'Beegie Adair', 'song': 'White Christmas', 'genre': 'Holiday', 'alternative_artist': 'Adair', 'add_to_final_records': True}
+{'artist': 'Beegie Adair', 'song': 'The Christmas Song', 'genre': 'Holiday', 'alternative_artist': 'Adair', 'add_to_final_records': True}
+{'artist': 'Beegie Adair', 'song': 'The Christmas Waltz', 'genre': 'Holiday', 'alternative_artist': 'Adair', 'add_to_final_records': True}
+{'artist': 'Beegie Adair', 'song': "I've Got My Love to Keep Me Warm", 'genre': 'Holiday', 'alternative_artist': 'Adair', 'add_to_final_records': True}
+{'artist': 'Beegie Adair', 'song': 'The Little Drummer Boy', 'genre': 'Holiday', 'alternative_artist': 'Adair', 'add_to_final_records': True}
+{'artist': 'Beegie Adair', 'song': 'Santa Claus Is Coming to Town', 'genre': 'Holiday', 'alternative_artist': 'Adair', 'add_to_final_records': True}
+{'artist': 'Beegie Adair', 'song': "What Are You Doing New Year's Eve", 'genre': 'Holiday', 'alternative_artist': 'Adair', 'add_to_final_records': True}
+{'artist': 'Beegie Adair', 'song': 'God Rest Ye Merry Gentlemen', 'genre': 'Holiday', 'alternative_artist': 'Adair', 'add_to_final_records': True}
+{'artist': 'Beegie Adair', 'song': 'O Little Town of Bethlehem / When You Wish Upon a Star Medley', 'genre': 'Holiday', 'alternative_artist': 'Adair', 'add_to_final_records': True}
+{'artist': 'Beegie Adair & Jack Jezzro', 'song': 'Home for the Holidays (feat. Jack Jezzro)', 'genre': 'Holiday', 'alternative_artist': 'Adair', 'add_to_final_records': True}
+{'artist': 'Beegie Adair & Jaimee Paul', 'song': 'Jingle Bells / Jolly Old St. Nicholas (feat. Jaimee Paul)', 'genre': 'Holiday', 'alternative_artist': 'Adair', 'add_to_final_records': True}
+{'artist': 'Jack Jezzro', 'song': 'Christmas Time Is Here (feat. Beegie Adair)', 'genre': 'Holiday', 'alternative_artist': 'Adair', 'add_to_final_records': True}
+{'artist': 'Beegie Adair', 'song': "It's the Most Wonderful Time of the Year", 'genre': 'Holiday', 'alternative_artist': 'Adair', 'add_to_final_records': True}
+{'artist': 'Beegie Adair', 'song': 'Mistletoe and Holly', 'genre': 'Holiday', 'alternative_artist': 'Adair', 'add_to_final_records': True}
+{'artist': 'Jack Jezzro', 'song': 'Home for the Holidays (feat. Beegie Adair)', 'genre': 'Holiday', 'alternative_artist': 'Adair', 'add_to_final_records': True}
+{'artist': 'Beegie Adair', 'song': 'Silent Night', 'genre': 'Holiday', 'alternative_artist': 'Adair', 'add_to_final_records': True}
+{'artist': 'Beegie Adair', 'song': "I'll Be Home for Christmas", 'genre': 'Holiday', 'alternative_artist': 'Adair', 'add_to_final_records': True}
+{'artist': 'Beegie Adair', 'song': 'It Came Upon a Midnight Clear', 'genre': 'Holiday', 'alternative_artist': 'Adair', 'add_to_final_records': True}
+{'artist': 'Beegie Adair', 'song': 'O Come, O Come, Emmanuel / What Child Is This?', 'genre': 'Holiday', 'alternative_artist': 'Adair', 'add_to_final_records': True}
+{'artist': 'Coolio', 'song': 'Fantastic Voyage', 'genre': 'Holiday', 'alternative_artist': 'Coolio', 'add_to_final_records': True}
+{'artist': 'Scott Weiland', 'song': 'Silent Night', 'genre': 'Holiday', 'alternative_artist': 'Scott Weiland', 'add_to_final_records': True}
+{'artist': 'Scott Weiland', 'song': "It's the Most Wonderful Time of the Year", 'genre': 'Holiday', 'alternative_artist': 'Scott Weiland', 'add_to_final_records': True}
+{'artist': 'Scott Weiland', 'song': 'Have Yourself a Merry Little Christmas', 'genre': 'Holiday', 'alternative_artist': 'Scott Weiland', 'add_to_final_records': True}
+{'artist': 'Scott Weiland', 'song': 'The Christmas Song', 'genre': 'Holiday', 'alternative_artist': 'Scott Weiland', 'add_to_final_records': True}
+{'artist': 'Scott Weiland', 'song': 'O Holy Night', 'genre': 'Holiday', 'alternative_artist': 'Scott Weiland', 'add_to_final_records': True}
+{'artist': 'Scott Weiland', 'song': 'Winter Wonderland', 'genre': 'Holiday', 'alternative_artist': 'Scott Weiland', 'add_to_final_records': True}
+{'artist': 'Scott Weiland', 'song': 'What Child Is This?', 'genre': 'Holiday', 'alternative_artist': 'Scott Weiland', 'add_to_final_records': True}
+{'artist': 'Scott Weiland', 'song': "I'll Be Home for Christmas", 'genre': 'Holiday', 'alternative_artist': 'Scott Weiland', 'add_to_final_records': True}
+{'artist': 'Scott Weiland', 'song': 'Little Drummer Boy', 'genre': 'Holiday', 'alternative_artist': 'Scott Weiland', 'add_to_final_records': True}
+{'artist': 'Scott Weiland', 'song': 'White Christmas', 'genre': 'Holiday', 'alternative_artist': 'Scott Weiland', 'add_to_final_records': True}
+{'artist': 'Scott Weiland', 'song': 'Happy Christmas and Many More', 'genre': 'Holiday', 'alternative_artist': 'Scott Weiland', 'add_to_final_records': True}
+{'artist': 'Jesse McCartney', 'song': 'Please Come Home for Christmas', 'genre': 'Holiday', 'alternative_artist': 'Jesse McCartney', 'add_to_final_records': True}
+{'artist': 'Frank Peters', 'song': 'I Scared Santa', 'genre': 'Holiday', 'alternative_artist': 'Frank Peters', 'add_to_final_records': True}
+{'artist': 'B2K', 'song': "Why'd You Leave Me On Christmas", 'genre': 'Holiday', 'alternative_artist': 'D-WHY', 'add_to_final_records': True}
+{'artist': 'Jonatha Brooke', 'song': 'Emmanuel', 'genre': 'Holiday', 'alternative_artist': 'Jonatha Brooke', 'add_to_final_records': True}
+{'artist': 'Steven Stewart', 'song': 'Christmas in My Heart (feat. Jonatha Brooke)', 'genre': 'Holiday', 'alternative_artist': 'Jonatha Brooke', 'add_to_final_records': True}
+{'artist': 'Andy Borg', 'song': 'Still, still, still', 'genre': 'Holiday', 'alternative_artist': 'Andy Borg', 'add_to_final_records': True}
+{'artist': 'Andy Borg', 'song': 'Weiße Weihnacht', 'genre': 'Holiday', 'alternative_artist': 'Andy Borg', 'add_to_final_records': True}
+{'artist': 'Andy Borg', 'song': 'Ihr Kinderlein kommet', 'genre': 'Holiday', 'alternative_artist': 'Andy Borg', 'add_to_final_records': True}
+{'artist': 'Andy Borg', 'song': 'Leise rieselt der Schnee', 'genre': 'Holiday', 'alternative_artist': 'Andy Borg', 'add_to_final_records': True}
+{'artist': 'Andy Borg', 'song': 'Stille Nacht, heilige Nacht', 'genre': 'Holiday', 'alternative_artist': 'Andy Borg', 'add_to_final_records': True}
+{'artist': 'Andy Borg', 'song': 'Aba Haidschi Bumbaidschi', 'genre': 'Holiday', 'alternative_artist': 'Andy Borg', 'add_to_final_records': True}
+{'artist': 'Andy Borg', 'song': 'O Tannenbaum', 'genre': 'Holiday', 'alternative_artist': 'Andy Borg', 'add_to_final_records': True}
+{'artist': 'Andy Borg', 'song': 'Kling, Glöckchen, kling', 'genre': 'Holiday', 'alternative_artist': 'Andy Borg', 'add_to_final_records': True}
+{'artist': 'Andy Borg', 'song': 'Süßer die Glocken nie klingen', 'genre': 'Holiday', 'alternative_artist': 'Andy Borg', 'add_to_final_records': True}
+{'artist': 'Andy Borg', 'song': 'Am Weihnachtsbaume', 'genre': 'Holiday', 'alternative_artist': 'Andy Borg', 'add_to_final_records': True}
+{'artist': 'Andy Borg', 'song': 'O, du fröhliche', 'genre': 'Holiday', 'alternative_artist': 'Andy Borg', 'add_to_final_records': True}
+{'artist': 'Andy Borg', 'song': 'Alle Jahre wieder', 'genre': 'Holiday', 'alternative_artist': 'Andy Borg', 'add_to_final_records': True}
+{'artist': 'Andy Borg', 'song': 'Kommet ihr Hirten', 'genre': 'Holiday', 'alternative_artist': 'Andy Borg', 'add_to_final_records': True}
+{'artist': 'Andy Borg', 'song': 'Vom Himmel hoch da komm ich her', 'genre': 'Holiday', 'alternative_artist': 'Andy Borg', 'add_to_final_records': True}
+{'artist': 'Boston Pops Orchestra & Arthur Fiedler', 'song': 'Sleigh Ride', 'genre': 'Holiday', 'alternative_artist': 'Bosson', 'add_to_final_records': True}
+{'artist': 'Arthur Fiedler & Boston Pops Orchestra', 'song': 'A Christmas Festival', 'genre': 'Holiday', 'alternative_artist': 'Bosson', 'add_to_final_records': True}
+{'artist': 'Arthur Fiedler & Boston Pops Orchestra', 'song': 'Winter Wonderland', 'genre': 'Holiday', 'alternative_artist': 'Bosson', 'add_to_final_records': True}
+{'artist': 'Arthur Fiedler & Boston Pops Orchestra', 'song': 'Parade of the Wooden Soldiers', 'genre': 'Holiday', 'alternative_artist': 'Bosson', 'add_to_final_records': True}
+{'artist': 'Arthur Fiedler & Boston Pops Orchestra', 'song': 'The Nutcracker: Dance of the Sugar Plum Fairy', 'genre': 'Holiday', 'alternative_artist': 'Bosson', 'add_to_final_records': True}
+{'artist': 'Boston Symphony Orchestra, Joseph Silverstein & Seiji Ozawa', 'song': "The Four Seasons: L'Inverno (Winter): II. Largo", 'genre': 'Holiday', 'alternative_artist': 'Bosson', 'add_to_final_records': True}
+{'artist': 'Arthur Fiedler, Al Hirt & Boston Pops Orchestra', 'song': 'The Toy Trumpet', 'genre': 'Holiday', 'alternative_artist': 'Bosson', 'add_to_final_records': True}
+{'artist': 'Arthur Fiedler & Boston Pops Orchestra', 'song': "Santa Claus Is Comin' to Town", 'genre': 'Holiday', 'alternative_artist': 'Bosson', 'add_to_final_records': True}
+{'artist': 'Boston Baroque & Martin Pearlman', 'song': 'Messiah: Pifa (Pastoral Symphony)', 'genre': 'Holiday', 'alternative_artist': 'Bosson', 'add_to_final_records': True}
+{'artist': 'Arthur Fiedler & Boston Pops Orchestra', 'song': 'Rudolph the Red-Nosed Reindeer', 'genre': 'Holiday', 'alternative_artist': 'Bosson', 'add_to_final_records': True}
+{'artist': 'Arthur Fiedler, Alfred Krips & Boston Pops Orchestra', 'song': 'White Christmas', 'genre': 'Holiday', 'alternative_artist': 'Bosson', 'add_to_final_records': True}
+{'artist': 'Boston Pops Orchestra & Arthur Fiedler', 'song': 'Waltz of the Flowers', 'genre': 'Holiday', 'alternative_artist': 'Bosson', 'add_to_final_records': True}
+{'artist': 'Arthur Fiedler & Boston Pops Orchestra', 'song': 'The Nutcracker: Dance of the Flutes', 'genre': 'Holiday', 'alternative_artist': 'Bosson', 'add_to_final_records': True}
+{'artist': 'Arthur Fiedler & Boston Pops Orchestra', 'song': 'The Nutcracker: Waltz of the Flowers', 'genre': 'Holiday', 'alternative_artist': 'Bosson', 'add_to_final_records': True}
+{'artist': 'Arthur Fiedler & Boston Pops Orchestra', 'song': 'The Nutcracker: Trepak (Russian Dance)', 'genre': 'Holiday', 'alternative_artist': 'Bosson', 'add_to_final_records': True}
+{'artist': 'Arthur Fiedler & Boston Pops Orchestra', 'song': 'The Nutcracker: Overture', 'genre': 'Holiday', 'alternative_artist': 'Bosson', 'add_to_final_records': True}
+{'artist': 'Arthur Fiedler & Boston Pops Orchestra', 'song': 'The Nutcracker: Chinese Dance', 'genre': 'Holiday', 'alternative_artist': 'Bosson', 'add_to_final_records': True}
+{'artist': 'Arthur Fiedler & Boston Pops Orchestra', 'song': 'German Dances, K.605: Sleigh Ride, No. 3', 'genre': 'Holiday', 'alternative_artist': 'Bosson', 'add_to_final_records': True}
+{'artist': 'Arthur Fiedler & Boston Pops Orchestra', 'song': 'The Nutcracker: Arabian Dance', 'genre': 'Holiday', 'alternative_artist': 'Bosson', 'add_to_final_records': True}
+{'artist': 'Arthur Fiedler & Boston Pops Orchestra', 'song': 'The Nutcracker: Spanish Dance', 'genre': 'Holiday', 'alternative_artist': 'Bosson', 'add_to_final_records': True}
+{'artist': 'Arthur Fiedler & Boston Pops Orchestra', 'song': 'The Nutcracker: Final Waltz', 'genre': 'Holiday', 'alternative_artist': 'Bosson', 'add_to_final_records': True}
+{'artist': 'Arthur Fiedler & Boston Pops Orchestra', 'song': 'Hansel and Gretel: Dream Pantomime', 'genre': 'Holiday', 'alternative_artist': 'Bosson', 'add_to_final_records': True}
+{'artist': 'Arthur Fiedler & Boston Pops Orchestra', 'song': 'The Nutcracker: Pas de deux', 'genre': 'Holiday', 'alternative_artist': 'Bosson', 'add_to_final_records': True}
+{'artist': 'Arthur Fiedler & Boston Pops Orchestra', 'song': 'The Nutcracker: Mother Gigogne and the Clowns', 'genre': 'Holiday', 'alternative_artist': 'Bosson', 'add_to_final_records': True}
+{'artist': 'Jack Greene', 'song': 'Hark! the Herald Angels Sing', 'genre': 'Holiday', 'alternative_artist': 'Jack Greene', 'add_to_final_records': True}
+{'artist': 'Jack Greene', 'song': 'O Little Town of Bethlehem', 'genre': 'Holiday', 'alternative_artist': 'Jack Greene', 'add_to_final_records': True}
+{'artist': 'Jack Greene', 'song': 'O Come All Ye Faithful', 'genre': 'Holiday', 'alternative_artist': 'Jack Greene', 'add_to_final_records': True}
+{'artist': 'Jack Greene', 'song': 'Bethlehem', 'genre': 'Holiday', 'alternative_artist': 'Jack Greene', 'add_to_final_records': True}
+{'artist': 'Jack Greene', 'song': "I'll Be Home for Christmas", 'genre': 'Holiday', 'alternative_artist': 'Jack Greene', 'add_to_final_records': True}
+{'artist': 'Jack Greene', 'song': 'I’d Be Home On Christmas Day', 'genre': 'Holiday', 'alternative_artist': 'Jack Greene', 'add_to_final_records': True}
+{'artist': 'Chuck Daellenbach, Eugene Watts, Joe Burgstaller, Manon Lafrance, Jeff Nelsen & Eric Robertson', 'song': 'Jolly Old St. Nicholas', 'genre': 'Holiday', 'alternative_artist': 'John Nicholas', 'add_to_final_records': True}
+{'artist': 'John Driskell Hopkins & The Joe Gransden Big Band', 'song': 'Jolly Old Saint Nicholas', 'genre': 'Holiday', 'alternative_artist': 'John Nicholas', 'add_to_final_records': True}
+{'artist': 'Michael John Hall', 'song': 'Jolly Old Saint Nicholas/Silent Night', 'genre': 'Holiday', 'alternative_artist': 'John Nicholas', 'add_to_final_records': True}
+{'artist': 'Zendaya', 'song': 'Shake Santa Shake (From "Shake It Up")', 'genre': 'Holiday', 'alternative_artist': 'Daya', 'add_to_final_records': True}
+{'artist': 'Kitty Wells', 'song': "Don't Wait the Last Minute to Pray", 'genre': 'Holiday', 'alternative_artist': 'Kitty Wells', 'add_to_final_records': True}
+{'artist': 'J.J. Fad', 'song': 'Supersonic', 'genre': 'Holiday', 'alternative_artist': 'J', 'add_to_final_records': True}
+{'artist': 'Sam Smith', 'song': 'Have Yourself a Merry Little Christmas', 'genre': 'Holiday', 'alternative_artist': 'James Smith', 'add_to_final_records': True}
+{'artist': 'Sam Smith', 'song': 'Have Yourself A Merry Little Christmas', 'genre': 'Holiday', 'alternative_artist': 'James Smith', 'add_to_final_records': True}
+{'artist': 'Bing Crosby', 'song': 'White Christmas', 'genre': 'Holiday', 'alternative_artist': 'Bill Cosby', 'add_to_final_records': True}
+{'artist': 'Bing Crosby & The Andrews Sisters', 'song': 'Here Comes Santa Claus (Right Down Santa Claus Lane)', 'genre': 'Holiday', 'alternative_artist': 'Bill Cosby', 'add_to_final_records': True}
+{'artist': 'Bing Crosby & David Bowie', 'song': 'Peace On Earth / The Little Drummer Boy', 'genre': 'Holiday', 'alternative_artist': 'Bill Cosby', 'add_to_final_records': True}
+{'artist': 'Bing Crosby & The Andrews Sisters', 'song': 'Mele Kalikimaka (Merry Christmas)', 'genre': 'Holiday', 'alternative_artist': 'Bill Cosby', 'add_to_final_records': True}
+{'artist': 'Bing Crosby & The Andrews Sisters', 'song': "Santa Claus Is Comin' to Town", 'genre': 'Holiday', 'alternative_artist': 'Bill Cosby', 'add_to_final_records': True}
+{'artist': 'Julianne Hough & Phil Vassar', 'song': "It Wasn't His Child / Mary Did You Know", 'genre': 'Holiday', 'alternative_artist': 'Julianne Hough', 'add_to_final_records': True}
+{'artist': 'Julianne Hough', 'song': "Rockin' Around the Christmas Tree", 'genre': 'Holiday', 'alternative_artist': 'Julianne Hough', 'add_to_final_records': True}
+{'artist': 'Julianne Hough', 'song': 'Have Yourself a Merry Little Christmas', 'genre': 'Holiday', 'alternative_artist': 'Julianne Hough', 'add_to_final_records': True}
+{'artist': 'Julianne Hough', 'song': 'Jingle Bell Rock', 'genre': 'Holiday', 'alternative_artist': 'Julianne Hough', 'add_to_final_records': True}
+{'artist': 'Julianne Hough', 'song': 'Santa Baby', 'genre': 'Holiday', 'alternative_artist': 'Julianne Hough', 'add_to_final_records': True}
+{'artist': 'Julianne Hough', 'song': 'Feliz Navidad', 'genre': 'Holiday', 'alternative_artist': 'Julianne Hough', 'add_to_final_records': True}
+{'artist': 'Julianne Hough', 'song': 'Christmas Memories', 'genre': 'Holiday', 'alternative_artist': 'Julianne Hough', 'add_to_final_records': True}
+{'artist': 'Julianne Hough', 'song': 'Sound of Christmas', 'genre': 'Holiday', 'alternative_artist': 'Julianne Hough', 'add_to_final_records': True}
+{'artist': 'Erin McCarley', 'song': 'Little Drummer Boy', 'genre': 'Holiday', 'alternative_artist': 'Erin McCarley', 'add_to_final_records': True}
+{'artist': 'Belle and Sebastian', 'song': 'O Come, O Come Emmanuel', 'genre': 'Holiday', 'alternative_artist': 'Belle and Sebastian', 'add_to_final_records': True}
+{'artist': 'Michael McDonald', 'song': 'Wexford Carol (feat. Amy Holland)', 'genre': 'Holiday', 'alternative_artist': 'Amy Macdonald', 'add_to_final_records': True}
+{'artist': 'Nick Lachey', 'song': 'Let It Snow, Let It Snow, Let It Snow (feat. Vocal Point)', 'genre': 'Holiday', 'alternative_artist': 'Nick Lachey', 'add_to_final_records': True}
+{'artist': 'Jessica Simpson', 'song': "Baby, It's Cold Outside", 'genre': 'Holiday', 'alternative_artist': 'Nick Lachey', 'add_to_final_records': True}
+{'artist': 'Jeff Carson', 'song': 'Santa Got Lost In Texas', 'genre': 'Holiday', 'alternative_artist': 'Jeff Carson', 'add_to_final_records': True}
+{'artist': 'Glenn Boudreau', 'song': 'Merry Christmas to All the Heroes (feat. Jeff Carson)', 'genre': 'Holiday', 'alternative_artist': 'Jeff Carson', 'add_to_final_records': True}
+{'artist': 'Alabama Boys Choir', 'song': 'Do You Here What I Here', 'genre': 'Holiday', 'alternative_artist': 'Alabama Boys Choir', 'add_to_final_records': True}
+{'artist': 'Alabama Boys Choir', 'song': 'Sillent Night', 'genre': 'Holiday', 'alternative_artist': 'Alabama Boys Choir', 'add_to_final_records': True}
+{'artist': 'Alabama Boys Choir', 'song': 'Go Tell the Mountain', 'genre': 'Holiday', 'alternative_artist': 'Alabama Boys Choir', 'add_to_final_records': True}
+{'artist': 'Alabama Boys Choir', 'song': 'Angels We Have On High', 'genre': 'Holiday', 'alternative_artist': 'Alabama Boys Choir', 'add_to_final_records': True}
+{'artist': 'Alabama Boys Choir', 'song': 'Carol of the Bells', 'genre': 'Holiday', 'alternative_artist': 'Alabama Boys Choir', 'add_to_final_records': True}
+{'artist': 'Alabama Boys Choir', 'song': 'Ave Maria', 'genre': 'Holiday', 'alternative_artist': 'Alabama Boys Choir', 'add_to_final_records': True}
+{'artist': 'Alabama Boys Choir', 'song': 'Chestnuts Roasting On an Open Fire', 'genre': 'Holiday', 'alternative_artist': 'Alabama Boys Choir', 'add_to_final_records': True}
+{'artist': 'Alabama Boys Choir', 'song': 'Joy to the World', 'genre': 'Holiday', 'alternative_artist': 'Alabama Boys Choir', 'add_to_final_records': True}
+{'artist': 'Alabama Boys Choir', 'song': 'Little Drummer Boy', 'genre': 'Holiday', 'alternative_artist': 'Alabama Boys Choir', 'add_to_final_records': True}
+{'artist': 'Alabama Boys Choir', 'song': 'O Come All Ye Faithful', 'genre': 'Holiday', 'alternative_artist': 'Alabama Boys Choir', 'add_to_final_records': True}
+{'artist': 'Alabama Boys Choir', 'song': 'Sleigh Ride', 'genre': 'Holiday', 'alternative_artist': 'Alabama Boys Choir', 'add_to_final_records': True}
+{'artist': 'Alabama Boys Choir', 'song': 'One Star', 'genre': 'Holiday', 'alternative_artist': 'Alabama Boys Choir', 'add_to_final_records': True}
+{'artist': "Rosie O'Donnell & Donny Osmond", 'song': 'Winter Wonderland', 'genre': 'Holiday', 'alternative_artist': 'Donny Osmond', 'add_to_final_records': True}
+{'artist': 'Julia Fordham & Judith Owen', 'song': 'White Christmas', 'genre': 'Holiday', 'alternative_artist': 'Julia Fordham', 'add_to_final_records': True}
+{'artist': 'Julia Fordham', 'song': 'Have Yourself a Merry Little Christmas', 'genre': 'Holiday', 'alternative_artist': 'Julia Fordham', 'add_to_final_records': True}
+{'artist': 'Andy Williams', 'song': "Kay Thompson's Jingle Bells", 'genre': 'Holiday', 'alternative_artist': 'Andy Bell', 'add_to_final_records': True}
+{'artist': 'Andy Williams', 'song': 'Silver Bells', 'genre': 'Holiday', 'alternative_artist': 'Andy Bell', 'add_to_final_records': True}
+{'artist': 'Andy Williams', 'song': "The Bells of St. Mary's", 'genre': 'Holiday', 'alternative_artist': 'Andy Bell', 'add_to_final_records': True}
+{'artist': 'Andy Williams', 'song': 'Christmas Bells', 'genre': 'Holiday', 'alternative_artist': 'Andy Bell', 'add_to_final_records': True}
+{'artist': 'Andy Williams', 'song': 'I Heard the Bells On Christmas Day', 'genre': 'Holiday', 'alternative_artist': 'Andy Bell', 'add_to_final_records': True}
+{'artist': 'Andy Williams', 'song': 'The Bells of St. Mary', 'genre': 'Holiday', 'alternative_artist': 'Andy Bell', 'add_to_final_records': True}
+{'artist': 'Peter Rowan', 'song': "Christmas Time's a-Coming", 'genre': 'Holiday', 'alternative_artist': 'Peter Rowan', 'add_to_final_records': True}
+{'artist': 'Clive Williams & Malcolm Hughes', 'song': 'Put Another Log on the Fire', 'genre': 'Holiday', 'alternative_artist': 'Clive Williams', 'add_to_final_records': True}
+{'artist': 'Clive Williams & Malcolm Hughes', 'song': 'Dear Santa', 'genre': 'Holiday', 'alternative_artist': 'Clive Williams', 'add_to_final_records': True}
+{'artist': 'Clive Williams & Malcolm Hughes', 'song': 'I Love Christmas', 'genre': 'Holiday', 'alternative_artist': 'Clive Williams', 'add_to_final_records': True}
+{'artist': 'Clive Williams & Malcolm Hughes', 'song': 'Winter', 'genre': 'Holiday', 'alternative_artist': 'Clive Williams', 'add_to_final_records': True}
+{'artist': 'Clive Williams & Malcolm Hughes', 'song': 'Here Comes Christmas', 'genre': 'Holiday', 'alternative_artist': 'Clive Williams', 'add_to_final_records': True}
+{'artist': 'Clive Williams & Malcolm Hughes', 'song': "This One's for You", 'genre': 'Holiday', 'alternative_artist': 'Clive Williams', 'add_to_final_records': True}
+{'artist': 'Clive Williams & Malcolm Hughes', 'song': 'Without You Here', 'genre': 'Holiday', 'alternative_artist': 'Clive Williams', 'add_to_final_records': True}
+{'artist': 'Clive Williams & Malcolm Hughes', 'song': 'Look to the Heavens', 'genre': 'Holiday', 'alternative_artist': 'Clive Williams', 'add_to_final_records': True}
+{'artist': 'Clive Williams & Malcolm Hughes', 'song': 'Christmas Night', 'genre': 'Holiday', 'alternative_artist': 'Clive Williams', 'add_to_final_records': True}
+{'artist': 'Clive Williams & Malcolm Hughes', 'song': 'I Believe', 'genre': 'Holiday', 'alternative_artist': 'Clive Williams', 'add_to_final_records': True}
+{'artist': 'Clive Williams & Malcolm Hughes', 'song': 'The Choirs Sang', 'genre': 'Holiday', 'alternative_artist': 'Clive Williams', 'add_to_final_records': True}
+{'artist': 'Clive Williams & Malcolm Hughes', 'song': 'A Happy New Year', 'genre': 'Holiday', 'alternative_artist': 'Clive Williams', 'add_to_final_records': True}
+{'artist': 'Clive Williams & Malcolm Hughes', 'song': 'Hark Hear the Angels', 'genre': 'Holiday', 'alternative_artist': 'Clive Williams', 'add_to_final_records': True}
+{'artist': 'Cherish', 'song': 'The Light of Christmas', 'genre': 'Holiday', 'alternative_artist': 'Cherish', 'add_to_final_records': True}
+{'artist': "Mr. Jack Daniel's Original Silver Cornet Band", 'song': "Lo, How a Rose E'er Blooming", 'genre': 'Holiday', 'alternative_artist': 'Daniel Rose', 'add_to_final_records': True}
+{'artist': 'Stefani Rose & Daniel DeNeve', 'song': 'Our First Christmas', 'genre': 'Holiday', 'alternative_artist': 'Daniel Rose', 'add_to_final_records': True}
+{'artist': 'Joey Ramone', 'song': 'Christmas (Baby Please Come Home)', 'genre': 'Holiday', 'alternative_artist': 'Joey Ramone', 'add_to_final_records': True}
+{'artist': 'Joey Ramone', 'song': "Don't Worry About Me", 'genre': 'Holiday', 'alternative_artist': 'Joey Ramone', 'add_to_final_records': True}
+{'artist': 'Joey Ramone', 'song': 'Spirit in My House', 'genre': 'Holiday', 'alternative_artist': 'Joey Ramone', 'add_to_final_records': True}
+{'artist': 'Joey Ramone', 'song': "Merry Christmas (I Don't Want to Fight Tonight)", 'genre': 'Holiday', 'alternative_artist': 'Joey Ramone', 'add_to_final_records': True}
+{'artist': 'Helen Love (Caitlin and Shauna Love)', 'song': 'Joey Ramone Snowman', 'genre': 'Holiday', 'alternative_artist': 'Joey Ramone', 'add_to_final_records': True}
+{'artist': 'Boston Pops Orchestra & Arthur Fiedler', 'song': 'Sleigh Ride', 'genre': 'Holiday', 'alternative_artist': 'Boston', 'add_to_final_records': True}
+{'artist': 'Arthur Fiedler & Boston Pops Orchestra', 'song': 'A Christmas Festival', 'genre': 'Holiday', 'alternative_artist': 'Boston', 'add_to_final_records': True}
+{'artist': 'Heintje', 'song': 'Morgen Wordt De Boom Versierd', 'genre': 'Holiday', 'alternative_artist': 'Heintje', 'add_to_final_records': True}
+{'artist': 'Trevor Henderson', 'song': "Giver's Carol", 'genre': 'Holiday', 'alternative_artist': 'GIVERS', 'add_to_final_records': True}
+{'artist': 'Johnny Mathis', 'song': "I'll Be Home for Christmas / White Christmas (with Vince Gill & Amy Grant)", 'genre': 'Holiday', 'alternative_artist': 'John Gracie', 'add_to_final_records': True}
+{'artist': 'Pentatonix', 'song': 'Mary, Did You Know?', 'genre': 'Holiday', 'alternative_artist': 'Baby Boy', 'add_to_final_records': True}
+{'artist': 'The Beach Boys', 'song': 'Merry Christmas, Baby', 'genre': 'Holiday', 'alternative_artist': 'Baby Boy', 'add_to_final_records': True}
+{'artist': 'Danny Gokey', 'song': 'Mary, Did You Know?', 'genre': 'Holiday', 'alternative_artist': 'Danny Gokey', 'add_to_final_records': True}
+{'artist': 'Danny Gokey', 'song': 'Christmas Is Here', 'genre': 'Holiday', 'alternative_artist': 'Danny Gokey', 'add_to_final_records': True}
+{'artist': 'Danny Gokey', 'song': 'Give Me Jesus', 'genre': 'Holiday', 'alternative_artist': 'Danny Gokey', 'add_to_final_records': True}
+{'artist': 'Danny Gokey', 'song': 'O, Holy Night', 'genre': 'Holiday', 'alternative_artist': 'Danny Gokey', 'add_to_final_records': True}
+{'artist': 'Danny Gokey', 'song': "It's the Most Wonderful Time of the Year", 'genre': 'Holiday', 'alternative_artist': 'Danny Gokey', 'add_to_final_records': True}
+{'artist': 'Danny Gokey', 'song': 'Lift Up Your Eyes', 'genre': 'Holiday', 'alternative_artist': 'Danny Gokey', 'add_to_final_records': True}
+{'artist': 'Danny Gokey', 'song': 'White Christmas', 'genre': 'Holiday', 'alternative_artist': 'Danny Gokey', 'add_to_final_records': True}
+{'artist': 'Danny Gokey', 'song': 'The Christmas Song', 'genre': 'Holiday', 'alternative_artist': 'Danny Gokey', 'add_to_final_records': True}
+{'artist': 'Danny Gokey', 'song': 'What Christmas Means to Me', 'genre': 'Holiday', 'alternative_artist': 'Danny Gokey', 'add_to_final_records': True}
+{'artist': 'Danny Gokey', 'song': 'This Christmas', 'genre': 'Holiday', 'alternative_artist': 'Danny Gokey', 'add_to_final_records': True}
+{'artist': 'Danny Gokey', 'song': 'O Come, O Come Emmanuel', 'genre': 'Holiday', 'alternative_artist': 'Danny Gokey', 'add_to_final_records': True}
+{'artist': 'Jimmy Martin', 'song': 'Christmas Time’s a Comin’', 'genre': 'Holiday', 'alternative_artist': 'Jimmy Martin', 'add_to_final_records': True}
+{'artist': 'Jimmy Martin', 'song': 'Lord We Sure Need Some Rainbows In December', 'genre': 'Holiday', 'alternative_artist': 'Jimmy Martin', 'add_to_final_records': True}
+{'artist': 'Jimmy Martin', 'song': 'To Mother At Christmas', 'genre': 'Holiday', 'alternative_artist': 'Jimmy Martin', 'add_to_final_records': True}
+{'artist': 'Jimmy Martin', 'song': 'Will We Have Room for Jesus?', 'genre': 'Holiday', 'alternative_artist': 'Jimmy Martin', 'add_to_final_records': True}
+{'artist': 'Jimmy Martin', 'song': 'Daddy Will Santa Claus Ever Have to Die', 'genre': 'Holiday', 'alternative_artist': 'Jimmy Martin', 'add_to_final_records': True}
+{'artist': 'Jimmy Martin', 'song': 'Silent Night', 'genre': 'Holiday', 'alternative_artist': 'Jimmy Martin', 'add_to_final_records': True}
+{'artist': 'Jimmy Martin', 'song': 'Christmas Is Everywhere Except In My Heart', 'genre': 'Holiday', 'alternative_artist': 'Jimmy Martin', 'add_to_final_records': True}
+{'artist': 'Jimmy Martin', 'song': 'Blue Christmas', 'genre': 'Holiday', 'alternative_artist': 'Jimmy Martin', 'add_to_final_records': True}
+{'artist': 'Jimmy Martin', 'song': 'Jingle Bells', 'genre': 'Holiday', 'alternative_artist': 'Jimmy Martin', 'add_to_final_records': True}
+{'artist': 'Jimmy Martin', 'song': 'Rudolph the Red Nosed Reindeer', 'genre': 'Holiday', 'alternative_artist': 'Jimmy Martin', 'add_to_final_records': True}
+{'artist': 'Cathy Jones', 'song': 'Jesus, Mary and Joseph (feat. John Houston)', 'genre': 'Holiday', 'alternative_artist': 'Houston Jones', 'add_to_final_records': True}
+{'artist': 'Cathy Jones', 'song': 'See the Star! (feat. John Houston)', 'genre': 'Holiday', 'alternative_artist': 'Houston Jones', 'add_to_final_records': True}
+{'artist': 'Matthew Hall & Meagan Moore', 'song': 'When Christmas Comes to Town', 'genre': 'Holiday', 'alternative_artist': '(MoorE)', 'add_to_final_records': True}
+{'artist': 'Andrew Parrott & Graeme Taylor', 'song': 'Sing We the Virgin Mary', 'genre': 'Holiday', 'alternative_artist': 'Andy Taylor', 'add_to_final_records': True}
+{'artist': 'Eric Wallace, Molly Taylor, Ryan Shutt, Sarah Fisher, Alex Day, Andrew Varson, Alex Varson & Ethan Shutt', 'song': '12 Days of Christmas', 'genre': 'Holiday', 'alternative_artist': 'Andy Taylor', 'add_to_final_records': True}
+{'artist': 'Fred Kirby', 'song': 'Joy to the World', 'genre': 'Holiday', 'alternative_artist': 'Fred Kirby', 'add_to_final_records': True}
+{'artist': 'Fred Kirby', 'song': 'We Three Kings', 'genre': 'Holiday', 'alternative_artist': 'Fred Kirby', 'add_to_final_records': True}
+{'artist': 'Fred Kirby', 'song': 'The First Noel', 'genre': 'Holiday', 'alternative_artist': 'Fred Kirby', 'add_to_final_records': True}
+{'artist': 'Fred Kirby', 'song': "O' Come All Ye Faithful", 'genre': 'Holiday', 'alternative_artist': 'Fred Kirby', 'add_to_final_records': True}
+{'artist': 'Fred Kirby', 'song': 'Deck the Halls With Boughs of Holly', 'genre': 'Holiday', 'alternative_artist': 'Fred Kirby', 'add_to_final_records': True}
+{'artist': 'Fred Kirby', 'song': 'It Came Upon a Midnight Clear', 'genre': 'Holiday', 'alternative_artist': 'Fred Kirby', 'add_to_final_records': True}
+{'artist': 'Fred Kirby', 'song': "O' Little Town of Bethlehem", 'genre': 'Holiday', 'alternative_artist': 'Fred Kirby', 'add_to_final_records': True}
+{'artist': 'Fred Kirby', 'song': 'Away In a Manger', 'genre': 'Holiday', 'alternative_artist': 'Fred Kirby', 'add_to_final_records': True}
+{'artist': 'Fred Kirby', 'song': 'God Rest Ye Merry Gentlemen', 'genre': 'Holiday', 'alternative_artist': 'Fred Kirby', 'add_to_final_records': True}
+{'artist': 'Fred Kirby', 'song': 'Hark, The Herald Angels Sing', 'genre': 'Holiday', 'alternative_artist': 'Fred Kirby', 'add_to_final_records': True}
+{'artist': 'Fred Kirby', 'song': 'Good King Wenceslas', 'genre': 'Holiday', 'alternative_artist': 'Fred Kirby', 'add_to_final_records': True}
+{'artist': 'Fred Kirby', 'song': 'Angels We Have Heard On High', 'genre': 'Holiday', 'alternative_artist': 'Fred Kirby', 'add_to_final_records': True}
+{'artist': 'Fred Kirby', 'song': 'Silent Night', 'genre': 'Holiday', 'alternative_artist': 'Fred Kirby', 'add_to_final_records': True}
+{'artist': 'Fred Kirby', 'song': "O' Holy Night", 'genre': 'Holiday', 'alternative_artist': 'Fred Kirby', 'add_to_final_records': True}
+{'artist': 'Fred Kirby', 'song': 'Good King Wenceslaus', 'genre': 'Holiday', 'alternative_artist': 'Fred Kirby', 'add_to_final_records': True}
+{'artist': 'Fred Kirby', 'song': 'Hark the Herald Angels Sing', 'genre': 'Holiday', 'alternative_artist': 'Fred Kirby', 'add_to_final_records': True}
+{'artist': 'Fred Kirby', 'song': 'Angels We Have Heard on High', 'genre': 'Holiday', 'alternative_artist': 'Fred Kirby', 'add_to_final_records': True}
+{'artist': 'Fred Kirby', 'song': 'Joy To the World', 'genre': 'Holiday', 'alternative_artist': 'Fred Kirby', 'add_to_final_records': True}
+{'artist': 'Fred Kirby', 'song': 'O Little Town of Bethlehem', 'genre': 'Holiday', 'alternative_artist': 'Fred Kirby', 'add_to_final_records': True}
+{'artist': 'Fred Kirby', 'song': 'Joy To The World', 'genre': 'Holiday', 'alternative_artist': 'Fred Kirby', 'add_to_final_records': True}
+{'artist': 'Cory Band & Philip Harper', 'song': 'Have Yourself a Merry Little Christmas (feat. Chris Thomas)', 'genre': 'Holiday', 'alternative_artist': 'Lil Cory', 'add_to_final_records': True}
+{'artist': 'Willa Ford', 'song': 'Santa Baby (Gimme Gimme Gimme)', 'genre': 'Holiday', 'alternative_artist': 'Willa Ford', 'add_to_final_records': True}
+{'artist': 'Willie Nelson', 'song': 'Amazing Grace (with Bobbie Nelson)', 'genre': 'Holiday', 'alternative_artist': 'Bobbie Nelson', 'add_to_final_records': True}
+{'artist': 'Willie Nelson', 'song': 'Family Bible (with Bobbie Nelson)', 'genre': 'Holiday', 'alternative_artist': 'Bobbie Nelson', 'add_to_final_records': True}
+{'artist': 'Jack Turner', 'song': 'The Perfect Chill (feat. Mimi Holland, Matthew Kahler & Fred Sawyers)', 'genre': 'Holiday', 'alternative_artist': 'Matthew Kahler', 'add_to_final_records': True}
+{'artist': 'Dokken', 'song': 'Santa Claus Is Coming To Town', 'genre': 'Holiday', 'alternative_artist': 'Dokken', 'add_to_final_records': True}
+{'artist': 'B. Ashenfelter, M. Ball, M. Brashears, S. Brashears Morlet, C. Callahan, E. Gill, C. Guess, C. Knight, N. Nunn', 'song': 'Carol of the Bells', 'genre': 'Holiday', 'alternative_artist': 'M Callahan', 'add_to_final_records': True}
+{'artist': 'B. Ashenfelter, M. Brashears, S. Brashears Morlet, C. Callahan, C. Guess, C. Knight', 'song': 'Good King Wenceslas', 'genre': 'Holiday', 'alternative_artist': 'M Callahan', 'add_to_final_records': True}
+{'artist': 'Holly Dunn', 'song': 'Feliz Navidad', 'genre': 'Holiday', 'alternative_artist': 'Holly Dunn', 'add_to_final_records': True}
+{'artist': 'Holly Dunn', 'song': 'When the Stars Come Out for Christmas', 'genre': 'Holiday', 'alternative_artist': 'Holly Dunn', 'add_to_final_records': True}
+{'artist': 'Holly Dunn', 'song': 'Softly and Tenderly', 'genre': 'Holiday', 'alternative_artist': 'Holly Dunn', 'add_to_final_records': True}
+{'artist': 'B.J. Thomas', 'song': 'Tennessee Christmas', 'genre': 'Holiday', 'alternative_artist': 'B', 'add_to_final_records': True}
+{'artist': 'B.J. Thomas', 'song': 'When Christmas Comes This Year', 'genre': 'Holiday', 'alternative_artist': 'B', 'add_to_final_records': True}
+{'artist': 'B.J. Thomas', 'song': 'On This Christmas Night', 'genre': 'Holiday', 'alternative_artist': 'B', 'add_to_final_records': True}
+{'artist': 'B.J. Thomas', 'song': 'God Bless the Children', 'genre': 'Holiday', 'alternative_artist': 'B', 'add_to_final_records': True}
+{'artist': 'B.J. Thomas', 'song': 'Grownup Christmas List', 'genre': 'Holiday', 'alternative_artist': 'B', 'add_to_final_records': True}
+{'artist': 'B.J. Thomas', 'song': 'Silent Night', 'genre': 'Holiday', 'alternative_artist': 'B', 'add_to_final_records': True}
+{'artist': 'B.J. Thomas', 'song': 'On This Holy, Holy Night', 'genre': 'Holiday', 'alternative_artist': 'B', 'add_to_final_records': True}
+{'artist': 'B.J. Thomas', 'song': 'Have Yourself a Merry Christmas', 'genre': 'Holiday', 'alternative_artist': 'B', 'add_to_final_records': True}
+{'artist': 'B.J. Thomas', 'song': 'White Christmas', 'genre': 'Holiday', 'alternative_artist': 'B', 'add_to_final_records': True}
+{'artist': 'B.J. Thomas', 'song': 'The Christmas Song', 'genre': 'Holiday', 'alternative_artist': 'B', 'add_to_final_records': True}
+{'artist': 'B.J. Thomas', 'song': "I'll Be Home for Christmas", 'genre': 'Holiday', 'alternative_artist': 'B', 'add_to_final_records': True}
+{'artist': 'B.J. Thomas', 'song': 'Santa Claus Is Coming to Town', 'genre': 'Holiday', 'alternative_artist': 'B', 'add_to_final_records': True}
+{'artist': 'B.J. Thomas', 'song': 'Rudolph the Red-Nosed Reindeer', 'genre': 'Holiday', 'alternative_artist': 'B', 'add_to_final_records': True}
+{'artist': 'Chuck Brown & Eva Cassidy', 'song': 'The Christmas Song', 'genre': 'Holiday', 'alternative_artist': 'Eva Cassidy', 'add_to_final_records': True}
+{'artist': 'Chuck Brown & Eva Cassidy', 'song': 'That Spirit of Christmas', 'genre': 'Holiday', 'alternative_artist': 'Eva Cassidy', 'add_to_final_records': True}
+{'artist': 'Carolyn Dawn Johnson', 'song': "It'd Be Christmas (If You Were Here)", 'genre': 'Holiday', 'alternative_artist': 'Carolyn Dawn Johnson', 'add_to_final_records': True}
+{'artist': 'Kristen Lawrence', 'song': 'Cats In the Catacombs (Radio Edit)', 'genre': 'Holiday', 'alternative_artist': 'Cat Empire', 'add_to_final_records': True}
+{'artist': 'Kristen Lawrence', 'song': 'Cats In the Catacombs (Instrumental Version)', 'genre': 'Holiday', 'alternative_artist': 'Cat Empire', 'add_to_final_records': True}
+{'artist': 'Empire Games Wisconsin', 'song': 'Cat Fights and Organ Practice', 'genre': 'Holiday', 'alternative_artist': 'Cat Empire', 'add_to_final_records': True}
+{'artist': 'Weezer', 'song': 'O Holy Night', 'genre': 'Holiday', 'alternative_artist': 'Weezer', 'add_to_final_records': True}
+{'artist': 'Weezer', 'song': 'We Wish You a Merry Christmas', 'genre': 'Holiday', 'alternative_artist': 'Weezer', 'add_to_final_records': True}
+{'artist': 'Weezer', 'song': 'Hark! The Herald Angels Sing', 'genre': 'Holiday', 'alternative_artist': 'Weezer', 'add_to_final_records': True}
+{'artist': 'Weezer', 'song': 'O Come All Ye Faithful', 'genre': 'Holiday', 'alternative_artist': 'Weezer', 'add_to_final_records': True}
+{'artist': 'Weezer', 'song': 'Silent Night', 'genre': 'Holiday', 'alternative_artist': 'Weezer', 'add_to_final_records': True}
+{'artist': 'Weezer', 'song': 'The First Noel', 'genre': 'Holiday', 'alternative_artist': 'Weezer', 'add_to_final_records': True}
+{'artist': 'Nellie McKay', 'song': 'Christmas Waltz', 'genre': 'Holiday', 'alternative_artist': 'Nellie McKay', 'add_to_final_records': True}
+{'artist': 'The Cox Family', 'song': 'Go Tell It On the Mountain', 'genre': 'Holiday', 'alternative_artist': 'The Cox Family', 'add_to_final_records': True}
+{'artist': 'Kaitlyn Cox', 'song': 'Ave Maria', 'genre': 'Holiday', 'alternative_artist': 'The Cox Family', 'add_to_final_records': True}
+{'artist': 'Royal Crown Revue', 'song': "Baby It's Cold Outside (feat. Vicky Tafoya)", 'genre': 'Holiday', 'alternative_artist': 'Royal Crown Revue', 'add_to_final_records': True}
+{'artist': 'Alecia Nugent', 'song': 'Beautiful Star of Bethlehem', 'genre': 'Holiday', 'alternative_artist': 'Alecia Nugent', 'add_to_final_records': True}
+{'artist': 'Jim Brickman, Collin Raye & Susan Ashton', 'song': 'The Gift', 'genre': 'Holiday', 'alternative_artist': 'Jim Brickman', 'add_to_final_records': True}
+{'artist': 'Jim Brickman', 'song': 'Sending You a Little Christmas', 'genre': 'Holiday', 'alternative_artist': 'Jim Brickman', 'add_to_final_records': True}
+{'artist': 'Jim Brickman & Collin Raye', 'song': 'Peace (Where the Heart Is) [AC Version - Radio Mix]', 'genre': 'Holiday', 'alternative_artist': 'Jim Brickman', 'add_to_final_records': True}
+{'artist': 'Jim Brickman & Point of Grace', 'song': 'Hope Is Born Again (feat. Point of Grace)', 'genre': 'Holiday', 'alternative_artist': 'Jim Brickman', 'add_to_final_records': True}
+{'artist': 'Jim Brickman', 'song': 'O Holy Night', 'genre': 'Holiday', 'alternative_artist': 'Jim Brickman', 'add_to_final_records': True}
+{'artist': 'Jim Brickman', 'song': 'God Rest Ye Merry Gentlemen', 'genre': 'Holiday', 'alternative_artist': 'Jim Brickman', 'add_to_final_records': True}
+{'artist': 'Jim Brickman', 'song': 'We Three Kings', 'genre': 'Holiday', 'alternative_artist': 'Jim Brickman', 'add_to_final_records': True}
+{'artist': 'Jim Brickman', 'song': 'Joy to the World', 'genre': 'Holiday', 'alternative_artist': 'Jim Brickman', 'add_to_final_records': True}
+{'artist': 'Jim Brickman', 'song': 'Rejoice (O Come, O Come Emmanuel)', 'genre': 'Holiday', 'alternative_artist': 'Jim Brickman', 'add_to_final_records': True}
+{'artist': 'Jim Brickman', 'song': 'Away In a Manger', 'genre': 'Holiday', 'alternative_artist': 'Jim Brickman', 'add_to_final_records': True}
+{'artist': 'Jim Brickman', 'song': 'Do You Hear What I Hear?', 'genre': 'Holiday', 'alternative_artist': 'Jim Brickman', 'add_to_final_records': True}
+{'artist': 'Jim Brickman', 'song': 'Early Snowfall', 'genre': 'Holiday', 'alternative_artist': 'Jim Brickman', 'add_to_final_records': True}
+{'artist': 'Jim Brickman', 'song': 'The First Noel', 'genre': 'Holiday', 'alternative_artist': 'Jim Brickman', 'add_to_final_records': True}
+{'artist': 'Jim Brickman', 'song': 'Let It Snow! Let It Snow! Let It Snow!', 'genre': 'Holiday', 'alternative_artist': 'Jim Brickman', 'add_to_final_records': True}
+{'artist': 'Jim Brickman', 'song': 'Hark, The Herald Angels Sing!', 'genre': 'Holiday', 'alternative_artist': 'Jim Brickman', 'add_to_final_records': True}
+{'artist': 'Jim Brickman', 'song': 'What Child Is This?', 'genre': 'Holiday', 'alternative_artist': 'Jim Brickman', 'add_to_final_records': True}
+{'artist': 'Jim Brickman', 'song': 'Winter Peace', 'genre': 'Holiday', 'alternative_artist': 'Jim Brickman', 'add_to_final_records': True}
+{'artist': 'Jim Brickman', 'song': 'Little Town of Bethlehem', 'genre': 'Holiday', 'alternative_artist': 'Jim Brickman', 'add_to_final_records': True}
+{'artist': 'Jim Brickman', 'song': 'Blessings', 'genre': 'Holiday', 'alternative_artist': 'Jim Brickman', 'add_to_final_records': True}
+{'artist': 'Jim Brickman', 'song': 'Jingle Bells', 'genre': 'Holiday', 'alternative_artist': 'Jim Brickman', 'add_to_final_records': True}
+{'artist': 'Jim Brickman, Mark Wolfram & Marilyn Harris', 'song': 'December Morning', 'genre': 'Holiday', 'alternative_artist': 'Jim Brickman', 'add_to_final_records': True}
+{'artist': 'Jim Brickman', 'song': 'Angels', 'genre': 'Holiday', 'alternative_artist': 'Jim Brickman', 'add_to_final_records': True}
+{'artist': 'Jim Brickman', 'song': 'O Christmas Tree', 'genre': 'Holiday', 'alternative_artist': 'Jim Brickman', 'add_to_final_records': True}
+{'artist': 'Jim Brickman', 'song': 'Starbright', 'genre': 'Holiday', 'alternative_artist': 'Jim Brickman', 'add_to_final_records': True}
+{'artist': 'Jim Brickman', 'song': 'Dreams Come True', 'genre': 'Holiday', 'alternative_artist': 'Jim Brickman', 'add_to_final_records': True}
+{'artist': 'Jim Brickman', 'song': 'Fireside', 'genre': 'Holiday', 'alternative_artist': 'Jim Brickman', 'add_to_final_records': True}
+{'artist': 'Jim Brickman', 'song': 'It Came Upon a Midnight Clear', 'genre': 'Holiday', 'alternative_artist': 'Jim Brickman', 'add_to_final_records': True}
+{'artist': 'Mark Howard, Richard Bailey, Mike Compton, Rob Ickes & Dennis Crouch', 'song': 'Jolly Old Saint Nicholas', 'genre': 'Holiday', 'alternative_artist': 'Rob Bailey', 'add_to_final_records': True}
+{'artist': 'Mark Howard, Richard Bailey, Mike Compton, Rob Ickes & Dennis Crouch', 'song': 'Jingle Bells', 'genre': 'Holiday', 'alternative_artist': 'Rob Bailey', 'add_to_final_records': True}
+{'artist': 'Mark Howard, Richard Bailey, Mike Compton, Rob Ickes & Dennis Crouch', 'song': 'Silent Night', 'genre': 'Holiday', 'alternative_artist': 'Rob Bailey', 'add_to_final_records': True}
+{'artist': 'Mark Howard, Richard Bailey, Mike Compton, Rob Ickes & Dennis Crouch', 'song': "Christmas Time's a Coming", 'genre': 'Holiday', 'alternative_artist': 'Rob Bailey', 'add_to_final_records': True}
+{'artist': 'Mark Howard, Richard Bailey, Mike Compton, Rob Ickes & Dennis Crouch', 'song': 'In the Bleak Midwinter', 'genre': 'Holiday', 'alternative_artist': 'Rob Bailey', 'add_to_final_records': True}
+{'artist': 'Mark Howard, Richard Bailey, Mike Compton, Rob Ickes & Dennis Crouch', 'song': 'Deck the Halls', 'genre': 'Holiday', 'alternative_artist': 'Rob Bailey', 'add_to_final_records': True}
+{'artist': 'Mark Howard, Richard Bailey, Mike Compton, Rob Ickes & Dennis Crouch', 'song': 'Carol of the Bells', 'genre': 'Holiday', 'alternative_artist': 'Rob Bailey', 'add_to_final_records': True}
+{'artist': 'Mark Howard, Richard Bailey, Mike Compton, Rob Ickes & Dennis Crouch', 'song': 'The First Noel', 'genre': 'Holiday', 'alternative_artist': 'Rob Bailey', 'add_to_final_records': True}
+{'artist': 'Mark Howard, Richard Bailey, Mike Compton, Rob Ickes & Dennis Crouch', 'song': 'Away In a Manger', 'genre': 'Holiday', 'alternative_artist': 'Rob Bailey', 'add_to_final_records': True}
+{'artist': 'Mark Howard, Richard Bailey, Mike Compton, Rob Ickes & Dennis Crouch', 'song': 'Good King Wenceslas', 'genre': 'Holiday', 'alternative_artist': 'Rob Bailey', 'add_to_final_records': True}
+{'artist': 'Mark Howard, Richard Bailey, Mike Compton, Rob Ickes & Dennis Crouch', 'song': 'Joy to the World', 'genre': 'Holiday', 'alternative_artist': 'Rob Bailey', 'add_to_final_records': True}
+{'artist': 'Mark Howard, Richard Bailey, Mike Compton, Rob Ickes & Dennis Crouch', 'song': 'O Little Town of Bethlehem', 'genre': 'Holiday', 'alternative_artist': 'Rob Bailey', 'add_to_final_records': True}
+{'artist': 'Mark Howard, Richard Bailey, Mike Compton, Rob Ickes & Dennis Crouch', 'song': 'O Christmas Tree', 'genre': 'Holiday', 'alternative_artist': 'Rob Bailey', 'add_to_final_records': True}
+{'artist': 'Don Edwards & Norman Blake', 'song': 'Every Day Is Christmas In the West', 'genre': 'Holiday', 'alternative_artist': 'Don Edwards', 'add_to_final_records': True}
+{'artist': 'Rick Springfield', 'song': 'Christmas With You', 'genre': 'Holiday', 'alternative_artist': 'Rick Springfield', 'add_to_final_records': True}
+{'artist': 'Rick Springfield', 'song': 'The First Noel', 'genre': 'Holiday', 'alternative_artist': 'Rick Springfield', 'add_to_final_records': True}
+{'artist': 'Rick Springfield', 'song': 'Do You Hear What I Hear?', 'genre': 'Holiday', 'alternative_artist': 'Rick Springfield', 'add_to_final_records': True}
+{'artist': 'Rick Springfield', 'song': 'What Child Is This?', 'genre': 'Holiday', 'alternative_artist': 'Rick Springfield', 'add_to_final_records': True}
+{'artist': 'Rick Springfield', 'song': "I'll Be Home for Christmas", 'genre': 'Holiday', 'alternative_artist': 'Rick Springfield', 'add_to_final_records': True}
+{'artist': 'Rick Springfield', 'song': 'O Come All Ye Faithful', 'genre': 'Holiday', 'alternative_artist': 'Rick Springfield', 'add_to_final_records': True}
+{'artist': 'Rick Springfield', 'song': 'Carol of the Bells', 'genre': 'Holiday', 'alternative_artist': 'Rick Springfield', 'add_to_final_records': True}
+{'artist': 'Rick Springfield', 'song': 'Hark the Herald Angels Sing', 'genre': 'Holiday', 'alternative_artist': 'Rick Springfield', 'add_to_final_records': True}
+{'artist': 'Jody Medford', 'song': "You're a Mean One Mr. Grinch", 'genre': 'Holiday', 'alternative_artist': 'Jody Medford', 'add_to_final_records': True}
+{'artist': 'Bob Copeland', 'song': 'Frost the Snowman', 'genre': 'Holiday', 'alternative_artist': 'Kid Frost', 'add_to_final_records': True}
+{'artist': 'John Denver & The Muppets', 'song': 'Have Yourself a Merry Little Christmas', 'genre': 'Holiday', 'alternative_artist': 'John Littlejohn', 'add_to_final_records': True}
+{'artist': 'John Denver & The Muppets', 'song': 'Little Saint Nick', 'genre': 'Holiday', 'alternative_artist': 'John Littlejohn', 'add_to_final_records': True}
+{'artist': 'John Denver', 'song': "Mary's Little Boy Child", 'genre': 'Holiday', 'alternative_artist': 'John Littlejohn', 'add_to_final_records': True}
+{'artist': 'Johnny Mathis', 'song': 'Sending You a Little Christmas (with Jim Brickman)', 'genre': 'Holiday', 'alternative_artist': 'John Littlejohn', 'add_to_final_records': True}
+{'artist': 'John Denver', 'song': 'Little Drummer Boy', 'genre': 'Holiday', 'alternative_artist': 'John Littlejohn', 'add_to_final_records': True}
+{'artist': 'Johnny Mathis', 'song': 'The Christmas Song (Chestnuts Roasting on an Open Fire) [with Billy Joel]', 'genre': 'Holiday', 'alternative_artist': 'John Littlejohn', 'add_to_final_records': True}
+{'artist': 'James Taylor', 'song': 'Have Yourself a Merry Little Christmas', 'genre': 'Holiday', 'alternative_artist': 'James Taylor', 'add_to_final_records': True}
+{'artist': 'James Taylor', 'song': 'Auld Lang Syne', 'genre': 'Holiday', 'alternative_artist': 'James Taylor', 'add_to_final_records': True}
+{'artist': 'James Taylor', 'song': "Baby It's Cold Outside (feat. Natalie Cole)", 'genre': 'Holiday', 'alternative_artist': 'James Taylor', 'add_to_final_records': True}
+{'artist': 'James Taylor', 'song': 'Santa Claus Is Coming To Town', 'genre': 'Holiday', 'alternative_artist': 'James Taylor', 'add_to_final_records': True}
+{'artist': 'James Taylor, Yo-Yo Ma, Arnold McCuller, David Lasley, Kate Markowitz, Andrea Zonn & Caroline Taylor', 'song': 'Here Comes the Sun', 'genre': 'Holiday', 'alternative_artist': 'James Taylor', 'add_to_final_records': True}
+{'artist': 'James Taylor', 'song': 'River', 'genre': 'Holiday', 'alternative_artist': 'James Taylor', 'add_to_final_records': True}
+{'artist': 'James Taylor', 'song': 'Winter Wonderland (feat. Chris Botti)', 'genre': 'Holiday', 'alternative_artist': 'James Taylor', 'add_to_final_records': True}
+{'artist': 'James Taylor', 'song': 'The Christmas Song (Chestnuts Roasting On an Open Fire) [feat. Toots Thielemans]', 'genre': 'Holiday', 'alternative_artist': 'James Taylor', 'add_to_final_records': True}
+{'artist': 'James Taylor', 'song': 'Go Tell It On the Mountain', 'genre': 'Holiday', 'alternative_artist': 'James Taylor', 'add_to_final_records': True}
+{'artist': 'James Taylor', 'song': 'In the Bleak Midwinter', 'genre': 'Holiday', 'alternative_artist': 'James Taylor', 'add_to_final_records': True}
+{'artist': 'James Taylor', 'song': 'Jingle Bells', 'genre': 'Holiday', 'alternative_artist': 'James Taylor', 'add_to_final_records': True}
+{'artist': 'James Taylor', 'song': 'Some Children See Him', 'genre': 'Holiday', 'alternative_artist': 'James Taylor', 'add_to_final_records': True}
+{'artist': 'James Taylor', 'song': 'Mon Beau Sapin', 'genre': 'Holiday', 'alternative_artist': 'James Taylor', 'add_to_final_records': True}
+{'artist': 'James Taylor', 'song': 'Who Comes This Night', 'genre': 'Holiday', 'alternative_artist': 'James Taylor', 'add_to_final_records': True}
+{'artist': 'John Travolta, Olivia Newton-John & James Taylor', 'song': 'Deck the Halls', 'genre': 'Holiday', 'alternative_artist': 'James Taylor', 'add_to_final_records': True}
+{'artist': 'Jordan Pruitt', 'song': 'Celebrate Love', 'genre': 'Holiday', 'alternative_artist': 'Jordan Pruitt', 'add_to_final_records': True}
+{'artist': 'Jordan Pruitt', 'song': 'This Christmas', 'genre': 'Holiday', 'alternative_artist': 'Jordan Pruitt', 'add_to_final_records': True}
+{'artist': 'Eddie Rabbitt', 'song': "Rockin' Around the Christmas Tree", 'genre': 'Holiday', 'alternative_artist': 'Eddie Rabbitt', 'add_to_final_records': True}
+{'artist': 'Gary Puckett', 'song': 'O Holy Night', 'genre': 'Holiday', 'alternative_artist': 'Gary Puckett', 'add_to_final_records': True}
+{'artist': 'Gary Puckett', 'song': 'Silent Night', 'genre': 'Holiday', 'alternative_artist': 'Gary Puckett', 'add_to_final_records': True}
+{'artist': 'Gary Puckett', 'song': 'Medley: God Rest Ye Merry, Gentlemen/What Child Is This?/Angels We Have Heard On', 'genre': 'Holiday', 'alternative_artist': 'Gary Puckett', 'add_to_final_records': True}
+{'artist': 'Gary Puckett', 'song': "O'Come All Ye Faithful", 'genre': 'Holiday', 'alternative_artist': 'Gary Puckett', 'add_to_final_records': True}
+{'artist': 'Gary Puckett', 'song': 'The Little Drummer Boy', 'genre': 'Holiday', 'alternative_artist': 'Gary Puckett', 'add_to_final_records': True}
+{'artist': 'Gary Puckett', 'song': 'Let It Snow! Let It Snow! Let It Snow!', 'genre': 'Holiday', 'alternative_artist': 'Gary Puckett', 'add_to_final_records': True}
+{'artist': 'Gary Puckett', 'song': 'The Christmas Song (Chestnuts Roasting On an Open Fire)', 'genre': 'Holiday', 'alternative_artist': 'Gary Puckett', 'add_to_final_records': True}
+{'artist': 'Gary Puckett', 'song': 'Have Yourself a Merry Little Christmas', 'genre': 'Holiday', 'alternative_artist': 'Gary Puckett', 'add_to_final_records': True}
+{'artist': 'Gary Puckett', 'song': 'Silver Bells', 'genre': 'Holiday', 'alternative_artist': 'Gary Puckett', 'add_to_final_records': True}
+{'artist': 'Gary Puckett', 'song': 'Medley: Away In a Manger/The First Noel', 'genre': 'Holiday', 'alternative_artist': 'Gary Puckett', 'add_to_final_records': True}
+{'artist': 'Gary Puckett', 'song': 'White Christmas', 'genre': 'Holiday', 'alternative_artist': 'Gary Puckett', 'add_to_final_records': True}
+{'artist': 'Cindy Morgan, Bebo Norman & Danielle Young', 'song': 'Messiah Has Come', 'genre': 'Holiday', 'alternative_artist': 'Cindy Morgan', 'add_to_final_records': True}
+{'artist': 'Cindy Morgan & Ronnie Freeman', 'song': 'Ring the Bells', 'genre': 'Holiday', 'alternative_artist': 'Cindy Morgan', 'add_to_final_records': True}
+{'artist': 'Andrew Greer & Friends', 'song': 'Go Tell It on the Mountain (Live) [feat. Cindy Morgan]', 'genre': 'Holiday', 'alternative_artist': 'Cindy Morgan', 'add_to_final_records': True}
+{'artist': 'Andrew Greer & Friends', 'song': 'Go Tell It on the Mountain (Reprise) [Live] [feat. Point of Grace, Cindy Morgan, Jaci Velasquez & Nic Gonzales]', 'genre': 'Holiday', 'alternative_artist': 'Cindy Morgan', 'add_to_final_records': True}
+{'artist': 'Andrew Greer & Friends', 'song': 'I Wander as I Wonder (Live) [feat. Cindy Morgan]', 'genre': 'Holiday', 'alternative_artist': 'Cindy Morgan', 'add_to_final_records': True}
+{'artist': 'Andrew Greer & Friends', 'song': 'The First Noel (Live) [feat. Cindy Morgan & Point of Grace]', 'genre': 'Holiday', 'alternative_artist': 'Cindy Morgan', 'add_to_final_records': True}
+{'artist': 'Robert White & Tim Laycock', 'song': "Shepherd's Arise", 'genre': 'Holiday', 'alternative_artist': 'Sharon White', 'add_to_final_records': True}
+{'artist': 'Jump5', 'song': 'A Strange Way to Save the World', 'genre': 'Holiday', 'alternative_artist': 'Jump5', 'add_to_final_records': True}
+{'artist': 'Jump5', 'song': 'Joy to the World', 'genre': 'Holiday', 'alternative_artist': 'Jump5', 'add_to_final_records': True}
+{'artist': 'Chris Martin', 'song': 'What Child Is This', 'genre': 'Holiday', 'alternative_artist': 'Chris Martin', 'add_to_final_records': True}
+{'artist': 'Chris Martin', 'song': 'Angel Time', 'genre': 'Holiday', 'alternative_artist': 'Chris Martin', 'add_to_final_records': True}
+{'artist': 'The London Fox Orchestra & David Holt', 'song': 'In the Land of Sweets – Dance of the Sugar Plum Fairy', 'genre': 'Holiday', 'alternative_artist': 'David Holt', 'add_to_final_records': True}
+{'artist': 'The London Fox Orchestra & David Holt', 'song': 'Journey In the Snow (The Dance of the Flutes)', 'genre': 'Holiday', 'alternative_artist': 'David Holt', 'add_to_final_records': True}
+{'artist': 'The London Fox Orchestra & David Holt', 'song': 'Introduction - Overture Miniature', 'genre': 'Holiday', 'alternative_artist': 'David Holt', 'add_to_final_records': True}
+{'artist': 'The London Fox Orchestra & David Holt', 'song': 'The Nutcracker Prince, Pt. 2 – The Mouse King (Story)', 'genre': 'Holiday', 'alternative_artist': 'David Holt', 'add_to_final_records': True}
+{'artist': 'The London Fox Orchestra & David Holt', 'song': 'The Nutcracker Prince, Pt. 1 – The Christmas Eve Party (Story)', 'genre': 'Holiday', 'alternative_artist': 'David Holt', 'add_to_final_records': True}
+{'artist': 'The London Fox Orchestra & David Holt', 'song': 'In the Land of Sweets - Chinese Dance', 'genre': 'Holiday', 'alternative_artist': 'David Holt', 'add_to_final_records': True}
+{'artist': 'The London Fox Orchestra & David Holt', 'song': 'The Toys Awake, the Soldiers March and Bravely Fight (March)', 'genre': 'Holiday', 'alternative_artist': 'David Holt', 'add_to_final_records': True}
+{'artist': 'The London Fox Orchestra & David Holt', 'song': 'The Wounded Nutcracker and the Handsome Prince (Excerpts from "Romeo & Juliet")', 'genre': 'Holiday', 'alternative_artist': 'David Holt', 'add_to_final_records': True}
+{'artist': 'David Holt', 'song': 'The Nutcracker Prince, Pt. 3 – The Land of Sweets (Story)', 'genre': 'Holiday', 'alternative_artist': 'David Holt', 'add_to_final_records': True}
+{'artist': 'Josh Hoge', 'song': 'Holiday Inn', 'genre': 'Holiday', 'alternative_artist': 'Josh Hoge', 'add_to_final_records': True}
+{'artist': 'Josh Hoge', 'song': 'Silent Night (Acapella Outro)', 'genre': 'Holiday', 'alternative_artist': 'Josh Hoge', 'add_to_final_records': True}
+{'artist': 'Josh Hoge', 'song': 'Snowed In', 'genre': 'Holiday', 'alternative_artist': 'Josh Hoge', 'add_to_final_records': True}
+{'artist': 'Josh Hoge', 'song': 'Curious', 'genre': 'Holiday', 'alternative_artist': 'Josh Hoge', 'add_to_final_records': True}
+{'artist': 'Josh Hoge', 'song': 'Falling', 'genre': 'Holiday', 'alternative_artist': 'Josh Hoge', 'add_to_final_records': True}
+{'artist': 'Josh Hoge', 'song': 'O Holy Night', 'genre': 'Holiday', 'alternative_artist': 'Josh Hoge', 'add_to_final_records': True}
+{'artist': 'Josh Hoge', 'song': 'I Would Do Anything', 'genre': 'Holiday', 'alternative_artist': 'Josh Hoge', 'add_to_final_records': True}
+{'artist': 'Josh Hoge', 'song': 'It Came Upon a Midnight Clear / The First Noel', 'genre': 'Holiday', 'alternative_artist': 'Josh Hoge', 'add_to_final_records': True}
+{'artist': 'Josh Hoge', 'song': 'When I Miss You Most', 'genre': 'Holiday', 'alternative_artist': 'Josh Hoge', 'add_to_final_records': True}
+{'artist': 'Josh Hoge', 'song': 'The Christmas Song', 'genre': 'Holiday', 'alternative_artist': 'Josh Hoge', 'add_to_final_records': True}
