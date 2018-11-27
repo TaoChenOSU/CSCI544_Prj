@@ -163,9 +163,8 @@ if __name__ == '__main__':
         os.mkdir(path)
 
     valid_genres = [
-        "Holiday",
-        "Pop",
+        "Country",
     ]
     # please set a reasonable start and end idx here
     get_lyrics_of_songs(
-        path, records, valid_genres, start_fetch_idx=1500, end_fetch_idx=None)
+        path, records, valid_genres, start_fetch_idx=11500, end_fetch_idx=20000)
