@@ -9,7 +9,7 @@ and the directory where you want to store those json file aftre trim.
 
 """
 
-def trimJson(input_directory, file_name, output_directory):
+def trim_json(input_directory, file_name, output_directory):
     """
     remove pattern []
     """
@@ -22,6 +22,7 @@ def trimJson(input_directory, file_name, output_directory):
     
     for song in data_dict["corpus"]:  # replace '[XXX 1]' with ''
             song["data"] = re.sub(r'\[.*\]','' , song["data"]) 
+            #song["data"] = re.sub(r'\n','' , song["data"]) 
 
     # write to a new file in output_directory
     if not os.path.exists(out_filepath): # file not exists, create and write mode
@@ -43,7 +44,7 @@ if __name__ == "__main__":
     try:
         files = os.listdir(INPUT_DIRECTORY)
         for file in files:
-            trimJson(INPUT_DIRECTORY, file, OUTPUT_DIRECTORY)
+            trim_json(INPUT_DIRECTORY, file, OUTPUT_DIRECTORY)
             
     except FileNotFoundError:
         print("INPUT_DIRECTORY does not exist")
