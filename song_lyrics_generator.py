@@ -108,19 +108,6 @@ def get_lyrics_of_songs(path,
                             })
                             get_lyrics = True
 
-            # add this at other time
-            # json_dict["authors"] = dict({
-            #     "author1": "Tao Chen",
-            #     "author2": "Yang Mu",
-            #     "author3": "Su Chang",
-            #     "author4": "Yang Zhe"
-            # })
-            # json_dict["emails"] = dict({
-            #     "email1": "taochen@usc.edu",
-            #     "email2": "yangmu@usc.edu",
-            #     "email3": "csu272@usc.edu",
-            #     "email4": "zheyang@usc.edu"
-            # })
             json_dict["number of corpus"] = len(json_dict["corpus"])
 
             json.dump(json_dict, output, indent=4)
@@ -167,4 +154,8 @@ if __name__ == '__main__':
     ]
     # please set a reasonable start and end idx here
     get_lyrics_of_songs(
-        path, records, valid_genres, start_fetch_idx=11500, end_fetch_idx=20000)
+        path,
+        records,
+        valid_genres,
+        start_fetch_idx=11500,
+        end_fetch_idx=20000)

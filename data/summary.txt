@@ -12,12 +12,11 @@ genre: Holiday has 3357 songs
 genre: Hip-Hop has 2911 songs
 genre: Children's Music has 1500 songs
 
-Choose 1500 songs from each genre, we get:
-Finished genre Metal, total 1061 lyrics
-Finished genre Pop, total 546 lyrics
-Finished genre Country, total 529 lyrics
-Finished genre Rock, total 506 lyrics
-Finished genre Hip-Hop, total 417 lyrics
-Finished genre Holiday, total 411 lyrics
-Finished genre Blues, total 242 lyrics
-Finished genre Children’s Music, total 167 lyrics
+Finished genre Children’s Music, total 390 lyrics
+Finished genre Blues, total 509 lyrics
+Finished genre Hip-Hop, total 516 lyrics
+Finished genre Holiday, total 679 lyrics
+Finished genre Metal, total 2509 lyrics
+Finished genre Country, total 4258 lyrics
+Finished genre Pop, total 7940 lyrics
+Finished genre Rock, total 13848 lyrics
