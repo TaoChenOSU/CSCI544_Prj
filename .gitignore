@@ -2,3 +2,6 @@ Pipfile
 Pipfile.lock
 .DS_Store
 data/api/*
+testNB_lyrics
+testNB_labels
+
