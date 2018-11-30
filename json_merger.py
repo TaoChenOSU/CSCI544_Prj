@@ -11,12 +11,14 @@ class JsonMerger:
         lyrics = self.load_json_from_file(file1)
         lyrics2 = self.load_json_from_file(file2)
         lyrics["corpus"].extend(lyrics2["corpus"])
-        lyrics["number of corpus"] += lyrics2["number of corpus"]
-        print("Finished genre {}, total {} lyrics".format(
-            lyrics["corpus"][0]["label"], lyrics["number of corpus"]))
 
         if dedup:
             lyrics["corpus"] = self.dedup_lyrics(lyrics["corpus"])
+
+        lyrics["number of corpus"] = len(lyrics["corpus"])
+
+        print("Finished genre {}, total {} lyrics".format(
+            lyrics["corpus"][0]["label"], lyrics["number of corpus"]))
 
         new_file = file1 if new_file is None else new_file
         self.save_json_to_file(new_file, lyrics)
@@ -60,4 +62,5 @@ class JsonMerger:
 
 if __name__ == "__main__":
     json_merger = JsonMerger()
-    json_merger.merge_two_folder("./lyrics1", "./lyrics2", "./lyrics3")
+    json_merger.merge_two_file("./data/lyrics/Holiday.json", "holiday.json",
+                               "./data/lyrics/Holiday.json")
