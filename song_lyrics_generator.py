@@ -145,12 +145,12 @@ def get_possible_urls(record):
 if __name__ == '__main__':
     records_dir = "./data/genre/"
     records = read_records_json(records_dir)
-    path = "./data/lyrics_test/"  # change the name of this!!!!!
+    path = "./data/lyrics_Pop_25000_30000/"  # change the name of this!!!!!
     if not os.path.exists(path):
         os.mkdir(path)
 
     valid_genres = [
-        "Country",
+        "Pop",
     ]
     # please set a reasonable start and end idx here
     get_lyrics_of_songs(
