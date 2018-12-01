@@ -131,19 +131,13 @@ def create_conv_model(vocabulary_size,
     return model_conv
 
 
-if __name__ == "__main__":
+def lstm_clf(lyrics_raw, labels_int):
     PRE_PROCESS = True
     TO_SEQ = True
     TO_MATRIX_TFIDF = False
     PRE_TRAIN_EBD = True
-    # load data from disk
-    with open("testNB_lyrics", "rb") as lyrics_file, open(
-            "testNB_labels", "rb") as labels_file:
-        lyrics_raw = pickle.load(lyrics_file)
-        labels_int = pickle.load(labels_file)
-        # print(lyrics[0])
-    if PRE_PROCESS:
 
+    if PRE_PROCESS:
         lyrics = list(map(clean_text, lyrics_raw))
         # print (lyrics[0])
     # lyrics_shuffle, labels_shuffle = shuffle(lyrics, labels, random_state=0)
@@ -168,7 +162,7 @@ if __name__ == "__main__":
 
     if PRE_TRAIN_EBD:
         ########## TODO: load pre-trained glove embedding ########
-        embeddings_index = load_glove_vectors("./glove/glove.6B.300d.txt")
+        embeddings_index = load_glove_vectors("./glove.6B/glove.6B.300d.txt")
         embedding_matrix = np.zeros((vocabulary_size, 300))
         for word, index in tokenizer.word_index.items():
             if index > vocabulary_size - 1:
@@ -207,3 +201,15 @@ if __name__ == "__main__":
             np.argmax(labels_test, axis=1), pred, average="weighted")[2]))
     scores = model_conv.evaluate(lyrics_test, labels_test, verbose=0)
     print("Accuracy: %.2f%%" % (scores[1] * 100))
+
+
+
+
+if __name__ == "__main__":
+    # load data from disk
+    with open("test_lyrics_words", "rb") as lyrics_file, open(
+            "test_labels", "rb") as labels_file:
+        lyrics_raw = pickle.load(lyrics_file)
+        labels_int = pickle.load(labels_file)
+        # print(lyrics[0])
+    lstm_clf(lyrics_raw, labels_int)
