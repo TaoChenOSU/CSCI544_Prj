@@ -26,6 +26,7 @@ import pickle
 from sklearn.utils import shuffle
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import precision_recall_fscore_support
+from sklearn.metrics import confusion_matrix
 from sklearn.manifold import TSNE
 
 
@@ -148,7 +149,7 @@ def lstm_clf(lyrics_raw, labels_int):
         lyrics_maxlen = 300  # keep 300 words in each lyrics. truncating or padding zeros
         tokenizer = Tokenizer(num_words=vocabulary_size)
         tokenizer.fit_on_texts(lyrics)
-        # print ("num of unique words:", len(tokenizer.word_counts))
+        print ("num of unique words:", len(tokenizer.word_counts))
         # words in text are converted to int values, can check with tokenizer.word_index
         sequences = tokenizer.texts_to_sequences(lyrics)
         data = pad_sequences(sequences, maxlen=lyrics_maxlen)
@@ -162,7 +163,7 @@ def lstm_clf(lyrics_raw, labels_int):
 
     if PRE_TRAIN_EBD:
         ########## TODO: load pre-trained glove embedding ########
-        embeddings_index = load_glove_vectors("./glove.6B/glove.6B.300d.txt")
+        embeddings_index = load_glove_vectors("./glove/glove.42B.300d.txt")
         embedding_matrix = np.zeros((vocabulary_size, 300))
         for word, index in tokenizer.word_index.items():
             if index > vocabulary_size - 1:
@@ -179,7 +180,7 @@ def lstm_clf(lyrics_raw, labels_int):
     lyrics_train, lyrics_test, labels_train, labels_test = train_test_split(
         data,
         labels,
-        test_size=0.1,
+        test_size=0.2,
         random_state=7,
         shuffle=True,
         stratify=labels)
@@ -189,7 +190,7 @@ def lstm_clf(lyrics_raw, labels_int):
         lyrics_maxlen,
         use_glove=True,
         embedding_matrix=embedding_matrix)
-    model_conv.fit(lyrics_train, labels_train, validation_split=0.1, epochs=6)
+    model_conv.fit(lyrics_train, labels_train, validation_split=0.1, epochs=10)
 
     pred = model_conv.predict_classes(lyrics_test)
     print("F1 micro:{}, F1 macro:{}, F1 weighted:{}".format(
@@ -201,7 +202,9 @@ def lstm_clf(lyrics_raw, labels_int):
             np.argmax(labels_test, axis=1), pred, average="weighted")[2]))
     scores = model_conv.evaluate(lyrics_test, labels_test, verbose=0)
     print("Accuracy: %.2f%%" % (scores[1] * 100))
-
+    cf = confusion_matrix(np.argmax(labels_test, axis=1), pred)
+    print ("Confusion Matrix:", cf)
+    print (np.sum(cf))
 
 
 
