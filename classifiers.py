@@ -11,7 +11,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.linear_model import SGDClassifier
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.model_selection import GridSearchCV
-import LSTM
+# import LSTM
 
 def load_word2vec(filename):
     # Returns a dict containing a {word: numpy array for a dense word vector} mapping.
@@ -193,8 +193,16 @@ def svm_clf(lyrics_train, labels_train, lyrics_test, labels_test):
             labels_test, predicted, average="weighted")[2]))
 
 
-def knn_clf(lyrics_train, labels_train, lyrics_test, labels_test):
-    neigh = KNeighborsClassifier(n_neighbors=100)
+def knn_clf(lyrics_train, labels_train, lyrics_test, labels_test, embedding=True):
+
+    if not embedding:
+        neigh = Pipeline([
+            ('vect', CountVectorizer()),
+            ('tfidf', TfidfTransformer()),
+            ('knn', KNeighborsClassifier(n_neighbors=100))
+        ])
+    else:
+        neigh = KNeighborsClassifier(n_neighbors=100)
     neigh.fit(lyrics_train, labels_train)
 
     predicted = neigh.predict(lyrics_train)
@@ -203,8 +211,15 @@ def knn_clf(lyrics_train, labels_train, lyrics_test, labels_test):
     print ("KNN, ACC on test:", np.mean(predicted == labels_test))
 
     # perform grid search for KNN
-    parameters = {'n_neighbors': [10, 25, 50, 100, 200, 300], 
+    if not embedding:
+        parameters = {'knn__n_neighbors': [10, 25, 50, 100, 200, 300], 
+                  'knn__weights': ('uniform', 'distance'),
+                  'vect__ngram_range': [(1, 1), (1, 2)],
+                  'tfidf__use_idf': (True, False)}
+    else:
+        parameters = {'n_neighbors': [10, 25, 50, 100, 200, 300], 
                   'weights': ('uniform', 'distance')}
+
     gs_clf = GridSearchCV(neigh, parameters, cv=10, n_jobs=-1, scoring="accuracy")
     gs_clf = gs_clf.fit(lyrics_train, labels_train)
 
@@ -228,10 +243,10 @@ def knn_clf(lyrics_train, labels_train, lyrics_test, labels_test):
 
 if __name__ == "__main__":
     ## load data for Naive Bayes, SVM, LSTM
-    with open("test_lyrics_words", "wb") as lyrics_words_file, \
-           open("test_lyrics_embeddings", "wb") as lyrics_embeddings_file, \
-           open("test_labels", "wb") as labels_file:
-        save_lyrics_label(lyrics_words_file, lyrics_embeddings_file, labels_file)
+    # with open("test_lyrics_words", "wb") as lyrics_words_file, \
+    #        open("test_lyrics_embeddings", "wb") as lyrics_embeddings_file, \
+    #        open("test_labels", "wb") as labels_file:
+    #     save_lyrics_label(lyrics_words_file, lyrics_embeddings_file, labels_file)
     ## load lyrics and labels lists from disk
     with open("test_lyrics_words", "rb") as lyrics_words_file, \
            open("test_lyrics_embeddings", "rb") as lyrics_embeddings_file, \
@@ -260,10 +275,13 @@ if __name__ == "__main__":
     ## SVM classifier
     print("\nSVM=======================================")
     svm_clf(lyrics_words_train, labels_train, lyrics_words_test, labels_test)
-
+   
     ## KNN classifier
-    print("\nKNN=======================================")
+    print("\nKNN using word embedding==================")
     knn_clf(lyrics_embeddings_train, labels_train, lyrics_embeddings_test, labels_test)
+
+    print("\nKNN using words===========================")
+    knn_clf(lyrics_words_train, labels_train, lyrics_words_test, labels_test, embedding=False)
     
     ## LSTM classifier
     # print("\nLSTM======================================")
